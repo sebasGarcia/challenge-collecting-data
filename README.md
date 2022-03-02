@@ -18,25 +18,23 @@ Locality Type of property (House/apartment) Subtype of property (Bungalow, Chale
 
 This data set should contain at least 10.000 input for all Belgium.
 
-I think, it will be good idea to add a link of "ImmoEliza" and "immoweb" .
+We decided to scrape "Immoweb": https://www.immoweb.be/en .
 
 
 ## Part one
-The script "url file" search for links in a list page showing all of their houses. The goal here was to scrape into that dynamic list and take each house's link reference. 
-
-Wouter can be explain more. 
+In the map url files the script Wouter_scrape searches for links in a list page showing all of their houses. The goal here was to scrape into that list and take each house's link reference. For each type of house a file was created of all url links in the map 'url files'. Some threading was included to speed up the process though very minimally.
  
 ## Part two
 We have to create a data scraping code which should work on each url/page of advertisement.
-It was not easy to work on immoweb with BeautifulSoup because of the nature of website. 
+It was not easy to work on immoweb with BeautifulSoup because of the dynamic nature of website. A  number of traits needed selenium to be obtained but we decided against due to time pressure.
 
-Sebastián can be explain more. 
+For each of the types of properties a property_type file was made in the map 'property_files'. Combined this gives more than 10000 houses.
+
+
 
 ## Used libraries:
-I think , it will be good idea to write Used libraries 's list.
+the libraries used are
 
-import requests
-
-import pandas as pd
-
-from bs4 import BeautifulSoup
+- requests
+- pandas
+- from bs4: BeautifulSoup
