@@ -12,7 +12,7 @@ Locality Type of property (House/apartment) Subtype of property (Bungalow, Chale
 This data set should contain at least 10.000 input for all Belgium.
 
 ## Part one
-The script "immoscrapGood.py" search for links in a list page showing all of their houses. The goal here was to scrape into that dynamic list and take each house's link reference. 
+The script "url file" search for links in a list page showing all of their houses. The goal here was to scrape into that dynamic list and take each house's link reference. 
  
  
 ## Part two
