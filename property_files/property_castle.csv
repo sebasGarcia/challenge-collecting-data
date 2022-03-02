@@ -1,0 +1,52 @@
+,Locality,Type of property,Subtype of property,Price,Type of sale,Number of rooms,Area,Fully equipped kitchen,Furnished,Open fire,Terrace,Garden,Surface of the land,Surface area of the plot of land,Number of facades,Swimming pool,State of the building
+0,,House,Castle,1275000,No,11,None,1,0,None,1,None,None,None,4,None,To renovate
+1,Buvrinnes/Merbes Sainte Marie,House,Castle,1900000,No,8,None,1,,None,1,None,None,None,4,None,Good
+2,,House,Castle,1115000,No,4,None,0,0,None,,None,None,None,4,None,Good
+3,,House,Castle,1450000,No,12,None,0,0,None,,None,None,None,4,None,
+4,,House,Castle,5500000,No,14,None,0,0,None,,None,None,None,4,None,As new
+5,,House,Castle,9500000,No,12,None,1,0,None,1,None,None,None,4,None,As new
+6,,House,Castle,2950000,No,30,None,1,0,None,,None,None,None,4,None,
+7,,House,Castle,1499000,No,7,None,0,0,None,,None,None,None,4,None,
+8,,House,Castle,5500000,No,14,None,0,0,None,1,None,None,None,4,None,Good
+9,,House,Castle,539000,No,4,None,0,,None,,None,None,None,4,None,To renovate
+10,,House,Castle,3950000,No,14,None,0,0,None,1,None,None,None,4,None,As new
+11,,House,Castle,3950000,No,14,None,0,0,None,1,None,None,None,4,None,As new
+12,,House,Castle,3950000,No,14,None,0,0,None,1,None,None,None,4,None,As new
+13,,House,Castle,Starting price : 1500000,No,5,None,1,,None,,None,None,None,4,None,
+14,,House,Castle,9500000,No,7,None,0,,None,,None,None,None,4,None,Good
+15,,House,Castle,2300000,No,8,None,1,0,None,,None,None,None,4,None,Good
+16,,House,Castle,2300000,No,8,None,1,0,None,,None,None,None,4,None,Good
+17,,House,Castle,2890000,No,12,None,0,0,None,,None,None,None,4,None,
+18,,House,Castle,4950000,No,5,None,1,0,None,1,None,None,None,4,None,
+19,,House,Castle,2480000,No,10,None,1,,None,1,None,None,None,4,None,To be done up
+20,,House,Castle,4950000,No,5,None,1,0,None,,None,None,None,,None,
+21,,House,Castle,4950000,No,5,None,0,,None,1,None,None,None,4,None,
+22,,House,Castle,1500000,No,5,None,0,,None,,None,None,None,4,None,To renovate
+23,,House,Castle,725000,No,10,None,0,,None,,None,None,None,,None,
+24,,House,Castle,1650000,No,4,None,0,,None,1,None,None,None,,None,As new
+25,,House,Castle,2550000,No,5,None,0,,None,,None,None,None,,None,
+26,,House,Castle,Starting price : 490000,Yes,16,None,0,,None,,None,None,None,,None,
+27,,House,Castle,899999,No,2,None,0,,None,1,None,None,None,4,None,As new
+28,,House,Castle,2800000,No,10,None,0,0,None,,None,None,None,,None,Good
+29,,House,Castle,2300000,No,11,None,1,0,None,,None,None,None,4,None,Just renovated
+30,,House,Castle,790000,No,7,None,1,0,None,,None,None,None,3,None,Good
+31,,House,Castle,550000,No,13,None,0,0,None,,None,None,None,4,None,To renovate
+32,,House,Castle,1900000,No,10,None,1,0,None,,None,None,None,4,None,
+33,,House,Castle,800000,No,9,None,0,,None,,None,None,None,4,None,To renovate
+34,,House,Castle,1950000,No,25,None,0,1,None,1,None,None,None,4,None,Just renovated
+35,,House,Castle,499000,No,2,None,1,0,None,,None,None,None,,None,
+36,,House,Castle,950000,No,8,None,1,0,None,,None,None,None,,None,
+37,,House,Castle,1195000,No,13,None,0,1,None,,None,None,None,4,None,
+38,,House,Castle,770000,,5,None,0,,None,,None,None,None,4,None,To be done up
+39,,House,Castle,1495000,No,5,None,1,0,None,1,None,None,None,4,None,As new
+40,,House,Castle,3752000,No,,None,0,,None,,None,None,None,4,None,
+41,,House,Castle,1100000,No,60,None,0,0,None,,None,None,None,4,None,
+42,,House,Castle,630000,No,6,None,0,0,None,,None,None,None,4,None,To restore
+43,,House,Castle,2250000,No,,None,0,0,None,,None,None,None,4,None,To renovate
+44,,House,Castle,1500000,No,8,None,0,0,None,,None,None,None,4,None,
+45,,House,Castle,1500000,,10,None,0,,None,,None,None,None,4,None,To be done up
+46,,House,Castle,2100000,,25,None,0,,None,,None,None,None,4,None,Good
+47,,House,Castle,3900000,No,9,None,0,,None,1,None,None,None,4,None,As new
+48,,House,Castle,450000,No,8,None,1,0,None,,None,None,None,4,None,
+49,,House,Castle,350000,,10,None,0,,None,,None,None,None,4,None,
+50,,House,Castle,1500000,No,11,None,0,0,None,,None,None,None,4,None,To renovate

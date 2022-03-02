@@ -1,0 +1,169 @@
+,Locality,Type of property,Subtype of property,Price,Type of sale,Number of rooms,Area,Fully equipped kitchen,Furnished,Open fire,Terrace,Garden,Surface of the land,Surface area of the plot of land,Number of facades,Swimming pool,State of the building
+0,,House,Farmhouse,175000,No,5,None,0,0,None,,None,None,None,3,None,To renovate
+1,,House,Farmhouse,229000,No,2,None,0,0,None,,None,None,None,,None,Good
+2,,House,Farmhouse,360000,No,1,None,0,0,None,1,None,None,None,3,None,To restore
+3,,House,Farmhouse,239000,No,3,None,0,0,None,,None,None,None,,None,Good
+4,,House,Farmhouse,350000,No,4,None,0,0,None,,None,None,None,3,None,As new
+5,,House,Farmhouse,480000,No,4,None,0,0,None,,None,None,None,2,None,To renovate
+6,,House,Farmhouse,495000,No,6,None,0,0,None,,None,None,None,4,None,To renovate
+7,,House,Farmhouse,1125000,No,7,None,1,0,None,1,None,None,None,,None,Good
+8,,House,Farmhouse,795000,No,11,None,1,0,None,,None,None,None,4,None,Good
+9,scoumont,House,Farmhouse,750000,,6,None,0,,None,,None,None,None,4,None,As new
+10,,House,Farmhouse,775000,No,6,None,1,0,None,,None,None,None,,None,Good
+11,,House,Farmhouse,799000,No,4,None,0,0,None,,None,None,None,,None,As new
+12,,House,Farmhouse,1200000,No,5,None,1,0,None,,None,None,None,,None,Good
+13,,House,Farmhouse,425000,No,4,None,0,0,None,,None,None,None,,None,Good
+14,,House,Farmhouse,780000,No,3,None,0,0,None,,None,None,None,4,None,
+15,,House,Farmhouse,1620000,No,11,None,0,0,None,,None,None,None,4,None,To renovate
+16,,House,Farmhouse,695000,No,4,None,0,0,None,,None,None,None,4,None,Good
+17,,House,Farmhouse,1495000,No,3,None,0,0,None,1,None,None,None,4,None,To be done up
+18,,House,Farmhouse,395000,No,4,None,0,0,None,,None,None,None,4,None,To be done up
+19,,,,None,,,None,0,,None,,None,None,None,,None,
+20,,House,Farmhouse,460000,No,5,None,0,0,None,,None,None,None,,None,As new
+21,Limburg,House,Farmhouse,645000,No,3,None,0,,None,1,None,None,None,4,None,To renovate
+22,,House,Farmhouse,325000,No,4,None,0,,None,,None,None,None,4,None,Good
+23,,House,Farmhouse,Starting price : 240000,No,3,None,0,,None,,None,None,None,4,None,To renovate
+24,,House,Farmhouse,198000,No,3,None,0,0,None,1,None,None,None,,None,To be done up
+25,,House,Farmhouse,239000,No,2,None,0,0,None,,None,None,None,4,None,To be done up
+26,,House,Farmhouse,275000,No,3,None,1,0,None,,None,None,None,,None,Good
+27,,House,Farmhouse,339000,No,2,None,0,0,None,,None,None,None,4,None,To be done up
+28,Grâce-Hollogne,House,Farmhouse,310000,Yes,4,None,0,0,None,,None,None,None,3,None,To renovate
+29,,House,Farmhouse,699000,No,9,None,0,1,None,,None,None,None,4,None,As new
+30,,House,Farmhouse,1150000,No,7,None,1,0,None,,None,None,None,4,None,Good
+31,,House,Farmhouse,1500000,No,6,None,0,0,None,,None,None,None,,None,As new
+32,,House,Farmhouse,None,No,2,None,0,0,None,,None,None,None,3,None,To renovate
+33,,House,Farmhouse,590000,No,4,None,1,,None,,None,None,None,3,None,Good
+34,,House,Farmhouse,Starting price : 60000,No,4,None,0,,None,,None,None,None,4,None,To restore
+35,T5,House,Farmhouse,695000,No,4,None,0,,None,1,None,None,None,4,None,As new
+36,,House,Farmhouse,3200000,No,8,None,0,,None,1,None,None,None,4,None,Good
+37,,House,Farmhouse,435000,No,4,None,0,,None,,None,None,None,4,None,Good
+38,,House,Farmhouse,950000,No,6,None,0,0,None,,None,None,None,4,None,
+39,,House,Farmhouse,Starting price : 290000,No,2,None,0,,None,,None,None,None,4,None,To renovate
+40,,House,Farmhouse,Starting price : 165000,No,2,None,0,,None,,None,None,None,4,None,To be done up
+41,,House,Farmhouse,109000,No,1,None,0,0,None,,None,None,None,3,None,To renovate
+42,,House,Farmhouse,335000,No,3,None,0,0,None,,None,None,None,4,None,
+43,,House,Farmhouse,Starting price : 252000,No,3,None,0,,None,,None,None,None,4,None,
+44,,House,Farmhouse,1150000,No,7,None,1,0,None,,None,None,None,4,None,Good
+45,,House,Farmhouse,390000,No,3,None,0,0,None,,None,None,None,,None,Good
+46,,House,Farmhouse,Starting price : 470000,No,3,None,0,,None,,None,None,None,4,None,
+47,,House,Farmhouse,150000,No,3,None,1,0,None,,None,None,None,4,None,To renovate
+48,,House,Farmhouse,Starting price : 299000,No,4,None,0,,None,,None,None,None,,None,To renovate
+49,,House,Farmhouse,625000,No,4,None,1,0,None,,None,None,None,4,None,Good
+50,,House,Farmhouse,300000,No,5,None,0,0,None,,None,None,None,4,None,To renovate
+51,,House,Farmhouse,Starting price : 660000,No,4,None,0,,None,,None,None,None,4,None,
+52,,House,Farmhouse,120000,No,6,None,0,,None,,None,None,None,3,None,To renovate
+53,,House,Farmhouse,Starting price : 305000,No,3,None,0,,None,,None,None,None,4,None,
+54,,House,Farmhouse,Starting price : 80000,No,2,None,0,,None,,None,None,None,4,None,
+55,,House,Farmhouse,Starting price : 140000,No,1,None,0,,None,,None,None,None,4,None,To renovate
+56,,House,Farmhouse,995000,No,1,None,0,0,None,1,None,None,None,,None,Good
+57,,House,Farmhouse,Starting price : 425000,No,6,None,0,,None,,None,None,None,4,None,To renovate
+58,,House,Farmhouse,235000,No,4,None,0,,None,,None,None,None,3,None,To renovate
+59,,House,Farmhouse,3000000,No,5,None,0,0,None,,None,None,None,,None,To renovate
+60,,House,Farmhouse,479000,No,5,None,0,0,None,1,None,None,None,4,None,To renovate
+61,,House,Farmhouse,479000,No,5,None,0,0,None,1,None,None,None,4,None,To renovate
+62,,House,Farmhouse,1350000,No,5,None,0,,None,,None,None,None,,None,As new
+63,,House,Farmhouse,Starting price : 372000,No,1,None,0,,None,,None,None,None,4,None,
+64,,House,Farmhouse,990000,No,5,None,0,,None,,None,None,None,4,None,To restore
+65,,House,Farmhouse,685000,,4,None,0,,None,,None,None,None,4,None,
+66,,House,Farmhouse,Starting price : 650000,No,3,None,0,,None,,None,None,None,,None,
+67,,House,Farmhouse,325000,No,3,None,0,0,None,,None,None,None,4,None,To renovate
+68,Waremme et 5 kms,House,Farmhouse,300000,No,8,None,0,,None,,None,None,None,4,None,To restore
+69,,House,Farmhouse,980000,No,5,None,1,0,None,,None,None,None,4,None,Good
+70,,House,Farmhouse,469000,No,2,None,0,0,None,,None,None,None,4,None,Just renovated
+71,,House,Farmhouse,280000,No,3,None,0,0,None,,None,None,None,4,None,To renovate
+72,,House,Farmhouse,738000,No,5,None,1,0,None,,None,None,None,4,None,Just renovated
+73,,House,Farmhouse,399000,No,5,None,0,0,None,,None,None,None,4,None,To renovate
+74,,House,Farmhouse,620000,No,2,None,1,0,None,,None,None,None,4,None,To renovate
+75,,House,Farmhouse,1200000,No,4,None,0,0,None,,None,None,None,4,None,
+76,,House,Farmhouse,585000,No,4,None,0,0,None,,None,None,None,4,None,To renovate
+77,,House,Farmhouse,290000,No,3,None,0,0,None,,None,None,None,4,None,Just renovated
+78,,House,Farmhouse,600000,No,3,None,0,0,None,,None,None,None,4,None,To renovate
+79,,House,Farmhouse,1250000,,4,None,0,,None,,None,None,None,4,None,Good
+80,,House,Farmhouse,1500000,No,3,None,0,0,None,,None,None,None,,None,
+81,,House,Farmhouse,150000,No,2,None,0,0,None,,None,None,None,2,None,To renovate
+82,,House,Farmhouse,430000,No,3,None,0,0,None,,None,None,None,3,None,To renovate
+83,,House,Farmhouse,25000 + 1035 per month,No,4,None,1,0,None,,None,None,None,4,None,As new
+84,,House,Farmhouse,650000,No,4,None,0,0,None,,None,None,None,4,None,To renovate
+85,,House,Farmhouse,890000,No,9,None,1,0,None,,None,None,None,3,None,
+86,,House,Farmhouse,925000,No,2,None,0,0,None,,None,None,None,2,None,
+87,,House,Farmhouse,1070000,No,9,None,1,0,None,,None,None,None,3,None,
+88,,House,Farmhouse,389000,No,3,None,1,0,None,,None,None,None,3,None,Good
+89,,House,Farmhouse,220000,No,3,None,0,0,None,,None,None,None,4,None,To renovate
+90,,House,Farmhouse,780000,No,7,None,1,0,None,,None,None,None,4,None,
+91,,House,Farmhouse,525000,No,3,None,0,0,None,,None,None,None,4,None,To renovate
+92,,House,Farmhouse,890000,No,11,None,1,0,None,,None,None,None,4,None,
+93,,House,Farmhouse,1195000,No,5,None,0,0,None,,None,None,None,4,None,As new
+94,,House,Farmhouse,590000,No,6,None,1,0,None,,None,None,None,3,None,
+95,,House,Farmhouse,350000,No,3,None,0,0,None,,None,None,None,2,None,
+96,,House,Farmhouse,695000,No,2,None,1,0,None,,None,None,None,4,None,Good
+97,,House,Farmhouse,320000,No,4,None,1,0,None,,None,None,None,4,None,Just renovated
+98,,House,Farmhouse,115000,No,4,None,0,,None,,None,None,None,2,None,To renovate
+99,,House,Farmhouse,150000,No,5,None,0,0,None,,None,None,None,3,None,To restore
+100,,House,Farmhouse,595000,No,,None,0,0,None,,None,None,None,,None,To renovate
+101,,House,Farmhouse,95000,No,2,None,0,0,None,,None,None,None,,None,
+102,,House,Farmhouse,125000,Yes,,None,0,0,None,,None,None,None,3,None,To restore
+103,,House,Farmhouse,200000,No,,None,0,,None,,None,None,None,4,None,
+104,,House,Farmhouse,495000,No,,None,0,0,None,,None,None,None,3,None,
+105,,House,Farmhouse,650000,No,3,None,0,,None,,None,None,None,,None,To renovate
+106,,House,Farmhouse,795000,No,2,None,0,0,None,,None,None,None,4,None,Good
+107,,House,Farmhouse,1375000,No,3,None,0,0,None,,None,None,None,,None,
+108,,House,Farmhouse,1195000,No,,None,0,,None,,None,None,None,4,None,
+109,,House,Farmhouse,495000,No,3,None,0,0,None,,None,None,None,4,None,To renovate
+110,,House,Farmhouse,1100000,No,4,None,1,0,None,1,None,None,None,4,None,Good
+111,,House,Farmhouse,490000,No,4,None,1,0,None,,None,None,None,,None,To be done up
+112,,House,Farmhouse,449900,No,6,None,1,0,None,,None,None,None,3,None,Good
+113,,House,Farmhouse,387000,No,5,None,1,0,None,1,None,None,None,4,None,Good
+114,,House,Farmhouse,380000,No,3,None,0,0,None,,None,None,None,4,None,To renovate
+115,,House,Farmhouse,379999,No,3,None,0,0,None,,None,None,None,4,None,To renovate
+116,,House,Farmhouse,775000,No,4,None,1,0,None,,None,None,None,4,None,To be done up
+117,,House,Farmhouse,179000,No,3,None,0,0,None,,None,None,None,4,None,Good
+118,,House,Farmhouse,695000,No,4,None,1,0,None,,None,None,None,3,None,Good
+119,,House,Farmhouse,399000,No,4,None,1,0,None,,None,None,None,3,None,Just renovated
+120,null,House,Farmhouse,1395000,No,3,None,0,0,None,1,None,None,None,4,None,As new
+121,,House,Farmhouse,280000,No,2,None,0,0,None,,None,None,None,3,None,To restore
+122,,House,Farmhouse,495000,No,4,None,0,0,None,,None,None,None,4,None,To renovate
+123,,House,Farmhouse,595000,No,3,None,1,0,None,,None,None,None,4,None,To renovate
+124,Herne,House,Farmhouse,649000,No,4,None,0,,None,,None,None,None,4,None,Good
+125,,House,Farmhouse,375000,No,5,None,0,0,None,1,None,None,None,2,None,To renovate
+126,,House,Farmhouse,114999,No,2,None,0,0,None,,None,None,None,4,None,To restore
+127,,House,Farmhouse,850000,No,5,None,1,0,None,,None,None,None,2,None,
+128,,House,Farmhouse,860000,Yes,5,None,1,0,None,,None,None,None,4,None,Good
+129,,House,Farmhouse,650000,No,7,None,0,,None,,None,None,None,4,None,To renovate
+130,,House,Farmhouse,235000,No,3,None,1,0,None,,None,None,None,4,None,Good
+131,QUIEVRAIN -HENSIES-DOUR,House,Farmhouse,400000,No,3,None,1,0,None,,None,None,None,4,None,Good
+132,,House,Farmhouse,400000,No,2,None,0,0,None,,None,None,None,4,None,Good
+133,,House,Farmhouse,499000,No,4,None,0,0,None,,None,None,None,4,None,
+134,,House,Farmhouse,595000,No,5,None,0,0,None,,None,None,None,4,None,To be done up
+135,,House,Farmhouse,459000,No,4,None,0,0,None,1,None,None,None,4,None,To renovate
+136,,House,Farmhouse,785000,No,6,None,0,0,None,,None,None,None,,None,
+137,,House,Farmhouse,795000,No,8,None,0,0,None,,None,None,None,4,None,As new
+138,,House,Farmhouse,1275000,No,5,None,0,0,None,,None,None,None,4,None,
+139,,House,Farmhouse,325000,No,3,None,0,0,None,,None,None,None,3,None,To renovate
+140,,House,Farmhouse,325000,No,3,None,0,0,None,,None,None,None,3,None,To renovate
+141,,House,Farmhouse,599000,,1,None,1,,None,,None,None,None,4,None,To renovate
+142,,House,Farmhouse,599000,,1,None,1,,None,,None,None,None,4,None,To renovate
+143,,House,Farmhouse,1450000,No,5,None,0,,None,1,None,None,None,4,None,Good
+144,,House,Farmhouse,329000,No,3,None,0,,None,,None,None,None,,None,
+145,,House,Farmhouse,195000,No,2,None,0,,None,,None,None,None,,None,To renovate
+146,,House,Farmhouse,125000,No,3,None,0,,None,,None,None,None,4,None,To renovate
+147,,House,Farmhouse,325000,No,,None,0,0,None,,None,None,None,4,None,To renovate
+148,,House,Farmhouse,680000,No,3,None,0,,None,,None,None,None,4,None,To renovate
+149,,House,Farmhouse,695000,No,6,None,0,0,None,,None,None,None,4,None,
+150,,House,Farmhouse,220000,No,8,None,0,,None,1,None,None,None,3,None,
+151,,House,Farmhouse,430000,No,4,None,0,,None,,None,None,None,,None,
+152,,House,Farmhouse,199000,No,3,None,0,,None,,None,None,None,2,None,
+153,,House,Farmhouse,383056,No,4,None,0,0,None,,None,None,None,2,None,Just renovated
+154,,House,Farmhouse,350000,No,3,None,0,,None,,None,None,None,,None,To renovate
+155,,House,Farmhouse,950000,,4,None,0,0,None,,None,None,None,4,None,Good
+156,null,House,Farmhouse,630000,No,2,None,0,0,None,,None,None,None,4,None,To renovate
+157,,House,Farmhouse,1090000,No,1,None,0,0,None,,None,None,None,,None,
+158,,House,Farmhouse,785000,No,3,None,1,,None,1,None,None,None,4,None,
+159,,House,Farmhouse,289000,No,4,None,1,0,None,,None,None,None,3,None,To be done up
+160,,House,Farmhouse,375000,No,3,None,0,0,None,,None,None,None,4,None,
+161,,House,Farmhouse,486000,No,3,None,0,0,None,1,None,None,None,,None,To be done up
+162,,House,Farmhouse,295000,No,3,None,0,0,None,,None,None,None,4,None,Good
+163,,House,Farmhouse,250000,No,4,None,0,,None,,None,None,None,,None,
+164,,House,Farmhouse,895000,No,10,None,1,0,None,,None,None,None,3,None,Good
+165,,House,Farmhouse,100000,,1,None,0,,None,,None,None,None,3,None,To restore
+166,,House,Farmhouse,570000,No,4,None,0,0,None,,None,None,None,4,None,
+167,,House,Farmhouse,600000,No,3,None,0,,None,,None,None,None,4,None,
