@@ -16,7 +16,7 @@ def getDataFrame(my_urls: List[str]):
 
     :params my_urls as list of str
     """
-
+    # creates the dataframe of all data
     headers_df = [
         "Locality",
         "Type of property",
@@ -39,20 +39,21 @@ def getDataFrame(my_urls: List[str]):
 
     df = pd.DataFrame(columns=headers_df)
 
+    # We run through all urls
     for my_url in my_urls:
         url = my_url
         r = requests.get(url)
 
         soup = BeautifulSoup(r.text, "html.parser")
 
+        # We retrieve the area
         area = None
         more_info = soup.find("p", attrs={"class": "classified__information--property"})
         if more_info != None:
             if len(more_info.text.split()) > 3:
                 area = more_info.text.split()[3]
 
-        table = soup.findAll("table", {"class": "classified-table"})
-
+        # We retrieve the property
         pre_type_property = soup.find("h1", {"class": "classified__title"})
         if pre_type_property:
             type_property = pre_type_property.text.strip().replace("\n", "").split()[0]
@@ -61,6 +62,7 @@ def getDataFrame(my_urls: List[str]):
 
         subtype_property = type_property
 
+        # Price is retrieved
         price = soup.find("span", {"class": "sr-only"})
 
         price = "None" if price == None else price.text.strip().replace("€", "")
@@ -71,6 +73,8 @@ def getDataFrame(my_urls: List[str]):
                 type_property = "House"
 
         # dictionary containing the scraped data
+        table = soup.findAll("table", {"class": "classified-table"})
+
         my_dict = {}
         for table_item in table:
 
@@ -182,4 +186,4 @@ def create_new_csv(name: str):
     df.to_csv(f"property_files/property_{name}.csv")
 
 
-create_new_csv("other-property")
+create_new_csv("flat-studio")
