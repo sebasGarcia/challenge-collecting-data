@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 import numpy as np
 from bs4 import BeautifulSoup
-#Work in progress: try to get the missing data, Locality also not showing, just like area, swimming pool..
+#Work in progress: try to get the missing data, Locality also not showing..
 #Note: Some data is set as default empty because for now I haven't found a way to get that data, I will try..
 
 def getDataFrame(my_urls):
@@ -34,6 +34,12 @@ def getDataFrame(my_urls):
         r = requests.get(url)
 
         soup = BeautifulSoup(r.text, "html.parser")
+        
+        more_info = soup.find("p", class_="classified__information--property")
+        area = ""
+        if(more_info != None):
+            area = more_info.text.split()[3]
+
         table = soup.findAll("table", {"class": "classified-table"})
 
         type_property = (
@@ -75,7 +81,6 @@ def getDataFrame(my_urls):
         locality = my_dict.get("Neighbourhood or locality")
         type_sale= my_dict.get("Tenement building")
         numbers_rooms = my_dict.get("Bedrooms")
-        area = ""
     
         if my_dict.get("Kitchen type") == "Installed":
 
@@ -87,13 +92,12 @@ def getDataFrame(my_urls):
         furnished = my_dict.get("Furnished")
         # No info on immoweb about that
         open_fire = ""
-        # No confirmation on garden on the page but it does have garden surface, so maybe we could use that to confirm that garden exists
-        garden = ""
-        surface_of_land = ""
+        garden = my_dict.get("Garden")
+        surface_of_land = my_dict.get("Living area")
         terrace = my_dict.get("Terrace")
-        surface_plot_land = ""
+        surface_plot_land = my_dict.get("Surface of the plot")
         number_facades = my_dict.get("Number of frontages")
-        swimming_pool = ""
+        swimming_pool = my_dict.get("Swimming pool")
         state_building = my_dict.get("Building condition")
         my_list = [
         locality,
