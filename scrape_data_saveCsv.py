@@ -119,10 +119,11 @@ def getDataFrame(my_urls):
         new_row = dict(zip(headers_df, my_list))
 
         df = df.append(new_row, ignore_index=True)
-        # Replaces Yes and No for 1/0, was working before but not now
-
-        #df["Furnished"] = df["Furnished"].replace({"No": 0, "Yes": 1}).astype(int)
-        #df["Terrace"] = df["Terrace"].replace({"No": 0, "Yes": 1}).astype(int)
+        # Replaces Yes and No for 1/0
+        df['Terrace'] = np.where(df["Terrace"] == 'Yes', '1' , df['Terrace'] )
+        df['Terrace'] = np.where(df["Terrace"] == 'No', '0' , df['Terrace'] )
+        df["Furnished"] = np.where(df["Furnished"] == 'Yes', '1' , df["Furnished"] )
+        df["Furnished"] = np.where(df["Furnished"] == 'No', '0' , df["Furnished"] )
 
         # Convert all empty strings to None
         df = df.replace(r"^\s*$", "None", regex=True)
