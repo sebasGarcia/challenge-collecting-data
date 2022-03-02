@@ -13,9 +13,17 @@ This data set should contain at least 10.000 input for all Belgium.
 
 ## Part one
 The script "url file" search for links in a list page showing all of their houses. The goal here was to scrape into that dynamic list and take each house's link reference. 
- 
+
+Wouter can be explain more. 
  
 ## Part two
+We have to create a data scraping code which should work on each url/page of advertisement.
+
+Sebastián can be explain more. 
 
 ## Used libraries:
 I think , it will be good idea to write Used libraries 's list.
+
+import requests
+import pandas as pd
+from bs4 import BeautifulSoup
