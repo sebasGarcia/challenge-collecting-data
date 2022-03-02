@@ -2,7 +2,6 @@ import requests
 import pandas as pd
 import numpy as np
 from bs4 import BeautifulSoup
-import os  
 
 
 #Work in progress: try to get the missing data, Locality also not showing, just like area, swimming pool..
@@ -37,6 +36,15 @@ def getDataFrame(my_urls):
         r = requests.get(url)
 
         soup = BeautifulSoup(r.text, "html.parser")
+        
+        area = None
+        more_info = soup.find("p", attrs={'class':"classified__information--property"})
+        if(more_info != None):
+            if(len(more_info.text.split()) > 3):
+                area = more_info.text.split()[3]
+
+
+
         table = soup.findAll("table", {"class": "classified-table"})
 
         pre_type_property = soup.find("h1", {"class": "classified__title"})
@@ -86,7 +94,6 @@ def getDataFrame(my_urls):
         locality = my_dict.get("Neighbourhood or locality")
         type_sale= my_dict.get("Tenement building")
         numbers_rooms = my_dict.get("Bedrooms")
-        area = ""
     
         if my_dict.get("Kitchen type") == "Installed":
 
@@ -174,4 +181,4 @@ def create_new_csv(name):
     df = getDataFrame(my_url_list) 
     df.to_csv(f'property_files/property_{name}.csv') 
 
-create_new_csv('farmhouse')
+create_new_csv('chalet')
