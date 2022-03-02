@@ -1,0 +1,275 @@
+,Locality,Type of property,Subtype of property,Price,Type of sale,Number of rooms,Area,Fully equipped kitchen,Furnished,Open fire,Terrace,Garden,Surface of the land,Surface area of the plot of land,Number of facades,Swimming pool,State of the building
+0,,Apartment,Apartment,395000,No,2,80,0,,None,,None,None,None,,None,
+1,,House,Loft,375000,No,2,78,1,0,None,,None,None,None,,None,Good
+2,Bruxelles,House,Loft,695000,No,2,190,0,,None,,None,None,None,2,None,As new
+3,Brabant wallon,House,VAL,From 217400 To 415500,No,,bedrooms,0,,None,,None,None,None,,None,
+4,,House,VILLA,From 233350 To 444900,No,,bedrooms,0,,None,,None,None,None,,None,
+5,,House,Reconversion,From 275520 To 420200,No,,bedrooms,0,,None,,None,None,None,,None,
+6,,House,New,From 299000 To 567600,No,,bedrooms,0,,None,,None,None,None,,None,
+7,Bruxelles,House,Loft,535000,No,2,168,0,,None,,None,None,None,3,None,As new
+8,Liège,House,Loft,192000,No,2,112,0,0,None,,None,None,None,3,None,As new
+9,,House,Loft,270000,No,2,115,0,,None,,None,None,None,2,None,As new
+10,,House,Loft,315000,No,3,200,0,,None,,None,None,None,2,None,As new
+11,,House,Loft,699000,No,3,257,0,0,None,,None,None,None,2,None,Good
+12,,House,Loft,269000,No,3,164,0,0,None,,None,None,None,2,None,Good
+13,,House,Loft,680000,No,3,249,0,0,None,,None,None,None,2,None,As new
+14,Liège,House,Loft,192000,No,1,135,0,0,None,,None,None,None,3,None,As new
+15,,House,Loft,445000,No,2,118,1,0,None,,None,None,None,2,None,Good
+16,,House,Loft,249000,No,2,135,0,0,None,,None,None,None,3,None,As new
+17,Bruxelles Nord,House,Loft,395000,No,4,179,0,0,None,,None,None,None,2,None,Good
+18,Bruxelles Nord,House,Loft,395000,No,4,179,0,0,None,,None,None,None,2,None,Good
+19,Bruxelles (19 communes),House,Loft,1295000,No,3,315,0,0,None,,None,None,None,2,None,As new
+20,,House,Loft,339000,No,1,115,0,0,None,,None,None,None,2,None,As new
+21,,,,None,,,,0,,None,,None,None,None,,None,
+22,,House,Loft,565000,No,3,180,1,0,None,,None,None,None,2,None,As new
+23,,House,Loft,565000,No,3,180,1,0,None,,None,None,None,2,None,As new
+24,Brabant Wallon,House,val,From 271600 To 415500,No,,99,0,,None,,None,None,None,,None,
+25,,House,Loft,420000,No,1,155,0,0,None,,None,None,None,2,None,As new
+26,,House,Loft,399000,No,3,221,0,0,None,,None,None,None,,None,As new
+27,urbain,House,Loft,245000,No,3,120,0,0,None,1,None,None,None,2,None,Good
+28,,House,Loft,595000,No,2,160,0,0,None,,None,None,None,3,None,As new
+29,,House,Loft,649000,No,3,242,0,0,None,,None,None,None,2,None,Good
+30,,House,Loft,715000,No,3,216,0,0,None,,None,None,None,,None,As new
+31,,House,Loft,735000,No,2,335,0,0,None,,None,None,None,2,None,As new
+32,,House,Loft,750000,No,2,192,0,0,None,,None,None,None,4,None,As new
+33,,House,Loft,139000,No,1,70,1,0,None,,None,None,None,,None,Good
+34,,House,Loft,499000,No,3,175,0,0,None,1,None,None,None,3,None,Just renovated
+35,,House,Loft,499000,No,3,175,0,0,None,1,None,None,None,3,None,Just renovated
+36,,House,Loft,498000,No,3,246,0,0,None,,None,None,None,3,None,As new
+37,,House,Loft,299000,No,2,280,1,,None,,None,None,None,3,None,As new
+38,,House,Loft,435000,No,3,202,1,0,None,,None,None,None,2,None,Good
+39,,House,Loft,219000,No,3,146,1,0,None,1,None,None,None,2,None,Just renovated
+40,,House,Loft,395000,No,3,260,0,0,None,,None,None,None,3,None,As new
+41,,House,Loft,444900,No,2,169,1,0,None,,None,None,None,4,None,
+42,,House,Loft,975000,No,3,200,0,0,None,,None,None,None,,None,As new
+43,,House,Loft,250000,No,2,188,0,0,None,,None,None,None,,None,Good
+44,Operaplein,House,Loft,335000,No,2,135,0,0,None,,None,None,None,2,None,Good
+45,,House,Loft,715000,No,4,190,0,0,None,,None,None,None,,None,
+46,,House,Loft,535000,No,2,180,0,0,None,,None,None,None,3,None,As new
+47,,House,Loft,169000,No,1,65,1,,None,,None,None,None,,None,Good
+48,,House,Loft,449000,No,5,289,1,0,None,,None,None,None,4,None,To be done up
+49,,House,Loft,347000,No,2,205,0,0,None,,None,None,None,2,None,As new
+50,,House,Loft,745000,No,5,505,0,0,None,,None,None,None,3,None,Good
+51,,House,Loft,None,No,2,167,0,0,None,,None,None,None,2,None,As new
+52,,House,Loft,960000,No,2,308,1,0,None,,None,None,None,4,None,As new
+53,,House,Loft,495000,No,2,170,1,0,None,,None,None,None,2,None,As new
+54,,House,Loft,299000,No,3,173,0,0,None,1,None,None,None,2,None,Just renovated
+55,,House,Loft,325000,No,2,211,0,0,None,,None,None,None,,None,Good
+56,,House,Loft,835000,No,3,199,0,0,None,,None,None,None,,None,As new
+57,,House,Loft,1250000,No,3,745,0,0,None,,None,None,None,3,None,As new
+58,,House,Loft,309000,No,2,109,0,0,None,,None,None,None,2,None,To restore
+59,,House,Loft,450000,No,6,520,0,0,None,,None,None,None,,None,
+60,,House,Loft,795000,No,3,313,0,0,None,,None,None,None,,None,Good
+61,,House,Loft,1200000,No,4,824,0,0,None,,None,None,None,2,None,As new
+62,,House,Loft,169000,No,3,240,0,,None,,None,None,None,,None,As new
+63,,House,Loft,249000,No,,meters,0,0,None,,None,None,None,2,None,
+64,,House,Loft,249500,No,2,65,0,1,None,,None,None,None,2,None,Just renovated
+65,,House,Loft,265000,No,2,200,0,0,None,1,None,None,None,2,None,Good
+66,,House,Loft,325000,No,3,119,0,0,None,,None,None,None,2,None,As new
+67,,House,Loft,1050000,No,1,78,0,1,None,,None,None,None,2,None,As new
+68,,House,Loft,435000,No,2,162,1,0,None,,None,None,None,2,None,As new
+69,,House,Loft,435000,No,2,162,1,0,None,,None,None,None,2,None,As new
+70,,House,Loft,435000,No,2,162,1,0,None,,None,None,None,2,None,As new
+71,,House,Loft,312250,No,2,115,1,0,None,,None,None,None,,None,As new
+72,,House,Loft,348000,No,2,126,1,0,None,,None,None,None,2,None,Good
+73,,House,Loft,269000,No,1,158,0,0,None,,None,None,None,1,None,As new
+74,,House,Loft,725000,No,2,197,1,0,None,,None,None,None,2,None,Good
+75,,House,Loft,435000,No,3,202,1,0,None,,None,None,None,2,None,Good
+76,,House,Loft,375000,No,2,155,0,,None,,None,None,None,,None,As new
+77,,House,Loft,180000,No,1,400,1,1,None,,None,None,None,,None,As new
+78,,House,Loft,265000,No,2,105,1,0,None,,None,None,None,3,None,As new
+79,,House,Loft,269000,No,2,120,0,0,None,,None,None,None,2,None,As new
+80,,House,Loft,699000,No,2,140,0,,None,,None,None,None,,None,
+81,,House,Loft,375000,No,3,140,0,0,None,,None,None,None,,None,As new
+82,,House,Loft,495000,No,2,220,1,0,None,,None,None,None,2,None,As new
+83,,House,Loft,495000,No,2,220,1,0,None,,None,None,None,2,None,As new
+84,,House,Loft,495000,No,2,220,1,0,None,,None,None,None,2,None,As new
+85,,House,Loft,495000,No,2,220,1,0,None,,None,None,None,2,None,As new
+86,,House,Le,From 198890 To 285678,No,,93,0,,None,,None,None,None,,None,
+87,,House,Watertoren,From 250000 To 500000,No,,,0,,None,,None,None,None,,None,
+88,,House,Brouwerij,From 299000 To 997000,No,,bedrooms,0,,None,,None,None,None,,None,
+89,Sint-Andries,House,The,From 389000 To 895000,No,,bedrooms,0,,None,,None,None,None,,None,
+90,,House,Loft,570000,No,2,217,0,,None,,None,None,None,2,None,Just renovated
+91,,House,Loft,570000,No,2,217,0,,None,,None,None,None,2,None,Just renovated
+92,,House,Loft,580000,No,2,217,0,,None,,None,None,None,2,None,Just renovated
+93,,House,Loft,580000,No,2,217,0,,None,,None,None,None,2,None,Just renovated
+94,,House,Loft,595000,No,2,207,0,,None,,None,None,None,2,None,Just renovated
+95,,House,Loft,595000,No,2,207,0,,None,,None,None,None,2,None,Just renovated
+96,,House,Loft,595000,No,2,207,0,,None,,None,None,None,2,None,Just renovated
+97,,House,Loft,595000,No,2,207,0,,None,,None,None,None,2,None,Just renovated
+98,,House,Loft,635000,No,2,217,0,0,None,,None,None,None,,None,Just renovated
+99,,House,Loft,635000,No,2,217,0,0,None,,None,None,None,,None,Just renovated
+100,,House,Loft,635000,No,2,217,0,0,None,,None,None,None,,None,Just renovated
+101,,House,Loft,1250000,No,3,,0,0,None,,None,None,None,3,None,Good
+102,,House,ESPACE,From 169500 To 279000,No,,m²,0,,None,,None,None,None,,None,
+103,,House,Loft,645000,No,2,180,0,0,None,,None,None,None,,None,As new
+104,,House,Loft,699000,No,2,125,1,0,None,,None,None,None,2,None,As new
+105,,House,Loft,435000,No,2,162,1,0,None,,None,None,None,2,None,As new
+106,,House,Loft,250000,No,2,134,0,0,None,,None,None,None,,None,As new
+107,,House,Loft,325000,No,3,188,0,0,None,,None,None,None,,None,As new
+108,,House,Loft,355000,No,2,190,0,0,None,,None,None,None,,None,As new
+109,,House,Loft,355000,No,2,190,0,0,None,,None,None,None,,None,As new
+110,,House,Loft,490000,No,3,266,0,0,None,,None,None,None,,None,As new
+111,,House,Loft,790000,No,2,254,0,0,None,,None,None,None,2,None,As new
+112,,House,Loft,618000,No,2,150,1,0,None,,None,None,None,4,None,As new
+113,,House,Loft,295000,No,1,106,0,,None,,None,None,None,,None,
+114,,House,Loft,295000,No,2,155,1,0,None,,None,None,None,2,None,
+115,,House,Loft,430000,No,3,252,0,0,None,,None,None,None,,None,As new
+116,,House,Loft,490000,No,3,271,0,0,None,,None,None,None,,None,As new
+117,,House,Loft,795000,No,1,400,0,0,None,,None,None,None,,None,As new
+118,,House,Lofts,From 149500 To 179500,,,m²,0,,None,,None,None,None,,None,
+119,,House,Loft,450000,No,3,210,0,,None,,None,None,None,3,None,As new
+120,,House,Loft,699000,No,2,,0,0,None,1,None,None,None,,None,As new
+121,,House,Loft,730000,No,4,520,0,,None,,None,None,None,,None,As new
+122,,House,Loft,375000,No,1,,0,0,None,,None,None,None,,None,
+123,,House,Loft,590000,No,2,112,0,,None,,None,None,None,,None,
+124,,House,Loft,560000,No,2,153,1,0,None,,None,None,None,4,None,As new
+125,,House,Loft,650000,No,4,255,0,0,None,,None,None,None,,None,
+126,SBS-Lofts,House,Loft,No reserve price,No,1,,0,,None,,None,None,None,,None,
+127,,House,Loft,845000,No,3,265,0,0,None,,None,None,None,3,None,Good
+128,,House,Loft,350000,No,1,166,0,0,None,,None,None,None,,None,
+129,,House,Loft,750000,No,2,315,0,0,None,,None,None,None,2,None,
+130,,House,Loft,228500,No,3,150,0,,None,,None,None,None,2,None,As new
+131,,House,Loft,440000,No,3,173,0,,None,,None,None,None,,None,As new
+132,,House,Loft,587814,No,3,135,0,0,None,,None,None,None,3,None,
+133,,House,Loft,860000,No,4,450,0,,None,1,None,None,None,,None,
+134,,House,Loft,390000,No,3,281,0,,None,,None,None,None,2,None,As new
+135,,House,Loft,445000,No,3,306,0,,None,,None,None,None,3,None,As new
+136,,House,Loft,275514,No,2,99,1,0,None,,None,None,None,3,None,As new
+137,,House,Loft,549500,No,3,198,0,0,None,,None,None,None,4,None,
+138,,House,Loft,549500,No,3,198,0,0,None,,None,None,None,4,None,
+139,,House,De,From 299000 To 567600,No,,bedrooms,0,,None,,None,None,None,,None,
+140,,House,Loft,595000,No,3,190,0,0,None,,None,None,None,2,None,As new
+141,,House,Loft,429000,No,3,222,1,0,None,,None,None,None,2,None,Good
+142,Verviers - Dison,House,Loft,220000,No,3,171,0,0,None,,None,None,None,3,None,Good
+143,,House,Loft,340000,No,3,147,1,0,None,1,None,None,None,2,None,Good
+144,,House,Loft,750000,No,6,545,1,0,None,,None,None,None,2,None,As new
+145,Antwerpen Noord,House,Loft,395000,No,1,133,1,0,None,,None,None,None,2,None,Good
+146,,House,Loft,795000,No,,meters,0,0,None,,None,None,None,,None,Good
+147,,House,Loft,519000,No,2,263,0,0,None,,None,None,None,2,None,Good
+148,Micheroux,House,Loft,245000,No,2,86,0,0,None,,None,None,None,3,None,As new
+149,Micheroux,House,Loft,279500,No,2,85,0,,None,,None,None,None,3,None,As new
+150,Verviers - Dison,House,Loft,199000,No,3,133,0,0,None,,None,None,None,2,None,As new
+151,Antwerpen Noord,House,Loft,395000,No,1,133,1,0,None,,None,None,None,2,None,Good
+152,Micheroux,House,Loft,285000,No,2,100,0,,None,,None,None,None,3,None,As new
+153,,House,Loft,380000,No,1,120,1,0,None,,None,None,None,2,None,To be done up
+154,,House,Loft,450000,No,3,184,0,0,None,,None,None,None,,None,As new
+155,,House,Loft,750000,No,5,250,0,0,None,,None,None,None,4,None,
+156,Regio Lebbeke,House,Loft,234000,No,1,131,1,0,None,,None,None,None,3,None,Good
+157,,House,Loft,399000,No,2,96,0,,None,,None,None,None,2,None,As new
+158,,House,Loft,330000,No,2,170,0,0,None,,None,None,None,,None,As new
+159,,House,Loft,469000,No,4,,0,0,None,,None,None,None,,None,Just renovated
+160,,House,Loft,695000,No,2,141,0,,None,1,None,None,None,,None,
+161,,House,Loft,1575000,No,3,350,0,,None,,None,None,None,,None,As new
+162,,House,Loft,450000,No,,meters,0,0,None,,None,None,None,,None,
+163,,House,Loft,895000,No,3,219,0,0,None,1,None,None,None,2,None,As new
+164,,House,Loft,513000,No,2,171,0,0,None,,None,None,None,,None,
+165,,House,Loft,295000,No,1,130,0,1,None,,None,None,None,4,None,As new
+166,,House,Loft,299000,No,2,86,0,0,None,,None,None,None,,None,
+167,,House,Loft,567600,No,3,172,0,0,None,,None,None,None,,None,
+168,,House,RESIDENTIE,From 216495 To 344901,No,,bedrooms,0,,None,,None,None,None,,None,
+169,Jachthaven,House,Bord'eau,From 222729 To 822623,No,,bedrooms,0,,None,,None,None,None,,None,
+170,,House,Loft,315000,No,2,109,0,0,None,,None,None,None,,None,As new
+171,,House,Loft,865000,No,1,236,0,0,None,,None,None,None,2,None,
+172,,House,Loft,2950000,No,3,200,0,0,None,,None,None,None,4,None,As new
+173,,House,Loft,305000,No,2,85,1,,None,,None,None,None,,None,
+174,,House,Loft,210000,No,2,120,0,0,None,,None,None,None,2,None,Good
+175,,House,Loft,263000,No,,meters,0,,None,,None,None,None,,None,As new
+176,,House,Loft,498750,No,3,240,0,0,None,,None,None,None,,None,As new
+177,,House,Loft,1375000,No,6,405,0,0,None,1,None,None,None,4,None,As new
+178,,House,Loft,295000,No,,meters,0,0,None,,None,None,None,,None,
+179,Bruxelles (19 communes),House,Loft,315000,No,1,86,0,,None,,None,None,None,2,None,As new
+180,,House,Loft,325000,No,,meters,0,0,None,,None,None,None,,None,
+181,,House,Loft,364000,No,1,187,1,0,None,,None,None,None,1,None,Good
+182,,House,Loft,520000,No,4,315,1,0,None,,None,None,None,4,None,
+183,Bruxelles (19 communes),House,Loft,249000,No,1,80,0,0,None,,None,None,None,2,None,As new
+184,,House,Loft,249000,No,3,122,0,0,None,,None,None,None,2,None,As new
+185,,House,Loft,399500,No,2,154,0,0,None,,None,None,None,2,None,
+186,,House,Loft,180000,No,,meters,0,0,None,,None,None,None,2,None,To renovate
+187,,House,Loft,565000,No,2,193,0,0,None,,None,None,None,,None,
+188,,House,Loft,1500000,No,2,190,0,0,None,,None,None,None,2,None,
+189,,House,Loft,220000,No,,meters,0,0,None,,None,None,None,2,None,To renovate
+190,,House,Loft,215000,No,1,34,0,,None,,None,None,None,,None,
+191,,House,Loft,241000,No,1,52,0,,None,,None,None,None,,None,
+192,,House,Loft,279000,No,1,122,1,0,None,,None,None,None,3,None,Good
+193,,House,Loft,335000,No,2,115,0,,None,,None,None,None,,None,
+194,,House,Loft,595000,No,3,236,0,,None,,None,None,None,3,None,As new
+195,,House,Loft,55000 + 975 per month,No,2,300,0,0,None,,None,None,None,3,None,
+196,,House,Loft,549000,No,2,325,0,0,None,1,None,None,None,3,None,As new
+197,,House,Loft,999000,No,2,525,0,0,None,1,None,None,None,3,None,As new
+198,,House,Loft,270000,No,2,100,0,0,None,,None,None,None,2,None,
+199,,House,Loft,435000,No,2,202,0,0,None,,None,None,None,,None,
+200,,House,Loft,690000,No,2,200,0,0,None,,None,None,None,2,None,Good
+201,,House,Eylenbosch,From 189990 To 453197,No,,bedrooms,0,,None,,None,None,None,,None,
+202,,House,Loft,995000,No,4,294,0,0,None,,None,None,None,4,None,As new
+203,,House,Loft,327000,No,1,152,0,,None,,None,None,None,2,None,As new
+204,,House,Den,From 174000 To 595000,No,,bedrooms,0,,None,,None,None,None,,None,
+205,,House,Loft,379000,No,2,183,1,0,None,,None,None,None,2,None,Good
+206,,House,Loft,235000,No,2,125,1,0,None,1,None,None,None,3,None,As new
+207,,House,Loft,140000,No,1,81,0,0,None,,None,None,None,,None,Just renovated
+208,,House,Loft,335000,No,3,165,0,0,None,,None,None,None,,None,As new
+209,,House,Loft,239000,No,3,223,1,0,None,,None,None,None,3,None,As new
+210,Regio Leuven,House,Loft,429000,No,2,176,1,,None,,None,None,None,2,None,Good
+211,,House,Loft,474000,No,3,175,1,0,None,,None,None,None,,None,
+212,,House,Loft,525000,No,2,250,0,0,None,1,None,None,None,,None,As new
+213,,House,Loft,2000000,No,2,386,0,0,None,,None,None,None,4,None,Good
+214,,House,Loft,479000,No,3,277,0,0,None,,None,None,None,2,None,Good
+215,,House,Loft,189000,No,2,98,0,0,None,,None,None,None,,None,
+216,,House,Loft,419000,No,2,139,0,,None,,None,None,None,2,None,As new
+217,Antwerpen-Centrum,House,Loft,1250000,No,4,335,0,0,None,,None,None,None,3,None,As new
+218,,House,Loft,850000,No,2,150,0,,None,,None,None,None,3,None,As new
+219,Mechelen en Direkte omgeving,House,Loft,449100,No,3,200,1,,None,,None,None,None,3,None,Good
+220,,House,Loft,389000,No,2,125,0,0,None,1,None,None,None,,None,Good
+221,,House,Loft,285000,No,2,140,0,0,None,,None,None,None,,None,As new
+222,Antwerpen 2000,House,Loft,418000,No,2,125,0,,None,,None,None,None,2,None,Just renovated
+223,,House,Loft,145000,No,5,166,1,0,None,,None,None,None,3,None,Good
+224,La bouverie,House,Loft,125000,No,2,,0,,None,,None,None,None,,None,Good
+225,,House,Loft,145000,No,3,163,1,0,None,,None,None,None,3,None,Good
+226,,House,Loft,279000,No,1,44,1,1,None,,None,None,None,,None,
+227,,House,Loft,310000,No,2,100,0,,None,,None,None,None,,None,Good
+228,,House,Loft,269000,No,2,160,0,,None,,None,None,None,,None,As new
+229,,House,Loft,534500,No,1,110,0,0,None,1,None,None,None,,None,
+230,,House,Loft,576479,No,3,202,0,0,None,,None,None,None,,None,
+231,,House,Loft,587814,No,3,227,0,0,None,,None,None,None,,None,
+232,,House,Loft,1575000,No,3,350,0,,None,,None,None,None,,None,As new
+233,,House,Loft,183300,No,1,74,0,1,None,1,None,None,None,2,None,Good
+234,,House,Loft,175000,No,2,127,0,,None,1,None,None,None,,None,Just renovated
+235,,House,Loft,280000,No,2,264,0,0,None,,None,None,None,2,None,Good
+236,,House,Loft,349000,No,3,172,1,0,None,,None,None,None,,None,Good
+237,,House,Loft,394500,No,3,160,0,,None,,None,None,None,3,None,As new
+238,,House,Loft,395000,No,2,144,1,,None,,None,None,None,,None,
+239,,House,Loft,450000,No,3,290,1,0,None,,None,None,None,1,None,As new
+240,,House,Loft,375000,No,2,131,0,0,None,1,None,None,None,2,None,As new
+241,,House,Loft,226557,No,,meters,0,0,None,,None,None,None,,None,As new
+242,,House,Loft,479000,No,2,298,1,0,None,,None,None,None,2,None,
+243,,House,Loft,750000,No,3,128,1,0,None,,None,None,None,2,None,
+244,,House,Loft,290000,No,,,0,,None,,None,None,None,,None,
+245,,House,Loft,385000,No,3,170,0,0,None,,None,None,None,,None,Just renovated
+246,,House,Loft,95000,No,1,46,0,0,None,,None,None,None,2,None,Just renovated
+247,,House,Loft,510000,No,3,400,1,0,None,1,None,None,None,,None,As new
+248,2000 Antwerpen,House,Loft,3795000,No,4,1120,0,,None,,None,None,None,2,None,
+249,,House,Loft,329000,No,3,400,1,0,None,1,None,None,None,,None,As new
+250,,House,Loft,349000,No,,meters,0,,None,,None,None,None,2,None,To renovate
+251,,House,Loft,450000,No,5,315,0,0,None,,None,None,None,3,None,Good
+252,,House,Loft,202000,No,,meters,0,0,None,,None,None,None,2,None,
+253,,House,Loft,439258,No,2,260,0,,None,,None,None,None,2,None,
+254,DISON,House,Loft,154500,No,2,195,0,,None,,None,None,None,2,None,
+255,Bruxelles (19 communes),House,Loft,175000,No,3,174,0,,None,,None,None,None,2,None,To renovate
+256,Bruxelles (19 communes),House,Loft,239500,No,4,213,0,,None,,None,None,None,2,None,To renovate
+257,,House,Loft,247104,No,,,0,,None,,None,None,None,,None,As new
+258,,House,Loft,262656,No,,,0,,None,,None,None,None,,None,As new
+259,,House,Loft,439258,No,2,260,0,,None,,None,None,None,2,None,
+260,,House,Loft,850000,No,,,0,0,None,,None,None,None,2,None,As new
+261,,House,Loft,325000,No,2,212,0,,None,,None,None,None,,None,
+262,centrum Leuven,House,Loft,699000,No,2,280,0,0,None,,None,None,None,2,None,Good
+263,,House,Loft,1150000,No,4,400,0,,None,1,None,None,None,,None,Just renovated
+264,,House,Loft,689000,No,3,210,0,,None,,None,None,None,2,None,As new
+265,,House,Loft,105000,No,,meters,0,0,None,,None,None,None,3,None,As new
+266,,House,Loft,2500,No,2,,0,0,None,,None,None,None,2,None,
+267,,House,Loft,159500,No,,meters,0,0,None,,None,None,None,4,None,
+268,,House,Loft,975000,No,2,226,0,,None,1,None,None,None,,None,
+269,,House,Loft,164500,No,,meters,0,0,None,,None,None,None,4,None,
+270,,House,Loft,179500,No,3,255,0,0,None,,None,None,None,4,None,
+271,,House,Loft,250000,No,1,,0,,None,,None,None,None,,None,
+272,,House,Loft,325000,No,,meters,0,,None,,None,None,None,,None,As new
+273,,House,Loft,230000,No,3,185,1,0,None,,None,None,None,4,None,

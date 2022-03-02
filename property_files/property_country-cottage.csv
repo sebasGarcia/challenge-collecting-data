@@ -1,0 +1,284 @@
+,Locality,Type of property,Subtype of property,Price,Type of sale,Number of rooms,Area,Fully equipped kitchen,Furnished,Open fire,Terrace,Garden,Surface of the land,Surface area of the plot of land,Number of facades,Swimming pool,State of the building
+0,Hannut et 5 kms,House,Country,280000,No,3,120,0,0,None,,None,None,None,3,None,As new
+1,,House,Country,249000,No,2,195,0,0,None,,None,None,None,4,None,Good
+2,,House,Country,535000,No,3,224,1,0,None,1,None,None,None,4,None,Good
+3,,House,Country,279000,No,1,197,0,0,None,,None,None,None,3,None,To renovate
+4,,House,Country,279000,No,1,197,0,0,None,,None,None,None,3,None,To renovate
+5,,House,Country,295000,No,5,168,0,0,None,,None,None,None,2,None,Just renovated
+6,,House,Country,250000,No,4,186,0,0,None,,None,None,None,4,None,To renovate
+7,,House,Country,1000000,No,5,260,0,0,None,,None,None,None,4,None,Good
+8,,House,Country,1750000,No,5,1200,0,0,None,1,None,None,None,4,None,As new
+9,,House,Country,775000,No,6,2000,0,0,None,1,None,None,None,4,None,To renovate
+10,,House,Country,550000,No,4,282,0,0,None,1,None,None,None,4,None,Good
+11,,House,Country,665000,No,5,296,1,0,None,1,None,None,None,4,None,To be done up
+12,,House,Country,200000,No,2,100,0,0,None,,None,None,None,,None,
+13,,House,Country,108000,No,2,56,1,0,None,1,None,None,None,,None,Good
+14,,House,Country,148000,No,2,51,1,0,None,,None,None,None,,None,Good
+15,,House,Country,262000,No,3,147,1,0,None,,None,None,None,4,None,Good
+16,,House,Country,185000,No,3,191,0,0,None,,None,None,None,4,None,To renovate
+17,,House,Country,175000,No,1,55,1,0,None,,None,None,None,,None,Good
+18,,House,Country,390000,No,4,430,0,0,None,,None,None,None,4,None,To be done up
+19,,House,Country,460000,No,2,200,0,0,None,,None,None,None,2,None,To renovate
+20,,House,Country,485000,No,4,225,0,0,None,,None,None,None,,None,Good
+21,,House,Country,795000,No,3,572,0,0,None,1,None,None,None,4,None,To renovate
+22,,House,Country,189000,No,3,200,0,,None,1,None,None,None,4,None,To renovate
+23,,House,Country,635000,No,6,349,0,0,None,1,None,None,None,2,None,As new
+24,,House,Country,209000,No,3,143,0,0,None,,None,None,None,4,None,To renovate
+25,,House,Country,295000,No,3,150,1,0,None,,None,None,None,1,None,As new
+26,,House,Country,495000,No,4,235,1,0,None,,None,None,None,4,None,Good
+27,Graty,House,Country,445000,No,5,232,0,,None,,None,None,None,4,None,To restore
+28,,House,Country,695000,No,5,389,0,0,None,1,None,None,None,,None,As new
+29,,House,Country,445000,No,3,190,0,0,None,,None,None,None,4,None,
+30,,,,None,,,,0,,None,,None,None,None,,None,
+31,,House,Country,650000,No,5,164,0,0,None,,None,None,None,4,None,To renovate
+32,,House,Country,698000,No,3,300,1,0,None,1,None,None,None,4,None,Just renovated
+33,,House,Country,698000,No,3,300,1,0,None,1,None,None,None,4,None,Just renovated
+34,,House,Country,325000,No,4,140,0,0,None,1,None,None,None,,None,To be done up
+35,,House,Country,359000,No,2,110,0,0,None,1,None,None,None,,None,To be done up
+36,,House,Country,1375000,No,5,507,0,0,None,,None,None,None,4,None,Just renovated
+37,,House,Country,470000,No,4,267,0,0,None,1,None,None,None,4,None,As new
+38,,House,Country,495000,No,3,196,1,0,None,,None,None,None,,None,To be done up
+39,,House,Country,495000,No,6,275,0,0,None,1,None,None,None,4,None,Good
+40,,House,Country,588000,No,5,400,0,0,None,,None,None,None,4,None,
+41,,House,Country,200000,No,2,60,1,0,None,,None,None,None,4,None,Just renovated
+42,,House,Country,60000 + 710 per month,No,4,175,1,,None,,None,None,None,3,None,As new
+43,,House,Country,350000,No,3,170,1,0,None,,None,None,None,4,None,As new
+44,,House,Country,Starting price : 300000,No,4,254,1,,None,1,None,None,None,4,None,Good
+45,,House,Country,439000,No,3,165,0,,None,1,None,None,None,4,None,Good
+46,,House,Country,795000,No,7,,0,0,None,1,None,None,None,4,None,Good
+47,,House,Country,1199000,No,4,302,0,0,None,,None,None,None,4,None,As new
+48,,House,Country,410000,No,4,187,1,0,None,,None,None,None,4,None,Good
+49,,House,Country,185000,No,,,0,,None,,None,None,None,4,None,To renovate
+50,Graty,House,Country,245000,No,6,145,0,,None,,None,None,None,4,None,To restore
+51,Enghien,House,Country,245000,No,6,145,0,,None,,None,None,None,4,None,To restore
+52,,House,Country,325000,No,3,113,0,0,None,1,None,None,None,,None,To be done up
+53,,House,Country,439000,No,3,178,1,0,None,,None,None,None,,None,To be done up
+54,,House,Country,109000,No,1,54,1,0,None,,None,None,None,,None,To be done up
+55,,House,Country,299000,No,3,197,0,0,None,1,None,None,None,4,None,As new
+56,,House,Country,325000,No,3,603,0,0,None,1,None,None,None,4,None,To renovate
+57,,House,Country,539000,No,4,480,0,,None,,None,None,None,4,None,To renovate
+58,Ardennes,House,Country,250000,No,4,231,1,0,None,1,None,None,None,3,None,Good
+59,,House,Country,380000,No,3,532,1,0,None,,None,None,None,4,None,To renovate
+60,,House,Country,385000,No,5,788,0,0,None,,None,None,None,4,None,To renovate
+61,,House,Country,750000,No,3,,1,0,None,,None,None,None,,None,To renovate
+62,,House,Country,1250000,No,7,530,1,1,None,1,None,None,None,,None,As new
+63,,House,Country,3300000,No,4,500,1,0,None,,None,None,None,4,None,Good
+64,,House,Country,3300000,No,4,500,1,0,None,,None,None,None,4,None,Good
+65,,House,Country,122500,No,2,120,0,0,None,,None,None,None,3,None,
+66,,House,Country,140000,No,2,,1,0,None,1,None,None,None,,None,Good
+67,,House,Country,375000,No,3,200,0,0,None,,None,None,None,4,None,Good
+68,,House,Country,369000,No,3,247,1,0,None,1,None,None,None,3,None,Good
+69,,House,Country,415000,No,5,290,0,,None,,None,None,None,4,None,To be done up
+70,,House,Country,495000,No,4,262,0,0,None,,None,None,None,6,None,Good
+71,,House,Country,525000,No,3,386,0,0,None,,None,None,None,,None,To be done up
+72,,House,Country,525000,No,3,386,0,0,None,,None,None,None,,None,To be done up
+73,,House,Country,Starting price : 550000,No,3,,1,,None,1,None,None,None,4,None,Good
+74,,House,Country,358000,No,7,,0,0,None,,None,None,None,4,None,Good
+75,,House,Country,25000,No,3,,0,,None,,None,None,None,3,None,To restore
+76,,House,Country,465000,No,5,144,0,0,None,,None,None,None,4,None,To be done up
+77,,House,Country,495000,No,4,220,0,0,None,,None,None,None,,None,To renovate
+78,,House,Country,289000,No,3,187,1,0,None,1,None,None,None,4,None,Good
+79,Henegouwen,House,Country,489000,No,3,220,0,,None,1,None,None,None,4,None,
+80,,House,Country,1495000,Yes,6,552,1,,None,1,None,None,None,,None,
+81,,House,Country,385000,No,3,153,1,0,None,,None,None,None,4,None,Good
+82,,House,Country,600000,No,3,,0,0,None,,None,None,None,,None,To renovate
+83,,House,Country,1049000,No,4,365,0,,None,1,None,None,None,4,None,As new
+84,,House,Country,1299000,No,4,294,0,0,None,,None,None,None,,None,As new
+85,,,,None,,,,0,,None,,None,None,None,,None,
+86,,House,Country,310000,No,9,765,0,0,None,,None,None,None,,None,
+87,,House,Country,400000,No,2,120,0,0,None,,None,None,None,4,None,Just renovated
+88,,House,Country,1100000,,4,270,0,,None,,None,None,None,4,None,Good
+89,,House,Country,Starting price : 280000,No,3,237,0,,None,,None,None,None,4,None,
+90,,House,Country,420000,No,4,269,1,0,None,1,None,None,None,4,None,
+91,,House,Country,595000,No,4,200,1,0,None,,None,None,None,4,None,Just renovated
+92,,House,Country,169500,No,4,,0,,None,1,None,None,None,,None,To renovate
+93,,House,Country,1845000,,4,391,1,,None,,None,None,None,4,None,Just renovated
+94,,House,Country,290000,No,4,600,0,,None,,None,None,None,3,None,To renovate
+95,,House,Country,300000,No,4,235,0,0,None,,None,None,None,4,None,
+96,,,,None,,,,0,,None,,None,None,None,,None,
+97,,House,Country,199000,No,2,185,0,,None,,None,None,None,,None,
+98,,House,Country,380000,No,3,,0,,None,,None,None,None,,None,To renovate
+99,,House,Country,345000,No,2,233,0,0,None,,None,None,None,4,None,To renovate
+100,,House,Country,532000,No,3,187,0,0,None,,None,None,None,4,None,To renovate
+101,,House,Country,475000,No,4,204,1,0,None,,None,None,None,3,None,
+102,,House,Country,1495000,No,4,850,0,,None,,None,None,None,4,None,To renovate
+103,,House,Country,225000,No,4,150,1,0,None,,None,None,None,3,None,
+104,,House,Country,469000,No,5,,0,,None,1,None,None,None,4,None,
+105,,House,Country,Starting price : 625000,No,9,,0,,None,,None,None,None,,None,
+106,,House,Country,189000,,2,,0,0,None,,None,None,None,3,None,To renovate
+107,,House,Country,490000,No,3,,0,0,None,,None,None,None,4,None,
+108,,House,Country,550000,No,3,,0,,None,,None,None,None,4,None,
+109,,House,Country,180000,No,2,100,0,0,None,,None,None,None,4,None,To renovate
+110,,House,Country,180000,No,2,100,0,0,None,,None,None,None,4,None,To renovate
+111,Hannut et 5 kms,House,Country,340000,No,5,230,0,0,None,,None,None,None,4,None,Good
+112,,House,Country,359000,No,6,396,1,0,None,,None,None,None,4,None,To be done up
+113,,House,Country,275000,No,4,271,0,0,None,1,None,None,None,4,None,Good
+114,,House,Country,390000,No,1,106,0,0,None,,None,None,None,4,None,To renovate
+115,,House,Country,449000,No,4,312,1,0,None,,None,None,None,3,None,As new
+116,Brabant Flamand,House,Country,395000,No,2,270,1,0,None,1,None,None,None,4,None,Good
+117,,House,Country,680000,No,3,315,0,0,None,,None,None,None,4,None,As new
+118,,House,Country,529000,No,3,200,0,0,None,,None,None,None,4,None,As new
+119,,House,Country,1195000,No,4,260,0,0,None,,None,None,None,4,None,Good
+120,,House,Country,239000,No,1,170,0,0,None,,None,None,None,4,None,To restore
+121,,House,Country,259000,No,2,161,0,0,None,1,None,None,None,3,None,Just renovated
+122,,House,Country,398000,No,4,128,0,,None,1,None,None,None,3,None,To renovate
+123,,House,Country,309000,No,3,169,1,0,None,1,None,None,None,,None,As new
+124,,House,Country,260000,No,3,175,0,0,None,,None,None,None,3,None,
+125,MALMEDY,House,Country,275000,No,3,248,0,0,None,,None,None,None,4,None,To renovate
+126,,House,Country,398000,No,2,108,1,0,None,,None,None,None,3,None,Good
+127,,House,Country,1290000,No,6,1100,0,0,None,,None,None,None,4,None,Good
+128,,House,Country,644900,No,3,270,1,0,None,,None,None,None,4,None,As new
+129,,House,Country,975000,No,4,850,1,0,None,,None,None,None,4,None,Good
+130,,House,Country,1500000,No,3,721,0,0,None,1,None,None,None,4,None,Good
+131,,House,Country,699000,Yes,6,475,1,1,None,,None,None,None,,None,Just renovated
+132,,House,Country,415000,No,3,,0,0,None,,None,None,None,4,None,To be done up
+133,,House,Country,650000,No,3,295,1,0,None,,None,None,None,2,None,Good
+134,,House,Country,135000,No,2,116,0,0,None,1,None,None,None,4,None,To renovate
+135,,House,Country,165000,No,2,106,0,0,None,,None,None,None,4,None,To be done up
+136,,House,Country,580000,No,4,193,1,0,None,,None,None,None,4,None,
+137,,House,Country,365000,No,4,154,1,0,None,,None,None,None,,None,
+138,,House,Country,465000,No,2,252,1,,None,,None,None,None,,None,
+139,,House,Country,450000,No,3,,0,0,None,,None,None,None,4,None,As new
+140,,House,Country,1595000,No,7,540,0,0,None,,None,None,None,4,None,As new
+141,,House,Country,345000,No,5,275,1,,None,1,None,None,None,3,None,Good
+142,,House,Country,445000,No,3,,1,0,None,,None,None,None,3,None,Just renovated
+143,,House,Country,995000,No,4,337,0,1,None,1,None,None,None,4,None,
+144,,House,Country,199000,No,4,281,0,0,None,,None,None,None,3,None,
+145,,House,Country,469000,No,4,200,0,0,None,,None,None,None,4,None,Good
+146,,House,Country,350000,No,3,,1,0,None,,None,None,None,4,None,Good
+147,,House,Country,395000,No,3,450,0,,None,,None,None,None,4,None,To renovate
+148,,House,Country,795000,No,6,402,0,0,None,,None,None,None,4,None,
+149,,House,Country,249000,No,2,135,0,0,None,,None,None,None,,None,
+150,,House,Country,375000,No,4,240,1,0,None,,None,None,None,4,None,Good
+151,,House,Country,375000,No,9,423,0,0,None,,None,None,None,4,None,To be done up
+152,,House,Country,260000,No,3,320,0,0,None,,None,None,None,3,None,
+153,,House,Country,260000,No,3,324,0,0,None,,None,None,None,3,None,
+154,,House,Country,350000,No,3,150,1,,None,,None,None,None,4,None,As new
+155,,House,Country,650000,,5,340,0,,None,1,None,None,None,4,None,Good
+156,,House,Country,1500000,Yes,30,800,1,0,None,,None,None,None,4,None,Good
+157,,House,Country,1750000,No,4,389,0,0,None,,None,None,None,4,None,As new
+158,,House,Country,275000,No,4,200,0,0,None,,None,None,None,4,None,To be done up
+159,,House,Country,345000,No,3,169,0,0,None,,None,None,None,4,None,
+160,,House,Country,230000,No,3,,1,0,None,,None,None,None,2,None,Good
+161,,House,Country,495000,No,5,330,0,,None,1,None,None,None,4,None,As new
+162,,House,Country,930000,No,7,,0,0,None,,None,None,None,4,None,To renovate
+163,,House,Country,449000,No,3,,0,0,None,,None,None,None,4,None,To renovate
+164,,House,Country,169500,No,4,,0,,None,1,None,None,None,,None,To renovate
+165,,House,Country,249000,No,2,122,0,0,None,,None,None,None,4,None,Good
+166,,House,Country,785000,No,3,,1,0,None,,None,None,None,2,None,Good
+167,,House,Country,300000,No,4,172,0,0,None,,None,None,None,3,None,To renovate
+168,Wanne,House,Country,499500,No,3,220,0,,None,1,None,None,None,4,None,As new
+169,,House,Country,190000,No,5,165,0,0,None,,None,None,None,4,None,To restore
+170,,House,Country,295000,No,1,365,0,0,None,,None,None,None,4,None,To renovate
+171,,House,Country,480000,No,4,210,0,0,None,,None,None,None,2,None,To renovate
+172,,House,Country,440000,No,6,280,0,0,None,1,None,None,None,4,None,To renovate
+173,,House,Country,349000,No,3,237,1,0,None,,None,None,None,4,None,As new
+174,,House,Country,199000,No,6,300,0,0,None,,None,None,None,3,None,To renovate
+175,,House,Country,325000,No,6,300,0,0,None,,None,None,None,3,None,To renovate
+176,,House,Country,395000,No,6,296,0,0,None,,None,None,None,4,None,To be done up
+177,,House,Country,219000,No,2,,0,0,None,1,None,None,None,3,None,To be done up
+178,,House,Country,940000,No,4,466,0,0,None,,None,None,None,4,None,
+179,,House,Country,1275000,No,5,353,0,0,None,1,None,None,None,4,None,Good
+180,,House,Country,229000,No,3,165,0,0,None,,None,None,None,3,None,Good
+181,,House,Country,385000,No,4,310,1,,None,,None,None,None,4,None,Good
+182,,House,Country,610000,No,4,235,1,0,None,,None,None,None,3,None,Good
+183,,House,Country,110000,No,2,55,0,0,None,,None,None,None,,None,As new
+184,,House,Country,85000,No,2,67,1,0,None,,None,None,None,,None,Good
+185,,House,Country,175000,No,4,112,0,0,None,,None,None,None,4,None,
+186,,House,Country,549000,No,2,220,1,0,None,,None,None,None,4,None,Good
+187,,House,Country,585000,No,2,,0,0,None,,None,None,None,4,None,To renovate
+188,,House,Country,165000,No,3,125,0,0,None,,None,None,None,3,None,To be done up
+189,,House,Country,315000,No,4,217,0,0,None,,None,None,None,4,None,Just renovated
+190,,House,Country,445000,No,3,800,1,0,None,,None,None,None,4,None,Good
+191,,House,Country,650000,No,3,328,0,,None,1,None,None,None,4,None,Good
+192,,House,Country,1150000,,3,368,1,0,None,1,None,None,None,4,None,As new
+193,,House,Country,1295000,No,5,536,0,,None,1,None,None,None,4,None,As new
+194,,House,Country,260000,No,3,562,0,0,None,,None,None,None,3,None,To renovate
+195,,House,Country,469000,No,4,160,0,0,None,,None,None,None,4,None,
+196,Moorslede,House,Country,675000,No,6,450,0,0,None,1,None,None,None,4,None,Good
+197,,House,Country,500000,No,5,520,0,0,None,,None,None,None,4,None,To renovate
+198,,House,Country,299000,No,5,246,1,0,None,1,None,None,None,4,None,Good
+199,,House,Country,199000,No,2,100,0,0,None,,None,None,None,3,None,To renovate
+200,,House,Country,279000,No,3,125,0,0,None,,None,None,None,3,None,To renovate
+201,,House,Country,295000,No,2,150,0,,None,,None,None,None,4,None,To be done up
+202,,House,Country,340000,No,4,285,0,0,None,,None,None,None,2,None,Just renovated
+203,,House,Country,776000,No,2,270,0,0,None,,None,None,None,4,None,
+204,,House,Country,410000,No,5,195,0,0,None,,None,None,None,4,None,Just renovated
+205,,House,Country,1280000,No,5,650,0,0,None,1,None,None,None,4,None,To be done up
+206,,House,Country,225000,No,5,160,0,0,None,,None,None,None,4,None,To be done up
+207,,House,Country,145000,,3,150,0,0,None,,None,None,None,3,None,To renovate
+208,,House,Country,260000,No,2,180,0,,None,1,None,None,None,3,None,To renovate
+209,,House,Country,299000,No,3,240,0,,None,1,None,None,None,4,None,To renovate
+210,Ardenne,House,Country,310000,No,4,250,0,,None,,None,None,None,4,None,To renovate
+211,,House,Country,329000,No,5,246,1,0,None,1,None,None,None,4,None,Good
+212,,House,Country,990000,No,4,305,0,0,None,,None,None,None,4,None,Good
+213,,House,Country,330000,No,5,300,0,0,None,,None,None,None,3,None,To renovate
+214,,House,Country,430000,No,3,500,0,0,None,1,None,None,None,4,None,To renovate
+215,,House,Country,490000,No,6,350,1,0,None,,None,None,None,4,None,To be done up
+216,,House,Country,1195000,No,5,300,0,,None,1,None,None,None,4,None,
+217,,House,Country,450000,,1,160,0,,None,1,None,None,None,4,None,Good
+218,,House,Country,375000,No,2,130,0,,None,,None,None,None,3,None,
+219,,House,Country,560000,No,3,,1,0,None,1,None,None,None,4,None,Good
+220,,House,Country,560000,No,6,306,0,0,None,,None,None,None,4,None,To be done up
+221,,House,Country,650000,No,3,115,0,0,None,,None,None,None,4,None,To renovate
+222,Seron,House,Country,300000,,4,133,0,,None,,None,None,None,4,None,Good
+223,,House,Country,455000,,2,165,1,,None,,None,None,None,4,None,Good
+224,,House,Country,335000,,3,165,1,,None,,None,None,None,4,None,To renovate
+225,,House,Country,269000,No,3,214,1,0,None,1,None,None,None,3,None,To renovate
+226,,House,Country,599000,No,3,173,1,0,None,,None,None,None,4,None,
+227,,House,Country,385000,No,5,679,0,0,None,,None,None,None,,None,
+228,,House,Country,425000,No,4,210,0,0,None,,None,None,None,4,None,
+229,,House,Country,550000,,3,300,1,,None,1,None,None,None,4,None,Good
+230,,House,Country,850000,No,4,216,1,0,None,,None,None,None,4,None,
+231,,House,Country,2699000,No,4,272,0,0,None,1,None,None,None,4,None,As new
+232,,House,Country,395000,No,3,,0,,None,,None,None,None,4,None,Just renovated
+233,Thulin,House,Country,139000,Yes,5,,0,,None,,None,None,None,,None,To renovate
+234,,House,Country,275000,No,3,190,0,0,None,,None,None,None,,None,
+235,,House,Country,950000,No,4,390,1,0,None,,None,None,None,4,None,To renovate
+236,,House,Country,160000,,2,88,0,,None,,None,None,None,3,None,To renovate
+237,,House,Country,300000,,4,350,0,,None,,None,None,None,4,None,Good
+238,,House,Country,299000,No,2,,0,,None,,None,None,None,,None,To be done up
+239,,House,Country,135000,No,1,,0,0,None,,None,None,None,,None,
+240,,House,Country,192500,,2,92,0,0,None,,None,None,None,4,None,To renovate
+241,,House,Country,267500,,3,160,0,0,None,1,None,None,None,4,None,Just renovated
+242,,House,Country,550000,,3,300,1,,None,1,None,None,None,4,None,Good
+243,Thulin,House,Country,139000,Yes,5,,0,,None,,None,None,None,,None,To renovate
+244,,House,Country,365000,No,3,310,0,,None,,None,None,None,4,None,Good
+245,Ardenne,House,Country,149500,No,4,209,0,,None,,None,None,None,4,None,To renovate
+246,,House,Country,360000,No,3,115,0,0,None,,None,None,None,4,None,To renovate
+247,,,,None,,,,0,,None,,None,None,None,,None,
+248,,House,Country,575000,No,6,450,0,,None,,None,None,None,4,None,To renovate
+249,,House,Country,649000,No,2,150,0,,None,1,None,None,None,,None,As new
+250,,House,Country,438000,No,2,,0,0,None,,None,None,None,4,None,
+251,,House,Country,240000,No,2,150,0,,None,,None,None,None,4,None,Good
+252,,House,Country,345000,No,4,180,1,,None,,None,None,None,,None,
+253,,House,Country,730000,No,5,300,0,,None,1,None,None,None,,None,
+254,,House,Country,250000,Yes,5,,0,,None,1,None,None,None,3,None,As new
+255,,House,Country,260000,No,2,,0,0,None,,None,None,None,4,None,To restore
+256,,House,Country,525000,No,4,240,1,0,None,,None,None,None,4,None,
+257,,,,None,,,,0,,None,,None,None,None,,None,
+258,,House,Country,100000,No,3,160,0,,None,,None,None,None,4,None,To restore
+259,,House,Country,250000,No,4,170,1,,None,1,None,None,None,3,None,Good
+260,,House,Country,375000,Yes,2,,0,1,None,,None,None,None,4,None,As new
+261,,House,Country,275000,,5,,0,,None,1,None,None,None,2,None,Good
+262,,House,Country,302500,No,4,,0,,None,1,None,None,None,4,None,
+263,,House,Country,550000,No,4,500,0,0,None,,None,None,None,,None,
+264,,House,Country,1525000,No,5,252,0,,None,1,None,None,None,4,None,
+265,,House,Country,650000,No,3,,0,,None,,None,None,None,4,None,Good
+266,,House,Country,275000,No,2,,0,,None,,None,None,None,,None,
+267,,House,Country,130000,,3,112,0,,None,,None,None,None,4,None,To renovate
+268,,House,Country,235000,,4,250,0,0,None,,None,None,None,4,None,
+269,,House,Country,795000,No,8,366,0,,None,1,None,None,None,4,None,
+270,,House,Country,510000,No,1,,0,0,None,,None,None,None,4,None,To renovate
+271,,House,Country,487000,No,4,242,0,0,None,1,None,None,None,4,None,As new
+272,,House,Country,325000,No,4,,0,,None,,None,None,None,4,None,As new
+273,,House,Country,200000,No,3,,0,,None,,None,None,None,,None,
+274,,House,Country,700000,No,4,,0,0,None,,None,None,None,4,None,Just renovated
+275,,House,Country,1300000,No,6,,0,,None,,None,None,None,4,None,
+276,,House,Country,1300000,No,6,,0,,None,,None,None,None,4,None,
+277,,House,Country,220000,No,3,,0,,None,,None,None,None,,None,
+278,,House,Country,150000,No,4,190,1,0,None,,None,None,None,4,None,
+279,,House,Country,550000,No,3,,0,,None,,None,None,None,4,None,To renovate
+280,,House,Country,250000,No,,,0,,None,,None,None,None,,None,To renovate
+281,,House,Country,600000,No,3,,0,,None,,None,None,None,4,None,
+282,,House,Country,644500,No,2,,0,,None,,None,None,None,4,None,

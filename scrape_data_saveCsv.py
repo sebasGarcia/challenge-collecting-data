@@ -1,14 +1,22 @@
-import requests
 import pandas as pd
 import numpy as np
+import requests
+
 from bs4 import BeautifulSoup
+from typing import List
 
 
-#Work in progress: try to get the missing data, Locality also not showing, just like area, swimming pool..
-#Note: Some data is set as default empty because for now I haven't found a way to get that data, I will try..
+# Work in progress: try to get the missing data, Locality also not showing, just like area, swimming pool..
+# Note: Some data is set as default empty because for now I haven't found a way to get that data, I will try..
 
-def getDataFrame(my_urls):
-    
+
+def getDataFrame(my_urls: List[str]):
+    """
+    Function that takes list of urls and scrapes the needed data from the given list of urls.
+
+    :params my_urls as list of str
+    """
+
     headers_df = [
         "Locality",
         "Type of property",
@@ -27,39 +35,31 @@ def getDataFrame(my_urls):
         "Number of facades",
         "Swimming pool",
         "State of the building",
-        ]
+    ]
 
     df = pd.DataFrame(columns=headers_df)
-    
+
     for my_url in my_urls:
         url = my_url
         r = requests.get(url)
 
         soup = BeautifulSoup(r.text, "html.parser")
-        
+
         area = None
-        more_info = soup.find("p", attrs={'class':"classified__information--property"})
-        if(more_info != None):
-            if(len(more_info.text.split()) > 3):
+        more_info = soup.find("p", attrs={"class": "classified__information--property"})
+        if more_info != None:
+            if len(more_info.text.split()) > 3:
                 area = more_info.text.split()[3]
-
-
 
         table = soup.findAll("table", {"class": "classified-table"})
 
         pre_type_property = soup.find("h1", {"class": "classified__title"})
         if pre_type_property:
-            type_property = (
-                pre_type_property
-                .text.strip()
-                .replace("\n", "")
-                .split()[0]
-            )
+            type_property = pre_type_property.text.strip().replace("\n", "").split()[0]
         else:
             type_property = None
 
         subtype_property = type_property
-
 
         price = soup.find("span", {"class": "sr-only"})
 
@@ -79,9 +79,11 @@ def getDataFrame(my_urls):
                 if row is not None:
 
                     header_row = row.find(
-                    "th", class_="classified-table__header", text=True
+                        "th", class_="classified-table__header", text=True
                     )
-                    data_row = row.find("td", class_="classified-table__data", text=True)
+                    data_row = row.find(
+                        "td", class_="classified-table__data", text=True
+                    )
 
                     if header_row is not None and data_row is not None:
                         header_name = str(header_row.string).strip()
@@ -89,12 +91,10 @@ def getDataFrame(my_urls):
 
                         my_dict[header_name] = column_name
 
-                        
-    
         locality = my_dict.get("Neighbourhood or locality")
-        type_sale= my_dict.get("Tenement building")
+        type_sale = my_dict.get("Tenement building")
         numbers_rooms = my_dict.get("Bedrooms")
-    
+
         if my_dict.get("Kitchen type") == "Installed":
 
             kitchen = 1
@@ -114,23 +114,23 @@ def getDataFrame(my_urls):
         swimming_pool = ""
         state_building = my_dict.get("Building condition")
         my_list = [
-        locality,
-        type_property,
-        subtype_property,
-        price,
-        type_sale,
-        numbers_rooms,
-        area,
-        kitchen,
-        furnished,
-        open_fire,
-        terrace,
-        garden,
-        surface_of_land,
-        surface_plot_land,
-        number_facades,
-        swimming_pool,
-        state_building,
+            locality,
+            type_property,
+            subtype_property,
+            price,
+            type_sale,
+            numbers_rooms,
+            area,
+            kitchen,
+            furnished,
+            open_fire,
+            terrace,
+            garden,
+            surface_of_land,
+            surface_plot_land,
+            number_facades,
+            swimming_pool,
+            state_building,
         ]
 
         # Create new dictionary from headers_df and my_list
@@ -138,20 +138,21 @@ def getDataFrame(my_urls):
 
         df = df.append(new_row, ignore_index=True)
         # Replaces Yes and No for 1/0
-        df['Terrace'] = np.where(df["Terrace"] == 'Yes', '1' , df['Terrace'] )
-        df['Terrace'] = np.where(df["Terrace"] == 'No', '0' , df['Terrace'] )
-        df["Furnished"] = np.where(df["Furnished"] == 'Yes', '1' , df["Furnished"] )
-        df["Furnished"] = np.where(df["Furnished"] == 'No', '0' , df["Furnished"] )
+        df["Terrace"] = np.where(df["Terrace"] == "Yes", "1", df["Terrace"])
+        df["Terrace"] = np.where(df["Terrace"] == "No", "0", df["Terrace"])
+        df["Furnished"] = np.where(df["Furnished"] == "Yes", "1", df["Furnished"])
+        df["Furnished"] = np.where(df["Furnished"] == "No", "0", df["Furnished"])
 
         # Convert all empty strings to None
         df = df.replace(r"^\s*$", "None", regex=True)
-    
+
     df
     df.head()
-       # print(df.head())
+    # print(df.head())
 
     return df
     # list of urls to test
+
 
 # my_url_list = [
 #     "https://www.immoweb.be/en/classified/house/for-sale/merelbeke/9820/9768055?searchId=621c8a1b690a0",
@@ -161,24 +162,24 @@ def getDataFrame(my_urls):
 #     "https://www.immoweb.be/en/classified/house/for-sale/hoogstraten/2320/9780998?searchId=621e81bd33bc2",
 # ]
 
-def get_url_list(name):
-    prop =  pd.read_csv(f'url files/urls_{name}')
+
+def get_url_list(name: str) -> List[str]:
+    """
+    Function that takes a name and returns a list of urls form the file with that name
+
+    :params name as str
+    """
+    prop = pd.read_csv(f"url files/urls_{name}")
     return np.array(prop).reshape((prop.size))[1::2]
 
-#df = getDataFrame(my_url_list)
 
-#def saveTocsv(myDataFrame):
-    
-#    myDataFrame.to_csv('properties.csv', index=False)
-    
-#saveTocsv(df)
-
-#df_saved_file = pd.read_csv('properties.csv')
-#print(df_saved_file)
-
-def create_new_csv(name):
+def create_new_csv(name: str):
+    """
+    Function that takes a name refering to one of the url files and creates a .csv file with the related data
+    """
     my_url_list = get_url_list(name)
-    df = getDataFrame(my_url_list) 
-    df.to_csv(f'property_files/property_{name}.csv') 
+    df = getDataFrame(my_url_list)
+    df.to_csv(f"property_files/property_{name}.csv")
 
-create_new_csv('chalet')
+
+create_new_csv("other-property")

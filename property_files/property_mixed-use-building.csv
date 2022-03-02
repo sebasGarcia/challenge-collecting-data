@@ -1,0 +1,1290 @@
+,Locality,Type of property,Subtype of property,Price,Type of sale,Number of rooms,Area,Fully equipped kitchen,Furnished,Open fire,Terrace,Garden,Surface of the land,Surface area of the plot of land,Number of facades,Swimming pool,State of the building
+0,Brussel (19 gemeenten),House,Mixed-use,425000,Yes,2,220,0,0,None,,None,None,None,2,None,To be done up
+1,Grand Liège,House,Mixed-use,139000,Yes,1,97,1,0,None,,None,None,None,3,None,As new
+2,Liège environs,House,Mixed-use,189000,Yes,2,141,0,0,None,,None,None,None,3,None,To be done up
+3,,House,Mixed-use,199000,Yes,2,191,0,0,None,,None,None,None,3,None,Good
+4,Grand Liège,House,Mixed-use,209000,Yes,5,208,0,0,None,,None,None,None,3,None,To renovate
+5,Zone Centre Province du Luxembourg,House,Mixed-use,230000,Yes,3,144,0,0,None,,None,None,None,3,None,Good
+6,,House,Mixed-use,385000,Yes,4,200,0,0,None,,None,None,None,2,None,Good
+7,,House,Mixed-use,759000,Yes,6,452,0,,None,1,None,None,None,2,None,Good
+8,Bruxelles (19 communes),House,Mixed-use,1350000,Yes,5,380,0,0,None,,None,None,None,3,None,Just renovated
+9,,House,Mixed-use,995000,Yes,11,435,1,0,None,1,None,None,None,2,None,Good
+10,,House,Mixed-use,1350000,Yes,3,490,0,0,None,,None,None,None,2,None,To be done up
+11,Basse Meuse,House,Mixed-use,149000,Yes,3,134,0,0,None,,None,None,None,3,None,To be done up
+12,Liège,House,Mixed-use,315000,Yes,3,341,1,0,None,,None,None,None,3,None,To be done up
+13,,House,Mixed-use,349000,Yes,2,228,1,0,None,,None,None,None,3,None,Just renovated
+14,Bruxelles,House,Mixed-use,399000,Yes,2,192,0,0,None,,None,None,None,2,None,To be done up
+15,Sud  Bruxelles,House,Mixed-use,479000,Yes,5,360,0,0,None,,None,None,None,2,None,To renovate
+16,Bruxelles (19 communes),House,Mixed-use,599000,Yes,3,270,0,0,None,,None,None,None,4,None,As new
+17,Européen,House,Mixed-use,1200000,Yes,3,568,1,0,None,,None,None,None,2,None,Just renovated
+18,Liège environs,House,Mixed-use,149000,Yes,3,400,0,0,None,,None,None,None,2,None,To renovate
+19,,House,Mixed-use,305000,Yes,5,245,0,0,None,,None,None,None,2,None,To renovate
+20,Grand Liège,House,Mixed-use,200000,Yes,3,550,1,0,None,,None,None,None,2,None,To renovate
+21,Grand Liège,House,Mixed-use,239000,Yes,2,110,1,0,None,,None,None,None,2,None,Good
+22,Bruxelles,House,Mixed-use,589000,Yes,2,280,0,0,None,,None,None,None,2,None,Just renovated
+23,Zone Nord Province du Luxembourg,House,Mixed-use,639000,Yes,5,247,1,0,None,,None,None,None,4,None,Good
+24,Toutes les communes,House,Mixed-use,695000,Yes,5,256,1,0,None,,None,None,None,2,None,Good
+25,Zone Province de Liège,House,Mixed-use,798000,Yes,14,808,0,1,None,,None,None,None,4,None,As new
+26,,House,Mixed-use,189000,Yes,4,252,1,0,None,,None,None,None,3,None,To restore
+27,,House,Mixed-use,325000,Yes,4,420,0,0,None,,None,None,None,2,None,To renovate
+28,,House,Mixed-use,695000,Yes,4,255,1,0,None,,None,None,None,2,None,Good
+29,,House,Mixed-use,880000,Yes,4,437,0,0,None,,None,None,None,4,None,As new
+30,Bruxelles (19 communes),House,Mixed-use,910000,Yes,5,406,1,0,None,,None,None,None,2,None,As new
+31,,House,Mixed-use,980000,Yes,9,530,0,1,None,1,None,None,None,4,None,Good
+32,,House,Mixed-use,980000,Yes,9,530,0,1,None,1,None,None,None,4,None,Good
+33,Bruxelles Sud,House,Mixed-use,1295000,Yes,5,782,0,0,None,,None,None,None,2,None,As new
+34,,House,Mixed-use,319000,Yes,5,210,0,0,None,,None,None,None,2,None,
+35,,House,Mixed-use,499500,Yes,3,150,1,0,None,1,None,None,None,2,None,Good
+36,,House,Mixed-use,598000,Yes,7,600,1,0,None,,None,None,None,3,None,Good
+37,,House,Mixed-use,1795000,Yes,3,175,0,0,None,,None,None,None,3,None,To be done up
+38,Bruxelles (19 communes),House,Mixed-use,360000,Yes,2,145,0,1,None,,None,None,None,2,None,To renovate
+39,,House,Mixed-use,900000,Yes,4,625,1,0,None,1,None,None,None,4,None,Good
+40,,House,Mixed-use,495000,Yes,3,237,1,0,None,1,None,None,None,2,None,Good
+41,,House,Mixed-use,175000,Yes,,meters,0,0,None,,None,None,None,2,None,To renovate
+42,,House,Mixed-use,99000,Yes,3,284,0,0,None,,None,None,None,2,None,To renovate
+43,Zone Province de Liège,House,Mixed-use,99000,Yes,2,120,0,0,None,,None,None,None,3,None,To restore
+44,,House,Mixed-use,310000,Yes,4,183,0,0,None,,None,None,None,3,None,To renovate
+45,,House,Mixed-use,440000,Yes,2,195,0,0,None,,None,None,None,2,None,To be done up
+46,,House,Mixed-use,595000,Yes,3,198,0,0,None,,None,None,None,3,None,Good
+47,,House,Mixed-use,898000,Yes,6,550,1,0,None,,None,None,None,2,None,Good
+48,,House,Mixed-use,920000,Yes,,meters,1,,None,,None,None,None,,None,As new
+49,Bruxelles,House,Mixed-use,1150000,Yes,4,260,0,,None,1,None,None,None,2,None,As new
+50,,House,Mixed-use,149000,Yes,2,63,1,0,None,,None,None,None,,None,Good
+51,,House,Mixed-use,179000,Yes,3,200,0,0,None,,None,None,None,3,None,To renovate
+52,,House,Mixed-use,239000,Yes,5,316,0,0,None,,None,None,None,2,None,Good
+53,,House,Mixed-use,249750,Yes,4,175,1,0,None,,None,None,None,3,None,Good
+54,,House,Mixed-use,290000,Yes,3,470,0,0,None,1,None,None,None,2,None,To be done up
+55,,House,Mixed-use,320000,Yes,5,174,0,0,None,,None,None,None,2,None,Good
+56,,House,Mixed-use,460000,Yes,3,145,1,0,None,,None,None,None,2,None,
+57,,House,Mixed-use,1100000,Yes,5,401,1,0,None,,None,None,None,4,None,As new
+58,,House,Mixed-use,3200000,Yes,,meters,1,0,None,1,None,None,None,2,None,Good
+59,,House,Mixed-use,695000,Yes,4,205,0,0,None,,None,None,None,2,None,Just renovated
+60,,House,Mixed-use,225000,Yes,3,93,0,0,None,,None,None,None,2,None,Good
+61,,House,Mixed-use,995000,Yes,4,600,1,0,None,1,None,None,None,4,None,Good
+62,,House,Mixed-use,995000,Yes,4,600,1,0,None,1,None,None,None,4,None,Good
+63,,House,Mixed-use,200000,Yes,2,152,0,0,None,,None,None,None,2,None,To renovate
+64,,House,Mixed-use,279000,Yes,,meters,0,0,None,,None,None,None,3,None,To renovate
+65,,House,Mixed-use,299000,Yes,,,0,,None,,None,None,None,2,None,Good
+66,,House,Mixed-use,330000,Yes,2,185,1,0,None,1,None,None,None,2,None,To be done up
+67,,House,Mixed-use,499000,Yes,,meters,1,0,None,1,None,None,None,2,None,Good
+68,,House,Mixed-use,580000,Yes,6,544,1,0,None,,None,None,None,2,None,Just renovated
+69,,House,Mixed-use,680000,Yes,6,578,1,0,None,,None,None,None,2,None,To be done up
+70,,House,Mixed-use,995000,Yes,3,417,0,0,None,,None,None,None,4,None,
+71,,House,Mixed-use,595000,Yes,3,367,0,0,None,1,None,None,None,3,None,
+72,,House,Mixed-use,249000,Yes,2,147,1,0,None,,None,None,None,3,None,Good
+73,Zone Nord Province du Luxembourg,House,Mixed-use,289000,Yes,2,,0,0,None,,None,None,None,3,None,Good
+74,,House,Mixed-use,550000,Yes,5,280,1,0,None,,None,None,None,,None,
+75,,House,Mixed-use,759000,Yes,,meters,0,0,None,,None,None,None,2,None,Good
+76,,House,Mixed-use,795000,Yes,3,572,0,0,None,1,None,None,None,4,None,To renovate
+77,,House,Mixed-use,279000,Yes,3,120,1,0,None,,None,None,None,2,None,Good
+78,,House,Mixed-use,140000,Yes,2,200,0,,None,,None,None,None,3,None,To renovate
+79,,House,Mixed-use,290000,Yes,4,145,0,0,None,,None,None,None,2,None,To be done up
+80,,House,Mixed-use,497500,Yes,5,,0,0,None,,None,None,None,2,None,To renovate
+81,,House,Mixed-use,614000,Yes,3,260,1,,None,,None,None,None,,None,As new
+82,,House,Mixed-use,849000,Yes,3,374,1,0,None,,None,None,None,3,None,To renovate
+83,,House,Mixed-use,880000,Yes,6,,0,0,None,,None,None,None,2,None,To renovate
+84,,House,Mixed-use,1495000,Yes,4,460,0,0,None,,None,None,None,4,None,
+85,Hainaut,House,Mixed-use,350000,Yes,6,280,0,,None,,None,None,None,2,None,To renovate
+86,,House,Mixed-use,199000,Yes,3,206,0,0,None,1,None,None,None,2,None,Good
+87,,House,Mixed-use,229000,Yes,3,207,0,0,None,,None,None,None,2,None,Good
+88,,House,Mixed-use,355000,Yes,4,,0,0,None,,None,None,None,,None,Good
+89,,House,Mixed-use,360000,Yes,4,238,1,0,None,,None,None,None,2,None,Just renovated
+90,,,,None,,,,0,,None,,None,None,None,,None,
+91,,House,Mixed-use,395000,Yes,4,243,1,0,None,,None,None,None,2,None,Good
+92,,House,Mixed-use,415000,Yes,4,315,0,,None,1,None,None,None,2,None,Good
+93,,House,Mixed-use,429000,Yes,5,351,0,0,None,,None,None,None,2,None,As new
+94,,House,Mixed-use,449000,Yes,3,188,1,0,None,,None,None,None,2,None,Good
+95,,House,Mixed-use,460000,Yes,5,1500,1,0,None,,None,None,None,3,None,To renovate
+96,,House,Mixed-use,485000,Yes,4,479,1,0,None,,None,None,None,,None,
+97,,House,Mixed-use,495000,Yes,4,150,1,0,None,,None,None,None,2,None,As new
+98,,House,Mixed-use,725000,Yes,6,377,0,0,None,,None,None,None,2,None,To renovate
+99,,House,Mixed-use,725000,Yes,6,377,0,0,None,,None,None,None,2,None,To renovate
+100,,House,Mixed-use,799000,Yes,5,411,0,0,None,,None,None,None,2,None,Good
+101,Liège,House,Mixed-use,1090000,Yes,3,668,0,0,None,,None,None,None,4,None,Good
+102,,House,Mixed-use,1295000,Yes,6,474,0,0,None,,None,None,None,3,None,To be done up
+103,,House,Mixed-use,1350000,Yes,6,300,0,0,None,,None,None,None,2,None,
+104,,House,Mixed-use,240000,Yes,4,250,0,0,None,,None,None,None,3,None,To be done up
+105,,House,Mixed-use,3200000,Yes,1,1425,1,0,None,,None,None,None,2,None,Good
+106,,House,Mixed-use,3200000,Yes,1,1425,1,0,None,,None,None,None,2,None,Good
+107,,House,Mixed-use,249000,Yes,2,192,0,,None,1,None,None,None,2,None,Good
+108,,House,Mixed-use,189000,Yes,3,225,0,0,None,,None,None,None,3,None,To be done up
+109,,House,Mixed-use,295000,Yes,4,214,1,0,None,,None,None,None,2,None,Good
+110,,House,Mixed-use,325000,Yes,,meters,0,0,None,,None,None,None,2,None,Good
+111,,House,Mixed-use,475000,Yes,3,130,0,0,None,,None,None,None,2,None,To be done up
+112,,House,Mixed-use,518000,Yes,5,363,0,,None,,None,None,None,2,None,Good
+113,,House,Mixed-use,549000,Yes,2,250,0,0,None,,None,None,None,2,None,To be done up
+114,,House,Mixed-use,699000,Yes,4,448,0,0,None,,None,None,None,3,None,Good
+115,,House,Mixed-use,875000,Yes,4,440,1,0,None,,None,None,None,3,None,Good
+116,,House,Mixed-use,1350000,Yes,17,,0,1,None,1,None,None,None,4,None,Good
+117,,House,Mixed-use,1350000,Yes,17,,0,1,None,1,None,None,None,4,None,Good
+118,,House,Mixed-use,1350000,Yes,17,,0,1,None,1,None,None,None,4,None,Good
+119,,House,Mixed-use,480000,Yes,6,200,0,0,None,,None,None,None,2,None,To renovate
+120,Liège,House,Mixed-use,445000,Yes,2,281,1,,None,,None,None,None,3,None,Good
+121,,House,Mixed-use,224000,Yes,2,72,0,0,None,,None,None,None,2,None,Good
+122,,House,Mixed-use,385000,Yes,2,221,0,0,None,,None,None,None,3,None,As new
+123,,House,Mixed-use,455000,Yes,4,320,1,0,None,1,None,None,None,3,None,Good
+124,,House,Mixed-use,700000,Yes,6,261,0,0,None,,None,None,None,2,None,Good
+125,,House,Mixed-use,899000,Yes,2,280,1,0,None,,None,None,None,4,None,Good
+126,,House,Mixed-use,2500000,Yes,,meters,0,0,None,,None,None,None,2,None,Good
+127,,House,Mixed-use,925000,Yes,7,605,1,0,None,,None,None,None,,None,
+128,,House,Mixed-use,144000,Yes,,meters,0,0,None,,None,None,None,3,None,
+129,,House,Mixed-use,295000,Yes,2,,0,0,None,,None,None,None,3,None,To renovate
+130,,House,Mixed-use,295000,Yes,4,250,0,0,None,,None,None,None,2,None,
+131,Limburg,House,Mixed-use,299000,Yes,4,327,0,0,None,1,None,None,None,4,None,Good
+132,Groot-Gent,House,Mixed-use,335000,Yes,3,394,0,0,None,,None,None,None,3,None,To renovate
+133,,House,Mixed-use,370000,Yes,2,363,0,0,None,1,None,None,None,3,None,To renovate
+134,,House,Mixed-use,599000,Yes,4,482,0,,None,,None,None,None,2,None,To be done up
+135,Bruxelles Centre,House,Mixed-use,2000000,Yes,8,587,0,0,None,,None,None,None,2,None,Good
+136,Liège,House,Mixed-use,259500,Yes,2,165,0,0,None,,None,None,None,2,None,Good
+137,Liège,House,Mixed-use,259500,Yes,2,165,0,0,None,,None,None,None,2,None,Good
+138,,House,Mixed-use,299000,Yes,3,,1,0,None,,None,None,None,,None,To be done up
+139,,House,Mixed-use,345000,Yes,3,128,0,,None,,None,None,None,3,None,As new
+140,Limburg,House,Mixed-use,358000,Yes,,,1,,None,1,None,None,None,2,None,Good
+141,,House,Mixed-use,419000,Yes,,meters,0,,None,,None,None,None,3,None,To be done up
+142,,House,Mixed-use,449000,Yes,5,289,1,0,None,,None,None,None,4,None,To be done up
+143,Wallonne,House,Mixed-use,450000,Yes,3,148,1,0,None,,None,None,None,2,None,Good
+144,,House,Mixed-use,450000,Yes,6,520,0,0,None,,None,None,None,,None,
+145,,House,Mixed-use,495000,Yes,6,275,0,0,None,1,None,None,None,4,None,Good
+146,,House,Mixed-use,550000,Yes,,meters,0,,None,1,None,None,None,4,None,Good
+147,,House,Mixed-use,575000,Yes,5,206,1,0,None,1,None,None,None,4,None,
+148,Grand Liège,House,Mixed-use,199000,Yes,6,278,0,0,None,,None,None,None,2,None,To renovate
+149,,House,Mixed-use,270000,Yes,,meters,0,0,None,,None,None,None,2,None,Good
+150,,House,Mixed-use,385000,Yes,3,240,0,0,None,,None,None,None,4,None,Just renovated
+151,,House,Mixed-use,1395000,Yes,10,470,1,0,None,1,None,None,None,,None,As new
+152,,House,Mixed-use,1650000,Yes,,meters,1,0,None,,None,None,None,4,None,As new
+153,Ninove en deelgemeente,House,Mixed-use,225000,Yes,3,172,0,0,None,,None,None,None,3,None,Good
+154,,House,Mixed-use,630000,Yes,7,600,0,0,None,1,None,None,None,4,None,To renovate
+155,,House,Mixed-use,314836,Yes,3,102,1,0,None,,None,None,None,3,None,As new
+156,,House,Mixed-use,179000,Yes,3,158,0,0,None,,None,None,None,2,None,Good
+157,,House,Mixed-use,235000,Yes,4,215,0,0,None,,None,None,None,2,None,Just renovated
+158,,House,Mixed-use,295000,Yes,4,251,1,0,None,1,None,None,None,2,None,As new
+159,,House,Mixed-use,295000,Yes,4,165,0,0,None,,None,None,None,2,None,Good
+160,,House,Mixed-use,299000,Yes,5,595,0,0,None,,None,None,None,3,None,To be done up
+161,,House,Mixed-use,320000,Yes,3,163,1,0,None,,None,None,None,,None,
+162,,House,Mixed-use,337000,Yes,4,,0,0,None,,None,None,None,2,None,To be done up
+163,,House,Mixed-use,349000,Yes,4,174,0,0,None,,None,None,None,2,None,Good
+164,,House,Mixed-use,375000,Yes,3,215,1,0,None,,None,None,None,3,None,As new
+165,,House,Mixed-use,450000,Yes,6,565,0,,None,,None,None,None,2,None,To renovate
+166,,House,Mixed-use,475000,Yes,4,185,0,0,None,,None,None,None,4,None,As new
+167,,House,Mixed-use,598000,Yes,4,250,1,,None,,None,None,None,4,None,To be done up
+168,,House,Mixed-use,695000,Yes,11,478,0,0,None,,None,None,None,,None,Good
+169,,House,Mixed-use,738000,Yes,4,460,1,0,None,,None,None,None,2,None,Good
+170,,House,Mixed-use,750000,Yes,9,,0,0,None,,None,None,None,4,None,
+171,Zone Nord Province du Luxembourg,House,Mixed-use,750000,Yes,3,,0,,None,1,None,None,None,4,None,As new
+172,,House,Mixed-use,750000,Yes,5,180,0,0,None,,None,None,None,2,None,To be done up
+173,,House,Mixed-use,1190000,Yes,4,421,0,,None,,None,None,None,2,None,As new
+174,,House,Mixed-use,1250000,Yes,18,700,1,0,None,,None,None,None,4,None,Good
+175,,House,Mixed-use,725000,Yes,3,265,0,0,None,,None,None,None,2,None,Good
+176,,House,Mixed-use,88000,Yes,,meters,0,0,None,,None,None,None,3,None,
+177,,House,Mixed-use,185000,Yes,3,160,0,0,None,,None,None,None,3,None,Good
+178,Liège,House,Mixed-use,189500,Yes,3,155,0,0,None,,None,None,None,2,None,Good
+179,Liège,House,Mixed-use,199000,Yes,3,145,1,0,None,,None,None,None,2,None,As new
+180,,House,Mixed-use,209000,Yes,5,427,1,1,None,1,None,None,None,2,None,Good
+181,,House,Mixed-use,259000,Yes,2,216,0,0,None,,None,None,None,3,None,Good
+182,,House,Mixed-use,325000,Yes,3,143,0,0,None,,None,None,None,,None,
+183,,House,Mixed-use,475000,Yes,4,300,0,0,None,1,None,None,None,3,None,Good
+184,,House,Mixed-use,1250000,Yes,10,829,0,0,None,,None,None,None,2,None,As new
+185,,House,Mixed-use,1850000,Yes,4,,0,,None,1,None,None,None,4,None,As new
+186,,House,Mixed-use,495000,Yes,5,,0,0,None,,None,None,None,2,None,
+187,,House,Mixed-use,795000,Yes,,meters,0,0,None,,None,None,None,3,None,Good
+188,,House,Mixed-use,419900,Yes,3,525,0,,None,,None,None,None,2,None,Good
+189,,House,Mixed-use,Starting price : 495000,Yes,3,220,0,,None,,None,None,None,2,None,
+190,,House,Mixed-use,325000,Yes,3,603,0,0,None,1,None,None,None,4,None,To renovate
+191,,House,Mixed-use,339000,Yes,2,262,0,0,None,,None,None,None,2,None,As new
+192,Les Bons Villers,House,Mixed-use,490000,Yes,3,,1,0,None,1,None,None,None,4,None,Good
+193,,House,Mixed-use,495000,Yes,3,230,1,0,None,,None,None,None,3,None,
+194,,House,Mixed-use,750000,Yes,9,,1,0,None,1,None,None,None,3,None,Good
+195,,House,Mixed-use,795000,Yes,6,412,0,0,None,,None,None,None,2,None,Good
+196,,House,Mixed-use,1575000,Yes,6,627,0,0,None,1,None,None,None,2,None,
+197,,House,Mixed-use,1750000,Yes,15,700,0,0,None,,None,None,None,3,None,
+198,,House,Mixed-use,175000,Yes,1,236,1,0,None,1,None,None,None,2,None,To be done up
+199,,House,Mixed-use,497000,Yes,3,265,1,0,None,,None,None,None,,None,As new
+200,Liège,House,Mixed-use,90000,Yes,2,130,0,0,None,,None,None,None,2,None,To renovate
+201,Liège,House,Mixed-use,90000,Yes,2,130,0,0,None,,None,None,None,2,None,To renovate
+202,Liège,House,Mixed-use,150000,Yes,4,159,0,,None,1,None,None,None,2,None,To renovate
+203,,House,Mixed-use,294500,Yes,2,145,0,0,None,,None,None,None,2,None,
+204,Waremme,House,Mixed-use,399000,Yes,5,296,1,0,None,,None,None,None,4,None,To be done up
+205,,House,Mixed-use,649000,Yes,5,265,0,0,None,,None,None,None,3,None,To be done up
+206,,House,Mixed-use,690000,Yes,3,311,0,,None,,None,None,None,4,None,Good
+207,,House,Mixed-use,179000,Yes,4,250,0,0,None,,None,None,None,2,None,To renovate
+208,Jodoigne,House,Mixed-use,349000,Yes,3,,1,0,None,,None,None,None,2,None,Good
+209,,House,Mixed-use,850000,Yes,8,342,0,0,None,,None,None,None,,None,Good
+210,,House,Mixed-use,85000,Yes,3,170,0,0,None,,None,None,None,2,None,To renovate
+211,,House,Mixed-use,218000,Yes,2,94,0,,None,,None,None,None,2,None,As new
+212,,House,Mixed-use,250000,Yes,7,282,0,0,None,,None,None,None,4,None,To renovate
+213,,House,Mixed-use,265000,Yes,,meters,0,0,None,,None,None,None,3,None,
+214,,House,Mixed-use,395000,Yes,,meters,1,0,None,,None,None,None,4,None,Just renovated
+215,,House,Mixed-use,399000,Yes,2,240,1,,None,1,None,None,None,2,None,Good
+216,,House,Mixed-use,495000,Yes,,meters,0,0,None,,None,None,None,2,None,As new
+217,,House,Mixed-use,750000,Yes,,meters,1,0,None,,None,None,None,4,None,Just renovated
+218,,House,Mixed-use,890000,Yes,9,313,1,0,None,,None,None,None,3,None,To renovate
+219,,House,Mixed-use,990000,Yes,7,,0,0,None,,None,None,None,2,None,To be done up
+220,,House,Mixed-use,1500000,Yes,50,2600,0,0,None,,None,None,None,4,None,To be done up
+221,,House,Mixed-use,2817145,Yes,3,3000,0,0,None,,None,None,None,,None,Good
+222,,House,Mixed-use,780000,Yes,5,350,1,,None,,None,None,None,2,None,As new
+223,,House,Mixed-use,1395000,Yes,,meters,0,0,None,,None,None,None,,None,
+224,,House,Mixed-use,574000,Yes,2,195,0,,None,1,None,None,None,2,None,
+225,,House,Mixed-use,No reserve price,Yes,6,205,0,,None,1,None,None,None,2,None,To renovate
+226,,House,Mixed-use,118000,Yes,3,145,1,0,None,1,None,None,None,2,None,To be done up
+227,Liège,House,Mixed-use,164500,Yes,4,216,0,0,None,,None,None,None,3,None,Good
+228,,House,Mixed-use,172400,Yes,2,194,0,0,None,,None,None,None,3,None,To be done up
+229,,House,Mixed-use,189000,Yes,3,105,1,0,None,,None,None,None,2,None,As new
+230,,House,Mixed-use,189000,Yes,5,198,1,0,None,,None,None,None,2,None,Good
+231,,House,Mixed-use,198000,Yes,3,,0,0,None,,None,None,None,2,None,
+232,,House,Mixed-use,200000,Yes,3,180,1,0,None,,None,None,None,2,None,As new
+233,,House,Mixed-use,249500,Yes,1,62,1,0,None,,None,None,None,,None,As new
+234,,House,Mixed-use,275000,Yes,3,240,0,,None,1,None,None,None,2,None,To renovate
+235,,House,Mixed-use,289000,Yes,5,200,0,0,None,1,None,None,None,2,None,Good
+236,,House,Mixed-use,290000,Yes,5,215,1,,None,,None,None,None,4,None,To renovate
+237,,House,Mixed-use,314680,Yes,3,122,0,0,None,,None,None,None,,None,
+238,,House,Mixed-use,450000,Yes,4,474,0,0,None,,None,None,None,,None,
+239,,House,Mixed-use,550000,Yes,1,650,0,0,None,,None,None,None,3,None,Good
+240,,House,Mixed-use,575000,Yes,6,358,0,0,None,,None,None,None,,None,
+241,,House,Mixed-use,625000,Yes,4,,0,0,None,,None,None,None,4,None,To be done up
+242,,House,Mixed-use,720000,Yes,6,320,0,0,None,,None,None,None,,None,
+243,Regio Tienen,House,Mixed-use,849000,Yes,9,850,0,0,None,,None,None,None,2,None,Good
+244,,House,Mixed-use,900000,Yes,6,570,1,0,None,,None,None,None,,None,To restore
+245,,House,Mixed-use,980000,Yes,4,553,0,0,None,1,None,None,None,2,None,As new
+246,,House,Mixed-use,142000,Yes,2,84,1,0,None,,None,None,None,2,None,
+247,Oost- Vlaanderen,House,Mixed-use,1700000,Yes,10,899,0,,None,,None,None,None,4,None,As new
+248,,House,Mixed-use,325000,Yes,3,230,0,,None,,None,None,None,2,None,To be done up
+249,,House,Mixed-use,360000,Yes,2,166,0,1,None,,None,None,None,2,None,Just renovated
+250,,House,Mixed-use,190000,Yes,3,225,0,,None,,None,None,None,,None,To renovate
+251,,House,Mixed-use,245000,Yes,1,55,0,1,None,1,None,None,None,,None,
+252,,House,Mixed-use,280000,Yes,3,116,0,0,None,,None,None,None,,None,
+253,,House,Mixed-use,329900,Yes,3,122,1,0,None,,None,None,None,2,None,Just renovated
+254,,House,Mixed-use,695000,Yes,4,210,0,,None,,None,None,None,2,None,Good
+255,,House,Mixed-use,695000,Yes,4,210,0,,None,,None,None,None,2,None,Good
+256,,House,Mixed-use,795000,Yes,,meters,0,0,None,,None,None,None,3,None,Good
+257,,House,Mixed-use,1195000,Yes,6,588,0,0,None,,None,None,None,,None,
+258,,House,Mixed-use,175000,Yes,3,389,0,,None,,None,None,None,,None,To renovate
+259,,House,Mixed-use,245000,Yes,3,,0,0,None,,None,None,None,2,None,
+260,,House,Mixed-use,275000,Yes,3,278,1,0,None,,None,None,None,3,None,As new
+261,,House,Mixed-use,629000,Yes,4,239,0,,None,1,None,None,None,3,None,As new
+262,,House,Mixed-use,629000,Yes,4,239,0,,None,1,None,None,None,3,None,As new
+263,,House,Mixed-use,1350000,Yes,10,553,0,,None,,None,None,None,2,None,Good
+264,,House,Mixed-use,2520000,Yes,,meters,0,1,None,,None,None,None,2,None,As new
+265,,House,Mixed-use,139000,Yes,4,228,0,,None,1,None,None,None,2,None,To renovate
+266,,House,Mixed-use,235000,Yes,2,91,0,0,None,,None,None,None,,None,
+267,,House,Mixed-use,285000,Yes,7,345,0,0,None,,None,None,None,2,None,
+268,,House,Mixed-use,365000,Yes,3,190,1,,None,,None,None,None,2,None,Good
+269,Oost- Vlaanderen,House,Mixed-use,399000,Yes,2,,0,,None,1,None,None,None,2,None,
+270,Oost- Vlaanderen,House,Mixed-use,515000,Yes,3,239,0,,None,,None,None,None,4,None,To renovate
+271,,House,Mixed-use,535000,Yes,5,451,0,,None,1,None,None,None,,None,
+272,,House,Mixed-use,645000,Yes,4,513,1,,None,,None,None,None,2,None,
+273,,House,Mixed-use,695000,Yes,2,385,1,0,None,,None,None,None,2,None,As new
+274,,House,Mixed-use,210000,Yes,2,90,0,0,None,1,None,None,None,3,None,Good
+275,,House,Mixed-use,420000,Yes,4,298,0,0,None,,None,None,None,2,None,To be done up
+276,,House,Mixed-use,225000,Yes,3,112,0,,None,1,None,None,None,2,None,
+277,Regio Tienen,House,Mixed-use,750000,Yes,,meters,0,0,None,1,None,None,None,2,None,Good
+278,Liège Centre,House,Mixed-use,750000,Yes,12,440,1,0,None,1,None,None,None,2,None,Good
+279,Regio Tienen,House,Mixed-use,1700000,Yes,,meters,0,0,None,1,None,None,None,2,None,Good
+280,Regio Tienen,House,Mixed-use,2450000,Yes,,meters,0,0,None,1,None,None,None,2,None,Good
+281,,House,Mixed-use,625000,Yes,2,301,0,0,None,,None,None,None,,None,
+282,,House,Mixed-use,499000,Yes,5,441,0,,None,,None,None,None,,None,
+283,,House,Mixed-use,125000,Yes,1,105,0,0,None,1,None,None,None,2,None,Good
+284,Grand Liège,House,Mixed-use,158000,Yes,3,110,0,0,None,,None,None,None,2,None,To be done up
+285,,House,Mixed-use,179000,Yes,4,,0,0,None,,None,None,None,2,None,Good
+286,Liège,House,Mixed-use,199000,Yes,2,,0,,None,,None,None,None,2,None,Good
+287,,House,Mixed-use,Starting price : 229000,Yes,4,438,0,,None,,None,None,None,2,None,To renovate
+288,,House,Mixed-use,275000,Yes,2,130,0,,None,1,None,None,None,2,None,Good
+289,,House,Mixed-use,285000,Yes,3,140,0,0,None,,None,None,None,,None,
+290,,House,Mixed-use,285000,Yes,3,,1,0,None,,None,None,None,3,None,To be done up
+291,,House,Mixed-use,290000,Yes,3,,0,,None,,None,None,None,2,None,Good
+292,,House,Mixed-use,294000,Yes,2,90,0,0,None,,None,None,None,,None,
+293,,House,Mixed-use,325000,Yes,3,452,1,0,None,,None,None,None,1,None,To be done up
+294,,House,Mixed-use,379000,Yes,3,182,0,,None,1,None,None,None,2,None,Good
+295,,House,Mixed-use,399000,Yes,2,195,0,,None,1,None,None,None,2,None,
+296,--2460--Kasterlee,House,Mixed-use,625000,Yes,4,615,0,0,None,,None,None,None,4,None,Good
+297,,House,Mixed-use,698000,Yes,1,550,0,,None,,None,None,None,2,None,Good
+298,,House,Mixed-use,2350000,Yes,,,0,,None,,None,None,None,,None,As new
+299,,House,Mixed-use,295000,Yes,1,200,1,0,None,,None,None,None,4,None,
+300,,House,Mixed-use,245000,Yes,2,463,0,0,None,,None,None,None,2,None,
+301,,House,Mixed-use,460000,Yes,3,220,1,0,None,,None,None,None,3,None,As new
+302,,House,Mixed-use,795000,Yes,4,300,0,,None,1,None,None,None,,None,
+303,,House,Mixed-use,225000,Yes,1,72,0,0,None,,None,None,None,,None,
+304,,House,Mixed-use,245000,Yes,3,167,0,0,None,1,None,None,None,2,None,
+305,,House,Mixed-use,450000,Yes,1,132,0,,None,,None,None,None,2,None,As new
+306,,House,Mixed-use,540000,Yes,2,158,0,0,None,1,None,None,None,2,None,Good
+307,,House,Mixed-use,2500000,Yes,,meters,0,0,None,,None,None,None,4,None,To renovate
+308,,House,Mixed-use,369000,Yes,3,231,0,0,None,,None,None,None,2,None,To be done up
+309,,House,Mixed-use,362500,Yes,4,,1,0,None,,None,None,None,2,None,Just renovated
+310,,House,Mixed-use,1175000,Yes,4,519,0,0,None,,None,None,None,2,None,As new
+311,,House,Mixed-use,196000,Yes,1,72,0,0,None,,None,None,None,,None,
+312,,House,Mixed-use,235000,Yes,1,83,0,0,None,,None,None,None,,None,
+313,,House,Mixed-use,238000,Yes,2,96,0,0,None,,None,None,None,,None,
+314,,House,Mixed-use,250000,Yes,4,130,0,,None,,None,None,None,,None,Just renovated
+315,,House,Mixed-use,253000,Yes,2,93,0,0,None,,None,None,None,,None,
+316,,House,Mixed-use,271500,Yes,2,95,0,0,None,,None,None,None,,None,
+317,,House,Mixed-use,278000,Yes,2,109,0,0,None,,None,None,None,,None,
+318,,House,Mixed-use,280443,Yes,2,103,0,0,None,,None,None,None,,None,
+319,,House,Mixed-use,289000,Yes,2,109,0,0,None,,None,None,None,,None,
+320,,House,Mixed-use,None,Yes,4,,0,0,None,,None,None,None,3,None,To be done up
+321,,House,Mixed-use,299000,Yes,2,103,0,0,None,,None,None,None,,None,
+322,,House,Mixed-use,305000,Yes,2,90,0,0,None,,None,None,None,,None,
+323,,House,Mixed-use,313500,Yes,2,113,0,0,None,,None,None,None,,None,
+324,Liège,House,Mixed-use,315000,Yes,,,1,,None,,None,None,None,2,None,Good
+325,,House,Mixed-use,324000,Yes,2,118,0,0,None,,None,None,None,,None,
+326,,House,Mixed-use,368324,Yes,3,165,1,0,None,1,None,None,None,4,None,
+327,,House,Mixed-use,370882,Yes,3,164,1,0,None,1,None,None,None,4,None,
+328,,House,Mixed-use,500000,Yes,,,0,,None,,None,None,None,,None,To renovate
+329,,House,Mixed-use,695000,Yes,4,300,0,0,None,,None,None,None,,None,
+330,,House,Mixed-use,695000,Yes,4,300,0,0,None,,None,None,None,,None,
+331,,House,Mixed-use,700000,Yes,,,0,0,None,1,None,None,None,3,None,To restore
+332,,House,Mixed-use,750000,Yes,4,,1,,None,,None,None,None,4,None,Good
+333,,House,Mixed-use,1150000,Yes,3,260,0,,None,,None,None,None,2,None,As new
+334,,House,Mixed-use,425000,Yes,7,290,0,,None,1,None,None,None,2,None,Good
+335,,House,Mixed-use,200000,Yes,3,200,1,0,None,,None,None,None,2,None,Good
+336,,House,Mixed-use,225000,Yes,,meters,0,,None,,None,None,None,4,None,To renovate
+337,,House,Mixed-use,289000,Yes,5,,0,0,None,,None,None,None,2,None,To renovate
+338,,House,Mixed-use,399000,Yes,3,,0,0,None,,None,None,None,2,None,Good
+339,,House,Mixed-use,790000,Yes,11,,0,0,None,,None,None,None,,None,
+340,,House,Mixed-use,975000,Yes,,,0,0,None,,None,None,None,4,None,Good
+341,Centre,House,Mixed-use,1375000,Yes,10,740,0,,None,,None,None,None,2,None,
+342,,House,Mixed-use,Starting price : 180000,Yes,4,,0,,None,1,None,None,None,2,None,To renovate
+343,,House,Mixed-use,204500,Yes,1,70,0,0,None,,None,None,None,,None,
+344,,House,Mixed-use,218000,Yes,3,177,0,,None,,None,None,None,3,None,Good
+345,,House,Mixed-use,273903,Yes,2,109,0,0,None,,None,None,None,,None,
+346,,House,Mixed-use,Starting price : 295000,Yes,7,,1,,None,,None,None,None,4,None,
+347,,House,Mixed-use,375000,Yes,3,280,1,0,None,,None,None,None,2,None,
+348,,House,Mixed-use,389000,Yes,2,133,1,0,None,,None,None,None,3,None,Good
+349,,House,Mixed-use,399000,Yes,3,185,0,0,None,,None,None,None,4,None,As new
+350,,House,Mixed-use,Starting price : 230000,Yes,2,,0,,None,,None,None,None,4,None,
+351,,House,Mixed-use,370000,Yes,2,101,1,0,None,,None,None,None,2,None,As new
+352,,House,Mixed-use,386721,Yes,3,166,1,0,None,1,None,None,None,4,None,
+353,,House,Mixed-use,495000,Yes,4,420,0,0,None,1,None,None,None,4,None,To renovate
+354,,House,Mixed-use,695000,Yes,10,,1,0,None,,None,None,None,3,None,Good
+355,,House,Mixed-use,Starting price : 110000,Yes,3,,0,,None,,None,None,None,2,None,To renovate
+356,,House,Mixed-use,259900,Yes,2,96,0,0,None,,None,None,None,,None,
+357,,House,Mixed-use,335000,Yes,2,276,0,,None,,None,None,None,4,None,Good
+358,,House,Mixed-use,469000,Yes,6,182,1,0,None,,None,None,None,2,None,Good
+359,,House,Mixed-use,695000,Yes,2,180,0,,None,1,None,None,None,,None,As new
+360,,House,Mixed-use,695000,Yes,2,180,0,,None,,None,None,None,,None,As new
+361,,House,Mixed-use,375000,Yes,4,,0,0,None,,None,None,None,,None,To renovate
+362,,House,Mixed-use,235000,Yes,1,225,1,0,None,,None,None,None,3,None,
+363,,House,Mixed-use,249000,Yes,2,,1,,None,,None,None,None,2,None,Good
+364,,House,Mixed-use,275000,Yes,4,,0,,None,,None,None,None,2,None,Good
+365,,House,Mixed-use,275000,Yes,8,350,1,,None,1,None,None,None,2,None,Good
+366,,House,Mixed-use,275000,Yes,8,350,1,,None,1,None,None,None,2,None,Good
+367,,House,Mixed-use,337000,Yes,4,,1,0,None,1,None,None,None,3,None,Good
+368,,House,Mixed-use,365000,Yes,4,200,0,,None,1,None,None,None,2,None,Good
+369,,House,Mixed-use,395000,Yes,5,502,0,0,None,1,None,None,None,4,None,To renovate
+370,,House,Mixed-use,549000,Yes,,meters,0,0,None,,None,None,None,2,None,To renovate
+371,--2610--Wilrijk,House,Mixed-use,595000,Yes,8,210,1,1,None,,None,None,None,2,None,Good
+372,,House,Mixed-use,875000,Yes,,meters,0,,None,,None,None,None,,None,
+373,,House,Mixed-use,1120000,Yes,,meters,0,0,None,,None,None,None,,None,
+374,,House,Mixed-use,1200000,Yes,9,1857,0,0,None,,None,None,None,,None,
+375,,House,Mixed-use,320000,Yes,5,300,0,0,None,,None,None,None,4,None,To renovate
+376,,House,Mixed-use,270000,Yes,2,125,0,,None,,None,None,None,3,None,As new
+377,Place Didier,House,Mixed-use,670000,Yes,4,378,1,,None,,None,None,None,3,None,
+378,,House,Mixed-use,1600000,Yes,7,422,0,1,None,1,None,None,None,3,None,As new
+379,,House,Mixed-use,440000,Yes,,,0,0,None,,None,None,None,2,None,Good
+380,,House,Mixed-use,275000,Yes,3,503,0,,None,,None,None,None,,None,To renovate
+381,,House,Mixed-use,340000,Yes,1,300,0,0,None,,None,None,None,4,None,As new
+382,,House,Mixed-use,360000,Yes,2,190,0,,None,1,None,None,None,3,None,Good
+383,,House,Mixed-use,Starting price : 750000,Yes,2,,0,,None,,None,None,None,4,None,
+384,,House,Mixed-use,275000,Yes,3,285,1,,None,,None,None,None,2,None,Good
+385,,House,Mixed-use,490000,Yes,5,,0,,None,,None,None,None,3,None,As new
+386,,House,Mixed-use,550000,Yes,4,282,0,,None,,None,None,None,4,None,As new
+387,,House,Mixed-use,740000,Yes,4,170,1,0,None,,None,None,None,2,None,As new
+388,,House,Mixed-use,950000,Yes,3,,0,0,None,,None,None,None,,None,As new
+389,,House,Mixed-use,1900000,Yes,,meters,0,,None,,None,None,None,4,None,To restore
+390,,House,Mixed-use,356000,Yes,7,448,1,0,None,1,None,None,None,4,None,To be done up
+391,,House,Mixed-use,150000,Yes,1,200,0,0,None,,None,None,None,,None,
+392,,House,Mixed-use,160000,Yes,3,,0,,None,,None,None,None,2,None,Good
+393,,House,Mixed-use,Starting price : 315000,Yes,4,,1,,None,,None,None,None,,None,
+394,,House,Mixed-use,399000,Yes,4,165,0,0,None,,None,None,None,2,None,As new
+395,,House,Mixed-use,550000,Yes,3,,0,0,None,,None,None,None,4,None,As new
+396,,House,Mixed-use,900000,Yes,2,1004,0,,None,,None,None,None,2,None,To renovate
+397,,House,Mixed-use,1950000,Yes,6,1280,0,,None,,None,None,None,4,None,Just renovated
+398,,House,Mixed-use,125000,Yes,,,0,,None,,None,None,None,,None,
+399,,House,Mixed-use,220000,Yes,3,,0,,None,,None,None,None,,None,As new
+400,,House,Mixed-use,300000,Yes,4,195,1,0,None,,None,None,None,4,None,As new
+401,,House,Mixed-use,325000,Yes,3,,0,,None,,None,None,None,2,None,
+402,,House,Mixed-use,385000,Yes,6,270,1,1,None,,None,None,None,2,None,
+403,,House,Mixed-use,270000,Yes,5,,1,0,None,,None,None,None,2,None,
+404,,House,Mixed-use,379000,Yes,,meters,0,,None,,None,None,None,,None,To be done up
+405,,House,Mixed-use,550000,Yes,8,346,0,,None,1,None,None,None,,None,
+406,,House,Mixed-use,499900,Yes,4,222,0,0,None,1,None,None,None,,None,As new
+407,,House,Mixed-use,499900,Yes,4,222,0,0,None,1,None,None,None,,None,As new
+408,,House,Mixed-use,795000,Yes,14,,0,,None,,None,None,None,,None,To renovate
+409,,House,Mixed-use,139000,Yes,3,70,0,0,None,,None,None,None,2,None,To renovate
+410,,House,Mixed-use,290000,Yes,,meters,0,1,None,,None,None,None,2,None,Just renovated
+411,,House,Mixed-use,Starting price : 300000,Yes,1,,0,,None,1,None,None,None,2,None,
+412,,House,Mixed-use,399000,Yes,3,200,0,0,None,,None,None,None,2,None,
+413,,House,Mixed-use,795000,Yes,,,0,,None,,None,None,None,,None,
+414,,House,Mixed-use,99000,Yes,3,98,0,0,None,,None,None,None,2,None,Good
+415,,House,Mixed-use,Starting price : 100000,Yes,3,,0,,None,,None,None,None,,None,
+416,,House,Mixed-use,250000,Yes,,,0,,None,,None,None,None,,None,
+417,,House,Mixed-use,550000,Yes,,,0,,None,,None,None,None,,None,
+418,,House,Mixed-use,720000,Yes,23,1311,0,,None,,None,None,None,,None,
+419,,House,Mixed-use,275000,Yes,4,,1,0,None,1,None,None,None,2,None,Good
+420,,House,Mixed-use,Starting price : 300000,Yes,5,422,1,,None,1,None,None,None,3,None,
+421,,House,Mixed-use,680000,Yes,3,195,0,0,None,,None,None,None,2,None,Good
+422,,House,Mixed-use,Starting price : 450000,Yes,1,,0,,None,,None,None,None,,None,
+423,,House,Mixed-use,695000,Yes,4,1384,0,0,None,,None,None,None,,None,
+424,,House,Mixed-use,999000,Yes,,,0,,None,,None,None,None,,None,To renovate
+425,,House,Mixed-use,785000,Yes,8,457,0,,None,1,None,None,None,,None,As new
+426,,House,Mixed-use,420000,Yes,,meters,1,0,None,,None,None,None,,None,As new
+427,,House,Mixed-use,990000,Yes,12,,0,0,None,,None,None,None,4,None,
+428,,House,Mixed-use,990000,Yes,12,,0,0,None,,None,None,None,4,None,
+429,,House,Mixed-use,Starting price : 60000,Yes,5,,0,,None,,None,None,None,2,None,
+430,,House,Mixed-use,275000,Yes,2,190,0,0,None,,None,None,None,3,None,
+431,,House,Mixed-use,Starting price : 425000,Yes,6,,1,,None,1,None,None,None,,None,
+432,,House,Mixed-use,220000,Yes,3,184,0,0,None,,None,None,None,3,None,
+433,,House,Mixed-use,177500,Yes,3,,0,,None,,None,None,None,2,None,Good
+434,,House,Mixed-use,Starting price : 260000,Yes,2,,0,,None,,None,None,None,,None,
+435,,House,Mixed-use,380000,Yes,5,,0,0,None,1,None,None,None,3,None,To be done up
+436,,House,Mixed-use,413000,Yes,3,,1,0,None,,None,None,None,2,None,To be done up
+437,,House,Mixed-use,600000,Yes,6,310,0,,None,1,None,None,None,4,None,Good
+438,,House,Mixed-use,400000,Yes,1,,0,,None,1,None,None,None,3,None,Good
+439,,House,Mixed-use,Starting price : 415000,Yes,1,,0,,None,,None,None,None,,None,
+440,,House,Mixed-use,194790,Yes,1,63,0,,None,1,None,None,None,,None,
+441,,House,Mixed-use,Starting price : 400000,Yes,6,,1,,None,,None,None,None,,None,
+442,,House,Mixed-use,695000,Yes,7,295,0,0,None,,None,None,None,,None,
+443,,House,Mixed-use,257250,Yes,2,84,0,,None,1,None,None,None,,None,
+444,,House,Mixed-use,Starting price : 25000,Yes,4,,1,,None,,None,None,None,,None,
+445,,House,Mixed-use,178305,Yes,1,58,0,,None,1,None,None,None,,None,
+446,,House,Mixed-use,211275,Yes,1,69,0,,None,1,None,None,None,,None,
+447,,House,Mixed-use,238750,Yes,2,79,0,,None,1,None,None,None,,None,
+448,,House,Mixed-use,259500,Yes,2,,0,,None,,None,None,None,3,None,
+449,,House,Mixed-use,235000,Yes,,meters,0,,None,,None,None,None,,None,
+450,,House,Mixed-use,325000,Yes,,,0,,None,,None,None,None,,None,
+451,,House,Mixed-use,402500,Yes,,,0,,None,,None,None,None,,None,
+452,,House,Mixed-use,535000,Yes,2,287,0,0,None,,None,None,None,3,None,Good
+453,,House,Mixed-use,3300000,Yes,31,,1,0,None,,None,None,None,2,None,Just renovated
+454,,House,Mixed-use,575000,Yes,1,380,0,0,None,,None,None,None,4,None,
+455,,House,Mixed-use,2550000,Yes,,meters,0,,None,,None,None,None,4,None,
+456,,House,Mixed-use,4600000,Yes,,,0,,None,,None,None,None,,None,
+457,,House,Mixed-use,1490000,Yes,,,0,,None,,None,None,None,2,None,To renovate
+458,,House,Mixed-use,550000,Yes,3,,0,0,None,,None,None,None,,None,
+459,,House,Mixed-use,340000,Yes,3,165,0,0,None,,None,None,None,2,None,To renovate
+460,,House,Mixed-use,510000,Yes,5,270,0,0,None,,None,None,None,2,None,Good
+461,,House,Mixed-use,595000,Yes,,meters,0,,None,,None,None,None,4,None,As new
+462,,House,Mixed-use,595000,Yes,,meters,0,,None,,None,None,None,4,None,As new
+463,,House,Mixed-use,585000,Yes,4,334,0,0,None,,None,None,None,2,None,To restore
+464,,House,Mixed-use,149500,Yes,2,89,1,0,None,,None,None,None,2,None,Good
+465,,House,Mixed-use,825000,Yes,3,240,1,1,None,,None,None,None,2,None,As new
+466,,House,Mixed-use,520000,Yes,3,222,1,0,None,,None,None,None,2,None,Good
+467,,House,Mixed-use,299000,Yes,4,230,1,0,None,1,None,None,None,4,None,To renovate
+468,,House,Mixed-use,230000,Yes,3,156,1,0,None,1,None,None,None,2,None,Good
+469,,House,Mixed-use,359000,Yes,6,396,1,0,None,,None,None,None,4,None,To be done up
+470,,House,Mixed-use,1190000,Yes,8,730,1,0,None,,None,None,None,2,None,As new
+471,,House,Mixed-use,2595000,Yes,5,500,0,,None,1,None,None,None,2,None,As new
+472,,House,Mixed-use,325000,Yes,6,396,1,0,None,,None,None,None,4,None,To renovate
+473,,House,Mixed-use,375000,Yes,3,269,0,0,None,,None,None,None,2,None,Good
+474,,House,Mixed-use,425000,Yes,4,251,0,0,None,1,None,None,None,3,None,Good
+475,,House,Mixed-use,449000,Yes,3,175,1,0,None,,None,None,None,2,None,Good
+476,,House,Mixed-use,549000,Yes,5,447,1,0,None,,None,None,None,2,None,Good
+477,,House,Mixed-use,199900,Yes,3,90,0,0,None,1,None,None,None,2,None,Good
+478,,House,Mixed-use,725000,Yes,5,908,0,0,None,,None,None,None,3,None,Good
+479,,House,Mixed-use,215000,Yes,3,240,0,0,None,,None,None,None,4,None,To be done up
+480,Bruxelles Sud,House,Mixed-use,849000,Yes,7,250,0,,None,1,None,None,None,2,None,As new
+481,,House,Mixed-use,315000,Yes,2,205,0,0,None,,None,None,None,2,None,To be done up
+482,,House,Mixed-use,315000,Yes,2,205,0,0,None,,None,None,None,2,None,To be done up
+483,,House,Mixed-use,267000,Yes,2,176,1,0,None,,None,None,None,2,None,Just renovated
+484,,House,Mixed-use,290000,Yes,2,114,1,0,None,,None,None,None,4,None,Good
+485,,House,Mixed-use,325000,Yes,4,300,1,0,None,,None,None,None,4,None,To be done up
+486,,House,Mixed-use,395000,Yes,3,385,0,0,None,1,None,None,None,2,None,Good
+487,,House,Mixed-use,585000,Yes,4,455,1,0,None,,None,None,None,4,None,Good
+488,,House,Mixed-use,670000,Yes,3,350,0,0,None,,None,None,None,2,None,To renovate
+489,,House,Mixed-use,985000,Yes,3,476,0,,None,1,None,None,None,2,None,Good
+490,,House,Mixed-use,985000,Yes,3,476,0,,None,1,None,None,None,2,None,Good
+491,,House,Mixed-use,870000,Yes,7,420,1,0,None,,None,None,None,2,None,As new
+492,,House,Mixed-use,870000,Yes,7,420,1,0,None,,None,None,None,2,None,As new
+493,,House,Mixed-use,448000,Yes,5,375,1,0,None,,None,None,None,2,None,Good
+494,,House,Mixed-use,475000,Yes,4,170,0,0,None,1,None,None,None,3,None,
+495,,House,Mixed-use,250000,Yes,3,125,1,0,None,,None,None,None,3,None,Good
+496,,House,Mixed-use,369000,Yes,3,287,0,0,None,,None,None,None,4,None,Good
+497,,House,Mixed-use,449000,Yes,3,507,0,0,None,,None,None,None,3,None,To be done up
+498,,House,Mixed-use,525000,Yes,5,144,1,0,None,,None,None,None,2,None,Good
+499,,House,Mixed-use,1195000,Yes,5,685,0,0,None,1,None,None,None,4,None,As new
+500,,House,Mixed-use,1200000,Yes,9,520,0,0,None,1,None,None,None,2,None,To renovate
+501,,House,Mixed-use,125000,Yes,3,115,0,0,None,,None,None,None,2,None,To renovate
+502,,House,Mixed-use,249000,Yes,3,119,1,0,None,,None,None,None,4,None,Good
+503,,House,Mixed-use,249000,Yes,3,119,1,0,None,,None,None,None,4,None,Good
+504,,House,Mixed-use,165000,Yes,3,200,0,0,None,1,None,None,None,2,None,To renovate
+505,,House,Mixed-use,530000,Yes,4,177,0,0,None,,None,None,None,3,None,To be done up
+506,,House,Mixed-use,995000,Yes,,meters,1,0,None,,None,None,None,2,None,Good
+507,,House,Mixed-use,840000,Yes,6,392,1,0,None,,None,None,None,2,None,Just renovated
+508,,House,Mixed-use,229000,Yes,3,125,0,0,None,,None,None,None,2,None,To be done up
+509,,House,Mixed-use,675000,Yes,3,219,0,0,None,,None,None,None,2,None,To renovate
+510,,House,Mixed-use,1350000,Yes,27,840,0,0,None,,None,None,None,3,None,To renovate
+511,,House,Mixed-use,249000,Yes,3,,0,0,None,,None,None,None,2,None,Good
+512,,House,Mixed-use,185000,Yes,3,129,0,0,None,,None,None,None,2,None,To renovate
+513,,House,Mixed-use,198000,Yes,3,100,1,0,None,1,None,None,None,2,None,Just renovated
+514,,House,Mixed-use,199000,Yes,2,65,1,0,None,,None,None,None,2,None,Good
+515,,House,Mixed-use,285000,Yes,3,120,1,0,None,,None,None,None,2,None,Just renovated
+516,,House,Mixed-use,289000,Yes,3,425,0,0,None,,None,None,None,3,None,Good
+517,,House,Mixed-use,299999,Yes,4,290,1,0,None,,None,None,None,2,None,Just renovated
+518,,House,Mixed-use,365000,Yes,,meters,0,0,None,,None,None,None,2,None,Good
+519,,House,Mixed-use,425000,Yes,4,224,1,0,None,1,None,None,None,2,None,Good
+520,,House,Mixed-use,650000,Yes,,meters,1,0,None,,None,None,None,2,None,Good
+521,,House,Mixed-use,777000,Yes,6,211,1,0,None,1,None,None,None,2,None,Just renovated
+522,,House,Mixed-use,848000,Yes,4,385,0,0,None,,None,None,None,4,None,Good
+523,,House,Mixed-use,795000,Yes,7,450,0,0,None,,None,None,None,,None,As new
+524,,House,Mixed-use,980000,Yes,12,400,0,0,None,,None,None,None,2,None,
+525,Regio Sint-Amands-Bornem,House,Mixed-use,430000,Yes,5,445,0,,None,1,None,None,None,2,None,To be done up
+526,,House,Mixed-use,495000,Yes,,meters,0,0,None,,None,None,None,2,None,Good
+527,,House,Mixed-use,1000000,Yes,3,250,1,1,None,,None,None,None,2,None,As new
+528,,House,Mixed-use,250000,Yes,3,182,1,0,None,,None,None,None,3,None,To be done up
+529,Genappe,House,Mixed-use,275000,Yes,2,,1,0,None,,None,None,None,2,None,To renovate
+530,,House,Mixed-use,325000,Yes,3,,0,0,None,1,None,None,None,4,None,To be done up
+531,,House,Mixed-use,360000,Yes,5,312,1,0,None,,None,None,None,3,None,To renovate
+532,Vallée de la Molignée,House,Mixed-use,495000,Yes,12,280,1,0,None,,None,None,None,4,None,To be done up
+533,Regio Noordrand Antwerpen,House,Mixed-use,595000,Yes,4,250,0,0,None,,None,None,None,2,None,As new
+534,,House,Mixed-use,630000,Yes,3,285,0,0,None,,None,None,None,2,None,Good
+535,Boverie,House,Mixed-use,749000,Yes,2,112,1,0,None,,None,None,None,3,None,Good
+536,,House,Mixed-use,305000,Yes,3,315,0,0,None,,None,None,None,2,None,Good
+537,,House,Mixed-use,759000,Yes,5,266,1,0,None,,None,None,None,2,None,
+538,,House,Mixed-use,1050000,Yes,3,220,0,0,None,,None,None,None,2,None,To restore
+539,,House,Mixed-use,99000,Yes,1,64,0,0,None,,None,None,None,2,None,To be done up
+540,,House,Mixed-use,129000,Yes,5,160,0,0,None,1,None,None,None,3,None,To be done up
+541,,House,Mixed-use,289000,Yes,4,240,1,0,None,1,None,None,None,4,None,To be done up
+542,,House,Mixed-use,299000,Yes,3,240,0,0,None,,None,None,None,2,None,Good
+543,,House,Mixed-use,349000,Yes,5,450,0,0,None,,None,None,None,3,None,Good
+544,,House,Mixed-use,429000,Yes,6,254,0,0,None,,None,None,None,2,None,Good
+545,Regio andere,House,Mixed-use,450000,Yes,3,270,0,0,None,1,None,None,None,3,None,As new
+546,,House,Mixed-use,485000,Yes,3,490,0,0,None,,None,None,None,2,None,As new
+547,,House,Mixed-use,669000,Yes,3,204,0,0,None,1,None,None,None,4,None,
+548,,House,Mixed-use,699000,Yes,,meters,0,,None,,None,None,None,4,None,As new
+549,,House,Mixed-use,259000,Yes,1,126,0,0,None,,None,None,None,2,None,Good
+550,,House,Mixed-use,845000,Yes,6,530,0,,None,,None,None,None,4,None,Good
+551,,House,Mixed-use,430000,Yes,11,410,0,0,None,,None,None,None,2,None,To renovate
+552,,House,Mixed-use,234999,Yes,3,151,0,0,None,,None,None,None,2,None,Just renovated
+553,,House,Mixed-use,235000,Yes,4,222,0,0,None,,None,None,None,2,None,To renovate
+554,,House,Mixed-use,399000,Yes,4,288,0,,None,,None,None,None,3,None,Good
+555,,House,Mixed-use,595000,Yes,3,322,1,0,None,,None,None,None,3,None,To be done up
+556,,House,Mixed-use,299000,Yes,3,278,1,,None,,None,None,None,2,None,To renovate
+557,,House,Mixed-use,350000,Yes,8,210,0,1,None,,None,None,None,2,None,Good
+558,,House,Mixed-use,100000,Yes,2,168,0,0,None,1,None,None,None,2,None,To be done up
+559,,House,Mixed-use,149999,Yes,2,330,0,0,None,1,None,None,None,3,None,Good
+560,,House,Mixed-use,210000,Yes,5,216,0,0,None,,None,None,None,2,None,To renovate
+561,,House,Mixed-use,340000,Yes,,meters,0,0,None,1,None,None,None,2,None,
+562,,House,Mixed-use,350000,Yes,2,152,0,0,None,,None,None,None,3,None,Good
+563,,House,Mixed-use,429000,Yes,6,300,0,0,None,,None,None,None,2,None,To be done up
+564,,House,Mixed-use,695000,Yes,10,1090,1,0,None,1,None,None,None,3,None,To renovate
+565,Dilbeek,House,Mixed-use,895000,Yes,3,225,0,,None,,None,None,None,3,None,As new
+566,,House,Mixed-use,375000,Yes,3,165,0,0,None,,None,None,None,2,None,Good
+567,,House,Mixed-use,1300000,Yes,7,450,1,1,None,,None,None,None,3,None,Just renovated
+568,,House,Mixed-use,575000,Yes,3,140,0,1,None,,None,None,None,1,None,As new
+569,,House,Mixed-use,575000,Yes,2,335,0,0,None,,None,None,None,2,None,To renovate
+570,,House,Mixed-use,2000000,Yes,50,3000,0,0,None,,None,None,None,,None,
+571,,House,Mixed-use,165000,Yes,2,60,0,0,None,,None,None,None,2,None,To be done up
+572,,House,Mixed-use,299000,Yes,2,236,0,0,None,,None,None,None,2,None,Just renovated
+573,,House,Mixed-use,329000,Yes,1,145,1,0,None,,None,None,None,2,None,Good
+574,,House,Mixed-use,370000,Yes,2,225,0,0,None,,None,None,None,2,None,Good
+575,,House,Mixed-use,375000,Yes,3,358,1,0,None,,None,None,None,3,None,As new
+576,Croisette Dinant,House,Mixed-use,875000,Yes,8,680,1,0,None,,None,None,None,2,None,To be done up
+577,,House,Mixed-use,199900,Yes,2,140,1,0,None,,None,None,None,3,None,Good
+578,,House,Mixed-use,215000,Yes,3,370,0,0,None,,None,None,None,2,None,To be done up
+579,,House,Mixed-use,350000,Yes,4,247,0,,None,,None,None,None,2,None,Good
+580,,House,Mixed-use,449000,Yes,4,340,0,,None,,None,None,None,4,None,Good
+581,,House,Mixed-use,695000,Yes,,meters,0,0,None,1,None,None,None,3,None,To renovate
+582,Antwerpen Stad en Districten,House,Mixed-use,975000,Yes,3,200,0,0,None,,None,None,None,3,None,
+583,,House,Mixed-use,765000,Yes,9,284,0,1,None,,None,None,None,2,None,Just renovated
+584,,House,Mixed-use,150000,Yes,3,452,0,0,None,,None,None,None,2,None,To renovate
+585,,House,Mixed-use,255000,Yes,2,135,0,0,None,,None,None,None,3,None,Good
+586,,House,Mixed-use,269000,Yes,3,130,0,0,None,,None,None,None,2,None,To be done up
+587,,House,Mixed-use,425000,Yes,2,100,1,0,None,,None,None,None,4,None,Good
+588,,House,Mixed-use,620000,Yes,4,,0,0,None,,None,None,None,4,None,
+589,,House,Mixed-use,450000,Yes,4,300,0,0,None,,None,None,None,2,None,Good
+590,,House,Mixed-use,219000,Yes,3,131,1,0,None,,None,None,None,2,None,Good
+591,,House,Mixed-use,249000,Yes,3,235,0,0,None,,None,None,None,2,None,To be done up
+592,,House,Mixed-use,370000,Yes,5,230,0,0,None,,None,None,None,2,None,To renovate
+593,,House,Mixed-use,495000,Yes,3,242,0,0,None,1,None,None,None,4,None,Good
+594,Londerzeel,House,Mixed-use,620000,Yes,3,290,0,1,None,,None,None,None,2,None,
+595,SAINT LEONARD,House,Mixed-use,750000,Yes,10,373,0,0,None,1,None,None,None,2,None,Just renovated
+596,Regio Centrum Antwerpen,House,Mixed-use,1075000,Yes,5,549,0,0,None,,None,None,None,2,None,Good
+597,Bruxelles (19 communes),House,Mixed-use,1879000,Yes,4,2130,1,0,None,1,None,None,None,2,None,To be done up
+598,,House,Mixed-use,4300000,Yes,16,2417,1,0,None,,None,None,None,2,None,To restore
+599,,House,Mixed-use,110000,Yes,6,240,0,0,None,,None,None,None,2,None,To renovate
+600,,House,Mixed-use,495000,Yes,8,414,1,0,None,,None,None,None,2,None,Good
+601,,House,Mixed-use,495000,Yes,4,473,0,,None,,None,None,None,2,None,Good
+602,,House,Mixed-use,278000,Yes,2,210,0,0,None,,None,None,None,3,None,
+603,,House,Mixed-use,185000,Yes,3,327,0,0,None,,None,None,None,2,None,To renovate
+604,CHARLEROI (grand),House,Mixed-use,210000,Yes,4,180,0,1,None,1,None,None,None,2,None,Good
+605,,House,Mixed-use,215000,Yes,3,272,0,0,None,,None,None,None,,None,
+606,,House,Mixed-use,579000,Yes,4,392,0,,None,1,None,None,None,2,None,Good
+607,,House,Mixed-use,579000,Yes,4,392,0,,None,1,None,None,None,2,None,Good
+608,,House,Mixed-use,1600000,Yes,,,1,0,None,1,None,None,None,3,None,Good
+609,,House,Mixed-use,1475000,Yes,3,408,0,0,None,,None,None,None,2,None,To renovate
+610,,House,Mixed-use,225000,Yes,3,230,0,0,None,,None,None,None,3,None,Good
+611,,House,Mixed-use,295000,Yes,5,295,0,0,None,,None,None,None,4,None,To renovate
+612,Regio Zuidrand Antwerpen,House,Mixed-use,398000,Yes,1,85,1,0,None,,None,None,None,3,None,
+613,,House,Mixed-use,575000,Yes,6,570,1,0,None,,None,None,None,,None,To restore
+614,,House,Mixed-use,749000,Yes,8,358,1,0,None,,None,None,None,,None,To be done up
+615,,House,Mixed-use,800000,Yes,10,880,0,0,None,,None,None,None,4,None,To restore
+616,,House,Mixed-use,849000,Yes,3,374,0,0,None,,None,None,None,3,None,Good
+617,,House,Mixed-use,895000,Yes,2,,0,0,None,,None,None,None,2,None,Good
+618,Hainaut - Gosselies,House,Mixed-use,180000,Yes,3,185,0,0,None,,None,None,None,2,None,To be done up
+619,,House,Mixed-use,479500,Yes,4,330,0,,None,,None,None,None,2,None,As new
+620,,House,Mixed-use,650000,Yes,,meters,0,,None,,None,None,None,2,None,Good
+621,,House,Mixed-use,680000,Yes,,meters,0,,None,,None,None,None,2,None,Good
+622,,House,Mixed-use,199000,Yes,1,186,0,0,None,1,None,None,None,3,None,To renovate
+623,,House,Mixed-use,235000,Yes,4,165,0,0,None,,None,None,None,3,None,To renovate
+624,,House,Mixed-use,290000,Yes,,meters,0,,None,,None,None,None,2,None,Good
+625,Brabant Wallon,House,Mixed-use,295000,Yes,2,,0,0,None,,None,None,None,2,None,To renovate
+626,,House,Mixed-use,295000,Yes,3,200,0,0,None,,None,None,None,2,None,As new
+627,Geel,House,Mixed-use,370000,Yes,2,190,0,,None,1,None,None,None,2,None,Good
+628,,House,Mixed-use,625000,Yes,7,365,1,0,None,,None,None,None,2,None,
+629,,House,Mixed-use,2600000,Yes,4,965,0,0,None,,None,None,None,4,None,Good
+630,,House,Mixed-use,190000,Yes,3,265,0,0,None,,None,None,None,2,None,To be done up
+631,,House,Mixed-use,140000,Yes,2,178,0,0,None,,None,None,None,2,None,To renovate
+632,,House,Mixed-use,299000,Yes,5,150,0,0,None,1,None,None,None,2,None,To be done up
+633,,House,Mixed-use,149000,Yes,1,63,1,0,None,,None,None,None,2,None,Good
+634,PEPINSTER - SOIRON,House,Mixed-use,170000,Yes,3,221,0,0,None,,None,None,None,2,None,
+635,,House,Mixed-use,399000,Yes,3,115,1,0,None,,None,None,None,3,None,As new
+636,,House,Mixed-use,399000,Yes,4,230,0,0,None,,None,None,None,2,None,Just renovated
+637,,House,Mixed-use,680000,Yes,3,220,0,0,None,,None,None,None,,None,
+638,,House,Mixed-use,695000,Yes,4,310,0,0,None,,None,None,None,2,None,Just renovated
+639,,House,Mixed-use,520000,Yes,3,,1,0,None,1,None,None,None,4,None,Good
+640,"Aywaille, Awan, Harzé, Remou",House,Mixed-use,125000,Yes,3,135,0,0,None,,None,None,None,2,None,To renovate
+641,,House,Mixed-use,250000,Yes,5,235,0,0,None,,None,None,None,2,None,
+642,,House,Mixed-use,279000,Yes,3,199,1,0,None,,None,None,None,2,None,Good
+643,,House,Mixed-use,350000,Yes,,,0,,None,,None,None,None,2,None,As new
+644,Geraardsbergen,House,Mixed-use,419000,Yes,3,200,1,0,None,1,None,None,None,2,None,Good
+645,,House,Mixed-use,495000,Yes,3,222,1,0,None,,None,None,None,2,None,
+646,,House,Mixed-use,534000,Yes,5,190,0,0,None,,None,None,None,3,None,
+647,,House,Mixed-use,595000,Yes,1,,0,0,None,,None,None,None,4,None,
+648,,House,Mixed-use,479000,Yes,4,,1,,None,,None,None,None,4,None,Good
+649,,House,Mixed-use,1295000,Yes,,meters,0,,None,,None,None,None,2,None,
+650,,,,None,,,,0,,None,,None,None,None,,None,
+651,,House,Mixed-use,159000,Yes,2,100,1,0,None,1,None,None,None,2,None,To be done up
+652,,House,Mixed-use,195000,Yes,3,,1,0,None,,None,None,None,4,None,
+653,,House,Mixed-use,219000,Yes,3,178,0,,None,,None,None,None,2,None,To renovate
+654,,House,Mixed-use,235000,Yes,2,200,0,,None,1,None,None,None,4,None,As new
+655,Bruxelles (19 communes),House,Mixed-use,1300000,Yes,6,225,0,0,None,,None,None,None,2,None,To be done up
+656,,House,Mixed-use,2250000,Yes,5,550,0,0,None,,None,None,None,2,None,As new
+657,,House,Mixed-use,295000,Yes,2,,0,0,None,,None,None,None,2,None,
+658,Brabant Wallon,House,Mixed-use,150000,Yes,,,0,,None,,None,None,None,2,None,To renovate
+659,CHARLEROI (grand),House,Mixed-use,180000,Yes,3,182,0,0,None,1,None,None,None,2,None,Good
+660,,House,Mixed-use,225000,Yes,2,,0,,None,1,None,None,None,2,None,Good
+661,,House,Mixed-use,295000,Yes,,meters,0,0,None,,None,None,None,4,None,Good
+662,,House,Mixed-use,335000,Yes,2,224,0,,None,1,None,None,None,2,None,Good
+663,Grand Beersel,House,Mixed-use,449000,Yes,3,280,0,0,None,1,None,None,None,3,None,Good
+664,,House,Mixed-use,460000,Yes,9,400,0,0,None,,None,None,None,2,None,To renovate
+665,,House,Mixed-use,569000,Yes,3,123,0,0,None,,None,None,None,2,None,Good
+666,,House,Mixed-use,595000,Yes,9,385,0,0,None,,None,None,None,2,None,To be done up
+667,,House,Mixed-use,850000,Yes,8,447,1,0,None,,None,None,None,3,None,Good
+668,,House,Mixed-use,299000,Yes,2,185,1,,None,,None,None,None,,None,To be done up
+669,,House,Mixed-use,229000,Yes,2,126,0,0,None,,None,None,None,2,None,To be done up
+670,,House,Mixed-use,249000,Yes,2,135,0,0,None,,None,None,None,2,None,To be done up
+671,,House,Mixed-use,395000,Yes,4,310,0,,None,1,None,None,None,3,None,To be done up
+672,,House,Mixed-use,489000,Yes,4,155,0,0,None,1,None,None,None,4,None,Good
+673,CHARLEROI (grand),House,Mixed-use,695000,Yes,4,305,1,0,None,1,None,None,None,2,None,Good
+674,,House,Mixed-use,795000,Yes,6,402,0,0,None,,None,None,None,4,None,
+675,,House,Mixed-use,1150000,Yes,11,460,0,0,None,,None,None,None,4,None,Just renovated
+676,,House,Mixed-use,79000,Yes,2,70,0,0,None,,None,None,None,2,None,To renovate
+677,,House,Mixed-use,195000,Yes,2,,1,0,None,1,None,None,None,2,None,As new
+678,,House,Mixed-use,298000,Yes,3,236,0,1,None,1,None,None,None,2,None,Good
+679,,House,Mixed-use,375000,Yes,,,1,0,None,,None,None,None,2,None,Good
+680,,House,Mixed-use,400000,Yes,4,300,1,,None,1,None,None,None,4,None,To be done up
+681,,House,Mixed-use,530000,Yes,,,0,,None,,None,None,None,3,None,To renovate
+682,,House,Mixed-use,30000,Yes,,,0,,None,,None,None,None,2,None,
+683,,House,Mixed-use,319000,Yes,,meters,1,0,None,,None,None,None,2,None,
+684,,House,Mixed-use,180000,Yes,8,210,0,0,None,1,None,None,None,2,None,To renovate
+685,,House,Mixed-use,195000,Yes,3,149,1,0,None,,None,None,None,2,None,
+686,,House,Mixed-use,315000,Yes,4,,0,,None,,None,None,None,3,None,To renovate
+687,,House,Mixed-use,330000,Yes,3,,0,0,None,,None,None,None,2,None,To be done up
+688,,House,Mixed-use,175000,Yes,2,,0,0,None,,None,None,None,2,None,To be done up
+689,Charleroi et environs,House,Mixed-use,149000,Yes,2,,0,,None,,None,None,None,3,None,Good
+690,saint-Germain,House,Mixed-use,175000,Yes,1,155,0,0,None,,None,None,None,2,None,To renovate
+691,,House,Mixed-use,198000,Yes,4,212,0,0,None,,None,None,None,2,None,To be done up
+692,,House,Mixed-use,245000,Yes,3,232,1,,None,,None,None,None,3,None,To restore
+693,,House,Mixed-use,249000,Yes,,meters,0,0,None,,None,None,None,,None,
+694,,House,Mixed-use,289000,Yes,,meters,0,0,None,,None,None,None,,None,
+695,,House,Mixed-use,520000,Yes,,meters,0,,None,,None,None,None,4,None,
+696,,House,Mixed-use,579000,Yes,5,375,0,,None,1,None,None,None,2,None,Good
+697,,House,Mixed-use,1390000,Yes,7,,0,0,None,,None,None,None,4,None,As new
+698,,House,Mixed-use,1600000,Yes,2,898,1,0,None,1,None,None,None,4,None,As new
+699,,House,Mixed-use,179000,Yes,2,,0,0,None,,None,None,None,3,None,To be done up
+700,,House,Mixed-use,319000,Yes,2,217,1,0,None,,None,None,None,2,None,
+701,,House,Mixed-use,395000,Yes,2,500,0,,None,,None,None,None,4,None,Good
+702,,House,Mixed-use,550000,Yes,2,,0,,None,,None,None,None,2,None,Good
+703,,House,Mixed-use,599000,Yes,4,280,0,0,None,1,None,None,None,2,None,As new
+704,,House,Mixed-use,649000,Yes,9,435,0,0,None,,None,None,None,2,None,Good
+705,,House,Mixed-use,390000,Yes,5,230,0,0,None,,None,None,None,2,None,
+706,,House,Mixed-use,150000,Yes,1,228,0,0,None,,None,None,None,2,None,To be done up
+707,,House,Mixed-use,229999,Yes,5,255,0,0,None,,None,None,None,2,None,To renovate
+708,,House,Mixed-use,249000,Yes,5,215,0,0,None,1,None,None,None,2,None,Good
+709,,House,Mixed-use,299900,Yes,4,215,1,,None,1,None,None,None,3,None,Good
+710,,House,Mixed-use,400000,Yes,4,535,0,0,None,,None,None,None,4,None,As new
+711,,House,Mixed-use,485000,Yes,10,450,0,,None,,None,None,None,4,None,Good
+712,,House,Mixed-use,515000,Yes,4,230,1,0,None,,None,None,None,2,None,
+713,,House,Mixed-use,125000,Yes,2,220,0,,None,,None,None,None,2,None,To renovate
+714,,House,Mixed-use,269000,Yes,,meters,0,0,None,,None,None,None,3,None,Good
+715,,House,Mixed-use,275000,Yes,5,240,0,0,None,,None,None,None,3,None,As new
+716,,House,Mixed-use,325000,Yes,3,,0,,None,,None,None,None,3,None,Good
+717,,House,Mixed-use,580000,Yes,6,195,0,0,None,,None,None,None,1,None,Good
+718,,House,Mixed-use,599000,Yes,7,335,1,0,None,,None,None,None,,None,
+719,,House,Mixed-use,1750000,Yes,35,,0,,None,1,None,None,None,4,None,Good
+720,,House,Mixed-use,245000,Yes,,,0,,None,,None,None,None,,None,
+721,,,,None,,,,0,,None,,None,None,None,,None,
+722,,House,Mixed-use,1900000,Yes,,meters,0,0,None,,None,None,None,,None,
+723,,House,Mixed-use,149000,Yes,2,164,0,,None,,None,None,None,2,None,To renovate
+724,,House,Mixed-use,149000,Yes,,meters,0,,None,,None,None,None,2,None,
+725,,House,Mixed-use,159000,Yes,,meters,0,0,None,,None,None,None,2,None,To renovate
+726,,House,Mixed-use,325000,Yes,4,,0,0,None,,None,None,None,2,None,
+727,,House,Mixed-use,350000,Yes,3,1807,0,0,None,,None,None,None,3,None,
+728,,House,Mixed-use,398000,Yes,4,254,1,1,None,,None,None,None,4,None,
+729,,House,Mixed-use,150000,Yes,,,0,,None,,None,None,None,2,None,To be done up
+730,,House,Mixed-use,135900,Yes,2,172,0,0,None,,None,None,None,2,None,Good
+731,,House,Mixed-use,150000,Yes,5,342,0,0,None,,None,None,None,3,None,To restore
+732,,House,Mixed-use,159000,Yes,,meters,1,0,None,,None,None,None,2,None,
+733,,House,Mixed-use,219990,Yes,3,231,0,0,None,,None,None,None,2,None,To be done up
+734,,House,Mixed-use,295000,Yes,4,,0,0,None,,None,None,None,2,None,Good
+735,,House,Mixed-use,315000,Yes,4,,1,0,None,,None,None,None,3,None,Good
+736,,House,Mixed-use,399000,Yes,4,238,0,,None,,None,None,None,2,None,Good
+737,,House,Mixed-use,695000,Yes,2,384,1,,None,,None,None,None,2,None,
+738,CHARLEROI (grand),House,Mixed-use,120000,Yes,3,,0,0,None,,None,None,None,2,None,Good
+739,,House,Mixed-use,590000,Yes,3,760,0,,None,,None,None,None,4,None,Good
+740,,House,Mixed-use,890000,Yes,3,,0,,None,,None,None,None,,None,
+741,,House,Mixed-use,210000,Yes,,meters,0,0,None,,None,None,None,,None,
+742,,House,Mixed-use,180000,Yes,,,0,0,None,,None,None,None,2,None,
+743,,House,Mixed-use,395000,Yes,4,,0,0,None,,None,None,None,,None,
+744,,House,Mixed-use,425000,Yes,3,270,1,0,None,,None,None,None,3,None,
+745,,,,None,,,,0,,None,,None,None,None,,None,
+746,,House,Mixed-use,318500,Yes,2,,0,,None,,None,None,None,2,None,Good
+747,,House,Mixed-use,310000,Yes,9,,1,,None,,None,None,None,3,None,To be done up
+748,,House,Mixed-use,4900000,Yes,12,1400,0,1,None,,None,None,None,2,None,Good
+749,,House,Mixed-use,997500,Yes,6,,0,,None,,None,None,None,4,None,Good
+750,,House,Mixed-use,2500,Yes,,,0,,None,,None,None,None,3,None,To renovate
+751,,House,Mixed-use,175000,Yes,2,145,0,0,None,,None,None,None,3,None,Good
+752,,House,Mixed-use,225000,Yes,5,,0,,None,,None,None,None,2,None,To be done up
+753,,House,Mixed-use,330000,Yes,,,1,,None,,None,None,None,2,None,
+754,,House,Mixed-use,680000,Yes,24,1407,0,,None,,None,None,None,4,None,
+755,,House,Mixed-use,190000,Yes,3,170,0,0,None,,None,None,None,3,None,Good
+756,Pajottenland,House,Mixed-use,2500,Yes,1,,0,,None,,None,None,None,3,None,As new
+757,,House,Mixed-use,79000,Yes,8,405,0,,None,1,None,None,None,2,None,To renovate
+758,,House,Mixed-use,129000,Yes,2,,0,0,None,,None,None,None,2,None,
+759,,House,Mixed-use,120000,Yes,,meters,0,0,None,,None,None,None,,None,
+760,,House,Mixed-use,140000,Yes,,meters,0,0,None,,None,None,None,,None,
+761,,House,Mixed-use,145000,Yes,,meters,0,0,None,,None,None,None,,None,
+762,,House,Mixed-use,199000,Yes,,meters,0,0,None,,None,None,None,,None,
+763,,House,Mixed-use,315000,Yes,,meters,0,0,None,,None,None,None,,None,
+764,,House,Mixed-use,380000,Yes,,meters,0,0,None,,None,None,None,,None,
+765,,House,Mixed-use,450000,Yes,,meters,0,0,None,,None,None,None,,None,
+766,Bruxelles (19 communes),House,Mixed-use,1200000,Yes,,,0,0,None,1,None,None,None,2,None,To be done up
+767,GRAND VERVIERS,House,Mixed-use,285000,Yes,3,338,0,,None,,None,None,None,2,None,Good
+768,,House,Mixed-use,549000,Yes,8,,0,,None,,None,None,None,2,None,Just renovated
+769,,House,Mixed-use,885000,Yes,,,0,,None,,None,None,None,2,None,Good
+770,,House,Mixed-use,209000,Yes,3,265,0,0,None,1,None,None,None,2,None,Good
+771,,House,Mixed-use,395000,Yes,10,330,1,0,None,,None,None,None,2,None,
+772,,House,Mixed-use,299000,Yes,2,,0,0,None,1,None,None,None,3,None,Good
+773,,House,Mixed-use,100000,Yes,4,360,0,0,None,,None,None,None,2,None,To renovate
+774,,House,Mixed-use,150000,Yes,,meters,0,0,None,,None,None,None,,None,
+775,,House,Mixed-use,400000,Yes,2,,0,,None,,None,None,None,3,None,Good
+776,,House,Mixed-use,1250000,Yes,,meters,0,0,None,,None,None,None,,None,
+777,,House,Mixed-use,149000,Yes,2,,0,,None,1,None,None,None,2,None,
+778,,House,Mixed-use,169000,Yes,,meters,0,0,None,,None,None,None,,None,
+779,,House,Mixed-use,249000,Yes,1,,0,0,None,,None,None,None,2,None,To be done up
+780,,House,Mixed-use,155000,Yes,,,0,,None,,None,None,None,3,None,To renovate
+781,,House,Mixed-use,4222000,Yes,30,,0,,None,,None,None,None,2,None,
+782,,House,Mixed-use,150000,Yes,2,131,0,0,None,,None,None,None,2,None,To be done up
+783,,House,Mixed-use,150000,Yes,,meters,0,0,None,,None,None,None,,None,
+784,,House,Mixed-use,350000,Yes,5,,0,0,None,,None,None,None,2,None,
+785,,House,Mixed-use,1000000,Yes,,,0,,None,,None,None,None,4,None,Good
+786,,House,Mixed-use,1000000,Yes,,,0,,None,,None,None,None,4,None,Good
+787,,House,Mixed-use,1000000,Yes,,,0,,None,,None,None,None,4,None,Good
+788,,House,Mixed-use,1000000,Yes,,,0,,None,,None,None,None,4,None,Good
+789,,House,Mixed-use,250000,Yes,2,289,0,0,None,,None,None,None,3,None,To be done up
+790,Bressoux,House,Mixed-use,225000,Yes,2,82,0,,None,,None,None,None,2,None,As new
+791,,House,Mixed-use,395000,Yes,2,112,1,,None,1,None,None,None,3,None,Just renovated
+792,,House,Mixed-use,1350000,Yes,10,559,1,0,None,,None,None,None,2,None,Good
+793,,House,Mixed-use,585000,Yes,3,278,0,,None,,None,None,None,3,None,Good
+794,,House,Mixed-use,110000,Yes,2,149,1,0,None,,None,None,None,2,None,To renovate
+795,Waterloo,House,Mixed-use,895000,Yes,3,200,1,0,None,,None,None,None,4,None,To be done up
+796,,House,Mixed-use,295000,Yes,4,189,0,0,None,,None,None,None,2,None,To renovate
+797,Verviers,House,Mixed-use,79000,Yes,1,140,0,,None,,None,None,None,2,None,To renovate
+798,,House,Mixed-use,420000,Yes,3,197,1,0,None,,None,None,None,3,None,Good
+799,,House,Mixed-use,248000,Yes,1,61,1,0,None,,None,None,None,2,None,As new
+800,,House,Mixed-use,275000,Yes,1,69,1,0,None,,None,None,None,2,None,As new
+801,,House,Mixed-use,400000,Yes,2,130,0,0,None,,None,None,None,3,None,To be done up
+802,BERCHEM STATION,House,Mixed-use,495000,Yes,4,270,0,0,None,,None,None,None,2,None,To be done up
+803,,House,Mixed-use,205000,Yes,4,166,1,0,None,,None,None,None,2,None,To be done up
+804,Place Flagey,House,Mixed-use,550000,Yes,4,250,0,0,None,,None,None,None,2,None,Good
+805,,House,Mixed-use,550000,Yes,7,301,0,0,None,1,None,None,None,3,None,Good
+806,Brussels Center,House,Mixed-use,799000,Yes,5,405,0,0,None,,None,None,None,2,None,To renovate
+807,Vilvoorde,House,Mixed-use,630000,Yes,4,175,1,,None,1,None,None,None,2,None,As new
+808,,House,Mixed-use,675000,Yes,11,280,0,0,None,,None,None,None,2,None,Good
+809,,House,Mixed-use,245000,Yes,5,296,0,0,None,,None,None,None,2,None,To renovate
+810,,House,Mixed-use,630000,Yes,7,1250,0,0,None,,None,None,None,4,None,To renovate
+811,,House,Mixed-use,1159000,Yes,6,625,0,0,None,,None,None,None,4,None,Good
+812,,House,Mixed-use,187000,Yes,2,81,0,0,None,,None,None,None,3,None,To be done up
+813,ROCOURT/ANS/ALLEUR,House,Mixed-use,225000,Yes,2,173,1,,None,,None,None,None,2,None,Good
+814,,House,Mixed-use,249000,Yes,4,172,1,0,None,,None,None,None,4,None,To be done up
+815,,House,Mixed-use,315000,Yes,3,260,0,0,None,,None,None,None,2,None,Good
+816,,House,Mixed-use,735000,Yes,8,667,0,0,None,,None,None,None,3,None,To be done up
+817,,House,Mixed-use,229000,Yes,6,,0,0,None,,None,None,None,2,None,To renovate
+818,,House,Mixed-use,188000,Yes,2,89,0,0,None,1,None,None,None,,None,Good
+819,,House,Mixed-use,230000,Yes,1,93,0,0,None,,None,None,None,2,None,Just renovated
+820,,House,Mixed-use,235000,Yes,4,221,1,0,None,1,None,None,None,2,None,Good
+821,,House,Mixed-use,557000,Yes,6,185,0,,None,,None,None,None,2,None,To be done up
+822,,House,Mixed-use,749000,Yes,4,499,1,0,None,,None,None,None,2,None,
+823,,House,Mixed-use,795000,Yes,4,420,1,0,None,,None,None,None,4,None,Good
+824,,House,Mixed-use,945000,Yes,5,350,1,0,None,,None,None,None,2,None,Just renovated
+825,,House,Mixed-use,198000,Yes,2,84,0,0,None,,None,None,None,2,None,To be done up
+826,OUPEYE,House,Mixed-use,205000,Yes,4,224,0,,None,,None,None,None,3,None,Good
+827,,House,Mixed-use,675000,Yes,,meters,0,0,None,,None,None,None,,None,Good
+828,,House,Mixed-use,210000,Yes,2,110,1,0,None,,None,None,None,3,None,As new
+829,,House,Mixed-use,254000,Yes,2,96,1,0,None,,None,None,None,2,None,Just renovated
+830,,House,Mixed-use,398000,Yes,7,297,0,0,None,,None,None,None,2,None,To renovate
+831,,House,Mixed-use,420000,Yes,4,194,0,0,None,,None,None,None,2,None,Good
+832,,House,Mixed-use,430000,Yes,4,160,0,0,None,,None,None,None,2,None,Good
+833,,House,Mixed-use,449000,Yes,3,277,0,0,None,,None,None,None,3,None,
+834,,House,Mixed-use,465000,Yes,5,461,0,0,None,,None,None,None,3,None,To be done up
+835,,House,Mixed-use,950000,Yes,4,295,0,,None,,None,None,None,2,None,Good
+836,Ardennes,House,Mixed-use,165000,Yes,3,240,1,0,None,,None,None,None,2,None,To be done up
+837,,House,Mixed-use,180000,Yes,4,187,0,0,None,,None,None,None,3,None,To renovate
+838,,House,Mixed-use,229000,Yes,4,295,1,0,None,,None,None,None,2,None,To be done up
+839,,House,Mixed-use,239000,Yes,3,179,0,0,None,,None,None,None,2,None,Good
+840,,House,Mixed-use,350000,Yes,,meters,0,,None,,None,None,None,2,None,To renovate
+841,,House,Mixed-use,395000,Yes,4,133,0,0,None,,None,None,None,3,None,To renovate
+842,,House,Mixed-use,499000,Yes,5,567,0,0,None,,None,None,None,4,None,To be done up
+843,,House,Mixed-use,590000,Yes,2,400,1,0,None,,None,None,None,4,None,Good
+844,,House,Mixed-use,720000,Yes,3,528,0,0,None,,None,None,None,4,None,Good
+845,,House,Mixed-use,849000,Yes,6,372,1,1,None,,None,None,None,4,None,Just renovated
+846,,House,Mixed-use,495000,Yes,3,172,1,0,None,,None,None,None,,None,To be done up
+847,,House,Mixed-use,249000,Yes,4,220,0,0,None,,None,None,None,4,None,To renovate
+848,,House,Mixed-use,385000,Yes,3,168,1,0,None,,None,None,None,2,None,To be done up
+849,Bruxelles (19 communes),House,Mixed-use,550000,Yes,,,0,,None,,None,None,None,2,None,Good
+850,,House,Mixed-use,795000,Yes,,meters,0,0,None,,None,None,None,4,None,Good
+851,Place Joseph Willem,House,Mixed-use,109000,Yes,2,124,0,0,None,,None,None,None,2,None,To renovate
+852,Chaudfontaine et environs,House,Mixed-use,150000,Yes,2,365,1,,None,1,None,None,None,4,None,To renovate
+853,,House,Mixed-use,260000,Yes,3,159,1,,None,,None,None,None,4,None,Good
+854,,House,Mixed-use,270000,Yes,1,95,0,0,None,,None,None,None,2,None,Good
+855,,House,Mixed-use,350000,Yes,3,280,1,0,None,,None,None,None,2,None,As new
+856,Regio Zennevallei-Halle-SPL-Lennik,House,Mixed-use,399000,Yes,4,176,0,,None,1,None,None,None,2,None,Good
+857,Bruxelles (19 communes),House,Mixed-use,550000,Yes,1,265,0,0,None,,None,None,None,2,None,
+858,,House,Mixed-use,569000,Yes,4,315,0,0,None,,None,None,None,2,None,
+859,centrum Gent,House,Mixed-use,599000,Yes,6,339,0,0,None,,None,None,None,2,None,To renovate
+860,Thier-à-Liège,House,Mixed-use,619000,Yes,4,365,0,0,None,,None,None,None,,None,
+861,Bruxelles (19 communes),House,Mixed-use,695000,Yes,,,0,0,None,,None,None,None,2,None,Good
+862,,House,Mixed-use,695000,Yes,5,371,1,0,None,,None,None,None,2,None,Good
+863,,House,Mixed-use,790000,Yes,10,442,1,0,None,,None,None,None,2,None,Good
+864,,House,Mixed-use,795000,Yes,3,210,1,0,None,,None,None,None,4,None,Good
+865,Bruxelles (19 communes),House,Mixed-use,1100000,Yes,,,1,0,None,,None,None,None,2,None,Good
+866,,House,Mixed-use,275000,Yes,3,280,1,0,None,,None,None,None,3,None,To be done up
+867,,House,Mixed-use,960000,Yes,4,260,1,0,None,,None,None,None,3,None,As new
+868,,House,Mixed-use,269000,Yes,,meters,0,0,None,,None,None,None,2,None,To be done up
+869,,House,Mixed-use,179000,Yes,1,126,0,0,None,,None,None,None,3,None,Just renovated
+870,,House,Mixed-use,350000,Yes,3,183,1,,None,,None,None,None,2,None,Good
+871,,House,Mixed-use,460000,Yes,9,285,0,1,None,,None,None,None,2,None,To be done up
+872,,House,Mixed-use,475000,Yes,2,215,0,0,None,,None,None,None,,None,Good
+873,,House,Mixed-use,550000,Yes,3,225,0,,None,1,None,None,None,4,None,As new
+874,VERVIERS,House,Mixed-use,1100000,Yes,4,456,1,1,None,1,None,None,None,4,None,Good
+875,,House,Mixed-use,198000,Yes,2,240,0,0,None,,None,None,None,2,None,Just renovated
+876,,House,Mixed-use,379000,Yes,1,133,0,,None,,None,None,None,2,None,As new
+877,,House,Mixed-use,499000,Yes,,meters,0,0,None,,None,None,None,2,None,To be done up
+878,,House,Mixed-use,565000,Yes,12,616,0,0,None,1,None,None,None,2,None,Good
+879,,House,Mixed-use,585000,Yes,4,275,0,,None,,None,None,None,3,None,Good
+880,,House,Mixed-use,699000,Yes,4,372,1,0,None,,None,None,None,4,None,Good
+881,,House,Mixed-use,235000,Yes,2,248,0,0,None,,None,None,None,2,None,To be done up
+882,,House,Mixed-use,350000,Yes,7,300,0,0,None,,None,None,None,2,None,To be done up
+883,,House,Mixed-use,495000,Yes,3,180,1,0,None,,None,None,None,2,None,Good
+884,,House,Mixed-use,125000,Yes,4,170,1,0,None,,None,None,None,3,None,To be done up
+885,,House,Mixed-use,209999,Yes,3,230,0,0,None,,None,None,None,4,None,To be done up
+886,SERAING,House,Mixed-use,229000,Yes,3,417,1,,None,1,None,None,None,3,None,To be done up
+887,,House,Mixed-use,235000,Yes,3,105,1,0,None,1,None,None,None,3,None,Good
+888,,House,Mixed-use,300000,Yes,4,277,1,0,None,,None,None,None,2,None,To be done up
+889,,House,Mixed-use,300000,Yes,3,473,0,0,None,,None,None,None,2,None,Good
+890,,House,Mixed-use,310000,Yes,5,,0,0,None,,None,None,None,2,None,Good
+891,,House,Mixed-use,340000,Yes,2,253,1,0,None,,None,None,None,1,None,Good
+892,,House,Mixed-use,390000,Yes,5,213,1,0,None,1,None,None,None,4,None,Good
+893,,House,Mixed-use,950000,Yes,7,482,1,0,None,,None,None,None,4,None,As new
+894,,House,Mixed-use,495000,Yes,,meters,0,0,None,,None,None,None,2,None,Good
+895,,House,Mixed-use,109000,Yes,2,93,0,0,None,,None,None,None,,None,Good
+896,,House,Mixed-use,120000,Yes,2,90,0,0,None,,None,None,None,2,None,To renovate
+897,,House,Mixed-use,420000,Yes,6,662,0,0,None,,None,None,None,2,None,Good
+898,,House,Mixed-use,545000,Yes,4,300,1,0,None,,None,None,None,,None,As new
+899,,House,Mixed-use,645000,Yes,3,250,0,0,None,1,None,None,None,4,None,As new
+900,,House,Mixed-use,850000,Yes,4,400,0,0,None,,None,None,None,4,None,To renovate
+901,,House,Mixed-use,870000,Yes,4,555,0,0,None,1,None,None,None,4,None,Good
+902,,House,Mixed-use,1990000,Yes,,meters,0,0,None,,None,None,None,2,None,Good
+903,,House,Mixed-use,120000,Yes,5,177,0,0,None,,None,None,None,2,None,To be done up
+904,,House,Mixed-use,149000,Yes,,meters,0,0,None,,None,None,None,2,None,To renovate
+905,Fléron Retinne Magnée Romsée,House,Mixed-use,278000,Yes,1,60,1,0,None,,None,None,None,2,None,Good
+906,,House,Mixed-use,299000,Yes,4,489,1,0,None,,None,None,None,2,None,Good
+907,,House,Mixed-use,378000,Yes,4,325,1,0,None,,None,None,None,2,None,Good
+908,,House,Mixed-use,398000,Yes,2,437,0,0,None,,None,None,None,2,None,As new
+909,,House,Mixed-use,419000,Yes,5,340,0,0,None,1,None,None,None,3,None,Good
+910,,House,Mixed-use,574000,Yes,4,,0,,None,1,None,None,None,4,None,To renovate
+911,Ekeren,House,Mixed-use,635000,Yes,4,370,0,0,None,1,None,None,None,4,None,To renovate
+912,,House,Mixed-use,750000,Yes,5,420,0,,None,,None,None,None,2,None,Good
+913,,House,Mixed-use,1200000,Yes,6,700,0,0,None,1,None,None,None,2,None,To renovate
+914,,House,Mixed-use,1950000,Yes,,meters,0,,None,,None,None,None,2,None,Good
+915,,House,Mixed-use,289000,Yes,5,251,1,,None,,None,None,None,2,None,Good
+916,,House,Mixed-use,297000,Yes,3,235,0,0,None,,None,None,None,2,None,
+917,,House,Mixed-use,399000,Yes,3,517,0,0,None,,None,None,None,2,None,To renovate
+918,,House,Mixed-use,410000,Yes,7,411,0,0,None,,None,None,None,,None,As new
+919,,House,Mixed-use,470000,Yes,6,374,1,0,None,,None,None,None,3,None,Good
+920,,House,Mixed-use,689000,Yes,4,287,0,0,None,,None,None,None,3,None,As new
+921,,House,Mixed-use,790000,Yes,5,565,1,,None,,None,None,None,2,None,Good
+922,,House,Mixed-use,375000,Yes,3,145,0,0,None,,None,None,None,3,None,To renovate
+923,,House,Mixed-use,450000,Yes,,meters,0,,None,,None,None,None,3,None,Good
+924,,House,Mixed-use,210000,Yes,3,,1,0,None,,None,None,None,2,None,Good
+925,,House,Mixed-use,185000,Yes,3,120,0,0,None,,None,None,None,2,None,To be done up
+926,,House,Mixed-use,255000,Yes,4,229,0,0,None,,None,None,None,3,None,Good
+927,,House,Mixed-use,360000,Yes,,meters,0,,None,,None,None,None,3,None,As new
+928,,House,Mixed-use,575000,Yes,3,210,0,,None,,None,None,None,4,None,As new
+929,Ardennes,House,Mixed-use,575000,Yes,5,550,0,0,None,,None,None,None,2,None,As new
+930,,House,Mixed-use,595000,Yes,,meters,0,0,None,,None,None,None,2,None,Good
+931,,House,Mixed-use,770000,Yes,2,182,0,,None,,None,None,None,3,None,To be done up
+932,Kortrijk,House,Mixed-use,980000,Yes,8,528,0,0,None,1,None,None,None,4,None,Good
+933,Duffel,House,Mixed-use,395000,Yes,3,105,0,,None,,None,None,None,2,None,
+934,,House,Mixed-use,165000,Yes,2,132,0,0,None,,None,None,None,2,None,Good
+935,,House,Mixed-use,219000,Yes,4,240,0,0,None,,None,None,None,3,None,To be done up
+936,,House,Mixed-use,225000,Yes,1,195,0,1,None,,None,None,None,2,None,Good
+937,,House,Mixed-use,249000,Yes,3,130,0,0,None,,None,None,None,3,None,To be done up
+938,,House,Mixed-use,310000,Yes,2,185,0,0,None,,None,None,None,2,None,To be done up
+939,,House,Mixed-use,335000,Yes,11,600,0,0,None,,None,None,None,3,None,Good
+940,,House,Mixed-use,399000,Yes,5,470,0,0,None,1,None,None,None,2,None,Good
+941,Brussels Center,House,Mixed-use,450000,Yes,2,150,0,0,None,,None,None,None,2,None,To renovate
+942,,House,Mixed-use,495000,Yes,3,218,0,0,None,,None,None,None,3,None,Just renovated
+943,,House,Mixed-use,529000,Yes,4,224,1,0,None,,None,None,None,3,None,
+944,2660 Hoboken,House,Mixed-use,550000,Yes,3,420,0,,None,,None,None,None,2,None,As new
+945,,House,Mixed-use,559000,Yes,3,230,1,0,None,1,None,None,None,,None,As new
+946,,House,Mixed-use,680000,Yes,4,280,0,0,None,1,None,None,None,4,None,As new
+947,,House,Mixed-use,230000,Yes,2,,0,0,None,1,None,None,None,,None,
+948,,House,Mixed-use,285000,Yes,2,100,0,0,None,1,None,None,None,2,None,Good
+949,,House,Mixed-use,439000,Yes,3,360,0,0,None,1,None,None,None,2,None,Good
+950,,House,Mixed-use,450000,Yes,3,262,0,,None,1,None,None,None,2,None,Good
+951,,House,Mixed-use,495000,Yes,3,248,1,0,None,,None,None,None,2,None,Good
+952,,House,Mixed-use,495000,Yes,3,218,1,0,None,,None,None,None,,None,Just renovated
+953,Geraardsbergen,House,Mixed-use,495000,Yes,2,265,0,0,None,1,None,None,None,3,None,As new
+954,Mont de l 'Enclus,House,Mixed-use,839000,Yes,4,258,0,0,None,1,None,None,None,2,None,As new
+955,,House,Mixed-use,895000,Yes,,meters,0,0,None,,None,None,None,2,None,Good
+956,,House,Mixed-use,950000,Yes,2,,1,0,None,1,None,None,None,2,None,Good
+957,,House,Mixed-use,280000,Yes,3,355,1,0,None,,None,None,None,3,None,
+958,,House,Mixed-use,114900,Yes,4,140,0,,None,,None,None,None,2,None,To renovate
+959,,House,Mixed-use,119000,Yes,2,139,0,0,None,1,None,None,None,2,None,Good
+960,,House,Mixed-use,150000,Yes,3,120,1,0,None,,None,None,None,2,None,To renovate
+961,,House,Mixed-use,164900,Yes,5,,0,,None,,None,None,None,3,None,To be done up
+962,,House,Mixed-use,225000,Yes,4,180,1,0,None,,None,None,None,3,None,Good
+963,,House,Mixed-use,229000,Yes,4,160,1,0,None,,None,None,None,3,None,
+964,,House,Mixed-use,250000,Yes,2,140,0,,None,,None,None,None,2,None,To be done up
+965,,House,Mixed-use,250000,Yes,3,110,0,0,None,,None,None,None,2,None,Good
+966,,House,Mixed-use,280000,Yes,3,185,0,,None,,None,None,None,4,None,Good
+967,,House,Mixed-use,299000,Yes,2,230,1,0,None,,None,None,None,3,None,Good
+968,,House,Mixed-use,339000,Yes,3,298,0,,None,1,None,None,None,2,None,
+969,,House,Mixed-use,395000,Yes,2,220,1,0,None,,None,None,None,2,None,As new
+970,,House,Mixed-use,395000,Yes,2,288,1,0,None,,None,None,None,2,None,Good
+971,Geraardsbergen,House,Mixed-use,395000,Yes,6,240,0,,None,1,None,None,None,2,None,Good
+972,,House,Mixed-use,449000,Yes,2,150,1,0,None,,None,None,None,2,None,
+973,,House,Mixed-use,595000,Yes,4,326,1,0,None,,None,None,None,2,None,Good
+974,,House,Mixed-use,620000,Yes,,meters,0,0,None,,None,None,None,2,None,
+975,,House,Mixed-use,630000,Yes,4,300,0,0,None,,None,None,None,2,None,As new
+976,,House,Mixed-use,650000,Yes,2,380,0,0,None,,None,None,None,2,None,As new
+977,,House,Mixed-use,675000,Yes,,meters,0,,None,1,None,None,None,2,None,As new
+978,,House,Mixed-use,815000,Yes,18,,1,,None,,None,None,None,3,None,To be done up
+979,,House,Mixed-use,850000,Yes,5,,0,0,None,,None,None,None,2,None,Good
+980,,House,Mixed-use,465000,Yes,3,280,0,,None,,None,None,None,2,None,Good
+981,,House,Mixed-use,155000,Yes,2,100,0,0,None,,None,None,None,3,None,Good
+982,T5,House,Mixed-use,199000,Yes,2,146,1,,None,,None,None,None,3,None,Good
+983,,House,Mixed-use,265000,Yes,5,230,1,0,None,,None,None,None,2,None,To renovate
+984,,House,Mixed-use,279000,Yes,2,184,0,0,None,,None,None,None,2,None,To be done up
+985,,House,Mixed-use,295000,Yes,5,250,1,,None,,None,None,None,2,None,To renovate
+986,,House,Mixed-use,399000,Yes,4,,1,0,None,,None,None,None,2,None,Good
+987,,House,Mixed-use,475000,Yes,2,258,0,0,None,,None,None,None,2,None,Good
+988,,House,Mixed-use,599000,Yes,,meters,0,0,None,,None,None,None,3,None,Good
+989,,House,Mixed-use,696000,Yes,3,,1,0,None,1,None,None,None,4,None,Just renovated
+990,,House,Mixed-use,845000,Yes,3,260,1,0,None,,None,None,None,4,None,
+991,,House,Mixed-use,850000,Yes,3,233,0,0,None,1,None,None,None,2,None,Good
+992,,House,Mixed-use,325000,Yes,3,139,0,0,None,,None,None,None,2,None,Good
+993,,House,Mixed-use,165000,Yes,3,410,1,0,None,1,None,None,None,2,None,Good
+994,,House,Mixed-use,169000,Yes,2,,1,0,None,,None,None,None,2,None,To be done up
+995,,House,Mixed-use,239000,Yes,3,200,1,0,None,,None,None,None,2,None,To be done up
+996,Grand'Route,House,Mixed-use,265000,Yes,5,249,0,0,None,,None,None,None,2,None,To be done up
+997,Les Vennes,House,Mixed-use,315000,Yes,3,344,0,,None,,None,None,None,2,None,To be done up
+998,,House,Mixed-use,350000,Yes,5,300,0,,None,,None,None,None,3,None,Good
+999,Ardenne,House,Mixed-use,374900,Yes,9,619,0,,None,,None,None,None,4,None,To renovate
+1000,,House,Mixed-use,448000,Yes,5,185,0,0,None,,None,None,None,2,None,To renovate
+1001,,House,Mixed-use,448000,Yes,5,270,0,0,None,,None,None,None,2,None,To renovate
+1002,,House,Mixed-use,975000,Yes,4,192,0,0,None,1,None,None,None,4,None,
+1003,,House,Mixed-use,110000,Yes,3,,0,0,None,,None,None,None,3,None,To be done up
+1004,,House,Mixed-use,199000,Yes,4,111,0,0,None,,None,None,None,2,None,Good
+1005,Centre-ville,House,Mixed-use,219000,Yes,2,,1,,None,,None,None,None,2,None,Good
+1006,,House,Mixed-use,235000,Yes,4,215,0,,None,,None,None,None,3,None,To renovate
+1007,Sclessin,House,Mixed-use,280000,Yes,18,450,0,,None,1,None,None,None,3,None,To be done up
+1008,,House,Mixed-use,349000,Yes,4,,0,,None,,None,None,None,2,None,Good
+1009,,House,Mixed-use,385000,Yes,6,576,1,0,None,,None,None,None,4,None,
+1010,,House,Mixed-use,399000,Yes,4,380,1,0,None,,None,None,None,3,None,As new
+1011,,House,Mixed-use,513000,Yes,,meters,0,0,None,,None,None,None,,None,To be done up
+1012,,House,Mixed-use,949000,Yes,3,523,1,0,None,,None,None,None,,None,
+1013,,House,Mixed-use,425000,Yes,6,,0,,None,,None,None,None,2,None,Good
+1014,,House,Mixed-use,435000,Yes,4,145,1,,None,1,None,None,None,2,None,Good
+1015,,House,Mixed-use,609000,Yes,4,270,0,0,None,,None,None,None,3,None,Good
+1016,,House,Mixed-use,399000,Yes,4,,1,,None,,None,None,None,3,None,Good
+1017,,House,Mixed-use,1350000,Yes,3,522,0,0,None,,None,None,None,2,None,Good
+1018,,House,Mixed-use,79900,Yes,1,90,0,0,None,,None,None,None,2,None,To renovate
+1019,,House,Mixed-use,115000,Yes,3,150,0,0,None,,None,None,None,1,None,To renovate
+1020,,House,Mixed-use,345000,Yes,2,507,0,,None,1,None,None,None,4,None,Good
+1021,,House,Mixed-use,347500,Yes,3,311,1,,None,,None,None,None,,None,
+1022,,House,Mixed-use,399000,Yes,2,500,0,0,None,,None,None,None,4,None,As new
+1023,,House,Mixed-use,420000,Yes,2,150,0,0,None,,None,None,None,2,None,To be done up
+1024,Verviers et environs,House,Mixed-use,450000,Yes,3,975,0,,None,,None,None,None,2,None,Good
+1025,,House,Mixed-use,550000,Yes,3,115,1,0,None,,None,None,None,,None,As new
+1026,2620 Hemiksem,House,Mixed-use,579000,Yes,3,142,0,,None,,None,None,None,2,None,Good
+1027,,House,Mixed-use,599000,Yes,6,,0,,None,,None,None,None,2,None,Good
+1028,,House,Mixed-use,765000,Yes,4,300,0,,None,1,None,None,None,3,None,Just renovated
+1029,,House,Mixed-use,1250000,Yes,8,610,0,,None,1,None,None,None,3,None,Good
+1030,,House,Mixed-use,295000,Yes,3,395,0,0,None,,None,None,None,2,None,To renovate
+1031,,House,Mixed-use,285000,Yes,3,,0,,None,,None,None,None,,None,
+1032,,House,Mixed-use,140000,Yes,2,,0,,None,,None,None,None,3,None,To renovate
+1033,,House,Mixed-use,195000,Yes,2,103,0,0,None,,None,None,None,2,None,To renovate
+1034,,House,Mixed-use,329000,Yes,4,450,0,0,None,1,None,None,None,3,None,As new
+1035,,House,Mixed-use,349000,Yes,2,458,0,0,None,,None,None,None,2,None,
+1036,bruxelles nord - anderlecht molenbeek,House,Mixed-use,375000,Yes,3,200,0,0,None,,None,None,None,2,None,As new
+1037,,House,Mixed-use,385000,Yes,2,183,0,,None,,None,None,None,2,None,
+1038,,House,Mixed-use,395000,Yes,4,220,1,0,None,,None,None,None,2,None,To renovate
+1039,Grand Liège,House,Mixed-use,419000,Yes,3,,0,0,None,,None,None,None,2,None,As new
+1040,Aalst,House,Mixed-use,420000,Yes,6,236,1,,None,1,None,None,None,3,None,Good
+1041,Aalst,House,Mixed-use,420000,Yes,6,236,1,,None,1,None,None,None,3,None,Good
+1042,,House,Mixed-use,460000,Yes,4,230,0,0,None,,None,None,None,2,None,
+1043,,House,Mixed-use,495000,Yes,3,235,0,0,None,,None,None,None,3,None,As new
+1044,,House,Mixed-use,584000,Yes,5,230,0,,None,,None,None,None,3,None,As new
+1045,,House,Mixed-use,695000,Yes,4,450,0,,None,,None,None,None,3,None,To be done up
+1046,,House,Mixed-use,1250000,Yes,6,965,0,0,None,,None,None,None,2,None,To renovate
+1047,,House,Mixed-use,199000,Yes,4,217,0,0,None,1,None,None,None,2,None,To be done up
+1048,,House,Mixed-use,225000,Yes,5,356,1,,None,1,None,None,None,3,None,
+1049,,House,Mixed-use,260000,Yes,2,,0,0,None,,None,None,None,2,None,Good
+1050,,House,Mixed-use,295000,Yes,,,1,0,None,,None,None,None,2,None,To renovate
+1051,,House,Mixed-use,304000,Yes,4,225,0,0,None,,None,None,None,4,None,To be done up
+1052,,House,Mixed-use,435000,Yes,2,,0,,None,1,None,None,None,3,None,Good
+1053,,House,Mixed-use,1300000,Yes,,,0,,None,,None,None,None,4,None,As new
+1054,,House,Mixed-use,399750,Yes,7,260,0,,None,1,None,None,None,2,None,Good
+1055,,House,Mixed-use,595000,Yes,,meters,0,,None,,None,None,None,2,None,Just renovated
+1056,,House,Mixed-use,1100000,Yes,2,530,1,0,None,,None,None,None,2,None,Good
+1057,Grand Seraing,House,Mixed-use,139000,Yes,2,234,0,,None,,None,None,None,2,None,To be done up
+1058,,House,Mixed-use,169000,Yes,5,150,0,0,None,,None,None,None,3,None,
+1059,,House,Mixed-use,199000,Yes,,meters,0,,None,,None,None,None,2,None,To renovate
+1060,,House,Mixed-use,239000,Yes,5,435,0,0,None,1,None,None,None,2,None,To renovate
+1061,,House,Mixed-use,352000,Yes,4,,1,0,None,,None,None,None,3,None,Good
+1062,,House,Mixed-use,399000,Yes,5,,0,,None,1,None,None,None,4,None,To renovate
+1063,,House,Mixed-use,425000,Yes,2,,1,,None,,None,None,None,4,None,
+1064,,House,Mixed-use,495000,Yes,3,300,0,0,None,1,None,None,None,2,None,To be done up
+1065,,House,Mixed-use,510000,Yes,,,0,0,None,,None,None,None,2,None,Just renovated
+1066,,House,Mixed-use,525000,Yes,3,,0,,None,,None,None,None,2,None,Good
+1067,,House,Mixed-use,550000,Yes,3,450,0,,None,,None,None,None,2,None,Good
+1068,2018 Antwerpen,House,Mixed-use,595000,Yes,7,,0,0,None,,None,None,None,2,None,To renovate
+1069,HASSELT,House,Mixed-use,595000,Yes,5,280,0,,None,1,None,None,None,2,None,
+1070,Verviers et environs,House,Mixed-use,595000,Yes,6,1210,0,,None,1,None,None,None,2,None,Good
+1071,,House,Mixed-use,715000,Yes,2,300,0,0,None,1,None,None,None,2,None,
+1072,Verviers et environs,House,Mixed-use,745000,Yes,6,1210,0,,None,1,None,None,None,2,None,Good
+1073,,House,Mixed-use,930000,Yes,10,,0,1,None,,None,None,None,2,None,
+1074,,House,Mixed-use,995000,Yes,,,0,0,None,,None,None,None,2,None,Good
+1075,,House,Mixed-use,3100000,Yes,30,,0,0,None,,None,None,None,2,None,Good
+1076,Mons et sa région,House,Mixed-use,175000,Yes,2,100,0,0,None,,None,None,None,2,None,Just renovated
+1077,,House,Mixed-use,265000,Yes,2,,0,0,None,,None,None,None,2,None,To renovate
+1078,,House,Mixed-use,375000,Yes,3,548,0,,None,1,None,None,None,4,None,As new
+1079,Mons et sa région,House,Mixed-use,400000,Yes,4,125,1,0,None,1,None,None,None,2,None,As new
+1080,,House,Mixed-use,735000,Yes,,,0,0,None,,None,None,None,3,None,Good
+1081,,House,Mixed-use,799000,Yes,,,0,,None,,None,None,None,4,None,As new
+1082,,House,Mixed-use,895000,Yes,4,470,0,0,None,,None,None,None,4,None,As new
+1083,,House,Mixed-use,1050000,Yes,,meters,0,,None,,None,None,None,4,None,As new
+1084,,House,Mixed-use,159000,Yes,,,1,1,None,,None,None,None,4,None,Good
+1085,,House,Mixed-use,235000,Yes,,,0,,None,,None,None,None,2,None,As new
+1086,,House,Mixed-use,325000,Yes,5,,0,,None,,None,None,None,3,None,To be done up
+1087,Bruxelles (19 communes),House,Mixed-use,440000,Yes,,,0,0,None,,None,None,None,2,None,To be done up
+1088,,House,Mixed-use,595000,Yes,6,195,0,0,None,,None,None,None,2,None,
+1089,HOESELT,House,Mixed-use,205000,Yes,2,200,1,,None,1,None,None,None,3,None,
+1090,,House,Mixed-use,120000,Yes,2,150,0,0,None,,None,None,None,2,None,To renovate
+1091,,House,Mixed-use,120000,Yes,2,150,0,0,None,,None,None,None,2,None,To renovate
+1092,,House,Mixed-use,195000,Yes,5,290,0,0,None,1,None,None,None,2,None,To be done up
+1093,,House,Mixed-use,279000,Yes,3,180,1,0,None,1,None,None,None,2,None,Good
+1094,,House,Mixed-use,290000,Yes,,meters,0,,None,,None,None,None,2,None,Good
+1095,,House,Mixed-use,310000,Yes,5,,0,,None,,None,None,None,2,None,
+1096,,House,Mixed-use,325000,Yes,3,219,1,0,None,,None,None,None,2,None,
+1097,,House,Mixed-use,329000,Yes,4,,0,0,None,1,None,None,None,3,None,As new
+1098,,House,Mixed-use,348000,Yes,3,,0,0,None,,None,None,None,2,None,
+1099,,House,Mixed-use,368500,Yes,4,445,0,,None,,None,None,None,4,None,To renovate
+1100,,House,Mixed-use,419000,Yes,4,299,0,0,None,,None,None,None,2,None,To renovate
+1101,,House,Mixed-use,600000,Yes,3,500,0,0,None,,None,None,None,4,None,
+1102,,House,Mixed-use,294000,Yes,2,210,0,,None,,None,None,None,,None,
+1103,,House,Mixed-use,295000,Yes,,,0,0,None,,None,None,None,2,None,To renovate
+1104,,House,Mixed-use,450000,Yes,4,,1,0,None,,None,None,None,3,None,
+1105,Gent Zuid,House,Mixed-use,475000,Yes,4,,0,0,None,,None,None,None,2,None,
+1106,bruxelles nord - anderlecht molenbeek,House,Mixed-use,585000,Yes,4,125,0,0,None,,None,None,None,2,None,Good
+1107,,House,Mixed-use,650000,Yes,5,440,0,0,None,,None,None,None,2,None,To be done up
+1108,,House,Mixed-use,260000,Yes,5,185,1,,None,,None,None,None,,None,
+1109,,House,Mixed-use,199000,Yes,2,,1,0,None,1,None,None,None,2,None,Good
+1110,,House,Mixed-use,199900,Yes,,meters,1,0,None,1,None,None,None,3,None,Good
+1111,,House,Mixed-use,220000,Yes,,meters,0,0,None,,None,None,None,2,None,To restore
+1112,,House,Mixed-use,295000,Yes,1,97,0,1,None,1,None,None,None,4,None,Good
+1113,,House,Mixed-use,340000,Yes,4,280,0,0,None,1,None,None,None,3,None,To be done up
+1114,,House,Mixed-use,375000,Yes,6,496,0,0,None,,None,None,None,2,None,
+1115,,House,Mixed-use,420000,Yes,3,340,0,,None,,None,None,None,2,None,Good
+1116,,House,Mixed-use,600000,Yes,,,0,,None,,None,None,None,,None,
+1117,,House,Mixed-use,710000,Yes,4,,0,0,None,,None,None,None,,None,To renovate
+1118,,House,Mixed-use,750000,Yes,3,460,1,,None,,None,None,None,2,None,Good
+1119,,House,Mixed-use,935000,Yes,12,650,1,1,None,,None,None,None,4,None,
+1120,,House,Mixed-use,2100000,Yes,13,,0,,None,,None,None,None,3,None,As new
+1121,,House,Mixed-use,623000,Yes,2,303,0,,None,1,None,None,None,2,None,Good
+1122,,House,Mixed-use,69900,Yes,2,,0,0,None,,None,None,None,2,None,To renovate
+1123,,House,Mixed-use,180000,Yes,3,,0,0,None,1,None,None,None,,None,
+1124,Quaregnon,House,Mixed-use,239000,Yes,2,,0,,None,1,None,None,None,,None,Good
+1125,,House,Mixed-use,249000,Yes,2,245,0,0,None,,None,None,None,2,None,To renovate
+1126,,House,Mixed-use,260000,Yes,3,192,1,,None,,None,None,None,2,None,Good
+1127,pays de Herve,House,Mixed-use,349000,Yes,5,315,0,0,None,1,None,None,None,3,None,
+1128,,House,Mixed-use,375000,Yes,4,282,1,,None,1,None,None,None,3,None,
+1129,,House,Mixed-use,495000,Yes,4,267,0,,None,,None,None,None,2,None,
+1130,,House,Mixed-use,695000,Yes,4,259,0,,None,,None,None,None,4,None,As new
+1131,,House,Mixed-use,849000,Yes,3,374,0,,None,,None,None,None,3,None,Good
+1132,,House,Mixed-use,995000,Yes,7,,1,,None,,None,None,None,4,None,
+1133,,House,Mixed-use,2650000,Yes,,,1,,None,,None,None,None,,None,As new
+1134,Aalst,House,Mixed-use,195000,Yes,1,,1,0,None,,None,None,None,2,None,As new
+1135,,House,Mixed-use,420000,Yes,4,,0,,None,,None,None,None,2,None,Good
+1136,,House,Mixed-use,165000,Yes,3,,0,,None,,None,None,None,2,None,Good
+1137,,House,Mixed-use,135000,Yes,1,,0,,None,,None,None,None,1,None,To renovate
+1138,,House,Mixed-use,145000,Yes,2,190,1,0,None,,None,None,None,2,None,
+1139,,House,Mixed-use,175000,Yes,3,209,0,0,None,1,None,None,None,3,None,To renovate
+1140,,House,Mixed-use,195000,Yes,6,150,0,0,None,,None,None,None,2,None,To renovate
+1141,,House,Mixed-use,240000,Yes,4,614,0,,None,,None,None,None,3,None,To renovate
+1142,,House,Mixed-use,240000,Yes,5,340,0,,None,,None,None,None,3,None,To restore
+1143,,House,Mixed-use,249000,Yes,2,,0,0,None,,None,None,None,3,None,Good
+1144,,House,Mixed-use,425000,Yes,2,246,0,0,None,1,None,None,None,2,None,
+1145,,House,Mixed-use,450000,Yes,3,212,1,,None,,None,None,None,,None,
+1146,,House,Mixed-use,95000,Yes,3,,0,,None,,None,None,None,2,None,To renovate
+1147,,House,Mixed-use,225000,Yes,,meters,0,0,None,,None,None,None,,None,
+1148,,House,Mixed-use,249000,Yes,4,170,0,,None,,None,None,None,2,None,To renovate
+1149,,House,Mixed-use,265000,Yes,3,277,0,0,None,,None,None,None,,None,
+1150,,House,Mixed-use,280000,Yes,5,633,0,0,None,,None,None,None,,None,
+1151,,House,Mixed-use,299000,Yes,2,,0,,None,1,None,None,None,2,None,
+1152,,House,Mixed-use,320000,Yes,7,,1,0,None,,None,None,None,2,None,
+1153,,House,Mixed-use,455000,Yes,,,0,,None,,None,None,None,,None,To be done up
+1154,,House,Mixed-use,595000,Yes,5,520,1,0,None,,None,None,None,2,None,To be done up
+1155,,House,Mixed-use,600000,Yes,3,300,0,0,None,,None,None,None,2,None,Good
+1156,,House,Mixed-use,149000,Yes,,meters,0,0,None,,None,None,None,2,None,Good
+1157,,House,Mixed-use,1150000,Yes,6,750,0,0,None,,None,None,None,4,None,
+1158,,House,Mixed-use,2250000,Yes,8,,0,,None,,None,None,None,2,None,
+1159,,House,Mixed-use,65000,Yes,1,195,0,,None,,None,None,None,4,None,Good
+1160,,House,Mixed-use,79900,Yes,2,150,0,,None,,None,None,None,2,None,To renovate
+1161,,House,Mixed-use,165000,Yes,2,399,1,0,None,,None,None,None,3,None,
+1162,,House,Mixed-use,185000,Yes,,meters,0,,None,,None,None,None,2,None,Just renovated
+1163,,House,Mixed-use,200000,Yes,4,,0,,None,,None,None,None,,None,
+1164,,House,Mixed-use,325000,Yes,3,180,0,0,None,,None,None,None,3,None,Just renovated
+1165,,House,Mixed-use,550000,Yes,3,,0,,None,,None,None,None,4,None,Just renovated
+1166,,House,Mixed-use,620000,Yes,6,492,0,,None,,None,None,None,3,None,As new
+1167,,House,Mixed-use,720000,Yes,5,788,0,,None,1,None,None,None,4,None,Good
+1168,,House,Mixed-use,750000,Yes,6,121,0,1,None,,None,None,None,,None,As new
+1169,,House,Mixed-use,3990000,Yes,18,2343,0,,None,,None,None,None,2,None,
+1170,,House,Mixed-use,3990000,Yes,18,2343,0,,None,,None,None,None,2,None,
+1171,centre,House,Mixed-use,399000,Yes,2,,1,0,None,1,None,None,None,2,None,
+1172,,House,Mixed-use,65000,Yes,1,80,0,0,None,,None,None,None,2,None,
+1173,,House,Mixed-use,120000,Yes,,meters,1,0,None,1,None,None,None,2,None,
+1174,,House,Mixed-use,142000,Yes,3,,0,,None,,None,None,None,3,None,
+1175,,House,Mixed-use,275000,Yes,4,425,0,0,None,1,None,None,None,2,None,To be done up
+1176,,House,Mixed-use,285000,Yes,3,230,1,0,None,1,None,None,None,2,None,Good
+1177,,House,Mixed-use,350000,Yes,4,,0,,None,,None,None,None,3,None,
+1178,,House,Mixed-use,685000,Yes,,meters,0,0,None,,None,None,None,,None,
+1179,Jemappes,House,Mixed-use,90000,Yes,,,0,,None,,None,None,None,,None,To renovate
+1180,,House,Mixed-use,195000,Yes,2,170,0,0,None,,None,None,None,,None,
+1181,,House,Mixed-use,225000,Yes,6,,0,0,None,,None,None,None,,None,
+1182,,House,Mixed-use,375000,Yes,4,295,0,,None,1,None,None,None,3,None,
+1183,,House,Mixed-use,435000,Yes,2,235,0,,None,1,None,None,None,3,None,As new
+1184,,House,Mixed-use,435000,Yes,3,,0,,None,,None,None,None,4,None,As new
+1185,T10,House,Mixed-use,550000,Yes,,,0,,None,,None,None,None,4,None,Good
+1186,,House,Mixed-use,750000,Yes,1,650,1,,None,1,None,None,None,4,None,Just renovated
+1187,,House,Mixed-use,980000,Yes,8,158,0,1,None,,None,None,None,,None,As new
+1188,,House,Mixed-use,290000,Yes,3,200,0,,None,,None,None,None,2,None,To be done up
+1189,,House,Mixed-use,190000,Yes,5,235,0,0,None,,None,None,None,2,None,To renovate
+1190,,House,Mixed-use,195000,Yes,6,,0,0,None,,None,None,None,3,None,To renovate
+1191,,House,Mixed-use,345000,Yes,2,,0,,None,1,None,None,None,2,None,
+1192,,House,Mixed-use,400000,Yes,8,,0,,None,,None,None,None,3,None,As new
+1193,,House,Mixed-use,405000,Yes,8,,0,0,None,1,None,None,None,2,None,As new
+1194,,House,Mixed-use,420000,Yes,,meters,0,,None,,None,None,None,4,None,
+1195,,House,Mixed-use,485000,Yes,4,215,0,,None,1,None,None,None,2,None,To be done up
+1196,,House,Mixed-use,695000,Yes,4,,1,0,None,,None,None,None,,None,
+1197,,House,Mixed-use,87000,Yes,2,215,1,0,None,,None,None,None,2,None,
+1198,,House,Mixed-use,229000,Yes,2,133,0,0,None,1,None,None,None,2,None,
+1199,,House,Mixed-use,249000,Yes,2,170,0,,None,1,None,None,None,3,None,Good
+1200,,House,Mixed-use,280000,Yes,4,,0,,None,,None,None,None,2,None,
+1201,,House,Mixed-use,348000,Yes,2,173,0,0,None,,None,None,None,2,None,Good
+1202,,House,Mixed-use,179000,Yes,5,220,0,,None,,None,None,None,2,None,
+1203,,House,Mixed-use,135000,Yes,2,,0,,None,,None,None,None,,None,
+1204,,House,Mixed-use,200000,Yes,,meters,0,0,None,1,None,None,None,2,None,Good
+1205,Tournai,House,Mixed-use,260000,Yes,2,,0,0,None,,None,None,None,2,None,Good
+1206,,House,Mixed-use,425000,Yes,,meters,0,0,None,,None,None,None,2,None,
+1207,,House,Mixed-use,1280000,Yes,8,,0,0,None,,None,None,None,2,None,
+1208,Liège,House,Mixed-use,95000,Yes,,meters,0,,None,,None,None,None,2,None,To renovate
+1209,Liège,House,Mixed-use,109000,Yes,,meters,0,,None,,None,None,None,2,None,To renovate
+1210,,House,Mixed-use,199000,Yes,3,170,1,0,None,,None,None,None,2,None,
+1211,,House,Mixed-use,219000,Yes,4,240,1,,None,,None,None,None,3,None,As new
+1212,,House,Mixed-use,335000,Yes,3,,0,,None,,None,None,None,,None,To renovate
+1213,,House,Mixed-use,349000,Yes,2,,0,0,None,,None,None,None,2,None,Just renovated
+1214,,House,Mixed-use,364900,Yes,4,181,0,,None,1,None,None,None,2,None,To renovate
+1215,,House,Mixed-use,425000,Yes,,,0,,None,,None,None,None,,None,
+1216,,House,Mixed-use,495000,Yes,3,1007,1,0,None,,None,None,None,4,None,
+1217,,House,Mixed-use,649000,Yes,4,315,0,0,None,1,None,None,None,2,None,
+1218,,House,Mixed-use,99000,Yes,,,0,,None,,None,None,None,2,None,To be done up
+1219,,House,Mixed-use,150000,Yes,,meters,0,0,None,,None,None,None,,None,
+1220,,House,Mixed-use,299000,Yes,,,1,0,None,,None,None,None,2,None,
+1221,,House,Mixed-use,495000,Yes,,meters,1,0,None,,None,None,None,2,None,
+1222,,House,Mixed-use,125000,Yes,2,168,0,,None,,None,None,None,3,None,
+1223,centre,House,Mixed-use,225000,Yes,4,,0,,None,,None,None,None,3,None,To be done up
+1224,,House,Mixed-use,950000,Yes,7,,1,0,None,,None,None,None,,None,Good
+1225,,House,Mixed-use,85000,Yes,2,102,0,,None,,None,None,None,3,None,To be done up
+1226,,House,Mixed-use,110000,Yes,2,,0,,None,,None,None,None,,None,
+1227,,House,Mixed-use,245900,Yes,4,,0,,None,1,None,None,None,2,None,To renovate
+1228,,House,Mixed-use,380000,Yes,4,,0,0,None,,None,None,None,2,None,
+1229,,House,Mixed-use,420000,Yes,8,,0,0,None,,None,None,None,2,None,
+1230,,House,Mixed-use,610000,Yes,5,450,0,0,None,,None,None,None,,None,
+1231,,House,Mixed-use,750000,Yes,3,,0,,None,,None,None,None,4,None,
+1232,,House,Mixed-use,85000,Yes,,meters,1,0,None,,None,None,None,2,None,
+1233,,House,Mixed-use,85000,Yes,,meters,1,0,None,,None,None,None,2,None,
+1234,,House,Mixed-use,175000,Yes,2,330,0,,None,,None,None,None,3,None,
+1235,,House,Mixed-use,2350000,Yes,,meters,0,,None,,None,None,None,4,None,Good
+1236,,House,Mixed-use,165000,Yes,2,,0,,None,,None,None,None,,None,
+1237,,House,Mixed-use,250900,Yes,2,,0,,None,1,None,None,None,3,None,To be done up
+1238,,House,Mixed-use,495000,Yes,,,0,,None,,None,None,None,,None,
+1239,,House,Mixed-use,650000,Yes,,,0,,None,,None,None,None,,None,
+1240,,House,Mixed-use,235000,Yes,2,,0,,None,,None,None,None,2,None,To renovate
+1241,,House,Mixed-use,285000,Yes,,meters,0,,None,,None,None,None,2,None,To renovate
+1242,,House,Mixed-use,650000,Yes,,meters,0,,None,,None,None,None,2,None,Good
+1243,,House,Mixed-use,120000,Yes,2,140,0,,None,,None,None,None,3,None,
+1244,,House,Mixed-use,99000,Yes,,,0,,None,,None,None,None,2,None,Good
+1245,,House,Mixed-use,480000,Yes,5,400,0,0,None,,None,None,None,2,None,To renovate
+1246,,House,Mixed-use,180000,Yes,3,,0,0,None,,None,None,None,2,None,Good
+1247,,House,Mixed-use,305000,Yes,,,0,,None,,None,None,None,,None,
+1248,,House,Mixed-use,395000,Yes,,,1,0,None,1,None,None,None,4,None,
+1249,,House,Mixed-use,750000,Yes,6,670,0,,None,,None,None,None,2,None,
+1250,,House,Mixed-use,170000,Yes,2,,0,0,None,,None,None,None,2,None,Good
+1251,,House,Mixed-use,275000,Yes,,,0,,None,,None,None,None,,None,
+1252,,House,Mixed-use,500000,Yes,,,0,,None,,None,None,None,,None,
+1253,,House,Mixed-use,930000,Yes,,,0,,None,,None,None,None,,None,
+1254,,House,Mixed-use,170000,Yes,4,,0,,None,,None,None,None,3,None,
+1255,,House,Mixed-use,825000,Yes,12,,0,,None,,None,None,None,,None,
+1256,BRUXELLES,House,Mixed-use,2500000,Yes,,,0,,None,,None,None,None,2,None,As new
+1257,,House,Mixed-use,849000,Yes,3,375,0,,None,,None,None,None,3,None,As new
+1258,,House,Mixed-use,1350000,Yes,,meters,0,,None,,None,None,None,,None,To be done up
+1259,WALLONIE,House,Mixed-use,800000,Yes,,meters,0,,None,,None,None,None,4,None,
+1260,,House,Mixed-use,300000,Yes,,,0,,None,,None,None,None,4,None,To restore
+1261,,House,Mixed-use,445000,Yes,3,,0,,None,,None,None,None,,None,
+1262,,House,Mixed-use,280000,Yes,,,0,,None,,None,None,None,2,None,
+1263,,House,Mixed-use,370000,Yes,5,165,0,0,None,1,None,None,None,2,None,
+1264,ANVERS,House,Mixed-use,2595000,Yes,,,0,,None,,None,None,None,2,None,To renovate
+1265,,House,Mixed-use,115000,Yes,2,,0,,None,,None,None,None,2,None,Good
+1266,,House,Mixed-use,630000,Yes,3,550,0,0,None,,None,None,None,2,None,
+1267,,House,Mixed-use,690000,Yes,8,,0,,None,,None,None,None,,None,
+1268,,House,Mixed-use,80000,Yes,,meters,0,,None,,None,None,None,4,None,
+1269,,House,Mixed-use,3500000,Yes,20,1868,0,,None,,None,None,None,3,None,To restore
+1270,BRABANT FLAMAND,House,Mixed-use,2150000,Yes,,,0,,None,,None,None,None,4,None,Just renovated
+1271,,House,Mixed-use,3600000,Yes,,,0,,None,,None,None,None,2,None,
+1272,,House,Mixed-use,480000,Yes,4,200,0,,None,,None,None,None,2,None,To renovate
+1273,,House,Mixed-use,195000,Yes,,,0,,None,,None,None,None,2,None,To renovate
+1274,,House,Mixed-use,860000,Yes,8,,0,,None,,None,None,None,2,None,
+1275,,House,Mixed-use,950000,Yes,6,400,0,,None,,None,None,None,2,None,To renovate
+1276,,House,Mixed-use,239000,Yes,,,0,,None,,None,None,None,4,None,Good
+1277,,House,Mixed-use,425000,Yes,6,,0,,None,,None,None,None,,None,
+1278,HAINAUT,House,Mixed-use,375000,Yes,,,0,,None,,None,None,None,4,None,
+1279,BELGIQUE,House,Mixed-use,2050000,Yes,,,0,,None,,None,None,None,4,None,
+1280,,House,Mixed-use,5000000,Yes,,,0,,None,,None,None,None,2,None,
+1281,,House,Mixed-use,860000,Yes,,,0,,None,,None,None,None,,None,
+1282,,House,Mixed-use,860000,Yes,,,0,,None,,None,None,None,,None,
+1283,,House,Mixed-use,498000,Yes,,,0,,None,,None,None,None,,None,
+1284,,House,Mixed-use,900000,Yes,7,,0,,None,,None,None,None,4,None,Good
+1285,,House,Mixed-use,3100000,Yes,,,0,,None,,None,None,None,3,None,
+1286,,House,Mixed-use,990000,Yes,,,0,,None,,None,None,None,3,None,
+1287,,House,Mixed-use,2375000,Yes,,,0,,None,,None,None,None,2,None,
+1288,,House,Mixed-use,1800000,Yes,,,0,,None,,None,None,None,3,None,
