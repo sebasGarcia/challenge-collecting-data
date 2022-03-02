@@ -1,6 +1,52 @@
 Locality,Type of property,Subtype of property,Price,Type of sale,Number of rooms,Area,Fully equipped kitchen,Furnished,Open fire,Terrace,Garden,Surface of the land,Surface area of the plot of land,Number of facades,Swimming pool,State of the building
-Oost-Vlaanderen,House,House,419000,No,3,188,0,0,None,1,,,,2,,As new
-,House,Apartment,505000,Yes,5,237,0,0,None,,,,,3,,Good
-,House,House,209000,No,3,150,1,0,None,,Yes,,,,,To renovate
-,House,House,650000,No,4,230,1,0,None,,,,,4,,To be done up
-,House,House,300000,No,1,73,1,0,None,,,,,4,,As new
+,House,Castle,1275000,No,11,None,1,0,None,1,None,None,None,4,None,To renovate
+Buvrinnes/Merbes Sainte Marie,House,Castle,1900000,No,8,None,1,,None,1,None,None,None,4,None,Good
+,House,Castle,1115000,No,4,None,0,0,None,,None,None,None,4,None,Good
+,House,Castle,1450000,No,12,None,0,0,None,,None,None,None,4,None,
+,House,Castle,5500000,No,14,None,0,0,None,,None,None,None,4,None,As new
+,House,Castle,9500000,No,12,None,1,0,None,1,None,None,None,4,None,As new
+,House,Castle,2950000,No,30,None,1,0,None,,None,None,None,4,None,
+,House,Castle,1499000,No,7,None,0,0,None,,None,None,None,4,None,
+,House,Castle,5500000,No,14,None,0,0,None,1,None,None,None,4,None,Good
+,House,Castle,539000,No,4,None,0,,None,,None,None,None,4,None,To renovate
+,House,Castle,3950000,No,14,None,0,0,None,1,None,None,None,4,None,As new
+,House,Castle,3950000,No,14,None,0,0,None,1,None,None,None,4,None,As new
+,House,Castle,3950000,No,14,None,0,0,None,1,None,None,None,4,None,As new
+,House,Castle,Starting price : 1500000,No,5,None,1,,None,,None,None,None,4,None,
+,House,Castle,9500000,No,7,None,0,,None,,None,None,None,4,None,Good
+,House,Castle,2300000,No,8,None,1,0,None,,None,None,None,4,None,Good
+,House,Castle,2300000,No,8,None,1,0,None,,None,None,None,4,None,Good
+,House,Castle,2890000,No,12,None,0,0,None,,None,None,None,4,None,
+,House,Castle,4950000,No,5,None,1,0,None,1,None,None,None,4,None,
+,House,Castle,2480000,No,10,None,1,,None,1,None,None,None,4,None,To be done up
+,House,Castle,4950000,No,5,None,1,0,None,,None,None,None,,None,
+,House,Castle,4950000,No,5,None,0,,None,1,None,None,None,4,None,
+,House,Castle,1500000,No,5,None,0,,None,,None,None,None,4,None,To renovate
+,House,Castle,725000,No,10,None,0,,None,,None,None,None,,None,
+,House,Castle,1650000,No,4,None,0,,None,1,None,None,None,,None,As new
+,House,Castle,2550000,No,5,None,0,,None,,None,None,None,,None,
+,House,Castle,Starting price : 490000,Yes,16,None,0,,None,,None,None,None,,None,
+,House,Castle,899999,No,2,None,0,,None,1,None,None,None,4,None,As new
+,House,Castle,2800000,No,10,None,0,0,None,,None,None,None,,None,Good
+,House,Castle,2300000,No,11,None,1,0,None,,None,None,None,4,None,Just renovated
+,House,Castle,790000,No,7,None,1,0,None,,None,None,None,3,None,Good
+,House,Castle,550000,No,13,None,0,0,None,,None,None,None,4,None,To renovate
+,House,Castle,1900000,No,10,None,1,0,None,,None,None,None,4,None,
+,House,Castle,800000,No,9,None,0,,None,,None,None,None,4,None,To renovate
+,House,Castle,1950000,No,25,None,0,1,None,1,None,None,None,4,None,Just renovated
+,House,Castle,499000,No,2,None,1,0,None,,None,None,None,,None,
+,House,Castle,950000,No,8,None,1,0,None,,None,None,None,,None,
+,House,Castle,1195000,No,13,None,0,1,None,,None,None,None,4,None,
+,House,Castle,770000,,5,None,0,,None,,None,None,None,4,None,To be done up
+,House,Castle,1495000,No,5,None,1,0,None,1,None,None,None,4,None,As new
+,House,Castle,3752000,No,,None,0,,None,,None,None,None,4,None,
+,House,Castle,1100000,No,60,None,0,0,None,,None,None,None,4,None,
+,House,Castle,630000,No,6,None,0,0,None,,None,None,None,4,None,To restore
+,House,Castle,2250000,No,,None,0,0,None,,None,None,None,4,None,To renovate
+,House,Castle,1500000,No,8,None,0,0,None,,None,None,None,4,None,
+,House,Castle,1500000,,10,None,0,,None,,None,None,None,4,None,To be done up
+,House,Castle,2100000,,25,None,0,,None,,None,None,None,4,None,Good
+,House,Castle,3900000,No,9,None,0,,None,1,None,None,None,4,None,As new
+,House,Castle,450000,No,8,None,1,0,None,,None,None,None,4,None,
+,House,Castle,350000,,10,None,0,,None,,None,None,None,4,None,
+,House,Castle,1500000,No,11,None,0,0,None,,None,None,None,4,None,To renovate
