@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 import numpy as np
 from bs4 import BeautifulSoup
-#Work in progress: get rid of NaN, turn yes and no to 1/0 and try to get the missing data, Locality also not showing, like area, swimming pool..
+#Work in progress: try to get the missing data, Locality also not showing, just like area, swimming pool..
 #Note: Some data is set as default empty because for now I haven't found a way to get that data, I will try..
 
 def getDataFrame(my_urls):
