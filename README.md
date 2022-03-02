@@ -4,6 +4,13 @@ Becode challenge to train scrapping
 ## Date
 28/02/2022 - 02/03/2022
 
+## Team members
+https://github.com/WoutervdVijver
+
+https://github.com/sebasGarcia
+
+https://github.com/mahboubehfaghih
+
 ## The Mission
 The real estate company "ImmoEliza" wants to create a machine learning model to make price predictions on real estate sales in Belgium. You must therefore create a dataset that holds the following columns :
 
