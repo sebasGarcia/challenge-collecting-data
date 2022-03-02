@@ -2,7 +2,9 @@ import requests
 import pandas as pd
 import numpy as np
 from bs4 import BeautifulSoup
-#Work in progress: try to get the missing data, Locality also not showing..
+
+
+#Work in progress: try to get the missing data, Locality also not showing, just like area, swimming pool..
 #Note: Some data is set as default empty because for now I haven't found a way to get that data, I will try..
 
 def getDataFrame(my_urls):
@@ -35,29 +37,38 @@ def getDataFrame(my_urls):
 
         soup = BeautifulSoup(r.text, "html.parser")
         
-        more_info = soup.find("p", class_="classified__information--property")
-        area = ""
+        area = None
+        more_info = soup.find("p", attrs={'class':"classified__information--property"})
         if(more_info != None):
-            area = more_info.text.split()[3]
+            if(len(more_info.text.split()) > 3):
+                area = more_info.text.split()[3]
+
+
 
         table = soup.findAll("table", {"class": "classified-table"})
 
-        type_property = (
-            soup.find("h1", {"class": "classified__title"})
-            .text.strip()
-            .replace("\n", "")
-            .split()[0]
-        )
+        pre_type_property = soup.find("h1", {"class": "classified__title"})
+        if pre_type_property:
+            type_property = (
+                pre_type_property
+                .text.strip()
+                .replace("\n", "")
+                .split()[0]
+            )
+        else:
+            type_property = None
 
         subtype_property = type_property
 
-        price = soup.find("span", {"class": "sr-only"}).text.strip().replace("€", "")
 
-        price = "None" if price == None else price
+        price = soup.find("span", {"class": "sr-only"})
+
+        price = "None" if price == None else price.text.strip().replace("€", "")
 
         # We limit type_property to house or appartment
-        if type_property.lower() not in ["house", "appartment"]:
-            type_property = "House"
+        if type_property:
+            if type_property.lower() not in ["house", "appartment"]:
+                type_property = "House"
 
         # dictionary containing the scraped data
         my_dict = {}
@@ -77,6 +88,8 @@ def getDataFrame(my_urls):
                         column_name = str(data_row.string).strip()
 
                         my_dict[header_name] = column_name
+
+                        
     
         locality = my_dict.get("Neighbourhood or locality")
         type_sale= my_dict.get("Tenement building")
@@ -92,12 +105,13 @@ def getDataFrame(my_urls):
         furnished = my_dict.get("Furnished")
         # No info on immoweb about that
         open_fire = ""
-        garden = my_dict.get("Garden")
-        surface_of_land = my_dict.get("Living area")
+        # No confirmation on garden on the page but it does have garden surface, so maybe we could use that to confirm that garden exists
+        garden = ""
+        surface_of_land = ""
         terrace = my_dict.get("Terrace")
-        surface_plot_land = my_dict.get("Surface of the plot")
+        surface_plot_land = ""
         number_facades = my_dict.get("Number of frontages")
-        swimming_pool = my_dict.get("Swimming pool")
+        swimming_pool = ""
         state_building = my_dict.get("Building condition")
         my_list = [
         locality,
@@ -139,21 +153,32 @@ def getDataFrame(my_urls):
     return df
     # list of urls to test
 
-my_url_list = [
-    "https://www.immoweb.be/en/classified/house/for-sale/merelbeke/9820/9768055?searchId=621c8a1b690a0",
-    "https://www.immoweb.be/en/classified/apartment-block/for-sale/aarschot/3200/9781041?searchId=621e8012c1135",
-    "https://www.immoweb.be/en/classified/house/for-sale/de-panne/8660/9781188?searchId=621e8012c1135",
-    "https://www.immoweb.be/en/classified/house/for-sale/brasschaat/2930/9781340?searchId=621e8012c1135",
-    "https://www.immoweb.be/en/classified/house/for-sale/hoogstraten/2320/9780998?searchId=621e81bd33bc2",
-]
+# my_url_list = [
+#     "https://www.immoweb.be/en/classified/house/for-sale/merelbeke/9820/9768055?searchId=621c8a1b690a0",
+#     "https://www.immoweb.be/en/classified/apartment-block/for-sale/aarschot/3200/9781041?searchId=621e8012c1135",
+#     "https://www.immoweb.be/en/classified/house/for-sale/de-panne/8660/9781188?searchId=621e8012c1135",
+#     "https://www.immoweb.be/en/classified/house/for-sale/brasschaat/2930/9781340?searchId=621e8012c1135",
+#     "https://www.immoweb.be/en/classified/house/for-sale/hoogstraten/2320/9780998?searchId=621e81bd33bc2",
+# ]
 
-df = getDataFrame(my_url_list)
+def get_url_list(name):
+    prop =  pd.read_csv(f'url files/urls_{name}')
+    return np.array(prop).reshape((prop.size))[1::2]
 
-def saveTocsv(myDataFrame):
+#df = getDataFrame(my_url_list)
+
+#def saveTocsv(myDataFrame):
     
-    myDataFrame.to_csv('properties.csv', index=False)
+#    myDataFrame.to_csv('properties.csv', index=False)
     
-saveTocsv(df)
+#saveTocsv(df)
 
-df_saved_file = pd.read_csv('properties.csv')
-print(df_saved_file)
+#df_saved_file = pd.read_csv('properties.csv')
+#print(df_saved_file)
+
+def create_new_csv(name):
+    my_url_list = get_url_list(name)
+    df = getDataFrame(my_url_list) 
+    df.to_csv(f'property_files/property_{name}.csv') 
+
+create_new_csv('chalet')
