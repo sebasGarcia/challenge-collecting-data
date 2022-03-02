@@ -22,13 +22,13 @@ We decided to scrape "Immoweb": https://www.immoweb.be/en .
 
 
 ## Part one
-In the map url files the script Wouter_scrape searches for links in a list page showing all of their houses. The goal here was to scrape into that list and take each house's link reference. For each type of house a file was created of all url links in the map 'url files'. Some threading was included to speed up the process though very minimally.
+In the map url files the script 'Wouter_scrape' searches for links in a list page showing all of their houses. The goal here was to scrape into that list and take each house's link reference. For each type of house a file was created of all url links in the map 'url files'. Some threading was included to speed up the process though very minimally.
  
 ## Part two
-We have to create a data scraping code which should work on each url/page of advertisement.
-It was not easy to work on immoweb with BeautifulSoup because of the dynamic nature of website. A  number of traits needed selenium to be obtained but we decided against due to time pressure.
+We have to create a data scraping code which should work on each url/page of advertisement. This is done with the script 'scrape_data_saveCsv.py'
+It was not easy to work on Immoweb with BeautifulSoup because of the dynamic nature of website. A  number of traits needed selenium to be obtained but we decided against due to time pressure.
 
-For each of the types of properties a property_type file was made in the map 'property_files'. Combined this gives more than 10000 houses.
+For each of the types of properties a property_type file was made in the map 'property_files'. Combined this gives data for more than 10000 houses.
 
 
 
