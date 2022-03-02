@@ -18,6 +18,7 @@ Wouter can be explain more.
  
 ## Part two
 We have to create a data scraping code which should work on each url/page of advertisement.
+It was not easy to work on immoweb with BeautifulSoup because of the nature of website. 
 
 Sebastián can be explain more. 
 
