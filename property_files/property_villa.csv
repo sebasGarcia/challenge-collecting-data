@@ -1,0 +1,2560 @@
+,Locality,Type of property,Subtype of property,Price,Type of sale,Number of rooms,Area,Fully equipped kitchen,Furnished,Open fire,Terrace,Garden,Surface of the land,Surface area of the plot of land,Number of facades,Swimming pool,State of the building
+0,,House,Villa,1650000,No,4,None,0,0,None,,None,None,None,4,None,As new
+1,St Joh'ns,House,Villa,895000,,4,None,1,0,None,,None,None,None,4,None,To be done up
+2,,House,Villa,1175000,No,5,None,0,1,None,1,None,None,None,4,None,As new
+3,,House,Villa,239000,No,2,None,0,0,None,,None,None,None,4,None,To be done up
+4,,House,Villa,239000,No,2,None,0,0,None,,None,None,None,4,None,To be done up
+5,,House,Villa,1150000,No,6,None,1,0,None,,None,None,None,4,None,Good
+6,Hannut et 5 kms,House,Villa,300000,No,6,None,0,0,None,1,None,None,None,4,None,To be done up
+7,,House,Villa,450000,No,5,None,0,,None,,None,None,None,4,None,To be done up
+8,,House,Villa,799000,No,4,None,0,0,None,1,None,None,None,4,None,Good
+9,,House,Villa,200000,No,3,None,0,0,None,,None,None,None,4,None,Good
+10,Liège environs,House,Villa,259000,No,3,None,1,1,None,,None,None,None,4,None,To be done up
+11,,House,Chapelle,From 371000 To 391000,No,,None,0,,None,,None,None,None,,None,
+12,,House,Villa,375000,No,3,None,0,0,None,,None,None,None,4,None,Good
+13,Liège et 15kms,House,Villa,385000,No,3,None,1,0,None,,None,None,None,4,None,As new
+14,Brabant Wallon,House,Villa,399000,No,3,None,1,0,None,,None,None,None,4,None,As new
+15,Liège environs,House,Villa,399000,No,3,None,1,1,None,,None,None,None,4,None,As new
+16,,House,Villa,419000,No,4,None,0,0,None,,None,None,None,4,None,As new
+17,,House,Villa,450000,No,2,None,0,0,None,,None,None,None,4,None,Good
+18,,House,Villa,480000,No,3,None,0,0,None,,None,None,None,4,None,To renovate
+19,,House,Villa,515000,No,3,None,0,,None,,None,None,None,4,None,To renovate
+20,,House,New,From 595000 To 645000,No,,None,0,,None,,None,None,None,,None,
+21,1 - Bruxelles Sud,House,"""Moulin",707645,No,,None,0,,None,,None,None,None,,None,
+22,Bruxelles,House,MOULIN,707645,No,,None,0,,None,,None,None,None,,None,
+23,,House,Villa,845000,No,4,None,0,0,None,,None,None,None,4,None,As new
+24,Brabant Wallon,House,Villa,949000,No,5,None,1,0,None,,None,None,None,4,None,Good
+25,Versailles,House,Villa,980000,Yes,5,None,0,0,None,,None,None,None,4,None,As new
+26,,House,Villa,215000,No,2,None,0,0,None,,None,None,None,4,None,To be done up
+27,,House,Villa,365000,No,3,None,1,0,None,1,None,None,None,4,None,Good
+28,,House,Villa,379000,No,4,None,1,,None,1,None,None,None,4,None,Good
+29,,House,Villa,379000,No,4,None,1,0,None,,None,None,None,4,None,Good
+30,,House,Villa,598000,No,6,None,0,0,None,,None,None,None,3,None,As new
+31,Bruxelles,House,Villa,599000,No,4,None,0,0,None,,None,None,None,4,None,As new
+32,,House,Villa,799000,No,4,None,0,0,None,,None,None,None,4,None,Good
+33,,House,Villa,1290000,No,5,None,0,0,None,1,None,None,None,4,None,To renovate
+34,Bruxelles Sud,House,Villa,1390000,No,5,None,0,0,None,,None,None,None,4,None,Just renovated
+35,,House,Villa,895000,,5,None,1,0,None,1,None,None,None,4,None,To restore
+36,Est et périphérie bruxelloise,House,Villa,660000,No,5,None,0,0,None,,None,None,None,4,None,Good
+37,,House,Villa,495000,No,3,None,1,0,None,1,None,None,None,4,None,Good
+38,,House,Villa,745000,No,5,None,1,0,None,,None,None,None,4,None,As new
+39,,House,Villa,599000,No,3,None,1,0,None,1,None,None,None,4,None,Just renovated
+40,,House,Villa,1255000,No,3,None,0,0,None,1,None,None,None,4,None,Good
+41,,House,Villa,275000,No,2,None,0,0,None,,None,None,None,4,None,Good
+42,,House,Villa,375000,No,3,None,0,0,None,1,None,None,None,4,None,To renovate
+43,,House,Villa,445000,No,5,None,0,0,None,1,None,None,None,4,None,Good
+44,Waterloo,House,Villa,695000,,4,None,0,0,None,1,None,None,None,4,None,Good
+45,,House,Villa,399000,No,3,None,0,0,None,1,None,None,None,4,None,Good
+46,,House,Villa,550000,No,5,None,1,0,None,,None,None,None,4,None,Good
+47,,House,Villa,750000,No,5,None,1,0,None,,None,None,None,4,None,As new
+48,,House,Villa,1095000,No,5,None,0,0,None,1,None,None,None,4,None,As new
+49,,House,Villa,1395000,No,3,None,0,0,None,,None,None,None,4,None,Good
+50,Uccle,House,Villa,1980000,No,6,None,0,,None,1,None,None,None,4,None,To be done up
+51,,House,Villa,319000,No,4,None,1,0,None,,None,None,None,4,None,Good
+52,,House,Villa,599000,No,4,None,0,0,None,,None,None,None,4,None,As new
+53,,House,Villa,599000,No,3,None,1,0,None,1,None,None,None,4,None,To be done up
+54,1 - Bruxelles Sud,House,Villa,707645,No,3,None,0,0,None,,None,None,None,4,None,As new
+55,,House,Villa,389000,No,4,None,1,0,None,1,None,None,None,4,None,Good
+56,,House,Villa,615000,No,4,None,1,0,None,1,None,None,None,4,None,To be done up
+57,,House,Villa,229500,No,3,None,0,0,None,1,None,None,None,2,None,Good
+58,Brabant Wallon,House,Villa,395000,No,4,None,0,0,None,,None,None,None,4,None,As new
+59,,House,Villa,619000,No,4,None,0,0,None,,None,None,None,4,None,Good
+60,,House,Villa,980000,No,9,None,0,1,None,1,None,None,None,4,None,Good
+61,,House,Villa,980000,No,9,None,0,1,None,1,None,None,None,4,None,Good
+62,,House,Villa,995000,No,3,None,0,,None,1,None,None,None,4,None,As new
+63,,House,Villa,1395000,No,5,None,0,0,None,,None,None,None,2,None,Just renovated
+64,,House,Villa,1500000,No,6,None,0,1,None,1,None,None,None,4,None,Good
+65,,House,Villa,298000,No,3,None,0,0,None,,None,None,None,4,None,To be done up
+66,Knokke-Albertstrand-Duinbergen,House,Villa,1690000,No,5,None,0,0,None,1,None,None,None,3,None,As new
+67,,House,Villa,450000,No,6,None,0,0,None,1,None,None,None,4,None,As new
+68,,House,Villa,535000,No,4,None,1,0,None,,None,None,None,4,None,Good
+69,,House,Villa,470000,No,3,None,1,0,None,1,None,None,None,4,None,As new
+70,Zone Waterloo-BLA-Lasne-Rhode-Alsemberg,House,Villa,515000,No,3,None,0,0,None,,None,None,None,4,None,Good
+71,,House,Villa,735000,No,4,None,0,0,None,,None,None,None,4,None,As new
+72,,House,Villa,1250000,No,5,None,1,0,None,,None,None,None,4,None,Good
+73,,House,Villa,279000,No,3,None,1,0,None,,None,None,None,4,None,As new
+74,,House,Villa,450000,No,2,None,1,0,None,,None,None,None,4,None,As new
+75,,House,Villa,495000,No,3,None,1,0,None,1,None,None,None,4,None,Good
+76,,House,Villa,525000,No,3,None,1,0,None,,None,None,None,4,None,Good
+77,,House,Villa,575000,No,5,None,1,0,None,,None,None,None,4,None,Just renovated
+78,Vlaams-Brabant Noorden,House,Villa,675000,No,3,None,0,0,None,,None,None,None,4,None,Good
+79,,House,Villa,695000,No,5,None,0,0,None,1,None,None,None,4,None,To be done up
+80,,House,Villa,699000,No,4,None,1,0,None,,None,None,None,4,None,Good
+81,,House,Villa,699000,No,4,None,1,0,None,,None,None,None,4,None,As new
+82,Waterloo,House,Villa,895000,,5,None,0,0,None,,None,None,None,4,None,As new
+83,,House,Villa,990000,No,4,None,1,0,None,,None,None,None,4,None,Good
+84,,House,Villa,1280000,No,6,None,1,0,None,1,None,None,None,4,None,Good
+85,3 - KNOKKE,House,Villa,1550000,No,4,None,1,,None,1,None,None,None,3,None,As new
+86,Uccle,House,Villa,2750000,No,7,None,0,,None,1,None,None,None,4,None,As new
+87,1 ZOUTE,House,Villa,6650000,No,5,None,0,,None,1,None,None,None,4,None,As new
+88,,House,Villa,1245000,No,5,None,0,0,None,,None,None,None,4,None,As new
+89,,House,Villa,4350000,No,5,None,1,0,None,1,None,None,None,4,None,As new
+90,,House,Villa,1650000,No,6,None,1,,None,1,None,None,None,4,None,To renovate
+91,,House,Villa,1499000,No,5,None,1,0,None,,None,None,None,4,None,Good
+92,,House,Villa,785000,No,5,None,0,,None,1,None,None,None,4,None,As new
+93,,House,Villa,549000,No,3,None,0,0,None,,None,None,None,4,None,As new
+94,,House,Villa,220000,No,3,None,1,0,None,,None,None,None,4,None,Good
+95,Wavre,House,Villa,450000,No,3,None,1,,None,,None,None,None,4,None,To renovate
+96,Louvain-la-neuve,House,Villa,450000,No,3,None,1,,None,,None,None,None,4,None,To renovate
+97,,House,Villa,595000,No,3,None,0,0,None,,None,None,None,4,None,To be done up
+98,,House,Villa,599000,No,4,None,0,0,None,,None,None,None,4,None,To be done up
+99,,House,Villa,745000,No,4,None,0,0,None,1,None,None,None,4,None,Good
+100,,House,Villa,None,No,3,None,0,0,None,,None,None,None,4,None,Good
+101,,House,Villa,785000,No,5,None,0,0,None,,None,None,None,4,None,Good
+102,,House,Villa,1090000,No,4,None,1,0,None,,None,None,None,4,None,As new
+103,5 - DUINBERGEN,House,Villa,1775000,No,8,None,0,,None,1,None,None,None,3,None,Good
+104,Bruxelles Sud et Centre,House,Villa,1890000,No,4,None,0,,None,1,None,None,None,4,None,Good
+105,,House,Villa,1395000,No,6,None,1,0,None,,None,None,None,4,None,Good
+106,,House,Villa,875000,No,4,None,0,0,None,,None,None,None,3,None,As new
+107,,House,Villa,895000,No,4,None,0,0,None,,None,None,None,3,None,As new
+108,,House,Villa,225000,No,2,None,1,0,None,1,None,None,None,,None,Good
+109,,House,Villa,235000,No,3,None,1,0,None,1,None,None,None,,None,To be done up
+110,,House,Villa,245000,No,3,None,0,1,None,,None,None,None,,None,As new
+111,,House,Villa,245000,No,3,None,0,0,None,,None,None,None,,None,As new
+112,,House,Villa,245000,No,3,None,0,0,None,,None,None,None,,None,As new
+113,,House,Villa,285000,No,3,None,1,0,None,,None,None,None,,None,Good
+114,,House,Villa,295000,No,5,None,1,0,None,,None,None,None,,None,Good
+115,,House,Villa,345000,No,3,None,0,0,None,,None,None,None,,None,Good
+116,,House,Villa,434000,No,6,None,0,0,None,1,None,None,None,,None,As new
+117,,House,Villa,450000,No,4,None,1,1,None,,None,None,None,,None,As new
+118,,House,Villa,285000,No,4,None,0,0,None,,None,None,None,3,None,Good
+119,,House,Villa,645000,No,4,None,1,0,None,1,None,None,None,4,None,Good
+120,,House,Villa,1095000,No,7,None,0,0,None,,None,None,None,4,None,As new
+121,,House,Clos,From 216000 To 257000,No,,None,0,,None,,None,None,None,,None,
+122,Brabant Wallon,House,Maison,From 235000 To 315000,No,,None,0,,None,,None,None,None,,None,
+123,,House,Lotissement,From 419893 To 507062,No,,None,0,,None,,None,None,None,,None,
+124,,House,Villa,345000,No,4,None,1,0,None,1,None,None,None,4,None,
+125,,House,Villa,380000,No,4,None,0,0,None,,None,None,None,,None,To be done up
+126,,House,Villa,515000,No,4,None,1,0,None,1,None,None,None,4,None,Good
+127,,House,Villa,530000,No,3,None,0,0,None,,None,None,None,4,None,To be done up
+128,Soignies,House,Villa,545000,No,5,None,1,,None,,None,None,None,4,None,As new
+129,Silly,House,Villa,545000,No,5,None,1,,None,,None,None,None,4,None,As new
+130,Cambron-saint-vincent,House,Villa,545000,No,5,None,1,,None,,None,None,None,4,None,As new
+131,Brugelette,House,Villa,545000,No,5,None,1,,None,,None,None,None,4,None,As new
+132,,House,Villa,559500,No,4,None,1,0,None,1,None,None,None,4,None,
+133,,House,Villa,750000,No,3,None,1,0,None,,None,None,None,4,None,As new
+134,,House,Villa,795000,No,5,None,0,0,None,,None,None,None,4,None,As new
+135,,House,Villa,815000,No,6,None,1,0,None,1,None,None,None,4,None,Just renovated
+136,,House,Villa,865000,No,4,None,1,0,None,,None,None,None,4,None,As new
+137,,House,Villa,895000,No,5,None,0,0,None,1,None,None,None,4,None,To renovate
+138,,House,Villa,950000,No,4,None,1,0,None,1,None,None,None,4,None,To be done up
+139,,House,Villa,1100000,No,5,None,1,0,None,,None,None,None,4,None,As new
+140,,House,Villa,1150000,No,5,None,0,0,None,,None,None,None,4,None,Good
+141,,House,Villa,1195000,No,5,None,0,0,None,1,None,None,None,4,None,To renovate
+142,,House,Villa,1195000,No,4,None,1,0,None,,None,None,None,4,None,To be done up
+143,,House,Villa,1295000,No,6,None,0,0,None,,None,None,None,3,None,As new
+144,Duinbergen - voor Elizabetlaan,House,Villa,1775000,No,8,None,0,,None,1,None,None,None,3,None,As new
+145,Uccle,House,Villa,1890000,No,4,None,0,,None,,None,None,None,4,None,As new
+146,,House,Villa,2985000,No,5,None,0,,None,,None,None,None,4,None,As new
+147,,House,Villa,4300000,No,6,None,1,,None,1,None,None,None,4,None,As new
+148,,House,Villa,1395000,No,5,None,1,0,None,,None,None,None,4,None,As new
+149,,House,Villa,795000,No,5,None,1,0,None,,None,None,None,4,None,Good
+150,,House,Villa,765000,No,3,None,1,0,None,,None,None,None,4,None,As new
+151,,House,Villa,640000,No,3,None,1,0,None,,None,None,None,4,None,Good
+152,,House,Villa,735000,No,5,None,1,0,None,,None,None,None,4,None,Good
+153,,House,Villa,795000,No,8,None,0,0,None,1,None,None,None,4,None,
+154,,House,Villa,395000,No,3,None,0,0,None,1,None,None,None,4,None,To renovate
+155,,House,Villa,570000,No,4,None,0,0,None,,None,None,None,4,None,Good
+156,,House,Villa,1795000,No,4,None,0,0,None,1,None,None,None,3,None,As new
+157,,House,Villa,210000,No,4,None,0,0,None,,None,None,None,,None,To be done up
+158,,House,Villa,275000,No,2,None,1,0,None,,None,None,None,4,None,Good
+159,,House,Villa,425000,No,4,None,0,1,None,,None,None,None,4,None,As new
+160,Grand Liège,House,Villa,640000,No,5,None,1,0,None,,None,None,None,4,None,As new
+161,,House,Villa,695000,No,3,None,1,0,None,,None,None,None,,None,As new
+162,Bierghes,House,Villa,795500,No,5,None,1,,None,,None,None,None,4,None,As new
+163,Enghien - bierghes,House,Villa,795500,No,5,None,1,,None,,None,None,None,4,None,As new
+164,,House,Villa,850000,No,4,None,1,,None,,None,None,None,4,None,As new
+165,,House,Villa,428500,No,2,None,0,0,None,1,None,None,None,,None,As new
+166,,House,Villa,999000,No,8,None,0,1,None,1,None,None,None,,None,As new
+167,,House,Villa,2800000,No,10,None,0,0,None,1,None,None,None,4,None,Good
+168,,House,Villa,6650000,No,5,None,0,0,None,1,None,None,None,4,None,As new
+169,,House,Villa,995000,No,4,None,1,0,None,1,None,None,None,4,None,Good
+170,,House,Villa,995000,No,4,None,1,0,None,1,None,None,None,4,None,Good
+171,,House,Villa,569000,No,4,None,1,0,None,1,None,None,None,4,None,
+172,Strichon,House,Villa,300000,No,3,None,0,0,None,1,None,None,None,4,None,
+173,,House,Villa,349000,No,3,None,1,0,None,,None,None,None,4,None,To renovate
+174,,House,Villa,349000,No,3,None,1,0,None,,None,None,None,4,None,Good
+175,,House,Villa,350000,No,3,None,0,0,None,1,None,None,None,4,None,To renovate
+176,,House,Villa,350000,No,3,None,0,0,None,,None,None,None,4,None,Good
+177,,House,Villa,475000,No,4,None,1,0,None,,None,None,None,4,None,Good
+178,,House,Villa,495000,No,5,None,0,0,None,1,None,None,None,4,None,To renovate
+179,,House,Villa,495000,No,4,None,1,0,None,,None,None,None,4,None,As new
+180,,House,Villa,535000,No,4,None,0,0,None,,None,None,None,4,None,Good
+181,,House,Villa,550000,No,5,None,0,0,None,,None,None,None,4,None,Good
+182,,House,Villa,585000,No,5,None,1,0,None,1,None,None,None,4,None,Good
+183,,House,Villa,595000,No,4,None,1,0,None,1,None,None,None,4,None,To renovate
+184,,House,Villa,749000,No,3,None,0,0,None,1,None,None,None,4,None,
+185,,House,Villa,750000,No,8,None,1,0,None,,None,None,None,4,None,Good
+186,,House,Villa,775000,No,4,None,0,0,None,,None,None,None,4,None,As new
+187,,House,Villa,785000,No,5,None,1,0,None,,None,None,None,4,None,As new
+188,,House,Villa,850000,No,4,None,1,0,None,,None,None,None,4,None,Good
+189,,House,Villa,950000,No,5,None,1,0,None,,None,None,None,4,None,Good
+190,,House,Villa,1180000,No,4,None,0,0,None,,None,None,None,4,None,Good
+191,,House,Villa,1195000,No,5,None,1,0,None,1,None,None,None,4,None,To renovate
+192,,House,Villa,1195000,No,5,None,1,0,None,,None,None,None,3,None,As new
+193,,House,Villa,1199000,No,2,None,1,0,None,,None,None,None,4,None,As new
+194,,House,Villa,1435000,No,5,None,0,,None,1,None,None,None,4,None,As new
+195,,House,Villa,1695000,No,5,None,0,0,None,,None,None,None,4,None,To renovate
+196,,House,Villa,1750000,No,6,None,0,0,None,,None,None,None,4,None,As new
+197,Knokke-Duinbergen,House,Villa,1795000,No,5,None,1,0,None,1,None,None,None,4,None,Just renovated
+198,,House,Villa,1975000,No,7,None,1,0,None,,None,None,None,4,None,As new
+199,,House,Villa,2145000,No,5,None,0,0,None,1,None,None,None,4,None,As new
+200,,House,Villa,2750000,No,9,None,1,0,None,,None,None,None,4,None,To be done up
+201,,House,Villa,3150000,No,4,None,0,0,None,,None,None,None,4,None,Just renovated
+202,,House,Villa,850000,No,4,None,1,0,None,1,None,None,None,,None,Good
+203,,House,Villa,195000,No,5,None,0,0,None,,None,None,None,,None,To renovate
+204,,House,Villa,195000,No,5,None,0,0,None,,None,None,None,,None,To renovate
+205,,House,Villa,3450000,No,6,None,0,,None,,None,None,None,,None,As new
+206,,House,Villa,479000,No,3,None,0,0,None,1,None,None,None,,None,Good
+207,,House,Villa,750000,No,5,None,0,0,None,,None,None,None,4,None,
+208,,House,Villa,300000,No,3,None,1,0,None,,None,None,None,4,None,As new
+209,Putte en deelgemeenten,House,Villa,882000,No,5,None,0,,None,1,None,None,None,4,None,As new
+210,,House,Villa,275000,No,2,None,0,0,None,1,None,None,None,4,None,
+211,,House,Villa,750000,No,6,None,1,0,None,,None,None,None,4,None,As new
+212,,House,Villa,980000,No,3,None,0,0,None,,None,None,None,4,None,As new
+213,Est de Bruxelles + VL,House,Villa,980000,No,3,None,0,0,None,,None,None,None,4,None,As new
+214,,House,Villa,1150000,No,4,None,0,0,None,,None,None,None,4,None,Good
+215,,House,Villa,1680000,No,7,None,1,0,None,,None,None,None,4,None,To be done up
+216,,House,Villa,2495000,No,5,None,0,0,None,,None,None,None,4,None,As new
+217,,House,Villa,2600000,No,6,None,1,,None,1,None,None,None,4,None,Good
+218,,House,Villa,445000,No,2,None,0,0,None,,None,None,None,4,None,To be done up
+219,,House,Villa,585000,No,6,None,0,0,None,1,None,None,None,4,None,As new
+220,,House,Villa,529000,No,4,None,1,0,None,1,None,None,None,,None,Good
+221,,House,Villa,765000,No,8,None,0,0,None,,None,None,None,4,None,As new
+222,,House,Villa,575000,No,5,None,1,0,None,1,None,None,None,,None,Good
+223,,House,Villa,549000,No,4,None,0,0,None,,None,None,None,4,None,
+224,,House,Villa,790000,No,4,None,0,,None,1,None,None,None,4,None,Good
+225,,House,Villa,285000,No,4,None,1,0,None,1,None,None,None,3,None,Good
+226,,House,Villa,395000,No,4,None,0,0,None,1,None,None,None,3,None,Good
+227,,House,Villa,425000,No,5,None,1,0,None,1,None,None,None,4,None,Good
+228,,House,Villa,579000,No,3,None,0,0,None,,None,None,None,4,None,As new
+229,,House,Villa,585000,,3,None,0,0,None,1,None,None,None,4,None,Good
+230,,House,Villa,675000,No,2,None,1,0,None,,None,None,None,4,None,
+231,,House,Villa,725000,No,4,None,1,0,None,,None,None,None,4,None,Good
+232,,House,Villa,875000,No,4,None,0,,None,,None,None,None,4,None,As new
+233,,House,Villa,1098000,No,4,None,0,0,None,,None,None,None,4,None,Good
+234,,House,Villa,1200000,No,5,None,0,0,None,,None,None,None,4,None,To renovate
+235,,House,Villa,1250000,No,4,None,1,0,None,1,None,None,None,4,None,Good
+236,,House,Villa,1280000,No,4,None,0,0,None,1,None,None,None,4,None,As new
+237,,House,Villa,1495000,No,4,None,0,0,None,,None,None,None,4,None,
+238,,House,Villa,1690000,No,5,None,0,0,None,1,None,None,None,4,None,Good
+239,,House,Villa,1775000,No,4,None,0,,None,,None,None,None,4,None,Just renovated
+240,,House,Villa,2990000,No,6,None,0,0,None,,None,None,None,4,None,As new
+241,,House,Villa,3200000,No,7,None,1,0,None,,None,None,None,4,None,As new
+242,,House,Villa,465000,No,4,None,1,0,None,,None,None,None,4,None,As new
+243,,House,Villa,798500,No,5,None,1,0,None,,None,None,None,4,None,As new
+244,,House,Villa,699000,No,3,None,0,0,None,1,None,None,None,4,None,Good
+245,,House,Villa,299000,No,4,None,0,0,None,,None,None,None,,None,To renovate
+246,,House,Villa,665000,No,4,None,0,0,None,1,None,None,None,,None,As new
+247,,House,Villa,60000 + 645 per month,No,3,None,0,,None,1,None,None,None,4,None,As new
+248,,House,Villa,470000,No,5,None,0,0,None,,None,None,None,4,None,Good
+249,,House,Villa,1650000,No,3,None,0,0,None,,None,None,None,,None,
+250,Wallonne,House,Villa,249900,No,3,None,0,0,None,,None,None,None,4,None,To be done up
+251,Wallonne,House,Villa,339900,No,3,None,1,0,None,,None,None,None,4,None,As new
+252,,House,Villa,339000,No,4,None,0,0,None,,None,None,None,4,None,Good
+253,,House,Villa,395000,No,2,None,0,0,None,,None,None,None,4,None,As new
+254,,House,Villa,395000,No,5,None,1,0,None,,None,None,None,4,None,Good
+255,,House,Villa,440000,No,3,None,1,1,None,,None,None,None,4,None,As new
+256,,House,Villa,475000,No,5,None,0,0,None,1,None,None,None,4,None,Good
+257,,House,Villa,494000,No,4,None,1,,None,,None,None,None,4,None,Good
+258,,House,Villa,549000,No,4,None,1,0,None,,None,None,None,4,None,To be done up
+259,,House,Villa,595000,No,3,None,1,0,None,1,None,None,None,4,None,Good
+260,,House,Villa,595000,No,4,None,1,0,None,,None,None,None,,None,To be done up
+261,,House,Villa,645000,No,4,None,1,0,None,,None,None,None,4,None,Good
+262,,House,Villa,649000,No,4,None,0,0,None,,None,None,None,4,None,As new
+263,,House,Villa,669000,No,4,None,1,0,None,,None,None,None,4,None,As new
+264,,House,Villa,675000,No,4,None,0,0,None,,None,None,None,4,None,As new
+265,,House,Villa,795000,No,6,None,1,0,None,,None,None,None,4,None,Good
+266,,House,Villa,795000,No,4,None,1,0,None,,None,None,None,4,None,Good
+267,,House,Villa,870000,No,4,None,0,0,None,,None,None,None,4,None,As new
+268,,House,Villa,1495000,No,7,None,1,,None,,None,None,None,4,None,To renovate
+269,,House,Villa,1595000,No,5,None,0,0,None,,None,None,None,4,None,Good
+270,,House,Villa,2450000,No,8,None,1,0,None,,None,None,None,,None,Good
+271,,House,Villa,4950000,No,6,None,0,,None,,None,None,None,4,None,Good
+272,Oost-Vlaanderen,House,Villa,1150000,No,3,None,0,0,None,1,None,None,None,4,None,Good
+273,,House,Villa,339000,No,4,None,0,0,None,,None,None,None,,None,Good
+274,OUPEYE,House,Villa,385000,No,3,None,1,,None,,None,None,None,4,None,Good
+275,Projets Bruxelles Sud,House,Villa,725000,No,3,None,0,0,None,,None,None,None,4,None,As new
+276,,House,Villa,395000,No,4,None,1,0,None,,None,None,None,4,None,
+277,,House,Villa,275000,No,3,None,0,,None,,None,None,None,4,None,Good
+278,,House,Villa,1100000,No,6,None,0,0,None,1,None,None,None,4,None,As new
+279,,House,Villa,1350000,No,3,None,0,0,None,,None,None,None,4,None,As new
+280,,,,None,,,None,0,,None,,None,None,None,,None,
+281,,House,Villa,775000,No,5,None,1,0,None,,None,None,None,4,None,Good
+282,Bruxelles Nord,House,Villa,795000,No,5,None,0,0,None,1,None,None,None,4,None,Good
+283,,House,Villa,335000,No,4,None,0,0,None,,None,None,None,4,None,Good
+284,,House,Villa,369000,No,3,None,0,0,None,,None,None,None,4,None,As new
+285,,House,Villa,387000,No,4,None,1,0,None,,None,None,None,,None,Good
+286,,House,Villa,395000,No,3,None,0,0,None,,None,None,None,,None,To be done up
+287,,House,Villa,495000,No,4,None,1,0,None,1,None,None,None,,None,As new
+288,,House,Villa,499000,No,5,None,1,0,None,1,None,None,None,,None,Good
+289,,House,Villa,549000,No,5,None,1,0,None,1,None,None,None,,None,Good
+290,,House,Villa,575000,No,3,None,1,0,None,,None,None,None,,None,Good
+291,,House,Villa,595000,No,4,None,0,0,None,,None,None,None,,None,As new
+292,,House,Villa,625000,No,6,None,0,0,None,1,None,None,None,,None,As new
+293,,House,Villa,649000,No,3,None,0,0,None,,None,None,None,4,None,To be done up
+294,,House,Villa,749000,No,4,None,0,0,None,1,None,None,None,,None,As new
+295,,House,Villa,775000,No,4,None,0,0,None,1,None,None,None,,None,As new
+296,,House,Villa,785000,No,4,None,0,0,None,,None,None,None,4,None,
+297,,House,Villa,895000,No,4,None,1,0,None,,None,None,None,,None,Good
+298,,House,Villa,945000,No,4,None,0,0,None,,None,None,None,,None,As new
+299,,House,Villa,950000,No,5,None,1,0,None,,None,None,None,4,None,Good
+300,,House,Villa,1049000,No,6,None,0,0,None,,None,None,None,4,None,
+301,,House,Villa,1495000,No,7,None,1,0,None,1,None,None,None,4,None,As new
+302,,House,Villa,1775000,No,8,None,0,0,None,,None,None,None,,None,As new
+303,,House,Villa,1695000,No,4,None,0,0,None,,None,None,None,,None,
+304,,House,Villa,725000,No,3,None,1,0,None,,None,None,None,4,None,To be done up
+305,,House,Villa,329000,No,3,None,1,0,None,,None,None,None,4,None,
+306,,House,Villa,480000,No,4,None,0,0,None,,None,None,None,4,None,As new
+307,,House,Villa,598000,No,5,None,0,0,None,1,None,None,None,3,None,Good
+308,,House,Villa,1000000,No,4,None,0,0,None,,None,None,None,4,None,As new
+309,,House,Villa,210000,No,3,None,0,,None,,None,None,None,4,None,To be done up
+310,,House,Villa,1095000,No,5,None,0,0,None,1,None,None,None,4,None,
+311,,House,Villa,2350000,No,5,None,0,0,None,,None,None,None,4,None,
+312,,House,Villa,115000 + 783 per month,No,3,None,1,0,None,1,None,None,None,4,None,Good
+313,,House,Villa,325000,No,4,None,1,0,None,,None,None,None,4,None,Good
+314,,House,Villa,329000,No,4,None,1,0,None,,None,None,None,4,None,To renovate
+315,,House,Villa,345000,No,3,None,1,0,None,1,None,None,None,4,None,
+316,,House,Villa,379000,No,5,None,1,0,None,1,None,None,None,4,None,
+317,,House,Villa,399000,No,4,None,0,0,None,,None,None,None,4,None,Just renovated
+318,,House,Villa,399000,No,4,None,1,0,None,,None,None,None,4,None,As new
+319,,House,Villa,449000,No,3,None,0,0,None,,None,None,None,4,None,
+320,,House,Villa,459000,No,3,None,1,0,None,1,None,None,None,4,None,As new
+321,,House,Villa,499000,No,4,None,1,0,None,,None,None,None,4,None,
+322,,House,Villa,589000,No,5,None,0,0,None,,None,None,None,4,None,To restore
+323,Wavre et alentours,House,Villa,595000,No,4,None,0,,None,,None,None,None,4,None,Good
+324,,House,Villa,675000,No,5,None,0,0,None,1,None,None,None,4,None,Good
+325,Putte en deelgemeenten,House,Villa,699000,No,3,None,0,,None,1,None,None,None,4,None,Good
+326,,House,Villa,699000,No,4,None,1,0,None,,None,None,None,4,None,As new
+327,,House,Villa,745000,No,5,None,1,0,None,1,None,None,None,4,None,As new
+328,,House,Villa,745000,No,4,None,1,0,None,,None,None,None,4,None,As new
+329,,House,Villa,795000,No,4,None,1,0,None,1,None,None,None,4,None,To be done up
+330,,House,Villa,795000,No,4,None,1,0,None,1,None,None,None,4,None,As new
+331,,House,Villa,950000,No,5,None,0,0,None,,None,None,None,4,None,As new
+332,,House,Villa,975000,No,4,None,0,0,None,,None,None,None,4,None,As new
+333,,House,Villa,1450000,No,4,None,1,0,None,,None,None,None,4,None,Good
+334,,House,Villa,1495000,No,4,None,0,,None,,None,None,None,4,None,As new
+335,,House,Villa,1650000,No,4,None,0,,None,1,None,None,None,3,None,Good
+336,Knokke-Duinbergen,House,Villa,1775000,No,8,None,0,0,None,1,None,None,None,3,None,As new
+337,,House,Villa,2275000,No,6,None,0,,None,1,None,None,None,4,None,As new
+338,,House,Villa,2600000,No,4,None,0,0,None,,None,None,None,,None,Good
+339,,,,None,,,None,0,,None,,None,None,None,,None,
+340,,House,Villa,195000,No,3,None,0,0,None,,None,None,None,3,None,As new
+341,,House,Villa,230000,No,3,None,0,0,None,,None,None,None,3,None,As new
+342,,House,Villa,230000,No,3,None,0,0,None,,None,None,None,3,None,As new
+343,,House,Villa,1690000,No,5,None,1,0,None,,None,None,None,4,None,Good
+344,,House,Villa,650000,No,4,None,1,0,None,,None,None,None,4,None,Good
+345,,House,Villa,975000,No,11,None,0,0,None,,None,None,None,4,None,To renovate
+346,Oost-Vlaanderen,House,Villa,539000,No,5,None,0,,None,,None,None,None,4,None,Good
+347,,House,Villa,610000,No,4,None,1,0,None,,None,None,None,4,None,
+348,,House,Villa,239000,No,3,None,0,,None,1,None,None,None,4,None,Good
+349,,House,Villa,180000,No,3,None,1,0,None,,None,None,None,,None,To renovate
+350,,House,Villa,335000,No,3,None,0,0,None,1,None,None,None,,None,Good
+351,,House,Villa,340000,No,1,None,1,,None,,None,None,None,4,None,Good
+352,,House,Villa,395000,No,3,None,0,0,None,1,None,None,None,,None,As new
+353,,House,Villa,399000,No,3,None,0,0,None,,None,None,None,4,None,Good
+354,,House,Villa,465000,No,3,None,0,0,None,,None,None,None,4,None,
+355,,House,Villa,474000,No,4,None,1,0,None,,None,None,None,,None,Good
+356,,House,Villa,595000,No,4,None,1,0,None,1,None,None,None,,None,Good
+357,,House,Villa,700000,No,4,None,0,0,None,,None,None,None,,None,Just renovated
+358,,House,Villa,725000,,4,None,1,0,None,,None,None,None,4,None,To be done up
+359,,House,Villa,825000,No,3,None,0,0,None,,None,None,None,,None,As new
+360,,House,Villa,845000,No,4,None,0,0,None,1,None,None,None,,None,As new
+361,,House,Villa,890000,No,5,None,0,0,None,,None,None,None,4,None,As new
+362,,House,Villa,895000,No,4,None,0,0,None,,None,None,None,,None,As new
+363,,House,Villa,949000,No,3,None,0,0,None,1,None,None,None,,None,As new
+364,,House,Villa,950000,No,6,None,0,0,None,1,None,None,None,4,None,Good
+365,,House,Villa,995000,No,6,None,1,0,None,1,None,None,None,,None,Good
+366,,House,Villa,1050000,No,4,None,0,0,None,1,None,None,None,4,None,As new
+367,,House,Villa,1690000,No,5,None,0,,None,1,None,None,None,3,None,As new
+368,,House,Villa,3380000,No,7,None,0,,None,,None,None,None,4,None,As new
+369,Bois de Pesche,House,Villa,495000,,8,None,1,,None,1,None,None,None,4,None,As new
+370,,House,Villa,907500,No,3,None,0,0,None,1,None,None,None,4,None,
+371,,House,Villa,470000,No,5,None,1,0,None,,None,None,None,4,None,As new
+372,,House,Villa,345000,No,4,None,0,0,None,,None,None,None,,None,To renovate
+373,,House,Villa,250000,No,3,None,1,0,None,,None,None,None,4,None,Good
+374,,House,Villa,485000,No,3,None,1,,None,,None,None,None,,None,As new
+375,,House,Villa,249000,No,3,None,1,0,None,,None,None,None,,None,Good
+376,,House,Villa,265000,No,4,None,1,0,None,1,None,None,None,4,None,
+377,,House,Villa,390000,No,3,None,0,0,None,,None,None,None,4,None,To be done up
+378,,House,Villa,435000,No,4,None,0,0,None,1,None,None,None,4,None,As new
+379,Wervik,House,Villa,449000,No,3,None,0,0,None,1,None,None,None,4,None,Good
+380,,House,Villa,679000,No,3,None,0,,None,,None,None,None,4,None,Good
+381,,House,Villa,885000,No,4,None,0,0,None,1,None,None,None,,None,As new
+382,,House,Villa,920000,No,3,None,1,0,None,,None,None,None,4,None,As new
+383,,House,Villa,1225000,No,7,None,0,0,None,,None,None,None,4,None,As new
+384,,House,Villa,1275000,No,4,None,1,0,None,,None,None,None,4,None,As new
+385,,House,Villa,1350000,No,7,None,0,0,None,,None,None,None,4,None,As new
+386,,House,Villa,1690000,No,5,None,1,,None,1,None,None,None,4,None,As new
+387,,House,Villa,1985000,No,4,None,0,0,None,1,None,None,None,,None,As new
+388,,House,Villa,1995000,No,4,None,0,,None,1,None,None,None,4,None,As new
+389,,House,Villa,2600000,No,5,None,0,0,None,,None,None,None,4,None,
+390,Rhode-saint-genese,House,Villa,2740000,No,5,None,0,,None,1,None,None,None,4,None,As new
+391,,House,Villa,5250000,No,5,None,0,,None,1,None,None,None,4,None,As new
+392,,House,Villa,250000,No,5,None,0,0,None,,None,None,None,4,None,Good
+393,,House,Villa,320000,No,3,None,0,0,None,,None,None,None,4,None,
+394,Oost- Vlaanderen,House,Villa,449000,No,3,None,0,,None,1,None,None,None,4,None,Good
+395,,House,Villa,800000,No,5,None,1,0,None,,None,None,None,4,None,Good
+396,,House,Villa,850000,No,5,None,0,0,None,,None,None,None,4,None,Good
+397,,House,Villa,899000,No,3,None,1,1,None,,None,None,None,,None,As new
+398,,House,Villa,175000 + 1280 per month,No,3,None,1,,None,1,None,None,None,4,None,To renovate
+399,,House,Villa,265000,No,3,None,1,,None,,None,None,None,4,None,Good
+400,,House,Villa,Starting price : 180000,No,3,None,1,,None,1,None,None,None,4,None,Good
+401,,House,Villa,Starting price : 210000,No,4,None,0,,None,1,None,None,None,4,None,Good
+402,,House,Villa,315000,No,4,None,0,0,None,,None,None,None,4,None,To be done up
+403,,House,Villa,349000,,3,None,1,,None,1,None,None,None,4,None,As new
+404,,House,Villa,350000,No,5,None,0,0,None,,None,None,None,4,None,Good
+405,,House,Villa,375000,No,4,None,1,0,None,1,None,None,None,4,None,Just renovated
+406,,House,Villa,400000,No,3,None,0,0,None,,None,None,None,,None,Good
+407,,House,Villa,400000,No,3,None,0,0,None,,None,None,None,4,None,As new
+408,,House,Villa,450000,No,4,None,1,0,None,,None,None,None,4,None,Good
+409,,House,Villa,510000,No,4,None,1,0,None,1,None,None,None,4,None,Good
+410,,House,Villa,510000,No,4,None,1,0,None,1,None,None,None,4,None,Good
+411,,House,Villa,535000,No,4,None,0,0,None,1,None,None,None,4,None,
+412,,House,Villa,575000,No,5,None,1,0,None,1,None,None,None,4,None,
+413,,House,Villa,579000,No,3,None,0,0,None,,None,None,None,4,None,Just renovated
+414,,House,Villa,645000,No,5,None,0,0,None,1,None,None,None,4,None,
+415,,House,Villa,669000,No,4,None,0,0,None,,None,None,None,4,None,As new
+416,,House,Villa,735000,No,4,None,1,0,None,1,None,None,None,,None,Good
+417,,House,Villa,790000,No,5,None,0,0,None,,None,None,None,4,None,To renovate
+418,,House,Villa,849000,No,6,None,0,0,None,,None,None,None,,None,
+419,,House,Villa,850000,No,4,None,1,0,None,,None,None,None,4,None,Just renovated
+420,,House,Villa,925000,No,5,None,0,0,None,1,None,None,None,4,None,Just renovated
+421,,House,Villa,950000,No,5,None,0,0,None,,None,None,None,4,None,Good
+422,,House,Villa,1295000,No,4,None,0,0,None,,None,None,None,4,None,
+423,,House,Villa,2450000,No,8,None,0,,None,,None,None,None,4,None,As new
+424,,House,Villa,2850000,No,6,None,0,,None,1,None,None,None,4,None,As new
+425,,House,Villa,3600000,No,3,None,0,0,None,1,None,None,None,4,None,Just renovated
+426,,House,Villa,675000,,3,None,0,,None,1,None,None,None,4,None,As new
+427,,House,Villa,Starting price : 680000,No,6,None,0,,None,,None,None,None,3,None,To be done up
+428,,House,Villa,100000 + 720 per month,No,3,None,1,,None,,None,None,None,3,None,Good
+429,,House,Villa,199000,No,3,None,1,0,None,1,None,None,None,,None,Good
+430,,House,Villa,299000,No,3,None,0,0,None,1,None,None,None,4,None,To be done up
+431,Bastogne,House,Villa,375000,No,6,None,0,,None,1,None,None,None,4,None,
+432,,House,Villa,439000,No,3,None,0,0,None,,None,None,None,,None,
+433,,House,Villa,469000,No,5,None,1,0,None,,None,None,None,4,None,Good
+434,,House,Villa,519000,No,5,None,1,0,None,,None,None,None,4,None,Good
+435,,House,Villa,585000,No,5,None,1,1,None,,None,None,None,4,None,Good
+436,,House,Villa,618000,No,5,None,1,0,None,,None,None,None,4,None,Good
+437,,House,Villa,700000,No,4,None,0,0,None,1,None,None,None,4,None,To be done up
+438,,House,Villa,700000,No,4,None,0,0,None,1,None,None,None,4,None,To be done up
+439,,House,Villa,895000,No,4,None,1,0,None,,None,None,None,4,None,Good
+440,,House,Villa,939000,No,4,None,1,0,None,,None,None,None,4,None,As new
+441,,House,Villa,995000,,3,None,1,,None,,None,None,None,4,None,As new
+442,,House,Villa,1400000,No,3,None,0,0,None,,None,None,None,4,None,As new
+443,,House,Villa,1599000,No,5,None,0,0,None,,None,None,None,4,None,Good
+444,,House,Villa,2350000,No,5,None,0,,None,,None,None,None,4,None,As new
+445,,House,Villa,2850000,No,6,None,0,,None,1,None,None,None,4,None,As new
+446,,House,Villa,3150000,No,4,None,0,0,None,1,None,None,None,,None,As new
+447,,House,Villa,3900000,No,6,None,0,,None,1,None,None,None,4,None,As new
+448,,House,Villa,260000,No,3,None,0,0,None,,None,None,None,4,None,Good
+449,,House,Villa,650000,No,3,None,1,0,None,,None,None,None,4,None,To be done up
+450,,House,Villa,350000,No,3,None,0,0,None,,None,None,None,3,None,Good
+451,,House,Villa,5500000,No,6,None,0,,None,1,None,None,None,4,None,As new
+452,,House,Villa,945000,No,4,None,0,0,None,,None,None,None,,None,As new
+453,,House,Villa,725000,,5,None,0,0,None,,None,None,None,4,None,Just renovated
+454,,House,Villa,Starting price : 180000,No,4,None,1,,None,1,None,None,None,4,None,As new
+455,,House,Villa,195000,No,3,None,0,0,None,1,None,None,None,4,None,To be done up
+456,,,,None,,,None,0,,None,,None,None,None,,None,
+457,,House,Villa,375000,No,2,None,0,0,None,,None,None,None,4,None,Good
+458,,House,Villa,375000,No,4,None,0,0,None,,None,None,None,4,None,
+459,,House,Villa,395000,No,4,None,1,,None,1,None,None,None,4,None,Good
+460,,House,Villa,419000,No,4,None,0,0,None,1,None,None,None,4,None,Good
+461,Brabant Wallon,House,Villa,449000,No,4,None,1,,None,1,None,None,None,4,None,As new
+462,Grand Liège,House,Villa,475000,No,3,None,0,0,None,1,None,None,None,4,None,As new
+463,,House,Villa,499000,No,4,None,0,,None,1,None,None,None,4,None,As new
+464,,House,Villa,510000,No,4,None,1,0,None,1,None,None,None,4,None,
+465,,House,Villa,525000,No,3,None,0,0,None,1,None,None,None,4,None,To renovate
+466,,House,Villa,529000,No,4,None,1,0,None,,None,None,None,4,None,Good
+467,,House,Villa,539000,No,5,None,1,0,None,,None,None,None,4,None,As new
+468,,House,Villa,625000,No,4,None,1,,None,1,None,None,None,4,None,Good
+469,,House,Villa,627000,No,5,None,0,0,None,,None,None,None,4,None,As new
+470,,House,Villa,650000,No,4,None,1,0,None,,None,None,None,4,None,Just renovated
+471,,House,Villa,650000,No,7,None,0,0,None,1,None,None,None,4,None,
+472,Oost- Vlaanderen,House,Villa,675000,No,7,None,0,,None,1,None,None,None,4,None,As new
+473,,House,Villa,775000,No,4,None,0,0,None,,None,None,None,4,None,Just renovated
+474,,House,Villa,845000,No,5,None,1,0,None,,None,None,None,4,None,Good
+475,,House,Villa,1199000,No,4,None,0,0,None,,None,None,None,4,None,As new
+476,,House,Villa,1350000,No,7,None,0,,None,1,None,None,None,4,None,As new
+477,,House,Villa,1775000,No,8,None,0,,None,1,None,None,None,3,None,As new
+478,,House,Villa,1900000,No,4,None,0,,None,1,None,None,None,4,None,As new
+479,,House,Villa,1975000,No,6,None,1,,None,1,None,None,None,4,None,As new
+480,,House,Villa,2750000,No,7,None,0,,None,1,None,None,None,4,None,As new
+481,,House,Villa,3690000,No,3,None,0,0,None,,None,None,None,4,None,
+482,,House,Villa,815000,No,4,None,1,0,None,,None,None,None,,None,As new
+483,,House,Villa,Starting price : 195000,No,4,None,1,,None,,None,None,None,4,None,To be done up
+484,,House,Villa,279000,No,2,None,0,0,None,1,None,None,None,4,None,Good
+485,,House,Villa,435000,No,3,None,0,0,None,,None,None,None,4,None,To be done up
+486,,House,Villa,795000,No,4,None,0,0,None,,None,None,None,4,None,As new
+487,,House,Villa,359000,No,2,None,1,,None,1,None,None,None,4,None,As new
+488,,House,Villa,150000 + 773 per month,No,3,None,1,0,None,1,None,None,None,4,None,
+489,,House,Villa,259000,,3,None,0,0,None,,None,None,None,4,None,To be done up
+490,,House,Villa,290000,No,4,None,0,0,None,1,None,None,None,4,None,
+491,,House,Villa,329000,No,4,None,0,0,None,,None,None,None,,None,To be done up
+492,,House,Villa,330000,No,3,None,0,,None,,None,None,None,4,None,As new
+493,,House,Villa,350000,No,3,None,1,0,None,,None,None,None,4,None,As new
+494,,House,Villa,360000,Yes,6,None,1,0,None,,None,None,None,3,None,Good
+495,,House,Villa,469000,No,3,None,0,0,None,,None,None,None,4,None,To be done up
+496,,House,Villa,475000,No,4,None,0,0,None,1,None,None,None,,None,As new
+497,,House,Villa,490000,No,4,None,1,0,None,1,None,None,None,,None,As new
+498,Grand Liège,House,Villa,499000,No,6,None,0,0,None,,None,None,None,4,None,To renovate
+499,,House,Villa,570000,No,4,None,0,0,None,1,None,None,None,,None,As new
+500,,House,Villa,585000,No,4,None,1,,None,1,None,None,None,,None,As new
+501,,House,Villa,619000,No,6,None,1,0,None,,None,None,None,4,None,Good
+502,,House,Villa,645000,No,4,None,0,,None,,None,None,None,,None,
+503,,House,Villa,650000,No,3,None,0,0,None,,None,None,None,4,None,As new
+504,,House,Villa,720000,No,4,None,1,0,None,1,None,None,None,,None,
+505,,House,Villa,825000,No,3,None,0,0,None,,None,None,None,4,None,Good
+506,,House,Villa,849000,No,5,None,0,0,None,,None,None,None,4,None,As new
+507,,House,Villa,950000,No,4,None,0,0,None,,None,None,None,4,None,As new
+508,,House,Villa,950000,No,4,None,0,,None,1,None,None,None,4,None,To be done up
+509,,House,Villa,1150000,No,3,None,0,0,None,,None,None,None,4,None,
+510,,House,Villa,1250000,No,6,None,0,0,None,,None,None,None,,None,As new
+511,,House,Villa,1380000,No,6,None,0,,None,1,None,None,None,4,None,Good
+512,,House,Villa,1500000,No,4,None,1,,None,1,None,None,None,4,None,As new
+513,,House,Villa,2450000,No,4,None,0,0,None,,None,None,None,4,None,Just renovated
+514,,House,Villa,945000,,5,None,0,,None,1,None,None,None,4,None,As new
+515,,House,Villa,375000,No,4,None,0,,None,,None,None,None,4,None,Good
+516,,House,Villa,493000,No,4,None,0,0,None,,None,None,None,4,None,As new
+517,,House,Villa,522000,No,4,None,0,0,None,,None,None,None,4,None,As new
+518,,House,Villa,1680000,No,4,None,1,,None,,None,None,None,4,None,As new
+519,,House,Villa,1150000,No,5,None,1,,None,,None,None,None,,None,
+520,,House,Villa,300000,,4,None,1,,None,,None,None,None,4,None,As new
+521,,House,Villa,150000 + 655 per month,No,3,None,1,,None,,None,None,None,4,None,Good
+522,,House,Villa,270000,No,3,None,0,0,None,1,None,None,None,4,None,To be done up
+523,,House,Villa,295000,No,4,None,0,0,None,,None,None,None,4,None,Good
+524,,House,Villa,380000,No,3,None,1,,None,1,None,None,None,4,None,As new
+525,Charleroi périmètre,House,Villa,399000,No,2,None,1,0,None,1,None,None,None,4,None,Good
+526,,House,Villa,435000,No,4,None,0,0,None,,None,None,None,4,None,To renovate
+527,,House,Villa,445000,No,3,None,0,,None,1,None,None,None,4,None,To renovate
+528,,House,Villa,475000,No,3,None,1,0,None,,None,None,None,4,None,
+529,,House,Villa,495000,No,3,None,0,0,None,1,None,None,None,4,None,To renovate
+530,,House,Villa,549000,,4,None,0,,None,,None,None,None,4,None,As new
+531,,House,Villa,550000,No,4,None,0,0,None,,None,None,None,,None,To be done up
+532,,House,Villa,600000,No,5,None,1,0,None,,None,None,None,4,None,To renovate
+533,,House,Villa,625000,No,5,None,1,0,None,,None,None,None,4,None,Good
+534,,House,Villa,699000,No,4,None,0,0,None,,None,None,None,4,None,
+535,Oost-Vlaanderen,House,Villa,750000,No,5,None,0,0,None,1,None,None,None,4,None,As new
+536,,House,Villa,750000,No,6,None,1,0,None,,None,None,None,,None,As new
+537,,House,Villa,820000,No,5,None,0,,None,1,None,None,None,4,None,
+538,Tubize,House,Villa,875000,No,6,None,0,,None,1,None,None,None,4,None,
+539,,House,Villa,885000,No,4,None,0,0,None,,None,None,None,4,None,As new
+540,,House,Villa,1250000,No,4,None,0,,None,1,None,None,None,4,None,Good
+541,,House,Villa,1350000,No,3,None,0,0,None,1,None,None,None,4,None,Good
+542,,House,Villa,1590000,No,7,None,0,0,None,,None,None,None,4,None,Good
+543,,House,Villa,2490000,No,7,None,0,,None,1,None,None,None,4,None,As new
+544,,House,Villa,2995000,No,4,None,0,,None,1,None,None,None,4,None,As new
+545,,House,Villa,4200000,No,5,None,0,0,None,,None,None,None,4,None,To renovate
+546,,House,Villa,Starting price : 435000,No,2,None,0,,None,,None,None,None,4,None,To be done up
+547,Oost- Vlaanderen,House,Villa,429000,No,4,None,1,,None,1,None,None,None,4,None,As new
+548,,House,Villa,1150000,No,4,None,0,,None,1,None,None,None,4,None,As new
+549,,House,Villa,3500000,No,6,None,0,,None,1,None,None,None,4,None,As new
+550,,House,Villa,519000,No,3,None,1,0,None,,None,None,None,4,None,Good
+551,Brabant wallon,House,Bois,From 648000 To 697000,No,,None,0,,None,,None,None,None,,None,
+552,,House,Villa,250000,No,4,None,1,0,None,,None,None,None,4,None,To renovate
+553,,House,Villa,270000,No,3,None,0,0,None,1,None,None,None,4,None,Good
+554,,House,Villa,288000,No,3,None,1,,None,,None,None,None,4,None,Good
+555,,House,Villa,325000,No,4,None,1,,None,,None,None,None,4,None,Good
+556,,House,Villa,339000,No,4,None,1,0,None,,None,None,None,4,None,Good
+557,,House,Villa,345000,No,4,None,1,,None,,None,None,None,4,None,Good
+558,,House,Villa,375000,No,4,None,1,0,None,1,None,None,None,4,None,As new
+559,,House,Villa,399500,No,4,None,0,0,None,,None,None,None,4,None,Good
+560,,House,Villa,455000,No,3,None,0,0,None,,None,None,None,4,None,As new
+561,,House,Villa,460000,No,4,None,1,0,None,,None,None,None,4,None,As new
+562,,House,Villa,520000,No,4,None,1,0,None,1,None,None,None,4,None,As new
+563,,House,Villa,525000,No,3,None,0,0,None,,None,None,None,4,None,
+564,,House,Villa,545000,,4,None,1,0,None,,None,None,None,4,None,To be done up
+565,,House,Villa,549000,No,4,None,0,,None,,None,None,None,,None,As new
+566,,House,Villa,549000,No,5,None,1,0,None,,None,None,None,4,None,Good
+567,,House,Villa,610000,No,4,None,0,,None,1,None,None,None,,None,As new
+568,,House,Villa,694000,No,3,None,0,0,None,,None,None,None,4,None,As new
+569,,House,Villa,749000,No,5,None,0,,None,,None,None,None,,None,As new
+570,,House,Villa,845000,No,8,None,1,0,None,,None,None,None,4,None,Good
+571,,House,Villa,890000,No,3,None,1,0,None,,None,None,None,4,None,
+572,,House,Villa,975000,No,4,None,1,0,None,1,None,None,None,4,None,
+573,,House,Villa,1350000,No,6,None,1,0,None,,None,None,None,4,None,To be done up
+574,,House,Villa,1495000,No,4,None,0,0,None,,None,None,None,4,None,As new
+575,,House,Villa,1495000,No,6,None,1,0,None,1,None,None,None,4,None,Good
+576,,House,Villa,1600000,No,4,None,1,0,None,,None,None,None,4,None,Good
+577,,House,Villa,1790000,No,7,None,0,0,None,,None,None,None,4,None,
+578,,House,Villa,2145000,No,5,None,1,,None,1,None,None,None,4,None,Good
+579,,House,Villa,2950000,No,5,None,0,,None,,None,None,None,4,None,Just renovated
+580,,House,Villa,3900000,No,6,None,0,,None,1,None,None,None,4,None,As new
+581,Geraardsbergen en deelgemeenten,House,Villa,699000,No,8,None,0,0,None,1,None,None,None,4,None,Good
+582,,House,Villa,2600000,No,8,None,0,,None,1,None,None,None,4,None,As new
+583,,House,Villa,1495000,No,5,None,1,0,None,,None,None,None,4,None,
+584,,House,Villa,205000,No,3,None,0,0,None,,None,None,None,3,None,
+585,,House,Villa,1650000,No,6,None,0,0,None,1,None,None,None,,None,As new
+586,,House,Villa,550000,No,5,None,0,0,None,1,None,None,None,4,None,As new
+587,,House,Villa,450000,No,3,None,0,0,None,1,None,None,None,,None,As new
+588,,House,Villa,1395000,No,5,None,1,,None,1,None,None,None,,None,
+589,,House,Villa,1100000,No,5,None,0,,None,1,None,None,None,,None,
+590,,House,Villa,450000,No,4,None,0,0,None,,None,None,None,4,None,
+591,,House,Villa,399000,No,3,None,0,0,None,,None,None,None,4,None,
+592,,House,Villa,420000,No,4,None,1,0,None,,None,None,None,,None,Good
+593,,House,Villa,465000,No,4,None,1,0,None,1,None,None,None,,None,Good
+594,,House,Villa,490000,No,2,None,0,0,None,,None,None,None,4,None,As new
+595,,House,Villa,499000,No,4,None,1,0,None,1,None,None,None,4,None,
+596,,House,Villa,499000,No,4,None,1,0,None,1,None,None,None,4,None,
+597,,House,Villa,525000,No,4,None,1,0,None,,None,None,None,,None,Good
+598,,House,Villa,525000,No,4,None,1,0,None,,None,None,None,,None,Good
+599,,House,Villa,525000,No,4,None,0,0,None,1,None,None,None,4,None,As new
+600,,House,Villa,600000,No,4,None,0,0,None,,None,None,None,,None,As new
+601,,House,Villa,695000,No,5,None,1,0,None,,None,None,None,4,None,Good
+602,,House,Villa,725000,No,4,None,0,0,None,,None,None,None,,None,As new
+603,,House,Villa,795000,No,5,None,0,0,None,,None,None,None,4,None,Good
+604,Ninove en deelgemeente,House,Villa,799000,No,4,None,0,0,None,,None,None,None,4,None,As new
+605,,House,Villa,815000,No,5,None,1,0,None,,None,None,None,,None,As new
+606,,House,Villa,949000,No,5,None,0,,None,,None,None,None,4,None,Good
+607,,House,Villa,950000,No,3,None,0,0,None,,None,None,None,,None,To renovate
+608,,House,Villa,1150000,No,5,None,0,,None,1,None,None,None,4,None,To be done up
+609,,House,Villa,1250000,No,4,None,1,0,None,,None,None,None,,None,Good
+610,,House,Villa,1495000,,5,None,0,,None,,None,None,None,4,None,As new
+611,,House,Villa,1650000,No,4,None,0,,None,1,None,None,None,3,None,As new
+612,,,,None,,,None,0,,None,,None,None,None,,None,
+613,,House,Villa,2400000,No,5,None,1,0,None,1,None,None,None,,None,Good
+614,,House,Villa,2490000,No,5,None,1,,None,,None,None,None,4,None,As new
+615,,House,Villa,3900000,No,6,None,1,,None,1,None,None,None,4,None,As new
+616,,House,Villa,4800000,No,6,None,0,,None,1,None,None,None,4,None,As new
+617,,House,Villa,438000,No,4,None,0,0,None,,None,None,None,4,None,As new
+618,,House,Villa,350000,No,3,None,0,,None,1,None,None,None,4,None,Good
+619,,House,Villa,635000,No,5,None,0,0,None,,None,None,None,4,None,Good
+620,Knokke-Heist,House,Luxe,From 3875000 To 4120000,No,,None,0,,None,,None,None,None,,None,
+621,,House,Villa,550000,,6,None,0,0,None,1,None,None,None,4,None,Good
+622,,House,Villa,Starting price : 305000,No,3,None,1,,None,,None,None,None,4,None,Good
+623,,House,Villa,320000,No,5,None,0,,None,,None,None,None,4,None,To be done up
+624,T5,House,Villa,325000,No,4,None,0,0,None,1,None,None,None,4,None,Good
+625,,House,Villa,350000,No,3,None,0,0,None,,None,None,None,4,None,As new
+626,,House,Villa,450000,No,4,None,0,,None,1,None,None,None,4,None,To renovate
+627,,House,Villa,467000,No,4,None,0,0,None,1,None,None,None,4,None,
+628,,House,Villa,467000,No,4,None,0,0,None,1,None,None,None,4,None,
+629,,House,Villa,585000,No,4,None,1,,None,,None,None,None,4,None,To be done up
+630,,House,Villa,589000,No,4,None,1,0,None,,None,None,None,4,None,Good
+631,,House,Villa,595000,No,4,None,1,,None,1,None,None,None,4,None,
+632,,House,Villa,600000,No,4,None,1,0,None,,None,None,None,4,None,Good
+633,Ninove en deelgemeente,House,Villa,625000,No,4,None,0,,None,1,None,None,None,4,None,As new
+634,,House,Villa,625000,No,4,None,0,0,None,,None,None,None,4,None,To be done up
+635,,House,Villa,750000,No,4,None,1,0,None,,None,None,None,,None,As new
+636,,House,Villa,850000,,4,None,1,0,None,1,None,None,None,4,None,As new
+637,,House,Villa,935000,No,5,None,0,,None,1,None,None,None,4,None,
+638,,House,Villa,1100000,No,3,None,0,0,None,,None,None,None,3,None,As new
+639,,House,Villa,1775000,No,8,None,1,0,None,1,None,None,None,4,None,Just renovated
+640,,House,Villa,2200000,No,10,None,0,0,None,,None,None,None,,None,As new
+641,,House,Villa,2280000,No,5,None,0,,None,1,None,None,None,4,None,
+642,,House,Villa,3495000,No,5,None,0,,None,1,None,None,None,4,None,As new
+643,,House,Villa,3900000,No,5,None,1,,None,1,None,None,None,4,None,Good
+644,,House,Villa,430000,No,3,None,0,0,None,,None,None,None,4,None,
+645,,House,Villa,1085000,No,3,None,0,,None,,None,None,None,4,None,As new
+646,,House,Villa,269000,No,3,None,0,0,None,,None,None,None,4,None,
+647,,House,Villa,1145000,No,5,None,0,,None,,None,None,None,,None,As new
+648,,House,Villa,400000,No,4,None,1,,None,,None,None,None,,None,Just renovated
+649,,House,Villa,465000,No,3,None,0,0,None,,None,None,None,,None,To renovate
+650,,House,Villa,409000,No,4,None,0,0,None,,None,None,None,4,None,
+651,,House,Villa,499000,No,5,None,0,,None,,None,None,None,,None,As new
+652,,House,Villa,259000,No,3,None,0,0,None,,None,None,None,4,None,To be done up
+653,,House,Villa,345000,No,4,None,1,,None,,None,None,None,4,None,Good
+654,,House,Villa,395000,No,4,None,0,,None,,None,None,None,,None,As new
+655,,House,Villa,499000,No,3,None,0,,None,1,None,None,None,,None,As new
+656,,House,Villa,550000,No,4,None,1,,None,1,None,None,None,,None,As new
+657,,House,Villa,565000,No,5,None,1,0,None,1,None,None,None,,None,Good
+658,,House,Villa,595000,No,4,None,1,,None,1,None,None,None,,None,As new
+659,,House,Villa,599000,No,3,None,0,0,None,,None,None,None,,None,As new
+660,,House,Villa,645000,No,3,None,0,,None,1,None,None,None,4,None,
+661,,House,Villa,659000,No,5,None,1,0,None,,None,None,None,,None,To renovate
+662,,House,Villa,750000,No,6,None,1,0,None,,None,None,None,,None,As new
+663,,House,Villa,929000,No,4,None,1,0,None,,None,None,None,4,None,As new
+664,,House,Villa,1100000,No,6,None,0,0,None,,None,None,None,4,None,As new
+665,,House,Villa,1250000,No,4,None,1,0,None,,None,None,None,,None,Good
+666,,House,Villa,765000,No,8,None,0,0,None,,None,None,None,4,None,As new
+667,,House,Villa,512000,No,4,None,0,0,None,,None,None,None,4,None,
+668,,House,Villa,Starting price : 205000,No,3,None,0,,None,,None,None,None,4,None,To renovate
+669,,House,Villa,425000,No,5,None,0,,None,1,None,None,None,4,None,To renovate
+670,,House,Villa,385000,No,3,None,1,0,None,,None,None,None,4,None,To be done up
+671,,House,Villa,210000,No,4,None,0,0,None,,None,None,None,4,None,To renovate
+672,,House,Villa,325000,No,4,None,1,0,None,1,None,None,None,4,None,As new
+673,,House,Villa,335000,No,4,None,0,0,None,,None,None,None,4,None,Good
+674,,House,Villa,369000,No,3,None,0,0,None,,None,None,None,4,None,
+675,,House,Villa,380000,No,3,None,1,,None,1,None,None,None,4,None,As new
+676,,House,Villa,491000,No,4,None,0,0,None,,None,None,None,4,None,As new
+677,,House,Villa,520000,No,4,None,1,0,None,1,None,None,None,,None,As new
+678,,House,Villa,550000,No,3,None,0,0,None,,None,None,None,5,None,As new
+679,,House,Villa,595000,No,4,None,0,0,None,1,None,None,None,4,None,As new
+680,,House,Villa,599000,No,3,None,0,0,None,,None,None,None,,None,As new
+681,,House,Villa,629000,No,3,None,0,0,None,1,None,None,None,,None,As new
+682,,House,Villa,699000,No,4,None,0,0,None,,None,None,None,4,None,As new
+683,,House,Villa,699000,No,3,None,0,0,None,,None,None,None,4,None,Good
+684,,House,Villa,995000,No,6,None,0,,None,,None,None,None,,None,To be done up
+685,,House,Villa,1650000,No,5,None,0,0,None,,None,None,None,,None,As new
+686,,House,Villa,295000,No,3,None,1,0,None,1,None,None,None,,None,Good
+687,,House,Villa,569000,No,4,None,1,0,None,1,None,None,None,,None,Good
+688,,House,Hélécine,From 68000 To 324000,No,,None,0,,None,,None,None,None,,None,
+689,,House,Eco-quartier,From 206954 To 301500,No,,None,0,,None,,None,None,None,,None,
+690,,House,VERKAVELING,From 278000 To 281000,No,,None,0,,None,,None,None,None,,None,
+691,Sint-Jozef Site,House,Green,From 285000 To 360000,No,,None,0,,None,,None,None,None,,None,
+692,Les Bocages,House,Maison,From 288300 To 317160,No,,None,0,,None,,None,None,None,,None,
+693,,House,Belgrade,From 319000 To 479000,No,,None,0,,None,,None,None,None,,None,
+694,,House,Champ,From 329624 To 345630,No,,None,0,,None,,None,None,None,,None,
+695,,House,Project,From 330928 To 414242,No,,None,0,,None,,None,None,None,,None,
+696,Forum,House,Izegem,From 332277 To 486302,No,,None,0,,None,,None,None,None,,None,
+697,,House,projet-martin,From 340000 To 380000,No,,None,0,,None,,None,None,None,,None,
+698,,House,Moderne,From 354413 To 396403,No,,None,0,,None,,None,None,None,,None,
+699,Gitsestraat,House,De,From 370435 To 396190,No,,None,0,,None,,None,None,None,,None,
+700,,House,Roggestraat,From 395000 To 445500,No,,None,0,,None,,None,None,None,,None,
+701,,House,Achterstraat,From 441805 To 449000,No,,None,0,,None,,None,None,None,,None,
+702,,House,Villa,395000,No,3,None,1,0,None,,None,None,None,4,None,Good
+703,,House,Villa,495000,No,4,None,1,0,None,,None,None,None,4,None,
+704,,House,Villa,645000,No,4,None,1,0,None,,None,None,None,4,None,Just renovated
+705,,House,Villa,Starting price : 200000,No,4,None,0,,None,,None,None,None,4,None,To renovate
+706,,House,Villa,315000,No,3,None,1,,None,,None,None,None,4,None,Good
+707,,,,None,,,None,0,,None,,None,None,None,,None,
+708,,House,Villa,359000,No,2,None,1,,None,1,None,None,None,4,None,As new
+709,,House,Villa,365000,No,5,None,0,0,None,,None,None,None,4,None,Just renovated
+710,,House,Villa,435000,No,4,None,0,,None,,None,None,None,4,None,As new
+711,,House,Villa,450000,No,4,None,0,0,None,,None,None,None,4,None,
+712,,House,Villa,460000,No,3,None,0,,None,1,None,None,None,4,None,Just renovated
+713,Tielt & omgeving,House,Villa,495000,No,4,None,0,,None,1,None,None,None,4,None,
+714,,House,Villa,497650,No,4,None,0,0,None,1,None,None,None,4,None,
+715,,House,Villa,545000,No,5,None,0,0,None,,None,None,None,4,None,To be done up
+716,,House,Villa,589000,No,4,None,1,0,None,,None,None,None,,None,
+717,,House,Villa,595000,No,5,None,0,0,None,,None,None,None,4,None,As new
+718,,House,Villa,595000,No,3,None,0,,None,1,None,None,None,,None,To be done up
+719,,House,Villa,625000,No,6,None,0,,None,1,None,None,None,,None,
+720,,House,Villa,639000,No,3,None,1,0,None,,None,None,None,4,None,As new
+721,,House,Villa,Starting price : 650000,No,3,None,0,,None,1,None,None,None,4,None,To be done up
+722,,House,Villa,775000,No,4,None,0,0,None,,None,None,None,4,None,Good
+723,,House,Villa,845000,No,3,None,1,0,None,,None,None,None,4,None,As new
+724,,House,Villa,950000,No,6,None,0,,None,1,None,None,None,,None,
+725,,House,Villa,988000,No,6,None,0,,None,,None,None,None,4,None,As new
+726,,House,Villa,998000,No,3,None,0,0,None,1,None,None,None,,None,
+727,,House,Villa,999000,No,4,None,0,,None,,None,None,None,,None,As new
+728,,House,Villa,1065000,No,2,None,0,,None,1,None,None,None,,None,
+729,,House,Villa,1395000,No,3,None,0,,None,1,None,None,None,,None,
+730,,House,Villa,1695000,No,4,None,0,0,None,,None,None,None,,None,
+731,,House,Villa,3950000,No,5,None,0,0,None,,None,None,None,,None,
+732,,House,Villa,850000,No,6,None,1,0,None,,None,None,None,4,None,Good
+733,,House,Villa,623000,,4,None,0,,None,,None,None,None,3,None,As new
+734,Hof Van Rotselaar,House,Villa,723500,,4,None,0,,None,,None,None,None,4,None,As new
+735,,House,Villa,575000,No,3,None,1,0,None,,None,None,None,4,None,As new
+736,,House,Villa,279000,No,3,None,1,0,None,1,None,None,None,4,None,Good
+737,,House,Villa,459500,No,3,None,1,0,None,,None,None,None,4,None,
+738,,House,Villa,1175000,No,5,None,0,0,None,,None,None,None,,None,
+739,Bastogne,House,Villa,159000,No,3,None,0,,None,,None,None,None,4,None,
+740,,House,Villa,339000,No,4,None,0,0,None,,None,None,None,3,None,To renovate
+741,,House,Villa,430000,No,9,None,0,,None,,None,None,None,,None,To renovate
+742,,House,Villa,439000,No,2,None,1,0,None,,None,None,None,4,None,
+743,,House,Villa,440000,No,6,None,1,0,None,,None,None,None,4,None,As new
+744,,House,Villa,499000,No,2,None,1,0,None,,None,None,None,4,None,
+745,,House,Villa,595000,No,3,None,1,0,None,,None,None,None,4,None,
+746,,House,Villa,595000,No,3,None,1,0,None,,None,None,None,4,None,
+747,,House,Villa,598000,No,4,None,1,0,None,,None,None,None,4,None,Good
+748,,House,Villa,600000,No,3,None,0,0,None,,None,None,None,4,None,
+749,,House,Villa,615000,No,4,None,0,0,None,,None,None,None,4,None,Just renovated
+750,,House,Villa,990000,No,10,None,0,,None,,None,None,None,,None,
+751,,House,Villa,1295000,No,4,None,1,0,None,1,None,None,None,4,None,
+752,,House,Villa,1295000,No,4,None,1,0,None,1,None,None,None,4,None,
+753,,House,Villa,1550000,No,4,None,1,,None,1,None,None,None,,None,To be done up
+754,,House,Villa,1750000,No,5,None,1,,None,1,None,None,None,4,None,As new
+755,,House,Villa,1775000,No,8,None,0,,None,1,None,None,None,,None,Just renovated
+756,,House,Villa,1285000,No,5,None,0,0,None,,None,None,None,,None,As new
+757,Oost- Vlaanderen,House,Villa,431816,No,3,None,0,,None,1,None,None,None,4,None,As new
+758,Oost- Vlaanderen,House,Villa,441141,No,3,None,0,,None,1,None,None,None,4,None,As new
+759,Oost- Vlaanderen,House,Villa,453816,No,3,None,0,,None,1,None,None,None,4,None,As new
+760,,House,Villa,722000,No,4,None,0,,None,1,None,None,None,4,None,As new
+761,,House,Villa,745000,No,4,None,0,,None,1,None,None,None,4,None,As new
+762,,House,Villa,845000,No,5,None,0,0,None,,None,None,None,4,None,
+763,,House,Villa,875000,No,6,None,0,0,None,,None,None,None,4,None,
+764,,House,Villa,895000,No,11,None,1,0,None,,None,None,None,4,None,As new
+765,,House,Villa,295000,No,3,None,1,0,None,,None,None,None,4,None,Good
+766,,House,Villa,Starting price : 215000,No,4,None,0,,None,,None,None,None,4,None,Good
+767,,House,Villa,220000,No,3,None,0,0,None,,None,None,None,4,None,To be done up
+768,,House,Villa,240000,No,2,None,0,0,None,,None,None,None,4,None,Good
+769,,House,Villa,Starting price : 300000,No,4,None,1,,None,,None,None,None,4,None,
+770,Charleroi périmètre,House,Villa,325000,No,5,None,1,0,None,1,None,None,None,4,None,Good
+771,,House,Villa,348000,No,2,None,1,,None,,None,None,None,4,None,To be done up
+772,,House,Villa,350000,No,3,None,1,0,None,,None,None,None,4,None,Good
+773,,House,Villa,429500,No,2,None,1,,None,,None,None,None,,None,As new
+774,,House,Villa,435000,No,2,None,1,,None,,None,None,None,4,None,Good
+775,,House,Villa,479000,No,5,None,0,,None,,None,None,None,4,None,To be done up
+776,,House,Villa,515000,No,3,None,1,,None,,None,None,None,4,None,Good
+777,,House,Villa,595000,No,4,None,1,,None,,None,None,None,4,None,To be done up
+778,,House,Villa,620000,No,5,None,0,,None,,None,None,None,3,None,As new
+779,,House,Villa,630000,No,5,None,1,0,None,,None,None,None,4,None,
+780,,House,Villa,675000,No,4,None,0,,None,1,None,None,None,4,None,As new
+781,,House,Villa,699000,No,6,None,0,,None,,None,None,None,4,None,Good
+782,,House,Villa,720000,No,4,None,0,,None,,None,None,None,4,None,Good
+783,,House,Villa,950000,No,4,None,0,0,None,1,None,None,None,,None,As new
+784,,House,Villa,995000,No,5,None,0,0,None,,None,None,None,,None,To renovate
+785,,House,Villa,1090000,No,3,None,1,,None,1,None,None,None,,None,As new
+786,,House,Villa,1100000,No,3,None,0,0,None,,None,None,None,3,None,As new
+787,,House,Villa,1245000,No,5,None,0,,None,1,None,None,None,,None,Good
+788,,House,Villa,1250000,No,5,None,0,0,None,,None,None,None,4,None,As new
+789,,House,Villa,1374000,No,4,None,0,,None,1,None,None,None,4,None,Just renovated
+790,,House,Villa,1500000,No,4,None,0,0,None,,None,None,None,4,None,As new
+791,,House,Villa,1850000,No,5,None,0,0,None,1,None,None,None,4,None,
+792,,House,Villa,1850000,No,5,None,0,0,None,1,None,None,None,4,None,
+793,,House,Villa,2500000,No,5,None,0,0,None,,None,None,None,4,None,
+794,,House,Villa,690000,No,3,None,1,0,None,,None,None,None,4,None,As new
+795,,House,Villa,269900,No,2,None,0,0,None,,None,None,None,4,None,Good
+796,,House,Villa,Starting price : 300000,No,4,None,1,,None,1,None,None,None,3,None,As new
+797,,House,Villa,350000,No,4,None,1,0,None,,None,None,None,4,None,Good
+798,,House,Villa,430000,No,5,None,0,0,None,1,None,None,None,4,None,
+799,,House,Villa,519000,No,4,None,1,,None,1,None,None,None,,None,
+800,,House,Villa,615000,No,3,None,0,0,None,,None,None,None,4,None,Just renovated
+801,,House,Villa,699000,No,5,None,0,,None,1,None,None,None,,None,
+802,,House,Villa,715000,No,4,None,1,0,None,,None,None,None,3,None,As new
+803,,House,Villa,795000,No,3,None,0,0,None,,None,None,None,4,None,As new
+804,,House,Villa,850000,No,5,None,1,0,None,,None,None,None,4,None,Good
+805,,House,Villa,1050000,No,7,None,0,,None,1,None,None,None,,None,Just renovated
+806,Bruxelles Sud,House,Villa,1295000,No,5,None,0,0,None,,None,None,None,4,None,Just renovated
+807,,House,Villa,1295000,No,4,None,0,,None,,None,None,None,,None,
+808,,House,Villa,3900000,No,6,None,0,,None,,None,None,None,,None,
+809,,House,Villa,475000,No,3,None,0,0,None,1,None,None,None,,None,Just renovated
+810,Oost- Vlaanderen,House,Villa,437692,No,3,None,0,,None,1,None,None,None,4,None,As new
+811,Oost- Vlaanderen,House,Villa,461272,No,3,None,0,,None,1,None,None,None,4,None,As new
+812,,House,Villa,449000,No,6,None,1,0,None,,None,None,None,4,None,
+813,,House,Villa,465000,No,3,None,1,0,None,,None,None,None,4,None,Good
+814,,House,Villa,255000,No,2,None,1,0,None,,None,None,None,4,None,Good
+815,Oost- Vlaanderen,House,Villa,470000,No,3,None,0,,None,1,None,None,None,3,None,As new
+816,,House,Villa,645000,No,4,None,0,0,None,,None,None,None,4,None,Good
+817,,House,Villa,725000,No,5,None,0,,None,1,None,None,None,4,None,As new
+818,,House,Villa,945000,No,2,None,0,,None,,None,None,None,3,None,Good
+819,,House,Villa,1399000,No,6,None,0,0,None,,None,None,None,4,None,As new
+820,,House,Villa,698000,,4,None,0,,None,,None,None,None,4,None,As new
+821,,House,Villa,492000,No,2,None,0,0,None,,None,None,None,4,None,To renovate
+822,,House,Villa,Starting price : 245000,No,4,None,0,,None,,None,None,None,4,None,
+823,,House,Villa,300000,Yes,3,None,1,1,None,,None,None,None,4,None,Just renovated
+824,,House,Villa,320000,No,3,None,0,,None,,None,None,None,4,None,Good
+825,,House,Villa,325000,No,3,None,0,0,None,,None,None,None,4,None,Just renovated
+826,,House,Villa,325000,No,4,None,1,,None,1,None,None,None,4,None,As new
+827,,House,Villa,380000,No,3,None,0,,None,,None,None,None,4,None,Good
+828,,House,Villa,495000,No,3,None,0,0,None,,None,None,None,,None,
+829,,House,Villa,579000,No,3,None,1,0,None,,None,None,None,4,None,Good
+830,,House,Villa,595000,No,3,None,0,0,None,,None,None,None,4,None,As new
+831,,House,Villa,595000,No,,None,0,0,None,,None,None,None,4,None,
+832,,House,Villa,595000,No,3,None,0,,None,,None,None,None,,None,
+833,,House,Villa,695000,No,3,None,0,1,None,,None,None,None,,None,
+834,,House,Villa,Starting price : 700000,No,5,None,1,,None,,None,None,None,3,None,
+835,,House,Villa,Starting price : 750000,No,5,None,1,,None,,None,None,None,4,None,
+836,,House,Villa,780000,No,3,None,0,0,None,,None,None,None,,None,
+837,,House,Villa,879000,No,3,None,0,,None,1,None,None,None,4,None,
+838,,House,Villa,1060000,No,4,None,0,,None,,None,None,None,4,None,Good
+839,,House,Villa,1080000,No,5,None,0,,None,,None,None,None,4,None,As new
+840,,House,Villa,1100000,No,5,None,1,0,None,1,None,None,None,,None,
+841,,House,Villa,1295000,No,3,None,1,0,None,,None,None,None,4,None,As new
+842,,House,Villa,1345000,No,4,None,0,,None,,None,None,None,,None,
+843,,House,Villa,1350000,No,4,None,0,,None,1,None,None,None,4,None,As new
+844,,House,Villa,1395000,No,6,None,0,,None,,None,None,None,,None,
+845,,House,Villa,1425000,No,4,None,0,0,None,,None,None,None,4,None,Good
+846,,House,Villa,1775000,No,8,None,0,0,None,,None,None,None,,None,Just renovated
+847,,House,Villa,1900000,No,11,None,0,,None,1,None,None,None,4,None,Good
+848,,House,Villa,1995000,No,4,None,1,0,None,,None,None,None,4,None,As new
+849,,,,None,,,None,0,,None,,None,None,None,,None,
+850,,House,Villa,1950000,No,5,None,0,,None,,None,None,None,4,None,As new
+851,,House,Villa,429000,No,3,None,0,,None,1,None,None,None,,None,
+852,,House,Villa,315000,No,3,None,1,0,None,,None,None,None,4,None,
+853,,House,Villa,375000,No,3,None,1,,None,1,None,None,None,4,None,Good
+854,,House,Villa,594750,No,4,None,0,0,None,,None,None,None,4,None,
+855,,House,Villa,189999,No,3,None,0,,None,,None,None,None,4,None,Just renovated
+856,,House,Villa,260000,No,3,None,0,0,None,,None,None,None,4,None,Just renovated
+857,,House,Villa,Starting price : 325500,No,3,None,1,,None,1,None,None,None,,None,
+858,,House,Villa,397500,No,3,None,0,0,None,,None,None,None,4,None,Good
+859,,House,Villa,397500,No,3,None,0,0,None,,None,None,None,4,None,Good
+860,,House,Villa,399000,No,3,None,1,0,None,1,None,None,None,4,None,Good
+861,,House,Villa,550000,No,3,None,0,0,None,,None,None,None,4,None,As new
+862,,House,Villa,550000,No,3,None,0,0,None,,None,None,None,4,None,As new
+863,,House,Villa,595000,No,2,None,1,,None,,None,None,None,,None,
+864,,House,Villa,667000,No,4,None,0,0,None,,None,None,None,4,None,As new
+865,,House,Villa,795000,No,5,None,0,0,None,1,None,None,None,4,None,Good
+866,,House,Villa,795000,No,4,None,0,0,None,1,None,None,None,4,None,As new
+867,,House,Villa,895000,No,3,None,0,0,None,1,None,None,None,4,None,
+868,,House,Villa,950000,No,5,None,0,0,None,,None,None,None,4,None,Just renovated
+869,,House,Villa,1445000,,4,None,1,,None,,None,None,None,4,None,Just renovated
+870,,House,Villa,1595000,,4,None,1,,None,,None,None,None,4,None,Just renovated
+871,,House,Villa,1980000,No,4,None,0,0,None,,None,None,None,,None,As new
+872,,House,Villa,3600000,No,3,None,1,,None,,None,None,None,4,None,
+873,,House,Villa,530000,No,4,None,0,0,None,,None,None,None,4,None,As new
+874,,House,Villa,1075000,No,5,None,0,0,None,,None,None,None,4,None,As new
+875,,House,Villa,908000,,4,None,0,,None,,None,None,None,4,None,As new
+876,,House,Villa,522000,,3,None,0,,None,,None,None,None,3,None,As new
+877,Hof Van Rotselaar,House,Villa,522000,,3,None,0,,None,,None,None,None,3,None,As new
+878,Hof Van Rotselaar,House,Villa,623000,,4,None,0,,None,,None,None,None,3,None,As new
+879,,House,Villa,Starting price : 800000,No,1,None,0,,None,,None,None,None,2,None,
+880,,House,Villa,319000,No,2,None,0,0,None,,None,None,None,4,None,To renovate
+881,,House,Villa,380000,No,3,None,0,,None,,None,None,None,,None,
+882,,House,Villa,285000,No,4,None,0,0,None,,None,None,None,4,None,
+883,,House,Villa,775000,No,4,None,0,0,None,,None,None,None,,None,Good
+884,,House,Villa,799000,No,5,None,0,,None,,None,None,None,,None,
+885,,House,Villa,799000,No,5,None,0,,None,,None,None,None,,None,
+886,Houffalize - dinez,House,Villa,95000,No,3,None,0,,None,,None,None,None,4,None,
+887,,House,Villa,259900,No,3,None,0,0,None,1,None,None,None,4,None,Good
+888,,House,Villa,450000,No,4,None,0,0,None,,None,None,None,4,None,As new
+889,,House,Villa,469000,No,4,None,0,,None,,None,None,None,4,None,As new
+890,,House,Villa,Starting price : 500000,No,5,None,0,,None,1,None,None,None,4,None,
+891,,House,Villa,688000,No,3,None,0,,None,,None,None,None,,None,As new
+892,,House,Villa,689000,No,4,None,1,0,None,,None,None,None,4,None,As new
+893,,House,Villa,765000,No,4,None,1,0,None,1,None,None,None,4,None,As new
+894,,House,Villa,770000,No,3,None,0,,None,,None,None,None,,None,
+895,,House,Villa,820000,No,4,None,0,0,None,,None,None,None,4,None,Just renovated
+896,,House,Villa,820000,No,4,None,0,0,None,,None,None,None,4,None,Just renovated
+897,,House,Villa,895000,No,4,None,1,0,None,1,None,None,None,4,None,Good
+898,,House,Villa,950000,No,3,None,0,0,None,,None,None,None,3,None,
+899,,House,Villa,995000,No,3,None,1,0,None,,None,None,None,,None,
+900,,House,Villa,1495000,No,7,None,1,0,None,,None,None,None,,None,To renovate
+901,,House,Villa,1645000,No,6,None,0,0,None,,None,None,None,4,None,
+902,,House,Villa,1750000,No,5,None,0,0,None,1,None,None,None,4,None,As new
+903,,House,Villa,2675000,Yes,8,None,0,0,None,1,None,None,None,4,None,
+904,Diependaal,House,Villa,908000,,5,None,0,,None,,None,None,None,4,None,As new
+905,,House,Villa,319900,No,3,None,0,0,None,,None,None,None,4,None,
+906,,House,Villa,450000,No,3,None,0,0,None,,None,None,None,4,None,Good
+907,,House,Villa,665000,No,3,None,0,0,None,,None,None,None,4,None,As new
+908,,House,Villa,319000,No,3,None,1,0,None,,None,None,None,4,None,
+909,,House,Villa,350000,No,4,None,0,0,None,,None,None,None,4,None,As new
+910,,House,Villa,Starting price : 350000,No,5,None,1,,None,1,None,None,None,4,None,
+911,,House,Villa,359000,No,3,None,1,0,None,,None,None,None,4,None,Good
+912,,House,Villa,495000,No,4,None,0,,None,1,None,None,None,,None,
+913,,House,Villa,579000,No,5,None,0,,None,1,None,None,None,,None,As new
+914,,House,Villa,680000,No,3,None,1,0,None,,None,None,None,,None,
+915,,House,Villa,710000,No,4,None,1,0,None,,None,None,None,4,None,To renovate
+916,,House,Villa,850000,No,5,None,0,,None,1,None,None,None,,None,
+917,,House,Villa,850000,No,4,None,0,,None,1,None,None,None,,None,
+918,,House,Villa,995000,No,5,None,1,0,None,1,None,None,None,,None,Good
+919,,House,Villa,1225000,No,3,None,0,,None,,None,None,None,,None,
+920,,House,Villa,1300000,No,7,None,0,0,None,1,None,None,None,4,None,As new
+921,,House,Villa,2395000,No,6,None,1,0,None,,None,None,None,4,None,As new
+922,,House,Villa,1380000,No,5,None,1,,None,,None,None,None,4,None,
+923,Rigessel,House,Villa,548000,,5,None,0,,None,,None,None,None,4,None,As new
+924,Rigessel,House,Villa,596000,,5,None,0,,None,,None,None,None,3,None,As new
+925,,House,Villa,657500,,3,None,0,,None,,None,None,None,3,None,As new
+926,,House,Villa,657500,,3,None,0,,None,,None,None,None,3,None,As new
+927,Hof Van Rotselaar,House,Villa,723500,,4,None,0,,None,,None,None,None,4,None,As new
+928,,House,Villa,595000,No,5,None,0,0,None,,None,None,None,,None,As new
+929,,House,Villa,650000,No,3,None,0,,None,1,None,None,None,,None,
+930,,House,Eghezée,From 379000 To 395000,No,,None,0,,None,,None,None,None,,None,
+931,,House,Villa,325000,No,4,None,0,0,None,,None,None,None,4,None,As new
+932,,House,Villa,330000,No,5,None,1,0,None,,None,None,None,4,None,
+933,,House,Villa,Starting price : 335000,No,2,None,0,,None,,None,None,None,4,None,
+934,,House,Villa,445000,No,3,None,0,0,None,1,None,None,None,4,None,To be done up
+935,,House,Villa,545000,No,4,None,1,0,None,,None,None,None,4,None,
+936,,House,Villa,550000,No,4,None,1,,None,1,None,None,None,4,None,To be done up
+937,,House,Villa,588000,No,4,None,1,0,None,,None,None,None,4,None,
+938,,House,Villa,795000,No,3,None,0,,None,1,None,None,None,4,None,Good
+939,,House,Villa,900000,No,6,None,0,0,None,,None,None,None,4,None,Good
+940,,House,Villa,1250000,No,5,None,0,0,None,1,None,None,None,4,None,Just renovated
+941,,House,Villa,2260000,No,6,None,0,0,None,,None,None,None,4,None,As new
+942,,House,Villa,2499000,No,6,None,1,0,None,,None,None,None,,None,As new
+943,,House,Villa,890000,No,3,None,0,0,None,1,None,None,None,4,None,As new
+944,,House,Villa,559000,,4,None,0,,None,,None,None,None,3,None,As new
+945,,House,Villa,577000,,3,None,0,,None,,None,None,None,3,None,As new
+946,,House,Villa,419000,No,2,None,0,0,None,,None,None,None,4,None,To renovate
+947,aan buurtweg 26,House,Villa,Starting price : 385000,No,2,None,0,,None,1,None,None,None,4,None,
+948,,House,Villa,400000,No,4,None,1,0,None,,None,None,None,3,None,Good
+949,,House,Villa,425000,No,3,None,1,0,None,,None,None,None,4,None,
+950,,House,Villa,465000,No,5,None,0,0,None,,None,None,None,,None,
+951,,House,Villa,Starting price : 490000,No,5,None,0,,None,1,None,None,None,4,None,
+952,,House,Villa,520000,No,4,None,1,,None,,None,None,None,4,None,Good
+953,,House,Villa,549000,No,4,None,0,0,None,,None,None,None,4,None,As new
+954,,House,Villa,610000,No,4,None,0,,None,1,None,None,None,,None,As new
+955,,House,Villa,615000,No,5,None,0,,None,,None,None,None,,None,Just renovated
+956,,House,Villa,845000,No,4,None,0,0,None,1,None,None,None,,None,Good
+957,,House,Villa,950000,No,5,None,1,0,None,1,None,None,None,4,None,To renovate
+958,,House,Villa,1065000,No,5,None,0,0,None,,None,None,None,,None,
+959,,House,Villa,1245000,No,5,None,1,0,None,,None,None,None,4,None,As new
+960,,House,Villa,365000,No,3,None,0,0,None,,None,None,None,4,None,To be done up
+961,,House,Villa,640000,No,4,None,0,0,None,,None,None,None,4,None,
+962,,House,Villa,Starting price : 350000,No,4,None,0,,None,,None,None,None,4,None,
+963,,House,Villa,269900,No,2,None,0,0,None,1,None,None,None,4,None,Good
+964,,House,Villa,150000,No,1,None,0,0,None,,None,None,None,4,None,
+965,,House,Villa,200000 + 3058 per month,No,3,None,0,0,None,,None,None,None,4,None,Good
+966,,House,Villa,270000,,4,None,0,,None,,None,None,None,4,None,
+967,,House,Villa,309000,No,4,None,1,0,None,,None,None,None,4,None,As new
+968,,House,Villa,Starting price : 345000,No,3,None,1,,None,,None,None,None,,None,
+969,,House,Villa,379000,No,3,None,1,0,None,,None,None,None,,None,
+970,,House,Villa,550000,No,4,None,1,0,None,,None,None,None,4,None,
+971,,House,Villa,850000,No,3,None,0,0,None,,None,None,None,4,None,
+972,,House,Villa,975000,No,3,None,0,,None,1,None,None,None,4,None,
+973,,House,Villa,998000,No,3,None,0,0,None,,None,None,None,4,None,To renovate
+974,,House,Villa,2800000,No,14,None,0,1,None,,None,None,None,,None,
+975,,House,Villa,3150000,No,4,None,0,,None,1,None,None,None,4,None,As new
+976,,House,Villa,3900000,No,6,None,0,1,None,,None,None,None,4,None,As new
+977,,House,Villa,722000,No,4,None,0,,None,1,None,None,None,4,None,As new
+978,,House,Villa,419000,No,2,None,0,0,None,,None,None,None,4,None,To renovate
+979,,House,Villa,469000,No,3,None,0,1,None,1,None,None,None,4,None,
+980,,House,Villa,250000,No,2,None,1,0,None,,None,None,None,4,None,
+981,,House,Villa,149999,No,3,None,0,,None,,None,None,None,4,None,Good
+982,,House,Villa,245000,No,2,None,1,0,None,,None,None,None,4,None,As new
+983,,House,Villa,Starting price : 250000,No,3,None,0,,None,,None,None,None,4,None,
+984,,House,Villa,279000,,4,None,1,,None,,None,None,None,4,None,As new
+985,,House,Villa,340000,No,3,None,1,,None,1,None,None,None,4,None,
+986,,House,Villa,414000,No,7,None,1,0,None,1,None,None,None,4,None,As new
+987,,House,Villa,680000,No,5,None,0,0,None,,None,None,None,4,None,As new
+988,,House,Villa,1475000,No,7,None,1,0,None,1,None,None,None,4,None,
+989,Knokke-Heist,House,Villa,1775000,No,8,None,0,0,None,,None,None,None,4,None,As new
+990,,House,Villa,1825000,No,10,None,0,,None,,None,None,None,,None,
+991,,House,Villa,750000,No,4,None,0,0,None,,None,None,None,4,None,Just renovated
+992,Rigessel,House,Villa,596000,,5,None,0,,None,,None,None,None,3,None,As new
+993,Rigessel,House,Villa,621000,,5,None,0,,None,,None,None,None,3,None,As new
+994,Rigessel,House,Villa,621000,,5,None,0,,None,,None,None,None,3,None,As new
+995,Rigessel,House,Villa,639000,,5,None,0,,None,,None,None,None,3,None,As new
+996,,House,Villa,350000,No,4,None,1,0,None,,None,None,None,4,None,
+997,,House,Villa,465000,No,3,None,0,0,None,,None,None,None,,None,To renovate
+998,,House,Villa,497800,No,4,None,0,,None,1,None,None,None,,None,To be done up
+999,,House,Villa,499000,No,3,None,0,,None,1,None,None,None,,None,As new
+1000,,House,Villa,550000,No,6,None,1,0,None,,None,None,None,4,None,
+1001,,House,Villa,565000,No,6,None,0,,None,1,None,None,None,,None,As new
+1002,,House,Villa,799000,No,5,None,0,,None,,None,None,None,,None,
+1003,,House,Villa,799000,No,5,None,0,,None,,None,None,None,,None,
+1004,,House,Villa,900000,No,5,None,0,0,None,1,None,None,None,4,None,Good
+1005,,House,Villa,1295000,No,4,None,0,,None,,None,None,None,,None,
+1006,,House,Villa,1775000,No,8,None,0,,None,1,None,None,None,,None,
+1007,,House,Villa,1180000,No,5,None,0,,None,1,None,None,None,4,None,
+1008,,House,Villa,278000,No,3,None,1,0,None,,None,None,None,4,None,
+1009,,House,Villa,749000,No,3,None,0,0,None,1,None,None,None,4,None,
+1010,,House,Villa,890000,No,4,None,1,0,None,1,None,None,None,4,None,Good
+1011,,House,Villa,1775000,No,8,None,0,,None,,None,None,None,,None,
+1012,,House,Villa,1995000,No,4,None,0,0,None,1,None,None,None,4,None,As new
+1013,,House,Villa,2150000,No,5,None,0,,None,,None,None,None,,None,As new
+1014,,House,Villa,2500000,No,8,None,0,0,None,1,None,None,None,4,None,
+1015,,House,Villa,2600000,No,8,None,1,0,None,1,None,None,None,4,None,
+1016,,House,Villa,1060000,No,7,None,0,0,None,1,None,None,None,4,None,As new
+1017,,House,Villa,225000,No,3,None,1,,None,1,None,None,None,4,None,Good
+1018,,House,Villa,559000,,4,None,0,,None,,None,None,None,3,None,As new
+1019,,House,Villa,1795000,No,4,None,0,,None,1,None,None,None,,None,
+1020,,House,Villa,Starting price : 290000,No,3,None,1,,None,1,None,None,None,4,None,
+1021,,House,Villa,300000,Yes,4,None,1,0,None,,None,None,None,4,None,As new
+1022,,House,Villa,Starting price : 450000,No,1,None,0,,None,,None,None,None,,None,
+1023,,House,Villa,Starting price : 450000,No,4,None,0,,None,1,None,None,None,,None,
+1024,,House,Villa,Starting price : 450000,No,5,None,0,,None,,None,None,None,,None,
+1025,,House,Villa,985000,No,2,None,0,0,None,1,None,None,None,4,None,
+1026,,House,Villa,1345000,No,4,None,0,,None,,None,None,None,,None,
+1027,,House,Villa,1775000,No,8,None,0,,None,,None,None,None,3,None,
+1028,,House,Villa,Starting price : 260000,No,4,None,1,,None,1,None,None,None,,None,
+1029,,House,Villa,395000,No,4,None,1,0,None,,None,None,None,4,None,
+1030,,House,Villa,414647,No,5,None,0,0,None,1,None,None,None,4,None,
+1031,,House,Villa,870000,No,4,None,0,0,None,1,None,None,None,4,None,
+1032,,House,Villa,Starting price : 300000,No,4,None,0,,None,,None,None,None,4,None,
+1033,,House,Villa,469000,No,5,None,0,,None,,None,None,None,,None,
+1034,,House,Villa,209900,No,2,None,0,0,None,,None,None,None,4,None,To be done up
+1035,,House,Villa,740000,No,6,None,0,,None,,None,None,None,,None,
+1036,,House,Villa,998000,No,4,None,0,,None,1,None,None,None,,None,
+1037,,House,Villa,295000,,4,None,1,,None,1,None,None,None,4,None,
+1038,,House,Villa,325000,,3,None,0,,None,,None,None,None,4,None,
+1039,,House,Villa,398000,No,3,None,1,0,None,,None,None,None,3,None,Good
+1040,,House,Villa,Starting price : 425000,No,3,None,0,,None,,None,None,None,,None,
+1041,,House,Villa,Starting price : 500000,No,3,None,0,,None,1,None,None,None,,None,
+1042,,House,Villa,Starting price : 515000,No,4,None,0,,None,,None,None,None,,None,
+1043,,House,Villa,595000,,6,None,0,,None,,None,None,None,3,None,
+1044,,House,Villa,599000,No,6,None,0,,None,1,None,None,None,,None,
+1045,,House,Villa,679000,No,4,None,0,,None,,None,None,None,,None,
+1046,,House,Villa,850000,No,6,None,0,,None,1,None,None,None,,None,
+1047,,House,Villa,1150000,No,5,None,1,,None,1,None,None,None,4,None,As new
+1048,,House,Villa,473959,No,3,None,0,0,None,,None,None,None,4,None,As new
+1049,Le Bay Bonnet,House,Le,From 243900 To 323900,No,,None,0,,None,,None,None,None,,None,
+1050,,House,Maisons,From 341500 To 379200,No,,None,0,,None,,None,None,None,,None,
+1051,Centrum Zedelgem,House,Zedelgem,345000,No,,None,0,,None,,None,None,None,,None,
+1052,,House,Villa,Starting price : 385000,No,6,None,1,,None,,None,None,None,4,None,
+1053,,House,Villa,1050000,No,4,None,1,0,None,1,None,None,None,4,None,
+1054,,House,Villa,280000,No,3,None,0,,None,,None,None,None,,None,As new
+1055,,House,Villa,588000,,3,None,0,,None,,None,None,None,3,None,As new
+1056,,House,Villa,588000,,3,None,0,,None,,None,None,None,3,None,As new
+1057,,House,Villa,657815,No,4,None,0,0,None,,None,None,None,4,None,As new
+1058,,House,Villa,289000,No,3,None,1,0,None,,None,None,None,4,None,Good
+1059,,House,Villa,595000,No,4,None,1,0,None,,None,None,None,4,None,Good
+1060,,House,Villa,1695000,No,3,None,0,,None,1,None,None,None,4,None,
+1061,,House,Villa,561947,No,3,None,0,,None,,None,None,None,3,None,As new
+1062,,House,Villa,565601,No,3,None,0,,None,,None,None,None,3,None,As new
+1063,,House,Villa,350000,No,4,None,0,0,None,,None,None,None,4,None,As new
+1064,,House,Villa,199000,No,4,None,0,0,None,,None,None,None,4,None,To be done up
+1065,,House,Villa,3200000,No,4,None,0,,None,1,None,None,None,,None,
+1066,,House,Villa,269000,No,,None,0,0,None,,None,None,None,,None,
+1067,,House,Villa,Starting price : 400000,No,5,None,0,,None,,None,None,None,,None,
+1068,,House,Villa,575000,,5,None,1,,None,,None,None,None,4,None,
+1069,,House,Villa,1650000,No,2,None,0,,None,,None,None,None,,None,
+1070,,House,Villa,125000,No,4,None,0,,None,1,None,None,None,3,None,As new
+1071,,House,Villa,575000,No,3,None,0,0,None,,None,None,None,4,None,As new
+1072,,House,Villa,800000,No,5,None,0,,None,,None,None,None,,None,
+1073,,House,Villa,281000,No,4,None,0,,None,,None,None,None,,None,
+1074,,House,Villa,450000,No,4,None,0,0,None,,None,None,None,,None,
+1075,,House,Villa,649000,No,6,None,0,0,None,,None,None,None,,None,
+1076,,House,Villa,299000,No,4,None,0,0,None,,None,None,None,4,None,
+1077,,House,Villa,430600,No,3,None,0,0,None,,None,None,None,4,None,
+1078,,House,Villa,505000,No,,None,0,,None,,None,None,None,4,None,
+1079,,House,Villa,160000,No,2,None,0,0,None,1,None,None,None,3,None,
+1080,,House,Villa,160000,No,2,None,0,0,None,1,None,None,None,2,None,
+1081,Gijmel,House,Villa,432500,,4,None,0,,None,,None,None,None,4,None,
+1082,Gijmel,House,Villa,442500,,3,None,0,,None,,None,None,None,4,None,
+1083,,House,Villa,775000,No,5,None,0,0,None,,None,None,None,,None,
+1084,,House,Villa,599000,No,3,None,0,0,None,1,None,None,None,3,None,As new
+1085,,House,Villa,Starting price : 230000,No,6,None,0,,None,,None,None,None,4,None,
+1086,,House,Villa,495000,No,4,None,1,,None,1,None,None,None,4,None,
+1087,,House,Villa,464000,No,3,None,0,0,None,,None,None,None,,None,
+1088,,House,Villa,340000,No,3,None,0,0,None,,None,None,None,,None,
+1089,,House,Villa,350000,No,4,None,0,,None,,None,None,None,,None,
+1090,,House,Villa,585000,No,4,None,0,,None,,None,None,None,,None,
+1091,,House,Villa,Starting price : 320000,No,3,None,0,,None,,None,None,None,,None,
+1092,,House,Projet,From 231800 To 428800,No,,None,0,,None,,None,None,None,,None,
+1093,Termogne,House,TERMOGNE,From 339000 To 347000,No,,None,0,,None,,None,None,None,,None,
+1094,,House,Villa,4120000,No,4,None,0,,None,1,None,None,None,4,None,As new
+1095,Andenne,House,Clos,From 281520 To 398475,No,,None,0,,None,,None,None,None,,None,
+1096,,House,Villa,325000,No,2,None,0,0,None,,None,None,None,4,None,As new
+1097,,House,Villa,339000,No,2,None,0,0,None,,None,None,None,4,None,To renovate
+1098,,House,Villa,595000,No,4,None,0,0,None,,None,None,None,4,None,As new
+1099,,House,Villa,599000,No,4,None,0,0,None,,None,None,None,4,None,As new
+1100,,House,Villa,785000,No,5,None,0,0,None,,None,None,None,4,None,As new
+1101,,House,Villa,569000,No,3,None,0,0,None,1,None,None,None,4,None,As new
+1102,,House,Villa,554000,No,3,None,0,0,None,1,None,None,None,4,None,Good
+1103,,House,New,408500,No,,None,0,,None,,None,None,None,,None,
+1104,,,,None,,,None,0,,None,,None,None,None,,None,
+1105,,House,Villa,925000,No,4,None,0,,None,1,None,None,None,4,None,As new
+1106,,House,Villa,350000,No,4,None,1,0,None,,None,None,None,4,None,Good
+1107,,House,Villa,599000,No,6,None,0,0,None,,None,None,None,4,None,Good
+1108,,House,Villa,749000,No,4,None,0,0,None,,None,None,None,4,None,
+1109,,House,Villa,299000,No,4,None,1,0,None,1,None,None,None,4,None,To renovate
+1110,,House,Villa,599000,No,5,None,1,0,None,,None,None,None,4,None,Good
+1111,,House,Villa,825000,No,5,None,1,0,None,,None,None,None,4,None,Good
+1112,,House,Villa,359000,No,6,None,1,0,None,,None,None,None,4,None,To be done up
+1113,Stockel large,House,Villa,795000,No,4,None,0,0,None,,None,None,None,4,None,Good
+1114,,House,Villa,1250000,No,7,None,1,0,None,1,None,None,None,4,None,As new
+1115,Bruxelles Sud,House,Villa,1300000,No,4,None,0,0,None,1,None,None,None,4,None,To be done up
+1116,,House,Villa,375000,No,4,None,1,0,None,,None,None,None,4,None,
+1117,Cielle,House,Villa,550000,No,4,None,0,,None,1,None,None,None,4,None,As new
+1118,,House,Villa,325000,No,3,None,0,0,None,,None,None,None,4,None,As new
+1119,Binche entité,House,Villa,335000,No,4,None,1,0,None,,None,None,None,4,None,Good
+1120,,House,Villa,425000,No,4,None,0,0,None,1,None,None,None,3,None,Good
+1121,,House,Villa,725000,No,3,None,0,0,None,1,None,None,None,4,None,
+1122,,House,Villa,1155000,No,5,None,0,0,None,,None,None,None,4,None,
+1123,Vlaams-Brabant,House,Villa,1250000,No,5,None,0,0,None,,None,None,None,4,None,To renovate
+1124,Poulseur,House,Villa,395000,No,4,None,0,,None,1,None,None,None,4,None,Good
+1125,,House,Villa,465000,No,3,None,1,0,None,1,None,None,None,4,None,Good
+1126,,House,Villa,290000,No,2,None,1,0,None,,None,None,None,4,None,Good
+1127,,House,Villa,325000,No,4,None,1,0,None,,None,None,None,4,None,To be done up
+1128,,House,Villa,505000,No,5,None,1,0,None,1,None,None,None,4,None,Good
+1129,,House,Villa,549900,No,3,None,1,0,None,,None,None,None,4,None,Good
+1130,,House,Villa,570000,No,2,None,1,0,None,,None,None,None,4,None,As new
+1131,,House,Villa,639000,No,5,None,0,0,None,1,None,None,None,4,None,Good
+1132,,House,Villa,765000,No,5,None,0,0,None,,None,None,None,4,None,
+1133,,House,Villa,820000,No,3,None,1,0,None,,None,None,None,4,None,Good
+1134,,House,Villa,545000,No,3,None,1,0,None,,None,None,None,4,None,Good
+1135,,House,Villa,569000,No,5,None,0,0,None,,None,None,None,4,None,
+1136,,House,Villa,460000,No,2,None,0,0,None,,None,None,None,4,None,Good
+1137,Genappe,House,Villa,635000,No,5,None,0,0,None,1,None,None,None,4,None,As new
+1138,,House,Villa,335000,No,4,None,0,0,None,,None,None,None,4,None,Good
+1139,,House,Villa,499000,No,3,None,1,0,None,,None,None,None,4,None,Good
+1140,,House,Villa,535000,No,4,None,0,0,None,,None,None,None,4,None,Good
+1141,,House,Villa,579000,No,3,None,0,0,None,1,None,None,None,4,None,To be done up
+1142,Stockel large,House,Villa,770000,No,4,None,0,0,None,,None,None,None,4,None,As new
+1143,,House,Villa,1780000,No,6,None,1,0,None,,None,None,None,4,None,Good
+1144,,House,Villa,2800000,No,7,None,0,0,None,,None,None,None,4,None,To renovate
+1145,,House,Villa,249999,No,3,None,1,0,None,,None,None,None,4,None,Good
+1146,,House,Villa,350000,No,4,None,0,0,None,,None,None,None,4,None,To be done up
+1147,,House,Villa,425000,No,5,None,1,0,None,,None,None,None,4,None,Good
+1148,,House,Villa,595000,No,3,None,1,0,None,,None,None,None,4,None,Good
+1149,,House,Villa,1249000,No,6,None,1,0,None,,None,None,None,4,None,Just renovated
+1150,,House,Villa,2849000,No,5,None,1,0,None,1,None,None,None,4,None,To be done up
+1151,,House,Villa,375000,No,5,None,1,0,None,1,None,None,None,4,None,Good
+1152,,House,Villa,499000,No,4,None,0,0,None,,None,None,None,4,None,To be done up
+1153,,House,Villa,345000,No,3,None,1,0,None,,None,None,None,4,None,Good
+1154,,House,Villa,449000,No,3,None,1,0,None,,None,None,None,4,None,To renovate
+1155,,House,Villa,525000,No,4,None,0,0,None,,None,None,None,4,None,As new
+1156,,House,Villa,199999,No,3,None,0,0,None,,None,None,None,4,None,To be done up
+1157,,House,Villa,439000,No,6,None,0,0,None,,None,None,None,3,None,As new
+1158,,House,Villa,464000,No,4,None,1,0,None,,None,None,None,4,None,As new
+1159,,House,Villa,530000,No,3,None,1,0,None,1,None,None,None,4,None,
+1160,,House,Villa,785000,No,4,None,0,0,None,1,None,None,None,4,None,To renovate
+1161,,House,Villa,825000,No,5,None,1,0,None,,None,None,None,4,None,Good
+1162,,House,Villa,895000,No,8,None,1,0,None,1,None,None,None,3,None,To be done up
+1163,,House,Villa,1100000,No,4,None,1,0,None,,None,None,None,4,None,As new
+1164,,House,Villa,1775000,No,8,None,0,0,None,1,None,None,None,3,None,Good
+1165,Astene,House,Villa,995000,,3,None,0,0,None,,None,None,None,4,None,As new
+1166,,House,Villa,450000,No,3,None,0,0,None,,None,None,None,4,None,To be done up
+1167,,House,Villa,720000,No,4,None,0,,None,1,None,None,None,4,None,Good
+1168,Valée des Artistes,House,Villa,1150000,,5,None,1,,None,1,None,None,None,4,None,Good
+1169,,House,Villa,370000,No,3,None,1,0,None,,None,None,None,4,None,Good
+1170,,House,Villa,550000,No,4,None,0,0,None,,None,None,None,4,None,As new
+1171,,House,Villa,439000,No,3,None,0,0,None,,None,None,None,4,None,Good
+1172,Stockel large,House,Villa,550000,No,2,None,0,0,None,,None,None,None,4,None,Good
+1173,,House,Villa,589000,No,4,None,0,0,None,1,None,None,None,4,None,Good
+1174,,House,Villa,945000,No,3,None,1,0,None,1,None,None,None,4,None,Good
+1175,,House,Villa,644500,No,4,None,1,0,None,,None,None,None,4,None,Good
+1176,,House,Villa,220000,No,4,None,0,0,None,,None,None,None,4,None,As new
+1177,,House,Villa,395000,No,3,None,0,0,None,,None,None,None,4,None,As new
+1178,,House,Villa,450000,No,3,None,1,0,None,,None,None,None,4,None,As new
+1179,,House,Villa,570000,No,4,None,1,0,None,,None,None,None,4,None,As new
+1180,,House,Villa,575000,No,4,None,1,0,None,,None,None,None,4,None,Good
+1181,,,,None,,,None,0,,None,,None,None,None,,None,
+1182,,House,Villa,645000,No,5,None,0,0,None,,None,None,None,4,None,Good
+1183,,House,Villa,669000,No,4,None,1,0,None,,None,None,None,4,None,As new
+1184,,House,Villa,685000,No,6,None,0,0,None,,None,None,None,4,None,Good
+1185,,House,Villa,685000,No,4,None,0,,None,1,None,None,None,4,None,As new
+1186,,House,Villa,698000,No,4,None,1,0,None,,None,None,None,4,None,As new
+1187,,House,Villa,749000,No,3,None,0,0,None,,None,None,None,4,None,As new
+1188,,House,Villa,795000,No,3,None,0,,None,,None,None,None,4,None,Just renovated
+1189,,House,Villa,895000,No,4,None,0,0,None,,None,None,None,4,None,As new
+1190,Hauteurs Lac Genval,House,Villa,975000,,3,None,1,0,None,,None,None,None,4,None,Just renovated
+1191,Hauteurs Lac Genval,House,Villa,975000,No,3,None,1,0,None,,None,None,None,4,None,Just renovated
+1192,,House,Villa,1295000,No,6,None,0,1,None,,None,None,None,4,None,
+1193,,House,Villa,545000,No,5,None,0,0,None,1,None,None,None,4,None,Good
+1194,,House,Villa,850000,No,3,None,1,0,None,,None,None,None,4,None,As new
+1195,,House,Villa,369000,No,3,None,0,0,None,,None,None,None,,None,As new
+1196,,House,Villa,385000,No,4,None,0,0,None,,None,None,None,,None,As new
+1197,,House,Villa,395000,No,2,None,1,0,None,1,None,None,None,,None,Good
+1198,,House,Villa,449000,No,3,None,1,0,None,1,None,None,None,,None,Good
+1199,,House,Villa,599000,No,3,None,0,0,None,1,None,None,None,,None,As new
+1200,,House,Villa,599000,No,3,None,0,0,None,1,None,None,None,,None,As new
+1201,,House,Villa,750000,No,5,None,0,0,None,,None,None,None,4,None,
+1202,,,,None,,,None,0,,None,,None,None,None,,None,
+1203,,House,Villa,439000,No,3,None,0,0,None,,None,None,None,4,None,Just renovated
+1204,,House,Villa,575000,No,3,None,0,0,None,,None,None,None,4,None,As new
+1205,,House,Villa,650000,No,5,None,1,0,None,,None,None,None,4,None,Good
+1206,Mol,House,Villa,488000,No,4,None,1,,None,1,None,None,None,4,None,As new
+1207,,House,Villa,695000,No,3,None,0,0,None,,None,None,None,4,None,As new
+1208,WAIMES,House,Villa,390000,No,2,None,0,0,None,,None,None,None,4,None,Good
+1209,,House,Villa,325000,No,3,None,0,0,None,,None,None,None,4,None,Good
+1210,,House,Villa,344000,No,6,None,1,0,None,,None,None,None,4,None,Good
+1211,,House,Villa,385000,No,4,None,0,0,None,,None,None,None,4,None,Good
+1212,,House,Villa,390000,No,4,None,1,,None,1,None,None,None,4,None,Just renovated
+1213,,House,Villa,400000,No,4,None,1,0,None,,None,None,None,4,None,Good
+1214,,House,Villa,412000,No,3,None,0,0,None,,None,None,None,4,None,As new
+1215,,House,Villa,449000,No,3,None,0,0,None,1,None,None,None,4,None,As new
+1216,,House,Villa,459000,,2,None,1,0,None,,None,None,None,4,None,To be done up
+1217,,House,Villa,470000,No,4,None,1,0,None,,None,None,None,4,None,To renovate
+1218,,House,Villa,470000,No,4,None,1,0,None,,None,None,None,4,None,To renovate
+1219,Langdorp,House,Villa,597000,No,4,None,0,,None,1,None,None,None,4,None,As new
+1220,,House,Villa,674000,No,4,None,0,0,None,,None,None,None,4,None,Good
+1221,Regio Zuidrand Antwerpen,House,Villa,695000,No,7,None,1,,None,1,None,None,None,4,None,To be done up
+1222,Kalmthout en omgeving,House,Villa,1095000,No,5,None,0,0,None,1,None,None,None,4,None,Good
+1223,Regio Noordrand Antwerpen,House,Villa,1184500,No,4,None,0,0,None,1,None,None,None,4,None,As new
+1224,,House,Villa,1500000,No,6,None,0,0,None,,None,None,None,4,None,To renovate
+1225,,House,Villa,310000,No,3,None,0,0,None,,None,None,None,,None,As new
+1226,,House,Villa,765000,,5,None,0,0,None,,None,None,None,4,None,As new
+1227,,House,Villa,300000,No,3,None,0,0,None,1,None,None,None,4,None,
+1228,,House,Villa,425000,No,4,None,0,,None,1,None,None,None,4,None,To renovate
+1229,,House,Villa,385000,No,3,None,1,0,None,,None,None,None,4,None,As new
+1230,Ingendaelwijk,House,Villa,525000,,3,None,1,0,None,,None,None,None,4,None,Good
+1231,,House,Villa,648000,No,4,None,1,0,None,,None,None,None,4,None,Good
+1232,,House,Villa,1124999,No,5,None,1,0,None,,None,None,None,4,None,
+1233,,House,Villa,895000,No,5,None,0,0,None,,None,None,None,4,None,As new
+1234,,House,Villa,625000,No,3,None,0,,None,1,None,None,None,4,None,Good
+1235,,House,Villa,575000,No,3,None,0,0,None,,None,None,None,4,None,Good
+1236,,House,Villa,1495000,No,5,None,1,0,None,,None,None,None,4,None,As new
+1237,,House,Villa,2350000,No,5,None,1,0,None,,None,None,None,4,None,Good
+1238,,House,Villa,299000,No,3,None,0,0,None,1,None,None,None,4,None,As new
+1239,,House,Villa,450000,No,4,None,1,0,None,,None,None,None,4,None,To renovate
+1240,,House,Villa,450000,No,3,None,0,0,None,,None,None,None,4,None,As new
+1241,,House,Villa,490000,No,5,None,1,,None,,None,None,None,4,None,Good
+1242,,House,Villa,649000,No,4,None,0,0,None,,None,None,None,4,None,As new
+1243,,House,Villa,650000,No,5,None,1,0,None,,None,None,None,4,None,Good
+1244,,House,Villa,675000,No,4,None,1,0,None,,None,None,None,4,None,As new
+1245,,House,Villa,875000,No,4,None,0,0,None,,None,None,None,4,None,Good
+1246,,House,Villa,2150000,No,5,None,1,0,None,,None,None,None,4,None,Good
+1247,,House,Villa,785000,No,4,None,0,0,None,,None,None,None,3,None,
+1248,,House,Villa,535000,No,3,None,1,0,None,,None,None,None,4,None,
+1249,,House,Villa,475000,No,3,None,1,0,None,,None,None,None,4,None,
+1250,,House,Villa,498000,No,3,None,1,0,None,,None,None,None,4,None,Good
+1251,Grand Liège,House,Villa,389000,No,6,None,1,0,None,,None,None,None,4,None,Good
+1252,,House,Villa,390000,No,3,None,0,0,None,,None,None,None,4,None,Just renovated
+1253,,House,Villa,395000,,4,None,1,,None,,None,None,None,4,None,Just renovated
+1254,,House,Villa,420000,,3,None,1,1,None,,None,None,None,4,None,As new
+1255,,House,Villa,439000,No,4,None,1,0,None,,None,None,None,4,None,Good
+1256,,House,Villa,465000,No,4,None,0,0,None,1,None,None,None,4,None,To renovate
+1257,,House,Villa,490000,,5,None,0,0,None,1,None,None,None,4,None,Good
+1258,,House,Villa,545000,No,2,None,0,0,None,,None,None,None,4,None,As new
+1259,,House,Villa,585000,No,3,None,0,0,None,,None,None,None,4,None,As new
+1260,,House,Villa,995000,No,4,None,0,0,None,,None,None,None,4,None,To be done up
+1261,,House,Villa,1199000,No,4,None,0,0,None,,None,None,None,4,None,Good
+1262,,House,Villa,1299000,No,6,None,0,0,None,,None,None,None,4,None,As new
+1263,,House,Villa,1595000,No,6,None,0,0,None,,None,None,None,4,None,Good
+1264,,House,Villa,1895000,No,5,None,1,0,None,,None,None,None,4,None,As new
+1265,,House,Villa,195000,No,3,None,0,0,None,,None,None,None,4,None,To renovate
+1266,,House,Villa,469000,No,3,None,1,,None,1,None,None,None,4,None,Good
+1267,,House,Villa,1349000,No,5,None,0,0,None,1,None,None,None,4,None,As new
+1268,Brabant Wallon,House,Villa,350000,No,3,None,0,0,None,,None,None,None,4,None,To renovate
+1269,,House,Villa,639000,No,3,None,1,0,None,,None,None,None,4,None,Good
+1270,,House,Villa,1300000,No,3,None,1,0,None,,None,None,None,4,None,
+1271,,House,Villa,1300000,No,3,None,1,0,None,,None,None,None,4,None,
+1272,,House,Villa,1300000,No,3,None,1,0,None,,None,None,None,4,None,
+1273,,House,Villa,250000,No,4,None,0,0,None,,None,None,None,4,None,
+1274,,House,Villa,449000,No,3,None,0,0,None,1,None,None,None,3,None,
+1275,,House,Villa,479500,No,,None,1,0,None,,None,None,None,4,None,As new
+1276,,House,Villa,497900,No,4,None,1,0,None,,None,None,None,4,None,
+1277,,House,Villa,499000,No,3,None,0,,None,1,None,None,None,4,None,To renovate
+1278,,House,Villa,549000,No,6,None,1,0,None,1,None,None,None,,None,Good
+1279,,House,Villa,549000,No,6,None,1,0,None,1,None,None,None,,None,Good
+1280,,House,Villa,595000,No,3,None,1,0,None,,None,None,None,4,None,As new
+1281,,House,Villa,595000,No,4,None,0,0,None,1,None,None,None,,None,As new
+1282,,House,Villa,695000,No,8,None,1,0,None,,None,None,None,4,None,Good
+1283,,House,Villa,799000,No,5,None,0,0,None,,None,None,None,4,None,As new
+1284,,House,Villa,799000,No,6,None,1,0,None,1,None,None,None,4,None,Good
+1285,,House,Villa,300000,No,3,None,0,0,None,1,None,None,None,4,None,
+1286,,House,Villa,430000,No,3,None,1,,None,,None,None,None,,None,To be done up
+1287,,House,Villa,375000,No,6,None,0,0,None,,None,None,None,4,None,Good
+1288,,House,Villa,510000,No,4,None,1,0,None,,None,None,None,,None,As new
+1289,,House,Villa,275000,No,3,None,1,0,None,1,None,None,None,4,None,Just renovated
+1290,Brabant Wallon,House,Villa,319000,No,1,None,0,0,None,1,None,None,None,4,None,Just renovated
+1291,,House,Villa,325000,,3,None,0,,None,1,None,None,None,4,None,As new
+1292,,House,Villa,339000,No,5,None,0,0,None,,None,None,None,4,None,As new
+1293,,House,Villa,445000,No,3,None,0,0,None,1,None,None,None,4,None,As new
+1294,,House,Villa,445000,No,7,None,0,0,None,,None,None,None,4,None,Good
+1295,,House,Villa,490000,No,4,None,1,0,None,1,None,None,None,4,None,Good
+1296,,House,Villa,499000,No,4,None,1,,None,1,None,None,None,4,None,Good
+1297,Galmaarden,House,Villa,535000,No,5,None,0,0,None,1,None,None,None,4,None,As new
+1298,,House,Villa,549000,No,3,None,1,,None,1,None,None,None,4,None,Good
+1299,,House,Villa,579000,No,4,None,0,0,None,,None,None,None,4,None,As new
+1300,,House,Villa,583000,No,4,None,0,0,None,,None,None,None,4,None,Good
+1301,,House,Villa,648000,No,5,None,0,0,None,1,None,None,None,4,None,Just renovated
+1302,,House,Villa,650000,No,4,None,0,0,None,,None,None,None,4,None,Just renovated
+1303,,House,Villa,850000,No,4,None,1,0,None,,None,None,None,4,None,As new
+1304,,House,Villa,850000,No,2,None,1,0,None,,None,None,None,,None,Good
+1305,,House,Villa,1195000,No,4,None,0,0,None,,None,None,None,4,None,
+1306,,House,Villa,595000,No,4,None,0,0,None,,None,None,None,4,None,Good
+1307,,House,Villa,698000,No,7,None,0,0,None,1,None,None,None,4,None,To be done up
+1308,,House,Villa,429000,No,4,None,1,0,None,,None,None,None,4,None,As new
+1309,,House,Villa,310000,No,4,None,1,0,None,,None,None,None,4,None,As new
+1310,,House,Villa,825000,No,4,None,1,0,None,,None,None,None,4,None,Good
+1311,,House,Villa,650000,No,2,None,0,0,None,,None,None,None,4,None,As new
+1312,,House,Villa,565000,No,3,None,0,0,None,,None,None,None,4,None,Just renovated
+1313,,House,Villa,835000,No,3,None,1,0,None,,None,None,None,4,None,Good
+1314,,House,Villa,275000,No,3,None,0,0,None,,None,None,None,4,None,Good
+1315,,House,Villa,350000,No,5,None,1,0,None,,None,None,None,4,None,
+1316,,House,Villa,389000,No,3,None,0,0,None,1,None,None,None,,None,As new
+1317,,House,Villa,395000,No,3,None,0,0,None,1,None,None,None,,None,Good
+1318,,House,Villa,410000,No,4,None,0,0,None,,None,None,None,4,None,As new
+1319,,House,Villa,595000,No,5,None,1,0,None,1,None,None,None,,None,Good
+1320,Sint-Pieters-Leeuw,House,Villa,599000,No,6,None,1,0,None,1,None,None,None,4,None,To be done up
+1321,,House,Villa,879000,No,5,None,1,0,None,,None,None,None,,None,
+1322,,House,Villa,1595000,No,4,None,0,,None,1,None,None,None,4,None,As new
+1323,,House,Villa,584000,No,4,None,1,0,None,,None,None,None,4,None,Good
+1324,,House,Villa,695000,No,4,None,0,0,None,,None,None,None,4,None,Good
+1325,,House,Villa,3500000,No,5,None,0,0,None,,None,None,None,4,None,Good
+1326,,House,Villa,239000,No,4,None,0,0,None,1,None,None,None,4,None,Good
+1327,,House,Villa,270000,No,3,None,1,,None,,None,None,None,4,None,Good
+1328,,House,Villa,310000,No,4,None,1,0,None,,None,None,None,4,None,As new
+1329,,House,Villa,375000,No,5,None,0,0,None,,None,None,None,4,None,As new
+1330,,House,Villa,420000,No,4,None,1,0,None,,None,None,None,4,None,Good
+1331,,House,Villa,465000,No,6,None,1,0,None,,None,None,None,4,None,To be done up
+1332,,House,Villa,520000,No,3,None,0,0,None,,None,None,None,4,None,
+1333,,House,Villa,525000,No,4,None,0,0,None,,None,None,None,,None,
+1334,,House,Villa,599000,No,5,None,0,0,None,,None,None,None,4,None,Good
+1335,,House,Villa,620000,No,6,None,1,0,None,,None,None,None,4,None,As new
+1336,,House,Villa,649000,No,5,None,1,0,None,1,None,None,None,4,None,As new
+1337,,House,Villa,660000,No,5,None,1,0,None,1,None,None,None,4,None,Good
+1338,,House,Villa,800000,No,4,None,0,0,None,,None,None,None,4,None,Good
+1339,,House,Villa,849000,No,7,None,1,0,None,,None,None,None,4,None,Good
+1340,,House,Villa,2650000,No,6,None,0,0,None,,None,None,None,4,None,As new
+1341,,House,Villa,795000,No,4,None,1,0,None,,None,None,None,4,None,
+1342,,House,Villa,499000,No,4,None,0,0,None,1,None,None,None,,None,As new
+1343,,House,Villa,499000,No,4,None,1,0,None,,None,None,None,4,None,Good
+1344,,House,Villa,570000,No,4,None,0,0,None,,None,None,None,4,None,Good
+1345,,House,Villa,773000,No,5,None,0,0,None,,None,None,None,4,None,Good
+1346,,House,Villa,339000,No,3,None,1,0,None,1,None,None,None,4,None,As new
+1347,Brabant Wallon,House,Villa,379000,No,2,None,0,0,None,,None,None,None,4,None,Good
+1348,,House,Villa,398000,No,4,None,1,0,None,,None,None,None,4,None,Good
+1349,,House,Villa,490000,No,3,None,0,0,None,,None,None,None,4,None,As new
+1350,,House,Villa,499000,No,4,None,1,0,None,1,None,None,None,4,None,As new
+1351,,House,Villa,499000,No,3,None,1,0,None,,None,None,None,4,None,As new
+1352,Grand Liège,House,Villa,520000,No,4,None,1,0,None,1,None,None,None,4,None,Good
+1353,,House,Villa,625000,No,3,None,0,0,None,,None,None,None,4,None,Good
+1354,,House,Villa,759000,No,5,None,1,0,None,,None,None,None,4,None,Good
+1355,,House,Villa,849000,No,3,None,1,0,None,,None,None,None,4,None,Good
+1356,,House,Villa,895000,No,3,None,0,0,None,1,None,None,None,,None,As new
+1357,,House,Villa,899000,No,3,None,0,0,None,,None,None,None,4,None,Good
+1358,,House,Villa,469000,No,4,None,0,0,None,,None,None,None,4,None,Good
+1359,,House,Villa,415000,No,3,None,0,0,None,,None,None,None,4,None,As new
+1360,,House,Villa,360000,No,4,None,1,0,None,,None,None,None,4,None,As new
+1361,,House,Villa,375000,No,3,None,1,0,None,,None,None,None,4,None,
+1362,,House,Villa,515000,No,5,None,1,0,None,,None,None,None,4,None,Good
+1363,,House,Villa,1089000,No,4,None,1,0,None,,None,None,None,4,None,Good
+1364,,House,Villa,495000,No,4,None,1,0,None,,None,None,None,4,None,Good
+1365,,House,Villa,525000,No,4,None,0,0,None,1,None,None,None,4,None,Good
+1366,,House,Villa,595000,No,3,None,0,0,None,,None,None,None,4,None,
+1367,,House,Villa,849000,No,4,None,1,0,None,,None,None,None,4,None,
+1368,,House,Villa,875000,No,3,None,1,0,None,,None,None,None,4,None,Good
+1369,,House,Villa,895000,No,4,None,1,0,None,,None,None,None,4,None,Good
+1370,,House,Villa,995000,No,4,None,1,0,None,,None,None,None,4,None,As new
+1371,,House,Villa,1075000,No,4,None,0,0,None,,None,None,None,4,None,Good
+1372,,House,Villa,1190000,Yes,5,None,0,0,None,,None,None,None,4,None,To renovate
+1373,,House,Villa,1195000,No,6,None,1,0,None,,None,None,None,4,None,As new
+1374,,House,Villa,1975000,No,3,None,0,0,None,,None,None,None,4,None,As new
+1375,,House,Villa,735000,No,4,None,0,0,None,,None,None,None,4,None,Good
+1376,,House,Villa,780000,No,3,None,0,0,None,1,None,None,None,3,None,As new
+1377,,House,Villa,280000,No,4,None,0,0,None,,None,None,None,4,None,As new
+1378,,House,Villa,359773,No,3,None,0,0,None,,None,None,None,3,None,As new
+1379,,House,Villa,385000,,3,None,0,0,None,,None,None,None,4,None,As new
+1380,,House,Villa,359000,No,3,None,1,0,None,1,None,None,None,4,None,As new
+1381,,House,Villa,499500,No,4,None,0,0,None,,None,None,None,4,None,Just renovated
+1382,,House,Villa,280000,No,4,None,0,0,None,,None,None,None,4,None,As new
+1383,,House,Villa,695000,No,5,None,1,0,None,,None,None,None,4,None,Good
+1384,,House,Villa,340000,No,3,None,0,0,None,,None,None,None,4,None,As new
+1385,,House,Villa,395000,No,4,None,1,0,None,,None,None,None,4,None,As new
+1386,,House,Villa,20000,No,2,None,1,0,None,,None,None,None,4,None,Good
+1387,,House,Villa,250000,No,2,None,1,0,None,,None,None,None,4,None,Good
+1388,,House,Villa,270000,No,3,None,0,0,None,,None,None,None,4,None,As new
+1389,,House,Villa,329000,No,3,None,1,0,None,,None,None,None,4,None,Good
+1390,,House,Villa,350000,No,4,None,1,0,None,,None,None,None,4,None,
+1391,GRAND VERVIERS,House,Villa,399000,No,4,None,0,,None,,None,None,None,4,None,Good
+1392,,House,Villa,425000,No,2,None,1,0,None,,None,None,None,4,None,Good
+1393,,House,Villa,490000,,5,None,0,0,None,,None,None,None,4,None,Good
+1394,,House,Villa,490000,No,2,None,0,0,None,,None,None,None,4,None,Good
+1395,,House,Villa,690000,No,4,None,0,0,None,1,None,None,None,4,None,Good
+1396,,House,Villa,695000,No,3,None,1,0,None,,None,None,None,4,None,Good
+1397,Halle,House,Villa,699000,No,4,None,0,,None,1,None,None,None,4,None,
+1398,,House,Villa,749000,No,4,None,0,0,None,,None,None,None,4,None,To be done up
+1399,,House,Villa,749000,No,4,None,0,0,None,,None,None,None,,None,As new
+1400,,House,Villa,795000,No,4,None,1,0,None,,None,None,None,4,None,Good
+1401,,House,Villa,875000,No,5,None,1,0,None,,None,None,None,4,None,Good
+1402,,House,Villa,895000,No,5,None,1,0,None,,None,None,None,4,None,Good
+1403,,House,Villa,897000,No,4,None,0,0,None,,None,None,None,4,None,Good
+1404,,House,Villa,2450000,No,5,None,1,0,None,,None,None,None,4,None,Good
+1405,,House,Villa,2475000,No,7,None,0,0,None,1,None,None,None,4,None,
+1406,,House,Villa,295000,No,4,None,0,0,None,,None,None,None,4,None,
+1407,,House,Villa,569000,No,5,None,1,0,None,,None,None,None,4,None,Good
+1408,,House,Villa,178500,No,3,None,0,0,None,1,None,None,None,4,None,To be done up
+1409,,House,Villa,1395000,No,6,None,0,0,None,,None,None,None,4,None,Good
+1410,,House,Villa,449000,No,2,None,1,0,None,1,None,None,None,4,None,Good
+1411,,House,Villa,480000,No,4,None,0,,None,,None,None,None,4,None,As new
+1412,,House,Villa,495000,No,4,None,0,0,None,,None,None,None,,None,Good
+1413,,House,Villa,499000,No,3,None,0,0,None,,None,None,None,,None,To renovate
+1414,Lennik,House,Villa,529000,No,3,None,0,0,None,1,None,None,None,4,None,Good
+1415,,House,Villa,624000,No,5,None,0,0,None,,None,None,None,4,None,Good
+1416,,House,Villa,799000,No,9,None,1,0,None,,None,None,None,4,None,As new
+1417,,House,Villa,929000,No,4,None,1,0,None,,None,None,None,4,None,Good
+1418,,House,Villa,1250000,No,4,None,1,0,None,,None,None,None,4,None,As new
+1419,,House,Villa,1750000,No,3,None,1,0,None,,None,None,None,4,None,Good
+1420,,House,Villa,1775000,No,8,None,0,,None,1,None,None,None,,None,Just renovated
+1421,,House,Villa,385000,,3,None,0,0,None,,None,None,None,4,None,As new
+1422,,House,Villa,685000,No,3,None,1,0,None,,None,None,None,4,None,Good
+1423,,House,Villa,445000,No,4,None,0,,None,1,None,None,None,4,None,As new
+1424,,House,Villa,399000,No,4,None,1,0,None,,None,None,None,4,None,
+1425,,House,Villa,335000,,3,None,1,,None,,None,None,None,4,None,Good
+1426,Maffle,House,Villa,650000,No,1,None,0,,None,,None,None,None,4,None,As new
+1427,,House,Villa,279000,No,3,None,0,,None,1,None,None,None,3,None,Just renovated
+1428,,House,Villa,339000,No,4,None,0,0,None,,None,None,None,4,None,As new
+1429,,House,Villa,535000,No,2,None,0,0,None,,None,None,None,4,None,Good
+1430,,House,Villa,570200,No,3,None,0,0,None,,None,None,None,4,None,
+1431,,House,Villa,595000,No,6,None,0,0,None,1,None,None,None,4,None,As new
+1432,,House,Villa,674000,No,5,None,0,0,None,,None,None,None,4,None,As new
+1433,,House,Villa,690000,No,5,None,0,0,None,,None,None,None,4,None,
+1434,,House,Villa,785000,No,4,None,0,0,None,,None,None,None,,None,As new
+1435,,House,Villa,835000,No,3,None,1,0,None,1,None,None,None,,None,Good
+1436,,House,Villa,995000,No,4,None,1,0,None,,None,None,None,1,None,As new
+1437,,House,Villa,1495000,No,5,None,1,0,None,1,None,None,None,,None,Good
+1438,,House,Villa,1495000,No,4,None,1,0,None,,None,None,None,,None,As new
+1439,,House,Villa,693000,No,4,None,1,0,None,,None,None,None,,None,Good
+1440,,House,New,From 284500 To 311000,No,,None,0,,None,,None,None,None,,None,
+1441,,House,New,From 284500 To 311000,No,,None,0,,None,,None,None,None,,None,
+1442,,House,Provinciale,From 349300 To 548000,No,,None,0,,None,,None,None,None,,None,
+1443,Markgrave,House,Flower,From 484000 To 675000,No,,None,0,,None,,None,None,None,,None,
+1444,,House,Project,From 570200 To 570600,No,,None,0,,None,,None,None,None,,None,
+1445,,House,Villa,135000,No,4,None,0,0,None,,None,None,None,4,None,To renovate
+1446,,House,Villa,249000,No,3,None,1,,None,,None,None,None,3,None,As new
+1447,,House,Villa,285000,,4,None,1,,None,,None,None,None,4,None,Good
+1448,,House,Villa,300000,No,3,None,1,,None,1,None,None,None,4,None,Good
+1449,,House,Villa,355000,No,4,None,0,0,None,,None,None,None,4,None,Just renovated
+1450,,House,Villa,395000,No,,None,0,0,None,,None,None,None,4,None,Good
+1451,,House,Villa,595000,No,3,None,0,,None,,None,None,None,,None,Good
+1452,,House,Villa,649000,No,3,None,1,0,None,1,None,None,None,4,None,As new
+1453,,House,Villa,695000,No,3,None,0,,None,1,None,None,None,4,None,
+1454,Halle,House,Villa,699000,No,3,None,0,0,None,1,None,None,None,4,None,
+1455,Beersel,House,Villa,699000,No,3,None,0,0,None,1,None,None,None,4,None,
+1456,,,,None,,,None,0,,None,,None,None,None,,None,
+1457,,House,Villa,800000,No,4,None,0,,None,1,None,None,None,4,None,As new
+1458,,House,Villa,845000,No,8,None,0,0,None,,None,None,None,4,None,Good
+1459,,House,Villa,970000,No,5,None,0,0,None,,None,None,None,4,None,Good
+1460,,House,Villa,1150000,No,,None,0,0,None,,None,None,None,4,None,As new
+1461,,House,Villa,1595000,No,4,None,0,,None,1,None,None,None,4,None,As new
+1462,,House,Villa,2395000,No,7,None,0,0,None,,None,None,None,4,None,As new
+1463,,House,Villa,559500,,3,None,0,,None,,None,None,None,4,None,As new
+1464,,House,Villa,395000,No,3,None,1,1,None,,None,None,None,4,None,Good
+1465,,House,Villa,535000,No,5,None,0,0,None,1,None,None,None,4,None,As new
+1466,,House,Villa,535000,No,5,None,0,0,None,1,None,None,None,4,None,As new
+1467,,House,Villa,275000,No,4,None,1,0,None,,None,None,None,4,None,
+1468,,House,Villa,320000,No,3,None,1,0,None,,None,None,None,4,None,
+1469,,House,Villa,349500,No,4,None,1,0,None,,None,None,None,4,None,
+1470,,House,Villa,350000,No,5,None,1,0,None,1,None,None,None,,None,
+1471,,House,Villa,390000,No,2,None,1,0,None,,None,None,None,4,None,
+1472,,House,Villa,420000,No,2,None,0,,None,1,None,None,None,4,None,Good
+1473,,House,Villa,449000,No,5,None,0,0,None,1,None,None,None,4,None,
+1474,,House,Villa,485000,No,4,None,0,0,None,1,None,None,None,4,None,
+1475,,House,Villa,495000,No,6,None,1,0,None,,None,None,None,4,None,Good
+1476,,House,Villa,499000,No,2,None,0,0,None,1,None,None,None,4,None,As new
+1477,,House,Villa,535000,No,3,None,0,,None,1,None,None,None,4,None,Good
+1478,,House,Villa,549500,No,5,None,1,0,None,,None,None,None,4,None,
+1479,,House,Villa,578000,No,5,None,0,0,None,,None,None,None,4,None,Good
+1480,,House,Villa,645000,No,3,None,0,,None,1,None,None,None,4,None,
+1481,,House,Villa,745000,No,4,None,0,0,None,,None,None,None,4,None,
+1482,,House,Villa,1595000,No,4,None,1,0,None,,None,None,None,4,None,Good
+1483,,House,Villa,40000 + 815 per month,No,3,None,0,0,None,,None,None,None,4,None,Good
+1484,,House,Villa,285000,No,5,None,0,0,None,1,None,None,None,4,None,Good
+1485,ARRONDISSEMENT DE CHARLEROI,House,Villa,290000,No,3,None,1,0,None,1,None,None,None,4,None,As new
+1486,,House,Villa,330000,No,5,None,1,0,None,,None,None,None,4,None,Good
+1487,,House,Villa,335000,No,4,None,0,0,None,,None,None,None,4,None,As new
+1488,Aalst,House,Villa,430000,No,3,None,0,,None,,None,None,None,4,None,Good
+1489,Aalst,House,Villa,430000,No,3,None,0,,None,,None,None,None,4,None,Good
+1490,,House,Villa,449000,No,6,None,1,,None,,None,None,None,3,None,Good
+1491,,House,Villa,499000,No,4,None,0,0,None,,None,None,None,4,None,To renovate
+1492,,House,Villa,630000,No,4,None,1,,None,,None,None,None,4,None,As new
+1493,,House,Villa,1449000,No,3,None,0,0,None,,None,None,None,4,None,As new
+1494,,House,Villa,1750000,No,4,None,0,0,None,,None,None,None,4,None,As new
+1495,,House,Villa,250000,No,3,None,0,0,None,,None,None,None,4,None,Good
+1496,,House,Villa,935000,No,4,None,1,0,None,,None,None,None,4,None,To renovate
+1497,,House,Villa,460000,No,3,None,0,,None,1,None,None,None,4,None,To be done up
+1498,,House,Villa,350000,No,5,None,1,0,None,1,None,None,None,4,None,Good
+1499,,House,Villa,299000,No,2,None,0,,None,1,None,None,None,,None,To renovate
+1500,,House,Villa,320000,,3,None,1,,None,,None,None,None,4,None,To renovate
+1501,,House,Villa,725000,No,4,None,1,0,None,,None,None,None,4,None,
+1502,,House,Villa,985000,No,5,None,0,0,None,,None,None,None,4,None,
+1503,,House,Villa,1095000,No,5,None,0,0,None,,None,None,None,4,None,
+1504,,House,Villa,1250000,No,5,None,0,0,None,,None,None,None,,None,
+1505,,House,Villa,251600,,3,None,0,,None,1,None,None,None,4,None,As new
+1506,,House,Villa,320000,No,4,None,0,0,None,,None,None,None,4,None,As new
+1507,,House,Villa,315000,No,3,None,0,0,None,1,None,None,None,4,None,Good
+1508,,House,Villa,350000,No,5,None,1,,None,,None,None,None,4,None,Good
+1509,,House,Villa,379000,No,3,None,0,0,None,1,None,None,None,4,None,
+1510,,House,Villa,429000,No,5,None,1,0,None,,None,None,None,4,None,
+1511,,House,Villa,495000,No,4,None,0,0,None,,None,None,None,4,None,Good
+1512,,House,Villa,535000,No,3,None,0,,None,1,None,None,None,4,None,Good
+1513,,House,Villa,535000,No,3,None,0,,None,1,None,None,None,4,None,Good
+1514,,House,Villa,550000,No,3,None,0,0,None,,None,None,None,4,None,
+1515,Regio Zuidrand Antwerpen,House,Villa,597000,No,3,None,0,,None,1,None,None,None,4,None,To renovate
+1516,,House,Villa,699000,No,5,None,1,0,None,1,None,None,None,4,None,As new
+1517,,House,Villa,845000,No,11,None,1,0,None,,None,None,None,4,None,Good
+1518,,House,Villa,1090000,No,5,None,0,,None,1,None,None,None,4,None,As new
+1519,Place Brugmann,House,Villa,2050000,No,5,None,0,,None,,None,None,None,3,None,As new
+1520,,House,Villa,2495000,No,5,None,0,0,None,,None,None,None,,None,
+1521,,House,Villa,415000,No,5,None,0,,None,1,None,None,None,4,None,As new
+1522,,House,Villa,1295000,No,5,None,1,0,None,,None,None,None,4,None,Good
+1523,,House,Villa,575000,No,5,None,1,0,None,,None,None,None,4,None,
+1524,,House,Villa,290000,No,3,None,0,0,None,,None,None,None,4,None,Good
+1525,,House,Villa,745000,No,4,None,0,0,None,,None,None,None,4,None,As new
+1526,,House,Villa,235000,No,2,None,0,0,None,,None,None,None,4,None,To renovate
+1527,,House,Villa,270000,No,4,None,1,,None,1,None,None,None,4,None,As new
+1528,,House,Villa,350000,No,5,None,1,0,None,1,None,None,None,4,None,Good
+1529,,House,Villa,398000,No,3,None,0,,None,,None,None,None,,None,To be done up
+1530,,House,Villa,485000,No,4,None,0,0,None,,None,None,None,,None,
+1531,,House,Villa,495000,No,4,None,0,,None,1,None,None,None,4,None,As new
+1532,,House,Villa,659000,No,6,None,0,0,None,1,None,None,None,4,None,
+1533,,House,Villa,775000,No,5,None,0,0,None,,None,None,None,,None,As new
+1534,,House,Villa,825000,No,5,None,1,,None,1,None,None,None,4,None,As new
+1535,,House,Villa,1980000,No,4,None,0,0,None,,None,None,None,4,None,Good
+1536,,House,Villa,5000000,No,7,None,0,0,None,,None,None,None,4,None,Good
+1537,Aalst,House,Villa,525000,No,4,None,0,,None,1,None,None,None,4,None,Good
+1538,,House,Villa,599000,No,3,None,0,,None,,None,None,None,4,None,As new
+1539,,House,Villa,500000,No,4,None,1,0,None,,None,None,None,4,None,To restore
+1540,,House,Villa,390000,No,4,None,0,0,None,,None,None,None,4,None,
+1541,,House,Villa,530000,No,3,None,0,0,None,,None,None,None,4,None,Just renovated
+1542,,House,Villa,595000,No,3,None,0,0,None,1,None,None,None,,None,Good
+1543,,House,Villa,610000,No,4,None,0,0,None,,None,None,None,,None,
+1544,,House,Villa,980000,No,3,None,0,,None,1,None,None,None,,None,As new
+1545,,House,Villa,1950000,No,3,None,0,0,None,,None,None,None,,None,
+1546,,House,Villa,2675000,No,8,None,0,0,None,,None,None,None,,None,
+1547,,House,Villa,288700,,4,None,0,,None,,None,None,None,3,None,
+1548,,House,Villa,1345000,No,4,None,0,,None,,None,None,None,4,None,
+1549,,House,Villa,475000,No,5,None,0,,None,1,None,None,None,4,None,Good
+1550,,House,Villa,550000,No,4,None,0,,None,1,None,None,None,4,None,Good
+1551,,House,Villa,875000,No,5,None,0,0,None,1,None,None,None,4,None,
+1552,Charleroi et environs,House,Villa,260000,No,3,None,0,0,None,,None,None,None,4,None,To renovate
+1553,,House,Villa,449000,No,3,None,0,0,None,1,None,None,None,4,None,As new
+1554,,House,Villa,575000,No,4,None,0,,None,,None,None,None,,None,
+1555,,House,Villa,725000,No,5,None,0,0,None,,None,None,None,,None,
+1556,,House,Villa,775000,No,2,None,0,0,None,,None,None,None,4,None,
+1557,,House,Villa,985000,No,,None,0,0,None,,None,None,None,4,None,
+1558,,House,Villa,1024000,No,4,None,0,0,None,1,None,None,None,4,None,As new
+1559,,House,Villa,1200000,No,4,None,0,0,None,,None,None,None,4,None,As new
+1560,,House,Villa,1550000,No,6,None,0,0,None,,None,None,None,4,None,As new
+1561,,House,Villa,673000,No,3,None,0,0,None,1,None,None,None,2,None,
+1562,,House,Villa,682000,No,4,None,0,0,None,,None,None,None,2,None,
+1563,,House,Villa,697000,No,4,None,0,0,None,1,None,None,None,2,None,
+1564,,House,Villa,211800,,3,None,0,0,None,,None,None,None,3,None,
+1565,,House,Villa,395000,,4,None,0,,None,,None,None,None,4,None,Just renovated
+1566,,,,None,,,None,0,,None,,None,None,None,,None,
+1567,,House,Villa,768000,No,4,None,0,1,None,,None,None,None,,None,
+1568,,House,Villa,998000,No,3,None,0,,None,,None,None,None,,None,
+1569,,House,Villa,1250000,No,6,None,1,0,None,1,None,None,None,4,None,Good
+1570,,House,Villa,449000,No,3,None,1,0,None,,None,None,None,4,None,As new
+1571,,House,Villa,378500,No,5,None,1,0,None,,None,None,None,,None,As new
+1572,,House,Villa,388500,No,5,None,1,0,None,,None,None,None,,None,As new
+1573,,House,Villa,695000,No,5,None,0,0,None,,None,None,None,4,None,
+1574,,House,Villa,735000,No,7,None,0,0,None,,None,None,None,4,None,To be done up
+1575,,,,None,,,None,0,,None,,None,None,None,,None,
+1576,,House,Villa,325000,No,4,None,1,1,None,1,None,None,None,4,None,Good
+1577,,House,Villa,590000,No,5,None,1,,None,,None,None,None,4,None,As new
+1578,,House,Villa,330000,No,3,None,0,0,None,,None,None,None,4,None,
+1579,,House,Villa,349000,No,4,None,0,0,None,,None,None,None,4,None,Good
+1580,,House,Villa,395000,No,5,None,0,,None,1,None,None,None,4,None,
+1581,,House,Villa,395000,No,5,None,0,,None,1,None,None,None,4,None,
+1582,,House,Villa,425000,No,4,None,1,,None,1,None,None,None,4,None,As new
+1583,,House,Villa,1375000,No,3,None,0,0,None,,None,None,None,4,None,As new
+1584,Algemeen,House,Villa,1795000,No,5,None,0,0,None,1,None,None,None,4,None,
+1585,,House,Villa,2300000,No,2,None,0,0,None,,None,None,None,4,None,As new
+1586,,House,Villa,442000,No,2,None,0,0,None,,None,None,None,4,None,
+1587,,House,Villa,699000,No,4,None,0,0,None,,None,None,None,4,None,Good
+1588,,House,Villa,344600,,4,None,0,,None,,None,None,None,4,None,
+1589,,House,Villa,545000,No,3,None,0,,None,,None,None,None,,None,As new
+1590,,House,Villa,910000,No,4,None,0,,None,1,None,None,None,4,None,
+1591,,House,Villa,3700000,No,6,None,0,0,None,,None,None,None,4,None,Good
+1592,,House,Villa,745000,No,3,None,0,0,None,1,None,None,None,4,None,As new
+1593,,House,Villa,434000,No,3,None,0,,None,,None,None,None,4,None,As new
+1594,,House,Villa,555000,No,4,None,0,,None,1,None,None,None,4,None,
+1595,,House,Villa,275000,No,4,None,0,,None,,None,None,None,4,None,As new
+1596,,House,Villa,40000 + 950 per month,No,3,None,0,,None,,None,None,None,4,None,Good
+1597,,House,Villa,240000,No,3,None,0,0,None,,None,None,None,4,None,To be done up
+1598,,House,Villa,280000,No,3,None,0,0,None,1,None,None,None,4,None,As new
+1599,,House,Villa,357000,No,4,None,1,,None,,None,None,None,,None,
+1600,,House,Villa,449000,No,3,None,1,0,None,,None,None,None,4,None,
+1601,,House,Villa,625000,No,3,None,0,,None,1,None,None,None,4,None,As new
+1602,,House,Villa,965000,No,5,None,1,0,None,,None,None,None,4,None,
+1603,,House,Villa,1490000,No,,None,0,0,None,,None,None,None,4,None,As new
+1604,,House,Villa,1595000,No,5,None,0,0,None,,None,None,None,4,None,As new
+1605,,House,Villa,2400000,No,5,None,0,,None,1,None,None,None,4,None,As new
+1606,,House,Villa,2400000,No,5,None,0,,None,1,None,None,None,4,None,As new
+1607,,House,Villa,388000,,4,None,0,,None,1,None,None,None,4,None,As new
+1608,,House,Villa,349000,No,3,None,0,,None,1,None,None,None,4,None,Good
+1609,,House,Villa,695000,No,4,None,0,,None,,None,None,None,,None,To renovate
+1610,,House,Villa,995000,No,6,None,0,1,None,,None,None,None,4,None,Good
+1611,,House,Villa,1800000,No,5,None,0,,None,,None,None,None,,None,As new
+1612,,House,Villa,595000,No,4,None,0,0,None,,None,None,None,,None,
+1613,,House,Villa,295000,No,2,None,0,0,None,,None,None,None,3,None,As new
+1614,,House,Villa,599000,No,4,None,0,,None,1,None,None,None,4,None,
+1615,,House,Villa,865000,No,2,None,0,0,None,,None,None,None,4,None,
+1616,,House,Villa,2950000,No,5,None,0,,None,,None,None,None,,None,
+1617,,House,Villa,325000,No,5,None,1,0,None,,None,None,None,4,None,
+1618,,House,Villa,1575000,No,5,None,1,,None,1,None,None,None,4,None,
+1619,,House,Villa,345600,,3,None,0,,None,,None,None,None,4,None,As new
+1620,,House,Villa,454000,No,3,None,0,,None,,None,None,None,4,None,As new
+1621,,House,Villa,190000,No,3,None,0,,None,,None,None,None,4,None,Good
+1622,,House,Villa,695000,No,5,None,0,0,None,1,None,None,None,4,None,
+1623,,House,Villa,1180000,No,5,None,0,,None,1,None,None,None,4,None,As new
+1624,,House,Villa,860000,No,4,None,0,,None,,None,None,None,,None,
+1625,,House,Villa,262500,No,3,None,1,0,None,,None,None,None,,None,
+1626,,House,Villa,300000,,3,None,1,0,None,,None,None,None,4,None,Good
+1627,,House,Villa,330000,No,4,None,0,0,None,,None,None,None,4,None,
+1628,,House,Villa,380000,No,3,None,0,0,None,1,None,None,None,4,None,As new
+1629,,House,Villa,259000,No,5,None,0,0,None,,None,None,None,4,None,As new
+1630,,House,Villa,369000,No,5,None,0,0,None,1,None,None,None,4,None,Good
+1631,,House,Villa,380000,No,4,None,0,0,None,1,None,None,None,4,None,Good
+1632,,House,Villa,362500,No,4,None,0,,None,,None,None,None,4,None,As new
+1633,,House,Uw,429500,No,,None,0,,None,,None,None,None,,None,
+1634,,House,Villa,280000,No,3,None,0,,None,1,None,None,None,4,None,As new
+1635,,House,Villa,299000,No,3,None,0,0,None,,None,None,None,4,None,
+1636,,House,Villa,299000,No,4,None,0,,None,1,None,None,None,3,None,Good
+1637,,House,Villa,339000,No,3,None,0,0,None,1,None,None,None,4,None,As new
+1638,,House,Villa,449000,No,4,None,0,0,None,1,None,None,None,4,None,As new
+1639,,House,Villa,515000,No,3,None,0,,None,1,None,None,None,4,None,
+1640,,House,Villa,795000,No,3,None,0,0,None,,None,None,None,4,None,
+1641,,House,Villa,999000,No,9,None,0,,None,1,None,None,None,4,None,Good
+1642,,House,Villa,999000,No,9,None,0,,None,1,None,None,None,4,None,Good
+1643,,House,Villa,370000,,3,None,0,,None,,None,None,None,4,None,
+1644,,House,Villa,475000,No,4,None,0,0,None,,None,None,None,4,None,
+1645,,House,Villa,1545000,No,4,None,0,0,None,,None,None,None,4,None,
+1646,,House,Villa,299000,,3,None,0,,None,,None,None,None,4,None,Just renovated
+1647,,House,Villa,780000,No,6,None,1,0,None,,None,None,None,4,None,Good
+1648,,House,Villa,284500,No,4,None,0,,None,1,None,None,None,,None,
+1649,,House,Villa,499500,No,3,None,0,0,None,,None,None,None,3,None,
+1650,,House,Villa,629000,No,3,None,0,0,None,1,None,None,None,3,None,As new
+1651,,House,Villa,889000,No,4,None,0,,None,,None,None,None,,None,
+1652,,House,Gaurain-Ramecroix,From 185000 To 213000,No,,None,0,,None,,None,None,None,,None,
+1653,,House,Villa,1290000,No,8,None,1,0,None,1,None,None,None,4,None,
+1654,,House,Villa,599000,No,3,None,0,0,None,1,None,None,None,3,None,As new
+1655,Duinbergen,House,Villa,1775000,No,8,None,0,0,None,1,None,None,None,4,None,Just renovated
+1656,,House,Villa,320000,No,3,None,0,0,None,,None,None,None,4,None,
+1657,,House,Villa,455000,No,4,None,0,0,None,,None,None,None,4,None,
+1658,,House,Villa,686093,No,3,None,0,0,None,,None,None,None,4,None,
+1659,,House,Villa,599000,No,3,None,0,0,None,1,None,None,None,3,None,As new
+1660,,House,Villa,845000,No,4,None,1,0,None,,None,None,None,3,None,Good
+1661,,House,Villa,749000,No,5,None,1,0,None,,None,None,None,4,None,To renovate
+1662,,House,Villa,549000,No,5,None,0,0,None,,None,None,None,4,None,To be done up
+1663,,House,Villa,1125000,No,8,None,1,0,None,,None,None,None,4,None,As new
+1664,,House,Villa,650000,No,4,None,0,0,None,,None,None,None,4,None,Good
+1665,,House,New,From 310054 To 373626,No,,None,0,,None,,None,None,None,,None,
+1666,Polleur,House,New,From 310500 To 334000,No,,None,0,,None,,None,None,None,,None,
+1667,,House,Villa,From 323842 To 336054,No,,None,0,,None,,None,None,None,,None,
+1668,Peupliers,House,Villa,550000,,6,None,0,0,None,,None,None,None,4,None,As new
+1669,woonpark Ter Bronnen,House,Villa,695000,,5,None,0,0,None,,None,None,None,4,None,As new
+1670,,House,Villa,949000,,3,None,0,,None,1,None,None,None,4,None,As new
+1671,,House,Villa,695000,No,4,None,1,0,None,,None,None,None,4,None,Good
+1672,BASSENGE VALLEE DU GEER,House,Villa,370000,No,3,None,1,0,None,,None,None,None,4,None,Good
+1673,Les Marroniers,House,Villa,285000,No,4,None,1,0,None,,None,None,None,3,None,Good
+1674,Louvrange,House,Villa,340000,No,5,None,0,0,None,,None,None,None,4,None,To renovate
+1675,,House,Villa,549000,No,6,None,0,1,None,,None,None,None,4,None,Good
+1676,Faubourg,House,Villa,650000,,4,None,1,0,None,,None,None,None,4,None,Good
+1677,,House,Villa,750000,No,4,None,1,0,None,,None,None,None,4,None,Good
+1678,Everberg - Meerbeek,House,Villa,815000,No,5,None,0,0,None,,None,None,None,4,None,As new
+1679,,House,Villa,840000,No,6,None,0,,None,,None,None,None,4,None,As new
+1680,,House,Villa,1125000,No,8,None,1,0,None,,None,None,None,4,None,As new
+1681,,House,Villa,880000,No,5,None,0,0,None,,None,None,None,4,None,Good
+1682,,House,Villa,685000,No,5,None,1,0,None,1,None,None,None,4,None,To be done up
+1683,,House,Villa,549000,No,5,None,0,0,None,,None,None,None,4,None,To be done up
+1684,,House,Villa,539000,No,4,None,1,,None,1,None,None,None,4,None,Good
+1685,,House,Villa,625000,No,3,None,0,0,None,,None,None,None,4,None,Good
+1686,Faubourg,House,Villa,895000,,5,None,0,0,None,,None,None,None,4,None,Good
+1687,St John's,House,Villa,1380000,,6,None,1,0,None,1,None,None,None,4,None,Good
+1688,,House,Villa,595000,No,4,None,1,0,None,,None,None,None,4,None,Good
+1689,Henri-chapelle,House,Villa,299000,No,4,None,0,,None,,None,None,None,4,None,Good
+1690,,House,Villa,459000,No,4,None,0,1,None,,None,None,None,4,None,To be done up
+1691,,House,Villa,495000,No,3,None,1,0,None,,None,None,None,4,None,Good
+1692,,House,Villa,650000,,3,None,1,,None,1,None,None,None,4,None,As new
+1693,,House,Villa,665000,No,5,None,0,,None,,None,None,None,4,None,As new
+1694,Faubourg,House,Villa,775000,,4,None,1,0,None,,None,None,None,4,None,To be done up
+1695,,House,Villa,788000,No,5,None,1,0,None,,None,None,None,4,None,Good
+1696,Braine le Chateau,House,Villa,840000,,4,None,0,0,None,,None,None,None,4,None,As new
+1697,,House,Villa,840000,,4,None,0,0,None,,None,None,None,4,None,As new
+1698,,House,Villa,745000,No,5,None,1,0,None,1,None,None,None,4,None,Just renovated
+1699,,House,Villa,449000,No,3,None,0,0,None,,None,None,None,4,None,Just renovated
+1700,,House,Villa,580000,No,6,None,0,0,None,,None,None,None,4,None,To renovate
+1701,,House,Villa,545000,,4,None,0,0,None,,None,None,None,4,None,As new
+1702,,House,Villa,849000,,4,None,0,,None,1,None,None,None,4,None,Just renovated
+1703,,House,Villa,199000,No,2,None,0,0,None,,None,None,None,4,None,To renovate
+1704,3,House,Villa,450000,No,5,None,1,0,None,1,None,None,None,4,None,Good
+1705,,House,Villa,465000,No,3,None,0,0,None,,None,None,None,4,None,Good
+1706,,House,Villa,490000,No,3,None,1,0,None,1,None,None,None,4,None,Good
+1707,Sint Rochus,House,Villa,495000,No,3,None,1,0,None,,None,None,None,3,None,Good
+1708,Champ de mai,House,Villa,590000,,3,None,1,0,None,1,None,None,None,4,None,To renovate
+1709,,House,Villa,778000,No,6,None,1,0,None,,None,None,None,4,None,To be done up
+1710,,House,Villa,835000,No,8,None,0,,None,1,None,None,None,4,None,To be done up
+1711,Sterrebeek,House,Villa,975000,No,5,None,0,0,None,,None,None,None,4,None,Good
+1712,Faubourg,House,Villa,990000,,3,None,0,,None,,None,None,None,4,None,As new
+1713,,House,Villa,1150000,No,3,None,0,1,None,,None,None,None,4,None,As new
+1714,Joli-Bois,House,Villa,1250000,,6,None,0,,None,1,None,None,None,4,None,As new
+1715,,House,Villa,765000,No,3,None,1,0,None,,None,None,None,3,None,Good
+1716,,House,Villa,360000,,4,None,1,,None,1,None,None,None,4,None,Good
+1717,,House,Villa,950000,No,3,None,0,0,None,,None,None,None,3,None,As new
+1718,,House,Villa,475000,No,4,None,0,,None,1,None,None,None,4,None,As new
+1719,Givry,House,Villa,540000,No,5,None,0,,None,1,None,None,None,4,None,Good
+1720,Bastogne,House,Villa,750000,Yes,8,None,0,,None,1,None,None,None,4,None,As new
+1721,,House,Villa,599000,No,5,None,0,0,None,,None,None,None,4,None,Good
+1722,,House,Villa,1150000,No,5,None,0,0,None,,None,None,None,4,None,Good
+1723,,House,Villa,220000,No,2,None,1,0,None,,None,None,None,4,None,Good
+1724,,House,Corswarem,From 79000 To 325000,No,,None,0,,None,,None,None,None,,None,
+1725,,House,Bastogne,From 334000 To 385000,No,,None,0,,None,,None,None,None,,None,
+1726,,House,Villa,390000,No,3,None,0,,None,1,None,None,None,2,None,To be done up
+1727,,House,Villa,899000,No,4,None,0,,None,,None,None,None,4,None,As new
+1728,,House,Villa,185000,No,2,None,1,0,None,,None,None,None,4,None,Just renovated
+1729,,House,Villa,249000,No,3,None,1,0,None,,None,None,None,4,None,Good
+1730,,House,Villa,338000,No,3,None,1,0,None,,None,None,None,4,None,To be done up
+1731,,House,Villa,439500,No,5,None,1,0,None,,None,None,None,4,None,
+1732,,House,Villa,459000,No,4,None,0,0,None,,None,None,None,4,None,Just renovated
+1733,,House,Villa,485000,No,5,None,0,0,None,,None,None,None,4,None,Good
+1734,,House,Villa,525000,No,2,None,1,0,None,,None,None,None,4,None,Good
+1735,,House,Villa,678870,No,7,None,0,0,None,,None,None,None,4,None,
+1736,,House,Villa,575000,No,4,None,1,0,None,,None,None,None,4,None,
+1737,,House,Villa,645000,No,4,None,1,0,None,,None,None,None,4,None,Good
+1738,,House,Villa,649000,No,4,None,1,0,None,,None,None,None,4,None,
+1739,,House,Villa,725000,No,6,None,0,0,None,,None,None,None,4,None,As new
+1740,,House,Villa,355000,No,3,None,0,0,None,,None,None,None,4,None,Good
+1741,,House,Villa,630350,No,3,None,0,,None,1,None,None,None,4,None,As new
+1742,Verviers,House,Villa,270000,No,3,None,0,,None,,None,None,None,4,None,Good
+1743,,House,Villa,280000,No,3,None,0,0,None,,None,None,None,4,None,To be done up
+1744,,House,Villa,295000,No,4,None,0,0,None,1,None,None,None,4,None,Good
+1745,,House,Villa,325000,No,3,None,1,0,None,1,None,None,None,4,None,Good
+1746,,House,Villa,330000,No,3,None,1,0,None,1,None,None,None,4,None,Good
+1747,,House,Villa,490000,No,4,None,1,0,None,1,None,None,None,4,None,Good
+1748,,House,Villa,570000,No,4,None,1,0,None,1,None,None,None,4,None,As new
+1749,,House,Villa,850000,No,7,None,1,0,None,,None,None,None,4,None,Good
+1750,,House,Villa,420000,No,5,None,0,0,None,,None,None,None,4,None,To be done up
+1751,,House,Villa,529000,No,3,None,1,0,None,,None,None,None,4,None,As new
+1752,,House,Villa,1150000,No,5,None,1,1,None,1,None,None,None,4,None,
+1753,,House,Villa,360000,No,3,None,1,,None,1,None,None,None,4,None,As new
+1754,,House,Villa,949500,No,6,None,0,0,None,,None,None,None,4,None,Good
+1755,,House,Villa,950000,No,5,None,1,0,None,,None,None,None,4,None,Good
+1756,,House,Villa,595000,No,3,None,0,0,None,,None,None,None,4,None,
+1757,,House,Villa,299000,No,6,None,0,0,None,,None,None,None,4,None,Good
+1758,,House,Villa,325000,No,3,None,0,0,None,,None,None,None,4,None,As new
+1759,,House,Villa,725000,No,4,None,1,0,None,1,None,None,None,4,None,Good
+1760,,House,Villa,750000,No,4,None,0,0,None,1,None,None,None,4,None,To be done up
+1761,,House,Villa,569000,No,3,None,1,0,None,,None,None,None,4,None,Good
+1762,,House,Villa,699000,No,6,None,0,,None,,None,None,None,4,None,
+1763,,House,Villa,449000,No,4,None,0,,None,,None,None,None,4,None,Good
+1764,,House,Villa,625000,No,3,None,1,0,None,,None,None,None,4,None,
+1765,Sint-Michiels,House,Villa,875000,No,6,None,0,0,None,1,None,None,None,4,None,Good
+1766,Brasschaat-Vriesdonk,House,Villa,2215000,No,4,None,0,0,None,1,None,None,None,4,None,As new
+1767,,House,Villa,495000,No,4,None,0,1,None,1,None,None,None,4,None,As new
+1768,,House,Villa,929000,No,3,None,0,0,None,1,None,None,None,4,None,As new
+1769,,House,Villa,1249000,No,7,None,0,0,None,1,None,None,None,,None,As new
+1770,,House,Villa,215000,No,2,None,1,0,None,1,None,None,None,4,None,Good
+1771,,House,Villa,285000,No,3,None,0,0,None,1,None,None,None,4,None,Good
+1772,,House,Villa,285000,No,3,None,0,0,None,1,None,None,None,4,None,Good
+1773,,House,Villa,295000,No,4,None,0,0,None,,None,None,None,4,None,To be done up
+1774,,House,Villa,320000,,3,None,1,0,None,,None,None,None,4,None,To be done up
+1775,,House,Villa,470000,No,4,None,1,0,None,1,None,None,None,4,None,As new
+1776,,House,Villa,485000,No,3,None,1,0,None,,None,None,None,4,None,Good
+1777,,House,Villa,485000,No,5,None,0,0,None,,None,None,None,,None,As new
+1778,,House,Villa,499000,No,5,None,1,0,None,,None,None,None,4,None,As new
+1779,,House,Villa,650000,,5,None,0,,None,,None,None,None,4,None,Good
+1780,,House,Villa,675000,No,3,None,0,0,None,1,None,None,None,4,None,Just renovated
+1781,,House,Villa,675000,No,3,None,1,0,None,1,None,None,None,4,None,Good
+1782,,House,Villa,745000,No,4,None,1,0,None,,None,None,None,4,None,As new
+1783,,House,Villa,1050000,No,3,None,1,1,None,,None,None,None,4,None,
+1784,Kiewit,House,Villa,1095000,No,7,None,1,0,None,1,None,None,None,,None,Good
+1785,,House,Villa,2400000,No,5,None,0,0,None,,None,None,None,4,None,Good
+1786,,House,Villa,215000,No,2,None,1,,None,1,None,None,None,4,None,Good
+1787,,House,Villa,460000,No,3,None,1,0,None,1,None,None,None,4,None,Good
+1788,,House,Villa,349500,No,3,None,0,0,None,1,None,None,None,4,None,As new
+1789,,House,Villa,698000,No,4,None,1,0,None,,None,None,None,4,None,
+1790,Vlaams-brabant,House,Villa,959000,No,3,None,0,0,None,1,None,None,None,4,None,As new
+1791,,House,Villa,225000,No,3,None,1,0,None,1,None,None,None,,None,Good
+1792,,House,Villa,285000,No,3,None,1,0,None,1,None,None,None,,None,Good
+1793,,House,Villa,295000,No,4,None,1,0,None,,None,None,None,,None,Good
+1794,,House,Villa,329000,No,5,None,1,0,None,,None,None,None,,None,Good
+1795,,House,Villa,449000,No,3,None,1,0,None,1,None,None,None,,None,Good
+1796,,House,Villa,460000,No,4,None,1,0,None,,None,None,None,,None,
+1797,,House,Villa,489000,No,4,None,1,0,None,1,None,None,None,,None,Good
+1798,,House,Villa,495000,No,3,None,1,0,None,,None,None,None,,None,Good
+1799,,House,Villa,631600,No,3,None,0,,None,1,None,None,None,4,None,As new
+1800,,House,Villa,675000,No,2,None,0,0,None,1,None,None,None,,None,As new
+1801,Spa,House,Villa,387000,No,2,None,0,,None,,None,None,None,,None,As new
+1802,,House,Villa,440000,No,4,None,0,0,None,1,None,None,None,3,None,As new
+1803,Schoten,House,Villa,695000,No,5,None,0,0,None,1,None,None,None,4,None,Good
+1804,,House,Villa,249000,No,2,None,1,0,None,,None,None,None,4,None,To be done up
+1805,Namur,House,Villa,250000,No,4,None,0,,None,,None,None,None,4,None,To renovate
+1806,,House,Villa,260000,No,3,None,1,0,None,,None,None,None,4,None,Good
+1807,,House,Villa,285000,No,3,None,1,0,None,1,None,None,None,4,None,Good
+1808,,House,Villa,350000,No,4,None,1,0,None,,None,None,None,4,None,Good
+1809,,House,Villa,360000,No,4,None,1,0,None,1,None,None,None,4,None,Good
+1810,,House,Villa,370000,No,3,None,1,0,None,,None,None,None,4,None,Good
+1811,,House,Villa,410000,No,3,None,0,0,None,1,None,None,None,4,None,
+1812,Vlaams Brabant,House,Villa,410000,No,3,None,0,0,None,1,None,None,None,4,None,As new
+1813,,House,Villa,415000,No,6,None,0,0,None,,None,None,None,4,None,As new
+1814,,House,Villa,415000,No,3,None,1,,None,1,None,None,None,4,None,As new
+1815,,House,Villa,432500,No,4,None,1,0,None,,None,None,None,4,None,As new
+1816,,House,Villa,525000,No,4,None,0,,None,,None,None,None,4,None,Good
+1817,,House,Villa,565000,No,4,None,1,0,None,,None,None,None,4,None,Good
+1818,,House,Villa,588000,No,3,None,1,0,None,,None,None,None,4,None,
+1819,,House,Villa,595000,No,4,None,0,0,None,,None,None,None,4,None,To be done up
+1820,,House,Villa,645000,No,5,None,1,0,None,,None,None,None,4,None,Good
+1821,,House,Villa,649000,No,3,None,0,0,None,,None,None,None,4,None,Just renovated
+1822,,House,Villa,650000,No,5,None,0,0,None,,None,None,None,3,None,As new
+1823,,House,Villa,735000,No,3,None,0,0,None,,None,None,None,4,None,As new
+1824,,House,Villa,780000,No,3,None,1,0,None,,None,None,None,4,None,As new
+1825,,House,Villa,795000,No,5,None,0,,None,,None,None,None,4,None,As new
+1826,,House,Villa,850000,No,4,None,0,0,None,,None,None,None,4,None,Good
+1827,,House,Villa,949000,No,3,None,0,,None,1,None,None,None,4,None,As new
+1828,,House,Villa,999000,No,4,None,0,,None,,None,None,None,4,None,As new
+1829,,House,Villa,600000,No,5,None,0,0,None,,None,None,None,4,None,Good
+1830,,House,Villa,549950,No,3,None,1,0,None,,None,None,None,4,None,
+1831,,House,Villa,359000,No,3,None,0,0,None,,None,None,None,4,None,
+1832,,House,Villa,1395000,No,6,None,1,0,None,,None,None,None,4,None,As new
+1833,,House,Villa,548000,No,4,None,0,,None,1,None,None,None,4,None,As new
+1834,,House,Villa,275000,No,4,None,1,0,None,,None,None,None,4,None,Good
+1835,,House,Villa,390000,No,5,None,1,0,None,,None,None,None,4,None,Good
+1836,,House,Villa,395000,No,2,None,1,0,None,1,None,None,None,,None,Good
+1837,,House,Villa,395000,No,5,None,1,0,None,,None,None,None,,None,Good
+1838,,House,Villa,399000,No,,None,0,0,None,,None,None,None,4,None,
+1839,,House,Villa,510000,No,3,None,0,0,None,1,None,None,None,,None,Good
+1840,,House,Villa,545000,No,5,None,0,,None,,None,None,None,4,None,As new
+1841,Kleetbos,House,Villa,615000,No,4,None,0,0,None,,None,None,None,4,None,Good
+1842,,House,Villa,760000,No,5,None,1,0,None,,None,None,None,4,None,As new
+1843,residentiel,House,Villa,950000,,4,None,0,,None,,None,None,None,4,None,As new
+1844,,House,Villa,1195000,No,3,None,1,0,None,,None,None,None,4,None,Good
+1845,,House,Villa,1263000,No,3,None,1,0,None,1,None,None,None,4,None,Good
+1846,,House,Villa,1465000,No,4,None,1,0,None,,None,None,None,,None,As new
+1847,,House,Villa,1475000,No,2,None,1,0,None,,None,None,None,4,None,Good
+1848,,House,Villa,1750000,No,8,None,0,0,None,1,None,None,None,,None,As new
+1849,,House,Villa,2750000,No,5,None,0,0,None,,None,None,None,4,None,Just renovated
+1850,,House,Villa,448000,No,3,None,0,0,None,,None,None,None,4,None,As new
+1851,,House,Villa,725000,No,4,None,0,0,None,,None,None,None,4,None,To be done up
+1852,,House,Villa,530000,No,3,None,1,,None,,None,None,None,,None,To renovate
+1853,,House,Villa,750000,No,5,None,0,0,None,,None,None,None,4,None,As new
+1854,,House,Villa,525000,No,5,None,1,,None,,None,None,None,,None,As new
+1855,,House,Villa,290000,No,3,None,0,0,None,1,None,None,None,4,None,As new
+1856,,House,Villa,265000,No,5,None,0,0,None,,None,None,None,4,None,Good
+1857,Liege,House,Villa,299900,No,3,None,1,,None,,None,None,None,4,None,As new
+1858,Liege,House,Villa,340000,No,5,None,1,,None,,None,None,None,4,None,As new
+1859,Village Expo,House,Villa,360000,,3,None,1,0,None,,None,None,None,4,None,Good
+1860,,House,Villa,470000,No,3,None,0,0,None,,None,None,None,4,None,Good
+1861,,House,Villa,489000,No,3,None,1,,None,1,None,None,None,4,None,As new
+1862,Wervik,House,Villa,549000,No,3,None,0,0,None,1,None,None,None,4,None,Good
+1863,,House,Villa,575000,No,4,None,1,0,None,,None,None,None,4,None,As new
+1864,,House,Villa,596000,No,3,None,1,,None,,None,None,None,4,None,
+1865,Turnhout,House,Villa,599000,No,4,None,0,0,None,1,None,None,None,4,None,To be done up
+1866,,House,Villa,649000,No,3,None,1,0,None,,None,None,None,4,None,As new
+1867,,House,Villa,750000,No,8,None,0,1,None,,None,None,None,3,None,
+1868,,House,Villa,950000,,5,None,1,1,None,,None,None,None,4,None,As new
+1869,,House,Villa,1050000,No,4,None,0,0,None,1,None,None,None,4,None,As new
+1870,Oud-Turnhout,House,Villa,1150000,No,5,None,0,0,None,1,None,None,None,4,None,As new
+1871,,House,Villa,390000,No,3,None,0,0,None,1,None,None,None,4,None,Good
+1872,,House,Villa,470000,No,3,None,0,0,None,,None,None,None,4,None,As new
+1873,,House,Sommière,From 279000 To 349000,No,,None,0,,None,,None,None,None,,None,
+1874,,House,Villa,684000,No,4,None,0,,None,1,None,None,None,4,None,Good
+1875,,House,Villa,895000,No,3,None,0,0,None,,None,None,None,4,None,As new
+1876,,House,Villa,75000 + 1000 per month,No,2,None,1,0,None,,None,None,None,4,None,Just renovated
+1877,,House,Villa,230000,No,2,None,1,0,None,1,None,None,None,4,None,To be done up
+1878,,House,Villa,315000,No,4,None,0,0,None,,None,None,None,4,None,Just renovated
+1879,,House,Villa,323800,No,3,None,1,,None,1,None,None,None,4,None,As new
+1880,,House,Villa,360000,No,4,None,1,0,None,,None,None,None,3,None,Good
+1881,,House,Villa,360000,,2,None,1,0,None,,None,None,None,4,None,As new
+1882,,House,Villa,379000,No,5,None,1,0,None,1,None,None,None,,None,To renovate
+1883,,House,Villa,394000,No,3,None,1,0,None,,None,None,None,4,None,
+1884,,House,Villa,410000,No,4,None,1,0,None,1,None,None,None,4,None,To be done up
+1885,,House,Villa,445000,No,3,None,0,,None,,None,None,None,4,None,As new
+1886,,House,Villa,449000,No,4,None,0,0,None,,None,None,None,4,None,Good
+1887,,House,Villa,455000,,4,None,1,,None,,None,None,None,4,None,
+1888,,House,Villa,475000,,4,None,1,,None,,None,None,None,4,None,As new
+1889,,House,Villa,485000,No,3,None,0,0,None,,None,None,None,,None,As new
+1890,,House,Villa,550000,No,5,None,0,0,None,,None,None,None,4,None,As new
+1891,Ravels,House,Villa,575000,No,3,None,0,0,None,1,None,None,None,4,None,
+1892,,House,Villa,595000,No,3,None,1,0,None,,None,None,None,4,None,To renovate
+1893,,House,Villa,620000,No,5,None,0,0,None,,None,None,None,4,None,
+1894,,House,Villa,693000,No,5,None,0,,None,1,None,None,None,4,None,As new
+1895,Brasschaat-Vriesdonk,House,Villa,865000,No,5,None,0,0,None,1,None,None,None,4,None,Good
+1896,,House,Villa,885000,,4,None,0,0,None,1,None,None,None,4,None,As new
+1897,,House,Villa,894000,,3,None,1,,None,1,None,None,None,4,None,To be done up
+1898,,House,Villa,895000,No,5,None,1,,None,1,None,None,None,4,None,As new
+1899,Zandhoven,House,Villa,945000,No,5,None,0,,None,1,None,None,None,4,None,Good
+1900,,House,Villa,990000,No,4,None,0,0,None,,None,None,None,4,None,As new
+1901,,House,Villa,1049000,No,6,None,0,,None,,None,None,None,4,None,To be done up
+1902,,House,Villa,1098000,No,5,None,1,0,None,,None,None,None,4,None,Just renovated
+1903,Brasschaat-Vriesdonk,House,Villa,1295000,No,6,None,0,0,None,,None,None,None,4,None,As new
+1904,,House,Villa,1600000,,3,None,0,1,None,,None,None,None,4,None,As new
+1905,,House,Villa,1950000,No,5,None,0,0,None,,None,None,None,4,None,Good
+1906,,House,Villa,2895000,No,5,None,1,0,None,,None,None,None,4,None,As new
+1907,,House,Villa,330000,No,3,None,1,0,None,,None,None,None,4,None,Just renovated
+1908,Polleur,House,Villa,334000,No,4,None,0,,None,,None,None,None,4,None,As new
+1909,,House,Villa,397000,No,5,None,1,0,None,,None,None,None,3,None,As new
+1910,,House,Villa,835000,No,4,None,1,,None,,None,None,None,,None,As new
+1911,,House,Villa,365000,No,3,None,0,0,None,,None,None,None,,None,Good
+1912,,House,Villa,389000,No,4,None,1,0,None,,None,None,None,3,None,Good
+1913,,House,Villa,435000,No,2,None,0,0,None,1,None,None,None,4,None,As new
+1914,,House,Villa,550000,No,4,None,1,0,None,,None,None,None,,None,As new
+1915,,House,Villa,559000,No,5,None,0,0,None,,None,None,None,3,None,
+1916,,House,Villa,587500,No,6,None,0,0,None,,None,None,None,4,None,Good
+1917,,House,Villa,685000,No,4,None,0,,None,1,None,None,None,4,None,To be done up
+1918,,House,Villa,846500,No,4,None,1,0,None,,None,None,None,,None,As new
+1919,,House,Villa,975000,,6,None,1,,None,1,None,None,None,4,None,Good
+1920,Ravels,House,Villa,1995000,No,6,None,1,,None,1,None,None,None,4,None,As new
+1921,,House,Villa,2495000,No,6,None,0,,None,,None,None,None,4,None,As new
+1922,,House,Villa,549000,No,5,None,1,0,None,,None,None,None,4,None,
+1923,,House,Villa,420000,No,4,None,0,0,None,1,None,None,None,3,None,To be done up
+1924,,House,Villa,100000 + 600 per month,No,3,None,1,,None,1,None,None,None,3,None,As new
+1925,,House,Villa,225000,No,2,None,0,0,None,1,None,None,None,4,None,To be done up
+1926,,House,Villa,229000,No,3,None,1,0,None,,None,None,None,4,None,Good
+1927,,House,Villa,249000,No,4,None,0,0,None,,None,None,None,4,None,As new
+1928,,House,Villa,270000,No,2,None,1,0,None,1,None,None,None,4,None,Good
+1929,,House,Villa,285000,No,3,None,1,0,None,,None,None,None,4,None,Good
+1930,frenay,House,Villa,290000,No,4,None,1,0,None,,None,None,None,3,None,As new
+1931,,House,Villa,340000,No,4,None,1,0,None,1,None,None,None,4,None,Good
+1932,,House,Villa,360000,No,3,None,1,,None,1,None,None,None,3,None,As new
+1933,,House,Villa,375000,No,3,None,1,0,None,,None,None,None,4,None,Good
+1934,,House,Villa,375000,No,3,None,1,0,None,,None,None,None,4,None,Good
+1935,,House,Villa,425000,No,4,None,1,,None,1,None,None,None,4,None,Good
+1936,,House,Villa,450000,,2,None,1,,None,1,None,None,None,4,None,Good
+1937,,House,Villa,470000,No,3,None,1,,None,1,None,None,None,4,None,Good
+1938,doodlopende straat,House,Villa,545000,,2,None,0,,None,1,None,None,None,4,None,As new
+1939,,House,Villa,569000,No,5,None,0,0,None,1,None,None,None,4,None,As new
+1940,,House,Villa,575000,No,5,None,0,,None,,None,None,None,4,None,To be done up
+1941,,House,Villa,590000,No,3,None,0,0,None,1,None,None,None,4,None,As new
+1942,,House,Villa,598000,No,4,None,0,0,None,,None,None,None,4,None,As new
+1943,,House,Villa,639000,No,6,None,0,0,None,,None,None,None,4,None,Good
+1944,,House,Villa,749000,No,6,None,0,0,None,,None,None,None,4,None,As new
+1945,,House,Villa,799000,,5,None,1,,None,1,None,None,None,4,None,As new
+1946,,House,Villa,995000,,5,None,0,,None,1,None,None,None,4,None,To be done up
+1947,,House,Villa,999000,No,3,None,0,0,None,,None,None,None,4,None,
+1948,,House,Villa,1495000,No,4,None,0,,None,,None,None,None,4,None,As new
+1949,Brasschaat-Vriesdonk,House,Villa,1970000,No,5,None,0,0,None,,None,None,None,4,None,As new
+1950,,House,Villa,2495000,No,5,None,0,0,None,1,None,None,None,4,None,As new
+1951,,House,Villa,3025000,No,14,None,0,,None,1,None,None,None,4,None,As new
+1952,,House,Villa,3975000,No,9,None,1,0,None,,None,None,None,4,None,As new
+1953,,House,Villa,595000,No,4,None,0,0,None,1,None,None,None,4,None,Good
+1954,,House,Villa,410000,No,5,None,0,0,None,,None,None,None,4,None,Just renovated
+1955,,House,Villa,435000,No,2,None,0,0,None,1,None,None,None,4,None,Good
+1956,,House,Villa,685000,No,3,None,0,0,None,,None,None,None,4,None,Good
+1957,,House,Villa,260000,No,4,None,1,,None,,None,None,None,4,None,Good
+1958,,House,Villa,520000,,4,None,1,,None,1,None,None,None,4,None,Good
+1959,,House,The,From 304270 To 374204,No,,None,0,,None,,None,None,None,,None,
+1960,,House,Villa,449000,No,4,None,0,0,None,,None,None,None,4,None,Good
+1961,,House,Villa,1275000,No,4,None,0,0,None,,None,None,None,4,None,Good
+1962,,House,Villa,15000 + 795 per month,No,3,None,0,0,None,1,None,None,None,4,None,Good
+1963,,House,Villa,329000,No,3,None,0,0,None,,None,None,None,,None,As new
+1964,,House,Villa,338000,,3,None,0,0,None,,None,None,None,4,None,As new
+1965,,House,Villa,378250,No,4,None,0,0,None,,None,None,None,4,None,
+1966,,House,Villa,385000,No,3,None,0,0,None,1,None,None,None,4,None,As new
+1967,,House,Villa,386000,No,5,None,0,,None,,None,None,None,,None,To renovate
+1968,,House,Villa,409000,No,6,None,0,0,None,,None,None,None,,None,Good
+1969,,House,Villa,415000,No,3,None,0,,None,1,None,None,None,4,None,Good
+1970,,House,Villa,420000,No,4,None,1,0,None,,None,None,None,4,None,To renovate
+1971,,House,Villa,439000,No,3,None,0,0,None,1,None,None,None,4,None,As new
+1972,,House,Villa,450000,No,3,None,0,0,None,1,None,None,None,4,None,As new
+1973,,House,Villa,499000,No,4,None,0,,None,,None,None,None,,None,As new
+1974,,House,Villa,549000,No,4,None,0,,None,1,None,None,None,,None,As new
+1975,,House,Villa,599000,No,4,None,0,0,None,1,None,None,None,4,None,Good
+1976,,House,Villa,689000,No,3,None,1,,None,,None,None,None,,None,As new
+1977,,House,Villa,2540000,No,3,None,1,0,None,,None,None,None,4,None,As new
+1978,,House,Villa,187500,No,2,None,0,,None,1,None,None,None,4,None,To renovate
+1979,Vlaams-Brabant,House,Villa,579500,No,4,None,1,,None,1,None,None,None,4,None,Good
+1980,Tronle - bertogne,House,Villa,376366,No,3,None,0,,None,1,None,None,None,,None,As new
+1981,,House,Villa,355000,,3,None,0,,None,,None,None,None,4,None,Good
+1982,,House,Villa,280000,No,3,None,1,0,None,1,None,None,None,3,None,To be done up
+1983,,House,Villa,300000,No,3,None,0,0,None,,None,None,None,4,None,To renovate
+1984,,House,Villa,320000,No,4,None,0,0,None,,None,None,None,4,None,Good
+1985,,House,Villa,420000,No,3,None,1,0,None,,None,None,None,3,None,Good
+1986,,House,Villa,445000,No,5,None,1,0,None,,None,None,None,4,None,As new
+1987,,House,Villa,445000,No,4,None,0,0,None,,None,None,None,4,None,Just renovated
+1988,,House,Villa,449000,No,3,None,1,0,None,1,None,None,None,4,None,
+1989,,House,Villa,450000,No,4,None,1,0,None,,None,None,None,4,None,Good
+1990,,House,Villa,515000,No,5,None,0,0,None,,None,None,None,4,None,Just renovated
+1991,,,,None,,,None,0,,None,,None,None,None,,None,
+1992,,House,Villa,585000,No,3,None,0,0,None,,None,None,None,4,None,Good
+1993,,House,Villa,590000,No,3,None,0,0,None,1,None,None,None,4,None,As new
+1994,,House,Villa,650000,No,5,None,0,0,None,,None,None,None,4,None,Good
+1995,Wevelgem,House,Villa,650000,No,4,None,1,0,None,1,None,None,None,4,None,To renovate
+1996,,House,Villa,795000,No,6,None,0,0,None,1,None,None,None,4,None,As new
+1997,,House,Villa,945000,No,5,None,0,0,None,,None,None,None,4,None,Good
+1998,,House,Villa,995000,,4,None,1,,None,,None,None,None,4,None,Good
+1999,,House,Villa,1150000,No,5,None,0,0,None,1,None,None,None,4,None,As new
+2000,,House,Villa,1500000,No,5,None,0,0,None,,None,None,None,4,None,As new
+2001,Boulevard Mol,House,Villa,1850000,,4,None,1,,None,1,None,None,None,4,None,Just renovated
+2002,,House,Villa,395000,No,4,None,0,0,None,,None,None,None,3,None,As new
+2003,,House,Villa,506500,No,3,None,1,0,None,1,None,None,None,4,None,As new
+2004,,House,Villa,395000,,4,None,0,0,None,1,None,None,None,4,None,As new
+2005,,House,Villa,285000,No,3,None,1,,None,1,None,None,None,4,None,Good
+2006,,House,Villa,294000,No,2,None,1,0,None,,None,None,None,4,None,Good
+2007,,House,Villa,294000,No,2,None,1,0,None,,None,None,None,4,None,Good
+2008,,House,Villa,295000,No,4,None,0,0,None,,None,None,None,4,None,Good
+2009,,House,Villa,295000,,3,None,1,0,None,,None,None,None,4,None,As new
+2010,,House,Villa,320000,No,6,None,1,0,None,,None,None,None,,None,Good
+2011,,House,Villa,345000,No,2,None,0,,None,1,None,None,None,4,None,
+2012,,House,Villa,367500,No,2,None,1,0,None,,None,None,None,4,None,Good
+2013,,House,Villa,375000,No,7,None,0,,None,,None,None,None,,None,To renovate
+2014,Liège,House,Villa,385000,No,4,None,1,,None,1,None,None,None,4,None,Good
+2015,,House,Villa,385000,No,3,None,0,0,None,1,None,None,None,4,None,Good
+2016,,House,Villa,395000,,3,None,1,0,None,,None,None,None,4,None,As new
+2017,,House,Villa,439000,No,4,None,1,,None,1,None,None,None,4,None,To be done up
+2018,,House,Villa,449000,No,4,None,1,,None,,None,None,None,,None,Just renovated
+2019,,House,Villa,465000,No,5,None,0,,None,1,None,None,None,4,None,Good
+2020,Aalst,House,Villa,469000,No,5,None,1,,None,1,None,None,None,3,None,Good
+2021,,House,Villa,479000,No,4,None,0,0,None,,None,None,None,4,None,Good
+2022,,House,Villa,495000,No,4,None,0,,None,1,None,None,None,4,None,Good
+2023,,House,Villa,495000,No,3,None,1,0,None,,None,None,None,4,None,As new
+2024,,House,Villa,535000,No,7,None,1,0,None,1,None,None,None,4,None,As new
+2025,,House,Villa,535000,No,7,None,1,0,None,1,None,None,None,4,None,As new
+2026,,House,Villa,535000,No,7,None,1,0,None,1,None,None,None,4,None,As new
+2027,,House,Villa,535000,No,7,None,1,0,None,1,None,None,None,4,None,As new
+2028,,House,Villa,575000,No,5,None,1,,None,1,None,None,None,4,None,Good
+2029,,House,Villa,597000,No,7,None,0,0,None,,None,None,None,4,None,As new
+2030,,House,Villa,626000,No,4,None,0,,None,1,None,None,None,4,None,
+2031,,House,Villa,639000,No,4,None,0,,None,1,None,None,None,,None,As new
+2032,,House,Villa,695000,No,3,None,0,1,None,1,None,None,None,4,None,Good
+2033,,House,Villa,699000,No,4,None,0,,None,,None,None,None,4,None,Good
+2034,,House,Villa,790000,No,4,None,0,0,None,,None,None,None,4,None,As new
+2035,,House,Villa,825000,No,3,None,1,,None,1,None,None,None,4,None,As new
+2036,,House,Villa,849000,No,4,None,0,,None,1,None,None,None,4,None,As new
+2037,,House,Villa,950000,No,5,None,0,0,None,1,None,None,None,4,None,As new
+2038,,House,Villa,995000,No,3,None,1,0,None,1,None,None,None,4,None,As new
+2039,,House,Villa,1190000,No,5,None,0,,None,1,None,None,None,4,None,As new
+2040,,House,Villa,1495000,,5,None,1,,None,,None,None,None,4,None,To be done up
+2041,,House,Villa,1550000,No,12,None,0,1,None,1,None,None,None,4,None,To renovate
+2042,,House,Villa,1595000,No,5,None,1,0,None,,None,None,None,4,None,Good
+2043,,House,Villa,1695000,No,5,None,1,0,None,,None,None,None,4,None,
+2044,,House,Villa,1975000,No,3,None,1,0,None,,None,None,None,4,None,As new
+2045,,House,Villa,545000,No,4,None,1,0,None,1,None,None,None,4,None,Good
+2046,,House,Villa,445000,,3,None,1,0,None,,None,None,None,4,None,Good
+2047,,House,Villa,1200000,No,4,None,0,,None,,None,None,None,,None,
+2048,,House,Villa,620000,No,3,None,1,,None,1,None,None,None,4,None,As new
+2049,,House,Villa,365000,No,3,None,0,0,None,1,None,None,None,4,None,To be done up
+2050,,House,Villa,219000,No,3,None,1,0,None,1,None,None,None,4,None,Good
+2051,,House,Villa,350000,No,4,None,1,0,None,1,None,None,None,,None,Good
+2052,,House,Villa,435000,No,2,None,0,0,None,1,None,None,None,4,None,
+2053,,House,Villa,495000,No,5,None,1,0,None,,None,None,None,4,None,
+2054,,House,Villa,549000,No,3,None,1,0,None,,None,None,None,4,None,
+2055,,House,Villa,550000,,6,None,0,0,None,,None,None,None,4,None,As new
+2056,,House,Villa,725000,No,4,None,0,,None,1,None,None,None,,None,As new
+2057,,House,Villa,685000,No,4,None,0,0,None,1,None,None,None,,None,As new
+2058,,House,Villa,445000,No,5,None,0,,None,1,None,None,None,,None,As new
+2059,,House,Villa,339000,No,2,None,0,1,None,,None,None,None,4,None,Just renovated
+2060,Regio Hasselt,House,Villa,639000,No,4,None,0,0,None,1,None,None,None,4,None,As new
+2061,,House,Villa,435000,,2,None,0,,None,,None,None,None,4,None,As new
+2062,,House,Villa,230000,No,3,None,0,,None,1,None,None,None,4,None,To renovate
+2063,,House,Villa,305000,No,2,None,0,,None,1,None,None,None,4,None,Good
+2064,,House,Villa,215000,No,4,None,1,,None,,None,None,None,4,None,As new
+2065,,House,Villa,235000,No,3,None,1,,None,1,None,None,None,4,None,Good
+2066,,House,Villa,260000,No,6,None,0,0,None,,None,None,None,4,None,To renovate
+2067,,House,Villa,295000,No,3,None,1,0,None,1,None,None,None,4,None,Good
+2068,,House,Villa,320000,,3,None,0,,None,,None,None,None,4,None,To be done up
+2069,,House,Villa,330000,,3,None,0,0,None,,None,None,None,4,None,As new
+2070,,House,Villa,339000,No,3,None,0,,None,,None,None,None,4,None,To be done up
+2071,,House,Villa,345000,No,3,None,0,,None,,None,None,None,4,None,To be done up
+2072,La Louvière - Binche - Manage et environs,House,Villa,360000,No,4,None,1,0,None,1,None,None,None,4,None,Good
+2073,,House,Villa,375000,No,3,None,0,0,None,,None,None,None,4,None,
+2074,,House,Villa,379000,No,3,None,0,,None,,None,None,None,4,None,As new
+2075,,House,Villa,389000,No,5,None,1,0,None,1,None,None,None,4,None,As new
+2076,,House,Villa,389000,No,3,None,1,0,None,1,None,None,None,4,None,Good
+2077,,House,Villa,445000,No,4,None,1,,None,,None,None,None,,None,Just renovated
+2078,,House,Villa,469000,No,5,None,1,0,None,,None,None,None,4,None,Good
+2079,,House,Villa,475000,No,4,None,0,,None,,None,None,None,4,None,Good
+2080,,House,Villa,495000,,4,None,1,,None,1,None,None,None,4,None,Good
+2081,,House,Villa,525000,No,4,None,0,0,None,1,None,None,None,4,None,Just renovated
+2082,,House,Villa,530000,No,4,None,0,0,None,1,None,None,None,4,None,To be done up
+2083,Waimes,House,Villa,559000,No,7,None,1,0,None,1,None,None,None,4,None,To be done up
+2084,,House,Villa,595000,No,5,None,1,,None,1,None,None,None,3,None,To renovate
+2085,,House,Villa,595000,No,4,None,1,0,None,,None,None,None,4,None,Good
+2086,,House,Villa,675000,No,4,None,1,1,None,,None,None,None,4,None,Good
+2087,,House,Villa,790000,No,7,None,0,0,None,1,None,None,None,4,None,Good
+2088,,House,Villa,850000,,3,None,0,,None,,None,None,None,4,None,As new
+2089,,House,Villa,1195000,No,3,None,0,0,None,1,None,None,None,4,None,To be done up
+2090,Gistel,House,Villa,1250000,No,4,None,0,,None,,None,None,None,4,None,As new
+2091,Aartselaar,House,Villa,1495000,No,5,None,1,,None,1,None,None,None,4,None,As new
+2092,,House,Villa,475000,No,4,None,1,0,None,,None,None,None,4,None,As new
+2093,QUIEVRAIN -HENSIES-DOUR,House,Villa,200000,No,3,None,0,0,None,,None,None,None,4,None,To be done up
+2094,,House,Villa,295000,No,5,None,0,0,None,1,None,None,None,4,None,Good
+2095,,House,Villa,298750,No,3,None,0,0,None,1,None,None,None,4,None,Good
+2096,Liege,House,Villa,315000,No,2,None,1,,None,1,None,None,None,4,None,Good
+2097,,House,Villa,399000,No,5,None,0,0,None,,None,None,None,4,None,To restore
+2098,,House,Villa,532800,,3,None,0,0,None,,None,None,None,4,None,As new
+2099,,House,Villa,595000,No,4,None,1,,None,1,None,None,None,,None,As new
+2100,,House,Villa,645000,,4,None,1,0,None,1,None,None,None,4,None,As new
+2101,,House,Villa,650000,No,3,None,1,,None,,None,None,None,4,None,As new
+2102,,House,Villa,658000,No,6,None,1,0,None,1,None,None,None,4,None,Good
+2103,,House,Villa,680000,No,2,None,1,0,None,,None,None,None,4,None,Good
+2104,,House,Villa,698000,No,4,None,0,,None,,None,None,None,,None,As new
+2105,,House,Villa,849000,No,5,None,0,,None,1,None,None,None,,None,As new
+2106,Faubourg,House,Villa,985000,,4,None,0,0,None,1,None,None,None,4,None,As new
+2107,,House,Villa,1250000,No,5,None,1,0,None,1,None,None,None,4,None,Good
+2108,,House,Villa,1295000,No,5,None,1,0,None,1,None,None,None,4,None,As new
+2109,,House,Villa,1775000,No,8,None,0,0,None,1,None,None,None,,None,As new
+2110,,House,Villa,354000,No,3,None,1,0,None,,None,None,None,2,None,
+2111,,House,Villa,215000,No,5,None,0,0,None,1,None,None,None,3,None,To be done up
+2112,,House,Villa,320000,No,3,None,1,,None,,None,None,None,4,None,Good
+2113,,House,Villa,220000,No,3,None,1,,None,1,None,None,None,4,None,Good
+2114,,House,Villa,1249000,No,4,None,0,,None,,None,None,None,4,None,As new
+2115,,House,Villa,350000,No,4,None,0,,None,1,None,None,None,4,None,As new
+2116,,,,None,,,None,0,,None,,None,None,None,,None,
+2117,,House,Villa,35000 + 1150 per month,No,4,None,0,,None,1,None,None,None,4,None,Good
+2118,,House,Villa,60000 + 750 per month,No,3,None,0,,None,,None,None,None,3,None,Good
+2119,,House,Villa,180000,No,3,None,1,,None,1,None,None,None,,None,To be done up
+2120,,House,Villa,299000,No,3,None,0,0,None,,None,None,None,4,None,As new
+2121,,House,Villa,315000,No,2,None,0,0,None,,None,None,None,4,None,Good
+2122,,House,Villa,360000,No,3,None,0,0,None,,None,None,None,4,None,As new
+2123,,House,Villa,375000,No,3,None,0,0,None,,None,None,None,4,None,As new
+2124,,House,Villa,395000,No,5,None,0,0,None,,None,None,None,4,None,Good
+2125,,House,Villa,399000,,5,None,0,,None,,None,None,None,4,None,Good
+2126,,House,Villa,420000,No,6,None,0,0,None,1,None,None,None,,None,
+2127,,House,Villa,445000,No,3,None,0,,None,1,None,None,None,,None,As new
+2128,,House,Villa,475000,No,3,None,0,,None,,None,None,None,4,None,To renovate
+2129,,House,Villa,475000,No,5,None,1,0,None,,None,None,None,4,None,Good
+2130,,House,Villa,495000,,5,None,0,,None,,None,None,None,4,None,As new
+2131,,House,Villa,498521,No,3,None,0,,None,,None,None,None,4,None,As new
+2132,,House,Villa,520000,No,3,None,0,,None,1,None,None,None,4,None,Good
+2133,,House,Villa,630000,No,3,None,0,0,None,,None,None,None,4,None,Good
+2134,,House,Villa,690000,No,5,None,0,,None,,None,None,None,,None,
+2135,Alles,House,Villa,714000,No,3,None,0,0,None,,None,None,None,4,None,As new
+2136,,House,Villa,880000,No,6,None,1,0,None,,None,None,None,4,None,To renovate
+2137,,House,Villa,1100000,No,4,None,0,0,None,,None,None,None,4,None,
+2138,,House,Villa,1150000,No,4,None,1,0,None,1,None,None,None,,None,
+2139,,House,Villa,1275000,No,6,None,0,0,None,1,None,None,None,4,None,Just renovated
+2140,,House,Villa,1595000,No,6,None,0,0,None,1,None,None,None,4,None,As new
+2141,,House,Villa,3495000,No,5,None,0,,None,1,None,None,None,,None,
+2142,,House,Brugelette,From 55000 To 314000,No,,None,0,,None,,None,None,None,,None,
+2143,,House,-,From 175000 To 182500,Yes,,None,0,,None,,None,None,None,,None,
+2144,,House,"Oostvleteren,",230192.89,No,,None,0,,None,,None,None,None,,None,
+2145,,House,Rue,From 269000 To 285000,No,,None,0,,None,,None,None,None,,None,
+2146,,House,Residentie,From 295000 To 340000,No,,None,0,,None,,None,None,None,,None,
+2147,,House,complexe,319000,No,,None,0,,None,,None,None,None,,None,
+2148,,House,Flobecq,From 319000 To 339000,No,,None,0,,None,,None,None,None,,None,
+2149,,House,Blaregnies,From 329000 To 349000,No,,None,0,,None,,None,None,None,,None,
+2150,,House,Bever,From 338610 To 366060,No,,None,0,,None,,None,None,None,,None,
+2151,,House,Curtis,From 369500 To 389900,No,,None,0,,None,,None,None,None,,None,
+2152,,House,Arbre,374000,No,,None,0,,None,,None,None,None,,None,
+2153,Centrum,House,Ecowijk,From 385000 To 580000,No,,None,0,,None,,None,None,None,,None,
+2154,,House,Seringenstraat,From 400000 To 500000,No,,None,0,,None,,None,None,None,,None,
+2155,,House,Villa,1249000,No,4,None,0,,None,,None,None,None,4,None,As new
+2156,,House,Villa,145000,No,3,None,0,0,None,1,None,None,None,3,None,As new
+2157,,House,Villa,340000,No,3,None,1,,None,,None,None,None,4,None,As new
+2158,,House,Villa,295000,No,4,None,1,,None,,None,None,None,4,None,As new
+2159,,House,Villa,845000,No,3,None,1,,None,1,None,None,None,4,None,
+2160,,House,Villa,325000,No,4,None,0,,None,,None,None,None,4,None,Good
+2161,,House,Villa,260000,No,3,None,1,1,None,1,None,None,None,4,None,Good
+2162,,House,Villa,348000,,4,None,0,,None,,None,None,None,4,None,As new
+2163,,House,Villa,385000,No,4,None,0,0,None,1,None,None,None,,None,To be done up
+2164,,House,Villa,425000,No,4,None,1,,None,,None,None,None,4,None,Good
+2165,,House,Villa,440000,No,4,None,1,0,None,,None,None,None,,None,
+2166,,House,Villa,450000,No,3,None,1,,None,,None,None,None,4,None,To be done up
+2167,,House,Villa,499000,No,4,None,0,0,None,,None,None,None,4,None,Good
+2168,,House,Villa,549000,No,5,None,0,,None,,None,None,None,4,None,As new
+2169,,House,Villa,590000,No,5,None,0,0,None,,None,None,None,4,None,Just renovated
+2170,,House,Villa,595000,No,5,None,0,,None,,None,None,None,4,None,As new
+2171,,House,Villa,634500,No,4,None,0,0,None,,None,None,None,4,None,
+2172,,House,Villa,645000,No,4,None,0,0,None,1,None,None,None,4,None,Good
+2173,,House,Villa,695000,No,3,None,1,0,None,1,None,None,None,,None,As new
+2174,pays de Herve,House,Villa,770000,No,4,None,1,0,None,1,None,None,None,4,None,As new
+2175,,House,Villa,849000,No,3,None,0,0,None,,None,None,None,4,None,As new
+2176,,House,Villa,885000,No,4,None,0,,None,,None,None,None,4,None,As new
+2177,,House,Villa,949000,,5,None,1,,None,,None,None,None,4,None,As new
+2178,,House,Villa,1500000,No,3,None,1,0,None,1,None,None,None,4,None,Good
+2179,Albertstrand,House,Villa,1775000,No,8,None,0,,None,1,None,None,None,4,None,Just renovated
+2180,,House,Villa,2800000,No,5,None,1,0,None,,None,None,None,4,None,Good
+2181,,House,Villa,2950000,No,6,None,1,0,None,,None,None,None,4,None,As new
+2182,,House,Villa,3495000,No,5,None,0,0,None,1,None,None,None,4,None,As new
+2183,,House,Villa,50000 + 900 per month,No,2,None,0,,None,,None,None,None,4,None,Good
+2184,,House,Villa,525000,No,3,None,0,0,None,,None,None,None,4,None,To be done up
+2185,,House,Villa,689000,No,4,None,0,,None,1,None,None,None,4,None,Just renovated
+2186,,House,Villa,750000,No,5,None,0,0,None,,None,None,None,4,None,
+2187,,House,Villa,1290000,No,6,None,0,0,None,1,None,None,None,4,None,To renovate
+2188,,House,Villa,240000,No,3,None,1,0,None,,None,None,None,4,None,
+2189,,House,Villa,299000,No,3,None,0,,None,,None,None,None,4,None,Good
+2190,,House,Villa,325000,No,2,None,0,0,None,,None,None,None,4,None,Good
+2191,,House,Villa,498650,,3,None,1,0,None,,None,None,None,4,None,As new
+2192,,House,Villa,635000,,4,None,1,,None,1,None,None,None,4,None,As new
+2193,,House,Villa,765000,No,5,None,0,,None,,None,None,None,,None,As new
+2194,,House,Villa,1295000,No,4,None,1,0,None,,None,None,None,4,None,
+2195,,House,Villa,1599000,No,6,None,0,,None,1,None,None,None,4,None,As new
+2196,,House,Villa,740000,No,6,None,0,0,None,1,None,None,None,4,None,As new
+2197,,House,Villa,579000,No,5,None,0,,None,,None,None,None,4,None,As new
+2198,,House,Villa,205000,No,2,None,0,,None,,None,None,None,4,None,To be done up
+2199,,House,Villa,199000,No,3,None,0,0,None,,None,None,None,4,None,To renovate
+2200,,House,Villa,199000,No,3,None,0,0,None,,None,None,None,,None,
+2201,,House,Villa,235000,,4,None,0,,None,1,None,None,None,4,None,Good
+2202,,House,Villa,295000,No,3,None,0,,None,,None,None,None,4,None,Good
+2203,,House,Villa,344000,No,3,None,0,0,None,,None,None,None,4,None,As new
+2204,,House,Villa,375000,,3,None,0,0,None,1,None,None,None,4,None,Just renovated
+2205,,House,Villa,380000,No,5,None,0,0,None,,None,None,None,4,None,
+2206,,House,Villa,385000,No,5,None,1,1,None,,None,None,None,4,None,
+2207,,House,Villa,425000,No,3,None,0,,None,,None,None,None,,None,As new
+2208,,House,Villa,495000,,5,None,0,,None,,None,None,None,4,None,As new
+2209,,House,Villa,545000,,4,None,0,,None,1,None,None,None,4,None,As new
+2210,,House,Villa,585000,,3,None,1,,None,1,None,None,None,4,None,
+2211,,House,Villa,599000,No,3,None,0,0,None,1,None,None,None,,None,To be done up
+2212,,House,Villa,599000,No,3,None,0,1,None,,None,None,None,4,None,As new
+2213,,House,Villa,650000,No,3,None,0,0,None,,None,None,None,4,None,
+2214,,House,Villa,795000,,3,None,0,,None,1,None,None,None,4,None,Just renovated
+2215,,House,Villa,1099000,No,4,None,1,0,None,,None,None,None,4,None,
+2216,,House,Villa,1395000,No,5,None,0,,None,1,None,None,None,4,None,
+2217,,House,Villa,1750000,No,4,None,0,,None,,None,None,None,4,None,
+2218,,House,Villa,1775000,No,8,None,0,,None,1,None,None,None,,None,Just renovated
+2219,,House,Villa,2100000,No,5,None,0,0,None,1,None,None,None,4,None,As new
+2220,,House,Villa,190000,No,2,None,0,,None,1,None,None,None,4,None,To be done up
+2221,,House,Villa,286000,,6,None,0,0,None,1,None,None,None,4,None,Good
+2222,,House,Villa,290000,No,3,None,1,,None,,None,None,None,4,None,Good
+2223,,House,Villa,312000,No,3,None,1,0,None,1,None,None,None,4,None,
+2224,,House,Villa,340000,No,3,None,0,0,None,,None,None,None,4,None,As new
+2225,,House,Villa,345000,No,4,None,0,,None,1,None,None,None,4,None,As new
+2226,,House,Villa,360000,Yes,4,None,0,0,None,1,None,None,None,4,None,Just renovated
+2227,,House,Villa,399000,No,4,None,0,0,None,,None,None,None,4,None,
+2228,,House,Villa,400000,No,5,None,1,0,None,,None,None,None,4,None,
+2229,,House,Villa,429000,No,3,None,0,,None,,None,None,None,,None,To be done up
+2230,,House,Villa,449000,No,3,None,1,,None,,None,None,None,,None,As new
+2231,,House,Villa,475000,No,4,None,0,,None,,None,None,None,4,None,As new
+2232,,House,Villa,480000,No,5,None,1,0,None,,None,None,None,,None,As new
+2233,,House,Villa,899000,,5,None,0,,None,1,None,None,None,4,None,As new
+2234,,House,Villa,5900000,No,7,None,0,0,None,1,None,None,None,4,None,As new
+2235,,House,Villa,315000,No,3,None,1,,None,,None,None,None,4,None,
+2236,,House,Villa,615000,No,3,None,1,,None,,None,None,None,4,None,As new
+2237,,House,Villa,185000,No,2,None,0,0,None,,None,None,None,4,None,As new
+2238,,House,Villa,240000,No,2,None,0,0,None,,None,None,None,4,None,
+2239,,House,Villa,260000,No,4,None,0,,None,,None,None,None,4,None,To renovate
+2240,,House,Villa,265000,No,3,None,1,0,None,,None,None,None,4,None,Good
+2241,,House,Villa,285000,No,2,None,1,0,None,,None,None,None,4,None,
+2242,,House,Villa,425000,No,2,None,0,0,None,,None,None,None,4,None,Just renovated
+2243,,House,Villa,439000,No,5,None,1,0,None,1,None,None,None,4,None,As new
+2244,,House,Villa,490000,No,3,None,0,,None,1,None,None,None,4,None,As new
+2245,,House,Villa,490000,No,4,None,1,0,None,1,None,None,None,,None,Good
+2246,,,,None,,,None,0,,None,,None,None,None,,None,
+2247,,House,Villa,599000,,2,None,1,,None,1,None,None,None,4,None,Good
+2248,,House,Villa,612800,No,4,None,0,0,None,,None,None,None,4,None,
+2249,,House,Villa,890000,No,4,None,0,0,None,1,None,None,None,4,None,As new
+2250,,House,Villa,910000,No,5,None,0,0,None,1,None,None,None,4,None,Good
+2251,,House,Villa,1150000,No,3,None,0,0,None,1,None,None,None,4,None,As new
+2252,,House,Villa,1195000,,4,None,0,,None,1,None,None,None,4,None,As new
+2253,,House,Villa,2475000,No,5,None,0,0,None,,None,None,None,4,None,As new
+2254,,House,Villa,2750000,No,5,None,0,0,None,,None,None,None,4,None,As new
+2255,,House,Villa,2750000,No,6,None,0,,None,1,None,None,None,4,None,
+2256,,House,Villa,355000,No,4,None,0,0,None,,None,None,None,4,None,
+2257,,House,Villa,375000,No,4,None,0,0,None,,None,None,None,4,None,
+2258,,House,Villa,948000,No,4,None,0,0,None,,None,None,None,4,None,Good
+2259,,House,Villa,1368000,No,5,None,0,,None,1,None,None,None,4,None,As new
+2260,,House,Villa,190000,No,2,None,0,,None,,None,None,None,4,None,
+2261,,House,Villa,330000,No,4,None,1,,None,,None,None,None,4,None,To be done up
+2262,,,,None,,,None,0,,None,,None,None,None,,None,
+2263,,House,Villa,110000 + 810 per month,No,4,None,0,0,None,1,None,None,None,4,None,To renovate
+2264,,House,Villa,215000,No,3,None,1,,None,,None,None,None,3,None,
+2265,,House,Villa,255000,No,3,None,1,,None,1,None,None,None,4,None,
+2266,,House,Villa,257500,No,3,None,1,,None,,None,None,None,4,None,
+2267,,House,Villa,290000,No,2,None,0,0,None,,None,None,None,4,None,
+2268,,House,Villa,299000,No,3,None,1,0,None,1,None,None,None,4,None,To be done up
+2269,,House,Villa,330000,No,3,None,0,0,None,1,None,None,None,4,None,To be done up
+2270,,House,Villa,350000,No,4,None,0,,None,,None,None,None,4,None,As new
+2271,,House,Villa,375000,,3,None,0,,None,,None,None,None,4,None,As new
+2272,,House,Villa,375000,No,2,None,1,,None,1,None,None,None,4,None,Good
+2273,,House,Villa,409000,No,3,None,1,,None,1,None,None,None,4,None,
+2274,,House,Villa,495000,No,4,None,0,0,None,1,None,None,None,,None,Just renovated
+2275,,House,Villa,559000,No,6,None,1,,None,1,None,None,None,,None,
+2276,,House,Villa,650000,No,3,None,0,0,None,,None,None,None,4,None,
+2277,,House,Villa,650000,No,3,None,0,,None,,None,None,None,,None,
+2278,,House,Villa,650000,No,4,None,0,0,None,1,None,None,None,4,None,Good
+2279,,House,Villa,795000,No,2,None,0,,None,,None,None,None,,None,
+2280,,House,Villa,875000,,4,None,1,0,None,1,None,None,None,3,None,As new
+2281,Veldegem,House,Villa,900000,No,5,None,0,0,None,,None,None,None,4,None,Good
+2282,,House,Villa,1195000,No,4,None,0,,None,,None,None,None,,None,
+2283,,House,Villa,1375000,No,3,None,1,0,None,1,None,None,None,4,None,As new
+2284,,House,Villa,3450000,No,4,None,1,0,None,1,None,None,None,4,None,
+2285,,House,Villa,5000000,No,3,None,0,,None,1,None,None,None,4,None,
+2286,,House,Villa,299000,No,3,None,1,0,None,,None,None,None,4,None,Good
+2287,,House,Villa,549000,,3,None,0,,None,1,None,None,None,4,None,Good
+2288,,House,Villa,475000,,4,None,0,,None,,None,None,None,4,None,As new
+2289,,House,Villa,2700000,No,4,None,0,0,None,1,None,None,None,4,None,Good
+2290,,House,Stenen,From 346116 To 370116,No,,None,0,,None,,None,None,None,,None,
+2291,,House,Villa,170000,No,3,None,0,0,None,,None,None,None,,None,
+2292,,House,Villa,185000,No,2,None,1,0,None,,None,None,None,4,None,
+2293,,House,Villa,249000,No,4,None,0,0,None,,None,None,None,4,None,To renovate
+2294,,House,Villa,349000,No,4,None,0,0,None,,None,None,None,,None,
+2295,,House,Villa,460000,No,3,None,0,1,None,,None,None,None,4,None,As new
+2296,,House,Villa,525000,No,3,None,0,0,None,,None,None,None,,None,
+2297,,,,None,,,None,0,,None,,None,None,None,,None,
+2298,,House,Villa,799000,No,8,None,0,0,None,,None,None,None,4,None,Good
+2299,,House,Villa,899000,No,5,None,0,0,None,,None,None,None,4,None,As new
+2300,,House,Villa,1775000,No,8,None,0,0,None,1,None,None,None,,None,Just renovated
+2301,,House,Villa,1775000,No,8,None,0,0,None,1,None,None,None,4,None,As new
+2302,,House,Villa,699000,No,6,None,0,0,None,,None,None,None,4,None,Good
+2303,,House,Villa,530000,No,3,None,0,,None,1,None,None,None,,None,As new
+2304,,House,Villa,295000,No,3,None,0,0,None,,None,None,None,3,None,As new
+2305,,House,Villa,330000,No,4,None,1,0,None,,None,None,None,4,None,As new
+2306,,House,Villa,1259000,No,4,None,0,,None,1,None,None,None,4,None,As new
+2307,,House,Villa,430000,No,4,None,0,,None,1,None,None,None,4,None,Good
+2308,,House,Villa,300000,No,3,None,0,,None,1,None,None,None,4,None,To be done up
+2309,,House,Villa,207000,,3,None,1,,None,1,None,None,None,4,None,Good
+2310,,House,Villa,255000,No,2,None,0,0,None,,None,None,None,4,None,Good
+2311,,House,Villa,275000,No,2,None,1,0,None,1,None,None,None,4,None,As new
+2312,,House,Villa,299000,No,5,None,0,0,None,1,None,None,None,,None,
+2313,,House,Villa,340000,No,3,None,1,,None,,None,None,None,4,None,Good
+2314,,House,Villa,395000,No,5,None,0,,None,1,None,None,None,4,None,To be done up
+2315,,House,Villa,430000,,4,None,0,,None,,None,None,None,4,None,As new
+2316,,House,Villa,515000,,4,None,1,,None,1,None,None,None,4,None,As new
+2317,,House,Villa,780000,,5,None,0,,None,1,None,None,None,4,None,As new
+2318,,House,Villa,795000,,4,None,0,,None,1,None,None,None,4,None,Good
+2319,,House,Villa,980000,No,4,None,0,0,None,,None,None,None,4,None,Just renovated
+2320,,House,Villa,980000,No,4,None,0,0,None,,None,None,None,4,None,Just renovated
+2321,,House,Villa,1275000,,5,None,1,,None,1,None,None,None,4,None,
+2322,,House,Villa,1970000,No,5,None,0,0,None,,None,None,None,4,None,As new
+2323,,House,Villa,380000,No,3,None,0,0,None,1,None,None,None,4,None,
+2324,,House,Villa,320000,No,4,None,1,0,None,,None,None,None,4,None,
+2325,,House,Villa,319000,No,3,None,1,0,None,,None,None,None,4,None,
+2326,,House,Villa,175000,No,3,None,0,0,None,1,None,None,None,4,None,
+2327,,House,Villa,270000,No,3,None,1,0,None,,None,None,None,4,None,
+2328,,House,Villa,300000,No,6,None,1,0,None,,None,None,None,3,None,
+2329,,House,Villa,399000,No,4,None,1,0,None,,None,None,None,4,None,
+2330,,House,Villa,475000,No,2,None,1,,None,,None,None,None,,None,
+2331,,House,Villa,500000,No,3,None,1,0,None,1,None,None,None,,None,Good
+2332,,House,Villa,679000,,3,None,0,,None,,None,None,None,4,None,As new
+2333,,House,Villa,695000,No,3,None,0,0,None,1,None,None,None,2,None,Good
+2334,,House,Villa,695000,No,3,None,0,0,None,1,None,None,None,,None,To be done up
+2335,,House,Villa,4850000,No,10,None,0,,None,1,None,None,None,4,None,As new
+2336,,House,Villa,349000,No,3,None,0,0,None,1,None,None,None,3,None,
+2337,,House,Villa,399000,No,6,None,0,0,None,,None,None,None,4,None,
+2338,,House,Villa,525000,No,3,None,0,,None,1,None,None,None,3,None,
+2339,,House,Villa,1299000,No,5,None,0,0,None,,None,None,None,,None,
+2340,,House,New,From 285000 To 520000,No,,None,0,,None,,None,None,None,,None,
+2341,,House,Villa,232000,No,3,None,0,0,None,,None,None,None,3,None,As new
+2342,,House,Villa,175000,No,3,None,0,,None,,None,None,None,4,None,
+2343,,House,Villa,183000,,4,None,0,,None,1,None,None,None,4,None,To be done up
+2344,,House,Villa,250000,No,4,None,0,,None,,None,None,None,4,None,
+2345,,House,Villa,260000,No,3,None,1,0,None,,None,None,None,4,None,
+2346,,House,Villa,280000,,3,None,0,0,None,,None,None,None,4,None,Good
+2347,,House,Villa,425000,No,3,None,1,0,None,,None,None,None,6,None,As new
+2348,,House,Villa,445000,No,10,None,0,0,None,1,None,None,None,4,None,As new
+2349,,House,Villa,449000,No,6,None,1,0,None,,None,None,None,4,None,
+2350,,House,Villa,455000,No,4,None,0,0,None,,None,None,None,4,None,
+2351,,House,Villa,495000,No,3,None,0,0,None,,None,None,None,4,None,
+2352,,House,Villa,550000,No,2,None,0,0,None,,None,None,None,4,None,To be done up
+2353,,House,Villa,570000,No,4,None,1,,None,,None,None,None,4,None,
+2354,,House,Villa,625000,No,4,None,0,,None,1,None,None,None,4,None,As new
+2355,,House,Villa,730000,,7,None,0,0,None,1,None,None,None,4,None,
+2356,,House,Villa,2250000,No,7,None,1,,None,,None,None,None,,None,
+2357,Turnhout,House,Villa,2950000,No,5,None,0,,None,1,None,None,None,4,None,
+2358,,House,Villa,125000,No,3,None,1,0,None,,None,None,None,4,None,
+2359,,House,Villa,245000,No,3,None,1,0,None,1,None,None,None,4,None,
+2360,,House,Villa,349000,No,2,None,0,,None,,None,None,None,4,None,Just renovated
+2361,,House,Villa,374000,No,3,None,1,,None,,None,None,None,,None,
+2362,,House,Villa,375000,No,4,None,0,,None,1,None,None,None,4,None,As new
+2363,,House,Villa,425000,No,4,None,0,,None,,None,None,None,,None,As new
+2364,,House,Villa,450000,No,3,None,0,,None,,None,None,None,,None,
+2365,,House,Villa,495000,No,4,None,1,0,None,1,None,None,None,4,None,Good
+2366,,House,Villa,599000,No,4,None,0,,None,1,None,None,None,3,None,
+2367,,House,Villa,610000,No,4,None,0,,None,1,None,None,None,,None,As new
+2368,,House,Villa,1385000,No,5,None,0,,None,,None,None,None,4,None,As new
+2369,,House,Villa,440000,No,3,None,1,0,None,,None,None,None,4,None,
+2370,,House,Villa,579000,No,3,None,0,0,None,,None,None,None,4,None,
+2371,,House,Villa,230000,No,3,None,0,0,None,,None,None,None,,None,
+2372,,House,Villa,238500,No,3,None,0,0,None,1,None,None,None,4,None,
+2373,,House,Villa,275000 + 750 per month,,3,None,1,,None,,None,None,None,4,None,Good
+2374,,House,Villa,299000,No,2,None,0,0,None,,None,None,None,,None,
+2375,,House,Villa,360000,No,4,None,0,,None,,None,None,None,4,None,As new
+2376,,House,Villa,435000,No,3,None,0,,None,,None,None,None,4,None,
+2377,,House,Villa,485000,No,,None,0,0,None,,None,None,None,4,None,
+2378,,House,Villa,495000,No,3,None,1,0,None,,None,None,None,4,None,
+2379,,House,Villa,745000,No,3,None,0,0,None,,None,None,None,4,None,Good
+2380,,House,Villa,850000,No,3,None,0,,None,1,None,None,None,4,None,Good
+2381,,House,Villa,1450000,No,6,None,0,0,None,,None,None,None,4,None,As new
+2382,,House,Villa,1600000,No,3,None,0,0,None,1,None,None,None,4,None,As new
+2383,,House,Villa,1290000,No,6,None,0,0,None,1,None,None,None,4,None,To renovate
+2384,,House,Villa,699900,No,4,None,0,0,None,,None,None,None,4,None,
+2385,Portes de Lorette,House,Villa,513403,No,3,None,0,0,None,,None,None,None,4,None,As new
+2386,,House,Villa,329000,No,3,None,1,0,None,,None,None,None,4,None,
+2387,,House,Villa,2700000,No,5,None,0,0,None,,None,None,None,4,None,As new
+2388,,House,Villa,190000,No,3,None,0,,None,,None,None,None,4,None,Good
+2389,,House,Villa,199000,No,3,None,0,,None,1,None,None,None,4,None,To be done up
+2390,,House,Villa,200000,No,3,None,1,,None,,None,None,None,4,None,
+2391,,House,Villa,215000,No,4,None,0,,None,,None,None,None,3,None,To renovate
+2392,,House,Villa,235000,No,2,None,0,,None,,None,None,None,3,None,As new
+2393,,House,Villa,240000,No,3,None,1,,None,,None,None,None,4,None,As new
+2394,,,,None,,,None,0,,None,,None,None,None,,None,
+2395,,House,Villa,260000,No,3,None,0,0,None,,None,None,None,3,None,
+2396,,House,Villa,260000,No,3,None,0,0,None,,None,None,None,3,None,
+2397,,House,Villa,295000,No,4,None,0,,None,1,None,None,None,4,None,Good
+2398,,House,Villa,299900,No,4,None,0,,None,1,None,None,None,4,None,To be done up
+2399,,House,Villa,299900,No,4,None,0,,None,1,None,None,None,4,None,To be done up
+2400,,House,Villa,330000,No,4,None,0,,None,1,None,None,None,4,None,To be done up
+2401,,House,Villa,345000,No,4,None,1,,None,,None,None,None,4,None,
+2402,,House,Villa,355000,No,3,None,1,,None,,None,None,None,4,None,As new
+2403,,House,Villa,380000,No,2,None,0,0,None,,None,None,None,,None,
+2404,,House,Villa,398500,No,2,None,0,,None,1,None,None,None,4,None,As new
+2405,,House,Villa,450000,No,6,None,0,,None,,None,None,None,4,None,
+2406,,House,Villa,476000,No,5,None,0,,None,1,None,None,None,4,None,Good
+2407,,House,Villa,478000,No,3,None,0,0,None,,None,None,None,,None,
+2408,,House,Villa,530000,No,3,None,0,0,None,,None,None,None,4,None,As new
+2409,,House,Villa,600000,No,4,None,0,,None,,None,None,None,4,None,
+2410,,House,Villa,624000,,4,None,0,,None,1,None,None,None,4,None,As new
+2411,,House,Villa,648500,No,5,None,0,,None,1,None,None,None,4,None,Good
+2412,,House,Villa,690000,No,4,None,0,,None,1,None,None,None,,None,
+2413,,House,Villa,2150000,No,6,None,0,,None,1,None,None,None,4,None,
+2414,,House,Villa,2650000,No,5,None,0,,None,1,None,None,None,4,None,
+2415,,House,Villa,594500,No,4,None,0,0,None,,None,None,None,4,None,
+2416,,House,Villa,320000,No,6,None,0,,None,,None,None,None,4,None,
+2417,,House,Villa,373500,No,4,None,0,,None,1,None,None,None,4,None,To be done up
+2418,,House,Villa,358000,No,4,None,0,0,None,,None,None,None,,None,As new
+2419,,House,Villa,185000,No,3,None,0,0,None,,None,None,None,,None,
+2420,,House,Villa,199000,No,2,None,0,,None,1,None,None,None,,None,
+2421,,House,Villa,340000,No,4,None,1,0,None,,None,None,None,4,None,
+2422,,House,Villa,497800,No,4,None,0,,None,1,None,None,None,,None,To be done up
+2423,,House,Villa,498000,No,4,None,0,,None,1,None,None,None,,None,
+2424,,House,Villa,499000,No,3,None,0,,None,1,None,None,None,,None,As new
+2425,,House,Villa,540000,No,4,None,1,0,None,,None,None,None,4,None,Good
+2426,,House,Villa,590000,No,17,None,0,1,None,1,None,None,None,4,None,Good
+2427,,House,Villa,695000,No,6,None,0,0,None,,None,None,None,4,None,Good
+2428,,House,Villa,795000,No,4,None,0,0,None,1,None,None,None,,None,
+2429,,House,Villa,895000,,5,None,0,,None,1,None,None,None,4,None,As new
+2430,Portes de Lorette,House,Villa,502286,No,3,None,0,0,None,,None,None,None,4,None,As new
+2431,Portes de Lorette,House,Villa,502286,No,3,None,0,0,None,,None,None,None,4,None,As new
+2432,,House,Villa,220000,,2,None,0,,None,,None,None,None,4,None,
+2433,,House,Villa,299000,,4,None,1,,None,,None,None,None,4,None,To be done up
+2434,,House,Villa,320000,No,3,None,0,,None,1,None,None,None,4,None,As new
+2435,,House,Villa,440000,No,4,None,1,0,None,,None,None,None,4,None,
+2436,,House,Villa,1495000,No,5,None,0,,None,1,None,None,None,4,None,To renovate
+2437,,House,Villa,4995000,No,5,None,0,,None,1,None,None,None,4,None,
+2438,,House,Villa,200000,No,3,None,0,0,None,,None,None,None,3,None,As new
+2439,,House,Villa,330000,No,3,None,0,,None,,None,None,None,4,None,To renovate
+2440,,House,Villa,190000,No,2,None,1,0,None,1,None,None,None,3,None,As new
+2441,,House,Villa,350000,No,4,None,0,,None,1,None,None,None,4,None,As new
+2442,,House,Villa,580000,No,6,None,0,,None,,None,None,None,,None,
+2443,,House,Villa,930000,No,6,None,0,0,None,,None,None,None,,None,
+2444,,House,Villa,1195000,No,4,None,0,0,None,,None,None,None,4,None,Good
+2445,,House,Villa,1255000,No,3,None,0,0,None,1,None,None,None,,None,To be done up
+2446,,House,Villa,1345000,No,4,None,0,,None,,None,None,None,,None,
+2447,,House,Villa,1450000,No,3,None,0,1,None,1,None,None,None,4,None,As new
+2448,,House,Villa,150000,No,3,None,0,,None,1,None,None,None,3,None,To renovate
+2449,,House,Villa,50000 + 1050 per month,No,2,None,1,0,None,1,None,None,None,4,None,
+2450,,House,Villa,449500,No,3,None,0,,None,1,None,None,None,4,None,As new
+2451,,House,Villa,449500,No,3,None,0,,None,1,None,None,None,4,None,As new
+2452,,House,Villa,649000,No,4,None,0,0,None,1,None,None,None,4,None,
+2453,,House,Villa,955000,No,4,None,0,,None,1,None,None,None,4,None,As new
+2454,,House,Villa,955000,No,4,None,0,,None,1,None,None,None,4,None,As new
+2455,,,,None,,,None,0,,None,,None,None,None,,None,
+2456,,House,Villa,2200000,No,3,None,0,1,None,1,None,None,None,3,None,As new
+2457,,House,Villa,215000,,3,None,0,,None,,None,None,None,3,None,
+2458,,House,Villa,280000,No,2,None,1,0,None,,None,None,None,4,None,
+2459,,House,Villa,305000,No,2,None,0,,None,,None,None,None,4,None,
+2460,,House,Villa,365000,No,3,None,0,,None,1,None,None,None,4,None,As new
+2461,,House,Villa,369000,No,4,None,1,1,None,1,None,None,None,4,None,Good
+2462,,House,Villa,375000,No,4,None,0,0,None,,None,None,None,4,None,Just renovated
+2463,,House,Villa,438000,No,4,None,0,,None,,None,None,None,,None,
+2464,,House,Villa,999000,No,5,None,0,,None,1,None,None,None,4,None,Good
+2465,,House,Villa,1695000,No,4,None,0,0,None,,None,None,None,4,None,As new
+2466,,House,Villa,300000,No,3,None,0,,None,,None,None,None,,None,
+2467,,House,Villa,200000,No,2,None,1,,None,,None,None,None,4,None,
+2468,,House,Villa,425000,No,4,None,0,0,None,,None,None,None,,None,As new
+2469,Omg Waasmunster,House,Villa,500000,No,3,None,0,,None,1,None,None,None,2,None,Good
+2470,,House,Villa,850000,No,5,None,0,,None,1,None,None,None,,None,
+2471,,House,Villa,1795000,No,6,None,0,0,None,,None,None,None,4,None,As new
+2472,,House,Villa,795000,No,4,None,0,0,None,1,None,None,None,,None,To be done up
+2473,,House,Kain,From 299000 To 433000,No,,None,0,,None,,None,None,None,,None,
+2474,,House,Verkaveling,From 321400 To 350500,No,,None,0,,None,,None,None,None,,None,
+2475,,House,Ramillies,From 373000 To 449000,No,,None,0,,None,,None,None,None,,None,
+2476,,House,Doornenlaan,From 1175000 To 1275000,No,,None,0,,None,,None,None,None,,None,
+2477,,House,Villa,182250,No,3,None,0,0,None,,None,None,None,3,None,
+2478,,House,Villa,355000,No,4,None,0,0,None,,None,None,None,4,None,To be done up
+2479,,House,Villa,360000,No,3,None,0,,None,,None,None,None,4,None,
+2480,,House,Villa,385000,No,4,None,1,0,None,,None,None,None,4,None,
+2481,,House,Villa,512975,No,3,None,0,,None,1,None,None,None,4,None,As new
+2482,,House,Villa,865000,No,5,None,0,0,None,,None,None,None,4,None,
+2483,,House,Villa,895000,No,8,None,0,,None,,None,None,None,4,None,Good
+2484,,House,Villa,1975000,No,3,None,0,,None,,None,None,None,4,None,
+2485,,House,Villa,459000,No,4,None,1,,None,1,None,None,None,,None,
+2486,,House,Villa,325995,No,3,None,0,0,None,,None,None,None,4,None,
+2487,,House,Villa,325995,No,3,None,0,0,None,,None,None,None,4,None,
+2488,,House,Villa,232000,No,2,None,0,,None,,None,None,None,,None,
+2489,,House,Villa,240000,No,2,None,0,,None,1,None,None,None,4,None,To be done up
+2490,,House,Villa,290000,No,3,None,1,0,None,,None,None,None,4,None,
+2491,,House,Villa,385000,No,4,None,0,0,None,,None,None,None,,None,As new
+2492,,House,Villa,385000,No,4,None,0,0,None,,None,None,None,,None,As new
+2493,,House,Villa,635000,No,4,None,0,,None,,None,None,None,,None,
+2494,,House,Villa,1199000,No,4,None,0,0,None,1,None,None,None,4,None,
+2495,,House,Villa,1250000,No,8,None,0,,None,,None,None,None,,None,
+2496,,House,Villa,1675000,No,4,None,1,,None,1,None,None,None,,None,To be done up
+2497,,House,Villa,1775000,No,9,None,0,0,None,,None,None,None,,None,
+2498,,House,Villa,129000,No,2,None,0,,None,,None,None,None,4,None,Good
+2499,,House,Villa,1250000,No,6,None,0,0,None,,None,None,None,,None,
+2500,,House,Villa,1775000,No,8,None,0,,None,1,None,None,None,3,None,
+2501,,House,Villa,2175000,No,6,None,0,0,None,,None,None,None,4,None,As new
+2502,Papenakker,House,Villa,493250,,3,None,0,,None,,None,None,None,4,None,
+2503,Papenakker,House,Villa,546150,,3,None,0,,None,,None,None,None,4,None,
+2504,,House,Villa,167850,No,3,None,0,0,None,,None,None,None,3,None,
+2505,,House,Villa,180000,No,2,None,0,,None,,None,None,None,4,None,To be done up
+2506,,House,Villa,200000,No,1,None,0,,None,,None,None,None,,None,
+2507,,House,Villa,595000,No,3,None,0,,None,1,None,None,None,,None,
+2508,,House,Villa,815000,No,4,None,1,,None,,None,None,None,,None,
+2509,,House,Villa,825000,No,4,None,1,,None,,None,None,None,,None,
+2510,,House,Villa,272000,No,3,None,0,,None,,None,None,None,3,None,As new
+2511,,House,Villa,675000,No,3,None,0,0,None,,None,None,None,4,None,To renovate
+2512,,House,Villa,1300000,No,6,None,0,,None,,None,None,None,4,None,
+2513,,House,Villa,1775000,No,8,None,0,,None,1,None,None,None,3,None,
+2514,,House,Villa,195000,No,3,None,0,,None,,None,None,None,,None,
+2515,,House,Villa,1045000,No,4,None,1,,None,,None,None,None,,None,
+2516,,House,Villa,1100000,No,3,None,0,,None,,None,None,None,,None,
+2517,,House,Villa,195000,No,1,None,0,,None,,None,None,None,4,None,As new
+2518,,House,Villa,475000,,3,None,0,0,None,,None,None,None,4,None,
+2519,,House,Villa,507000,No,3,None,0,,None,,None,None,None,,None,
+2520,,House,Villa,538000,No,3,None,0,,None,,None,None,None,,None,
+2521,,House,Villa,683000,No,3,None,0,,None,,None,None,None,,None,
+2522,,House,Villa,1011712,No,4,None,0,,None,,None,None,None,,None,
+2523,,House,Villa,343400,No,4,None,1,0,None,,None,None,None,,None,Good
+2524,,House,Villa,360800,No,4,None,1,0,None,,None,None,None,,None,Good
+2525,,House,Villa,400000,No,,None,0,,None,,None,None,None,4,None,
+2526,,House,Villa,479000,No,3,None,0,,None,1,None,None,None,4,None,As new
+2527,,House,Villa,479000,No,3,None,0,,None,1,None,None,None,4,None,As new
+2528,,House,Villa,550000,No,5,None,1,0,None,1,None,None,None,4,None,
+2529,,House,Villa,250000,No,2,None,0,,None,,None,None,None,,None,
+2530,,House,Villa,397500,,3,None,0,,None,,None,None,None,3,None,
+2531,,House,Villa,462500,,3,None,0,,None,,None,None,None,3,None,
+2532,,House,Villa,492500,No,2,None,0,,None,1,None,None,None,4,None,Good
+2533,,House,Villa,779000,No,3,None,1,,None,,None,None,None,4,None,
+2534,,House,Villa,350000,No,4,None,0,,None,,None,None,None,4,None,As new
+2535,,House,Villa,849000,,5,None,0,,None,,None,None,None,4,None,As new
+2536,,House,Villa,399000,No,4,None,0,,None,,None,None,None,4,None,As new
+2537,Fondatel,House,Villa,533157,,3,None,0,,None,,None,None,None,4,None,As new
+2538,,House,Villa,1250000,No,4,None,0,0,None,,None,None,None,4,None,Good
+2539,,House,Villa,225000,No,1,None,0,,None,,None,None,None,,None,
+2540,,House,Villa,544900,,4,None,0,,None,,None,None,None,4,None,As new
+2541,,House,Villa,599000,,5,None,0,,None,,None,None,None,4,None,As new
+2542,,House,Villa,675000,,4,None,0,,None,,None,None,None,4,None,As new
+2543,,House,Villa,699000,,4,None,0,,None,,None,None,None,4,None,As new
+2544,,House,Villa,699000,,4,None,0,,None,,None,None,None,4,None,As new
+2545,,House,Villa,1275000,No,5,None,0,0,None,,None,None,None,4,None,
+2546,BELGIQUE,House,Villa,1300000,Yes,3,None,0,,None,,None,None,None,4,None,
+2547,,House,Dessel,From 386681 To 417469,No,,None,0,,None,,None,None,None,,None,
+2548,,House,Villa,399000,,3,None,0,,None,,None,None,None,4,None,As new
+2549,,House,Villa,399000,,4,None,0,,None,,None,None,None,4,None,As new
+2550,,House,Villa,474900,,4,None,0,,None,,None,None,None,4,None,As new
+2551,,House,Villa,675000,,5,None,0,,None,,None,None,None,4,None,As new
+2552,,House,Villa,1175000,No,4,None,0,0,None,,None,None,None,4,None,
+2553,,House,Villa,599000,,4,None,0,,None,,None,None,None,4,None,
+2554,,House,Villa,675000,,5,None,0,,None,,None,None,None,4,None,
+2555,,House,Balen,From 343249 To 351295,No,,None,0,,None,,None,None,None,,None,
+2556,,House,Villa,663800,No,3,None,0,,None,,None,None,None,,None,
+2557,,House,Villa,184000,No,3,None,0,,None,,None,None,None,3,None,
+2558,,House,Zuidelijk,From 290000 To 335000,No,,None,0,,None,,None,None,None,,None,

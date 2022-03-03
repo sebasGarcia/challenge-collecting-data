@@ -1,0 +1,377 @@
+,Locality,Type of property,Subtype of property,Price,Type of sale,Number of rooms,Area,Fully equipped kitchen,Furnished,Open fire,Terrace,Garden,Surface of the land,Surface area of the plot of land,Number of facades,Swimming pool,State of the building
+0,,House,Town-house,430000,No,3,135,1,0,None,,None,None,None,2,None,To be done up
+1,,House,Town-house,199000,No,3,140,1,0,None,,None,None,None,2,None,Good
+2,Brussel,House,Town-house,475000,No,3,148,0,0,None,,None,None,None,2,None,As new
+3,Bruxelles-Ouest,House,Town-house,585000,No,4,255,0,0,None,,None,None,None,2,None,To be done up
+4,Bruxelles-Ouest,House,Town-house,585000,No,4,255,0,0,None,,None,None,None,2,None,To be done up
+5,Grand Liège,House,Town-house,225000,No,3,189,1,0,None,,None,None,None,2,None,To be done up
+6,Bruxelles-Sud,House,Town-house,600000,No,5,300,1,0,None,,None,None,None,2,None,To renovate
+7,,House,Town-house,329000,No,2,199,1,0,None,,None,None,None,3,None,As new
+8,,House,Town-house,520000,No,6,,0,0,None,,None,None,None,3,None,As new
+9,,House,Town-house,625000,No,4,236,0,0,None,,None,None,None,3,None,Good
+10,,,,None,,,,0,,None,,None,None,None,,None,
+11,,House,Town-house,420000,No,3,192,1,0,None,,None,None,None,2,None,Good
+12,,House,Town-house,219000,No,3,116,0,0,None,,None,None,None,2,None,Good
+13,,House,Town-house,490000,No,3,165,1,0,None,1,None,None,None,3,None,Good
+14,,House,Town-house,499000,No,4,229,0,0,None,,None,None,None,3,None,Good
+15,,House,Town-house,350000,No,5,196,1,0,None,,None,None,None,4,None,As new
+16,,House,Town-house,369000,No,3,181,0,0,None,,None,None,None,2,None,As new
+17,,House,Town-house,229000,No,3,88,0,0,None,,None,None,None,2,None,Good
+18,,House,Town-house,240000,No,3,176,0,0,None,,None,None,None,2,None,To be done up
+19,,House,Town-house,399000,No,5,160,1,0,None,,None,None,None,3,None,Good
+20,,House,Town-house,715000,No,4,225,1,0,None,,None,None,None,3,None,Good
+21,,House,Town-house,735000,No,3,185,0,0,None,,None,None,None,2,None,As new
+22,,House,Town-house,315000,No,3,147,0,0,None,,None,None,None,2,None,
+23,Wallonne,House,Town-house,109900,No,2,86,1,0,None,,None,None,None,2,None,To be done up
+24,Wallonne,House,Town-house,149900,No,1,71,1,0,None,,None,None,None,3,None,As new
+25,,House,Town-house,180000,No,4,144,1,0,None,,None,None,None,2,None,As new
+26,,House,Town-house,239000,No,2,170,1,0,None,,None,None,None,3,None,As new
+27,centrum tienen,House,Town-house,285000,,2,180,0,0,None,,None,None,None,3,None,Just renovated
+28,,House,Town-house,335000,No,2,210,1,0,None,,None,None,None,2,None,Good
+29,,House,Town-house,339500,No,2,145,0,0,None,,None,None,None,2,None,Just renovated
+30,,House,Town-house,365000,No,3,210,1,0,None,,None,None,None,3,None,To be done up
+31,,House,Town-house,395000,No,3,176,1,0,None,,None,None,None,3,None,As new
+32,,House,Town-house,585000,No,5,240,0,0,None,,None,None,None,,None,As new
+33,,House,Town-house,410000,No,4,162,1,0,None,,None,None,None,,None,As new
+34,,House,Town-house,199000,No,2,144,1,,None,,None,None,None,2,None,As new
+35,,House,Town-house,315000,No,2,127,1,0,None,,None,None,None,2,None,
+36,,House,Town-house,200000,No,3,161,0,0,None,,None,None,None,3,None,Good
+37,,House,Town-house,299000,,4,478,1,0,None,,None,None,None,2,None,Good
+38,Brabant Wallon,House,Town-house,300000,No,3,203,1,0,None,,None,None,None,2,None,To renovate
+39,,House,Town-house,350000,No,3,165,0,0,None,,None,None,None,2,None,To renovate
+40,,House,Town-house,338800,,4,216,0,,None,,None,None,None,3,None,As new
+41,,House,Town-house,378800,,4,216,0,,None,,None,None,None,2,None,As new
+42,,House,Town-house,383800,,4,216,0,,None,,None,None,None,2,None,As new
+43,,House,Town-house,220000,No,3,95,1,0,None,,None,None,None,2,None,As new
+44,,House,Town-house,525000,No,3,177,1,0,None,,None,None,None,2,None,As new
+45,,House,Town-house,275000,No,5,,1,0,None,,None,None,None,2,None,Good
+46,,House,Town-house,318000,No,3,251,1,0,None,,None,None,None,2,None,As new
+47,,House,Town-house,972000,No,4,160,1,,None,1,None,None,None,2,None,Good
+48,,House,Town-house,388800,,4,216,0,,None,,None,None,None,2,None,As new
+49,,House,Town-house,119000,No,2,80,0,0,None,,None,None,None,2,None,To renovate
+50,Huy,House,Town-house,135000,No,2,140,1,0,None,,None,None,None,2,None,To be done up
+51,,House,Town-house,175000,No,2,160,1,0,None,,None,None,None,4,None,Good
+52,,House,Town-house,249000,No,2,120,0,1,None,,None,None,None,2,None,Good
+53,,House,Town-house,259000,No,3,185,1,0,None,,None,None,None,2,None,Good
+54,,House,Town-house,330000,No,3,,0,0,None,,None,None,None,2,None,Good
+55,,House,Town-house,299000,No,3,172,1,,None,,None,None,None,,None,Good
+56,,House,Town-house,295000,,3,143,0,0,None,1,None,None,None,2,None,Just renovated
+57,,House,Town-house,398000,No,3,200,0,1,None,,None,None,None,2,None,As new
+58,,House,Town-house,482000,No,3,,1,0,None,1,None,None,None,3,None,As new
+59,,House,Town-house,250000,No,2,159,0,0,None,,None,None,None,2,None,To renovate
+60,,House,Town-house,150000,No,2,140,0,,None,1,None,None,None,2,None,To be done up
+61,,House,Town-house,389000,No,3,267,0,0,None,,None,None,None,2,None,To renovate
+62,,House,Town-house,555000,No,4,,1,0,None,,None,None,None,2,None,As new
+63,,House,Town-house,279000,No,3,139,1,,None,,None,None,None,,None,As new
+64,,House,Town-house,359000,Yes,3,128,1,,None,,None,None,None,1,None,To be done up
+65,,House,Town-house,1245000,No,5,278,0,,None,1,None,None,None,2,None,As new
+66,,House,Town-house,185000,No,3,,0,0,None,,None,None,None,2,None,Just renovated
+67,,House,Town-house,190000,No,3,,0,,None,,None,None,None,2,None,To renovate
+68,,House,Town-house,259000,No,3,173,0,0,None,,None,None,None,2,None,Good
+69,,House,Town-house,299000,No,3,175,1,0,None,,None,None,None,3,None,As new
+70,,House,Town-house,565000,No,4,175,0,0,None,,None,None,None,,None,To renovate
+71,,House,Town-house,200000,No,1,49,1,,None,,None,None,None,2,None,As new
+72,,House,Town-house,389000,No,3,162,0,0,None,,None,None,None,3,None,
+73,,House,Town-house,339000,No,3,162,0,0,None,,None,None,None,3,None,Good
+74,,House,Town-house,375000,No,3,210,0,0,None,1,None,None,None,2,None,As new
+75,,House,Town-house,408000,No,3,142,1,0,None,,None,None,None,3,None,As new
+76,,House,Town-house,193000,No,3,160,1,0,None,,None,None,None,2,None,To be done up
+77,,House,Town-house,399000,No,3,221,1,0,None,,None,None,None,2,None,Good
+78,,House,Town-house,369000,No,3,,1,0,None,,None,None,None,2,None,Just renovated
+79,,House,Town-house,Starting price : 344000,No,5,311,0,,None,,None,None,None,2,None,To be done up
+80,,House,Town-house,440000,No,4,142,0,0,None,1,None,None,None,2,None,
+81,,House,Town-house,795000,No,5,,0,0,None,,None,None,None,3,None,As new
+82,,House,Town-house,135000,No,1,70,0,0,None,,None,None,None,3,None,Good
+83,,House,Town-house,250000,No,2,114,0,0,None,,None,None,None,2,None,Good
+84,,House,Town-house,280000,No,3,141,1,,None,1,None,None,None,,None,
+85,,House,Town-house,550000,,4,236,0,,None,,None,None,None,2,None,To be done up
+86,,House,Town-house,450000,No,3,,1,0,None,1,None,None,None,2,None,
+87,,House,Town-house,475000,No,3,180,0,,None,,None,None,None,,None,Just renovated
+88,,House,Town-house,Starting price : 320000,No,3,,1,,None,,None,None,None,3,None,
+89,,House,Town-house,135000,No,3,,0,0,None,,None,None,None,2,None,As new
+90,,House,Town-house,219000,No,2,133,0,0,None,,None,None,None,3,None,Good
+91,,House,Town-house,495000,No,6,230,0,0,None,,None,None,None,2,None,As new
+92,,House,Town-house,490000,No,2,200,0,,None,,None,None,None,2,None,As new
+93,,House,Town-house,235000,No,3,155,1,0,None,,None,None,None,2,None,As new
+94,,House,Town-house,295000,No,3,150,1,0,None,,None,None,None,2,None,Good
+95,,House,Town-house,480000,No,3,174,0,0,None,1,None,None,None,2,None,Good
+96,Oost- Vlaanderen,House,Town-house,329000,No,3,190,0,,None,,None,None,None,3,None,As new
+97,,House,Town-house,245000,No,3,162,1,0,None,,None,None,None,,None,
+98,,House,Town-house,245000,No,3,170,1,0,None,,None,None,None,,None,
+99,,House,Town-house,170000,No,3,132,0,0,None,,None,None,None,2,None,As new
+100,,House,Town-house,250000,No,2,114,0,0,None,,None,None,None,2,None,Good
+101,,House,Town-house,169900,No,3,164,0,0,None,,None,None,None,3,None,To renovate
+102,,House,Town-house,972000,No,4,220,0,0,None,,None,None,None,,None,As new
+103,,House,Town-house,429000,No,5,171,0,0,None,,None,None,None,3,None,As new
+104,,House,Town-house,625000,No,3,154,0,1,None,1,None,None,None,2,None,
+105,,House,Town-house,290000,No,3,142,0,0,None,,None,None,None,,None,
+106,,House,Town-house,650000,No,4,244,0,0,None,,None,None,None,2,None,To renovate
+107,,House,Town-house,255000,No,3,80,0,0,None,1,None,None,None,2,None,
+108,,House,Town-house,449000,No,4,170,0,0,None,,None,None,None,2,None,As new
+109,,House,Town-house,135000,,3,,0,,None,,None,None,None,2,None,
+110,,House,Town-house,299000,No,3,139,1,0,None,,None,None,None,4,None,Good
+111,,House,Town-house,155000,No,3,160,0,0,None,,None,None,None,3,None,
+112,,House,Town-house,189000,No,2,,0,0,None,,None,None,None,2,None,To renovate
+113,,House,Town-house,159500,No,2,128,0,0,None,,None,None,None,,None,Good
+114,,House,Town-house,Starting price : 147000,No,4,257,0,,None,,None,None,None,2,None,
+115,,House,Town-house,555000,No,3,185,0,0,None,,None,None,None,2,None,
+116,,House,Town-house,220000,No,2,150,0,0,None,,None,None,None,2,None,
+117,,House,Town-house,38000,No,2,,0,0,None,,None,None,None,,None,As new
+118,,House,Town-house,300000,No,3,168,1,0,None,,None,None,None,3,None,Good
+119,,House,Town-house,399000,No,4,180,0,0,None,1,None,None,None,2,None,Good
+120,,House,Town-house,329000,No,3,194,0,0,None,,None,None,None,3,None,Just renovated
+121,,House,Town-house,279000,No,3,123,0,0,None,,None,None,None,2,None,Just renovated
+122,,House,Town-house,415800,No,3,145,0,,None,,None,None,None,3,None,
+123,,House,Town-house,220000,No,3,112,0,0,None,,None,None,None,2,None,To be done up
+124,,House,Town-house,295000,No,2,175,1,0,None,,None,None,None,2,None,To be done up
+125,,House,Town-house,379000,No,3,191,0,0,None,,None,None,None,2,None,To be done up
+126,,House,Town-house,424550,No,3,145,0,,None,,None,None,None,3,None,
+127,,House,Town-house,315000,No,3,192,1,0,None,,None,None,None,2,None,To be done up
+128,,House,Town-house,219000,No,3,228,1,0,None,,None,None,None,3,None,To restore
+129,,House,Town-house,395000,No,3,145,1,0,None,,None,None,None,2,None,As new
+130,,House,Town-house,349500,No,2,177,0,0,None,,None,None,None,2,None,As new
+131,,House,Town-house,832000,No,4,276,0,0,None,1,None,None,None,2,None,Good
+132,,House,Town-house,179999,No,2,120,1,0,None,,None,None,None,2,None,Good
+133,,House,Town-house,419000,No,3,170,1,0,None,,None,None,None,2,None,Good
+134,,House,Town-house,363000,No,3,152,0,0,None,,None,None,None,3,None,To be done up
+135,,House,Town-house,375000,No,3,184,0,0,None,,None,None,None,,None,
+136,,House,Town-house,365000,No,2,198,1,0,None,,None,None,None,2,None,As new
+137,,House,Town-house,387500,No,3,200,1,0,None,,None,None,None,3,None,Good
+138,,House,Town-house,350000,No,4,204,0,0,None,,None,None,None,3,None,As new
+139,,House,Town-house,375000,No,4,165,0,0,None,,None,None,None,2,None,Good
+140,,House,Town-house,399000,No,3,168,1,,None,,None,None,None,2,None,As new
+141,,House,Town-house,409000,No,4,184,1,0,None,,None,None,None,2,None,As new
+142,,House,Town-house,420000,No,3,230,1,0,None,,None,None,None,1,None,As new
+143,,House,Town-house,430000,No,3,133,0,0,None,,None,None,None,2,None,As new
+144,,House,Town-house,433746,No,3,144,0,,None,,None,None,None,3,None,
+145,,House,Town-house,389000,No,3,260,0,0,None,1,None,None,None,2,None,Good
+146,,House,Town-house,475000,No,4,160,0,0,None,,None,None,None,2,None,Good
+147,,House,Town-house,230000,No,2,175,0,0,None,,None,None,None,1,None,To renovate
+148,Court-Saint-Etienne,House,Town-house,267500,No,2,125,1,,None,,None,None,None,3,None,As new
+149,,House,Town-house,349900,No,4,198,1,0,None,,None,None,None,3,None,Good
+150,,House,Town-house,350000,,5,310,0,0,None,,None,None,None,3,None,As new
+151,,House,Town-house,425000,No,3,216,1,0,None,,None,None,None,2,None,As new
+152,,House,Town-house,227000,No,3,,1,0,None,,None,None,None,2,None,Good
+153,,House,Town-house,269000,No,2,270,0,,None,,None,None,None,2,None,Good
+154,Verviers - Dison,House,Town-house,310000,No,5,190,0,0,None,1,None,None,None,2,None,As new
+155,,House,Town-house,320000,No,2,151,0,0,None,1,None,None,None,2,None,To renovate
+156,,House,Town-house,349000,No,4,220,1,,None,,None,None,None,2,None,Good
+157,,House,Town-house,269000,No,3,130,0,0,None,,None,None,None,2,None,To renovate
+158,,House,Town-house,360000,No,3,255,1,0,None,,None,None,None,4,None,
+159,,House,Town-house,425000,No,3,200,0,0,None,1,None,None,None,2,None,To be done up
+160,Regio Noordrand Antwerpen,House,Town-house,469000,No,5,272,0,0,None,,None,None,None,2,None,As new
+161,,House,Town-house,480000,No,7,280,0,0,None,,None,None,None,2,None,Good
+162,,House,Town-house,369000,No,3,150,0,,None,,None,None,None,,None,Just renovated
+163,,House,Town-house,460000,No,4,246,0,0,None,,None,None,None,2,None,As new
+164,,House,Town-house,245000,,3,118,1,0,None,,None,None,None,2,None,Good
+165,,House,Town-house,440000,No,3,222,0,0,None,,None,None,None,2,None,Good
+166,,House,Town-house,630000,No,3,180,0,0,None,1,None,None,None,,None,Just renovated
+167,,House,Town-house,360000,No,3,149,0,,None,,None,None,None,2,None,Good
+168,,House,Town-house,350000,No,3,123,0,0,None,,None,None,None,2,None,Good
+169,,House,Town-house,239000,No,2,160,1,0,None,,None,None,None,1,None,Good
+170,,House,Town-house,365000,No,4,292,1,0,None,,None,None,None,2,None,Good
+171,,House,Town-house,375000,No,3,190,0,0,None,,None,None,None,2,None,Good
+172,,House,Town-house,214000,No,3,155,1,0,None,1,None,None,None,2,None,Good
+173,Zellik,House,Town-house,395000,No,4,180,0,,None,,None,None,None,3,None,
+174,,House,Town-house,485000,No,3,270,0,,None,,None,None,None,2,None,Good
+175,,House,Town-house,495000,No,3,180,1,0,None,,None,None,None,2,None,Good
+176,,House,Town-house,475000,No,3,200,0,0,None,,None,None,None,2,None,Good
+177,,House,Town-house,270000,No,3,165,0,0,None,,None,None,None,2,None,As new
+178,,House,Town-house,339000,No,3,160,0,0,None,,None,None,None,3,None,To restore
+179,,House,Town-house,399000,No,2,,1,0,None,,None,None,None,3,None,To be done up
+180,,House,Town-house,495000,No,3,180,0,0,None,,None,None,None,2,None,
+181,Zuidrand Antwerpen,House,Town-house,469000,No,4,275,0,0,None,,None,None,None,2,None,Good
+182,,House,Town-house,715000,No,6,397,0,0,None,,None,None,None,6,None,To renovate
+183,,House,Town-house,349000,No,3,,1,1,None,,None,None,None,2,None,As new
+184,,House,Town-house,180000,No,3,150,0,0,None,,None,None,None,3,None,Good
+185,,House,Town-house,258000,No,3,110,1,0,None,,None,None,None,2,None,Good
+186,,House,Town-house,280000,No,2,150,1,0,None,,None,None,None,3,None,Just renovated
+187,,House,Town-house,339000,No,3,140,0,0,None,,None,None,None,2,None,Good
+188,,House,Town-house,169000,No,2,126,0,0,None,,None,None,None,2,None,Good
+189,,House,Town-house,250000,No,3,135,0,0,None,,None,None,None,2,None,To be done up
+190,,House,Town-house,359000,No,3,,1,0,None,,None,None,None,3,None,
+191,,House,Town-house,369000,No,3,137,0,0,None,,None,None,None,2,None,As new
+192,,House,Town-house,218000,No,2,,0,0,None,,None,None,None,2,None,Good
+193,,House,Town-house,269000,No,2,152,1,0,None,,None,None,None,3,None,Good
+194,,House,Town-house,319000,No,4,176,1,0,None,,None,None,None,2,None,Good
+195,,House,Town-house,369000,No,3,210,1,0,None,,None,None,None,2,None,
+196,,House,Town-house,375000,No,4,355,0,0,None,,None,None,None,2,None,
+197,,House,Town-house,395000,No,3,300,1,0,None,,None,None,None,3,None,
+198,,House,Town-house,210000,No,2,221,1,0,None,,None,None,None,3,None,
+199,,House,Town-house,349500,No,3,233,1,0,None,1,None,None,None,,None,Good
+200,,House,Town-house,429000,No,4,176,1,0,None,,None,None,None,2,None,As new
+201,,House,Town-house,430000,No,3,,0,0,None,,None,None,None,2,None,As new
+202,,House,Town-house,389000,No,3,150,1,0,None,,None,None,None,,None,
+203,,House,Town-house,239000,No,3,172,0,0,None,,None,None,None,,None,
+204,,House,Town-house,299000,No,3,164,0,0,None,1,None,None,None,,None,Good
+205,,House,Town-house,525000,No,5,239,0,0,None,,None,None,None,2,None,Just renovated
+206,,House,Town-house,160000,No,3,,0,0,None,1,None,None,None,2,None,To be done up
+207,,House,Town-house,249000,,3,,1,,None,1,None,None,None,2,None,Good
+208,,House,Town-house,330000,No,3,130,1,0,None,,None,None,None,2,None,As new
+209,,House,Town-house,280000,No,3,,1,,None,1,None,None,None,,None,As new
+210,,House,Town-house,379000,No,4,217,0,,None,,None,None,None,,None,
+211,Regio Zuidrand Antwerpen,House,Town-house,395000,No,4,181,0,,None,1,None,None,None,2,None,
+212,,House,Town-house,190000,No,3,,0,0,None,,None,None,None,,None,To renovate
+213,,House,Town-house,230000,No,3,,0,0,None,,None,None,None,2,None,Good
+214,,House,Town-house,570000,No,4,,0,,None,,None,None,None,2,None,Good
+215,,House,Town-house,598000,No,4,,0,0,None,,None,None,None,4,None,Good
+216,,House,Town-house,199000,No,4,150,0,,None,1,None,None,None,2,None,To renovate
+217,,House,Town-house,390000,No,3,,0,0,None,,None,None,None,2,None,As new
+218,,House,Town-house,695000,No,3,436,0,0,None,1,None,None,None,4,None,
+219,,House,Town-house,185000,No,2,125,0,0,None,,None,None,None,2,None,To be done up
+220,,House,Town-house,190000,No,2,,1,0,None,,None,None,None,2,None,
+221,,House,Town-house,249000,No,4,135,0,0,None,,None,None,None,2,None,Good
+222,,House,Town-house,245000,No,3,,0,0,None,,None,None,None,2,None,
+223,,House,New,From 595000 To 659000,No,,220,0,,None,,None,None,None,,None,
+224,,House,Town-house,55000,No,2,112,0,,None,,None,None,None,2,None,
+225,,House,Town-house,395000,No,3,135,1,0,None,,None,None,None,2,None,
+226,,House,Town-house,415000,No,3,,0,0,None,,None,None,None,2,None,
+227,,House,Town-house,195000,No,3,220,0,0,None,,None,None,None,3,None,As new
+228,,House,Town-house,295000,No,3,140,0,0,None,1,None,None,None,3,None,
+229,,House,Town-house,323000,,3,120,0,,None,,None,None,None,2,None,
+230,,House,Town-house,410000,No,3,,0,0,None,,None,None,None,2,None,As new
+231,,House,Town-house,369000,No,3,200,0,0,None,1,None,None,None,2,None,Good
+232,,House,VSB,283000,No,,,0,,None,,None,None,None,,None,
+233,,House,Town-house,525000,No,,,0,,None,,None,None,None,,None,
+234,,House,Town-house,399000,No,3,177,1,,None,1,None,None,None,2,None,As new
+235,Mariadal,House,Town-house,419000,No,3,142,0,0,None,1,None,None,None,3,None,As new
+236,,House,Town-house,389000,No,3,145,0,,None,,None,None,None,3,None,Good
+237,,House,Town-house,419000,No,3,158,0,,None,1,None,None,None,2,None,Good
+238,Verviers,House,Town-house,290000,No,3,127,1,,None,,None,None,None,2,None,Good
+239,,House,Town-house,285000,No,3,150,1,0,None,,None,None,None,2,None,Good
+240,Park Mariadal,House,Town-house,319000,No,3,120,0,,None,,None,None,None,2,None,
+241,,House,Town-house,410000,Yes,3,145,0,,None,1,None,None,None,2,None,Good
+242,,House,Town-house,415000,No,3,156,0,,None,,None,None,None,2,None,As new
+243,,House,Town-house,349000,No,3,130,1,0,None,,None,None,None,2,None,Good
+244,,House,Town-house,350000,No,3,158,0,0,None,,None,None,None,2,None,Good
+245,,House,Town-house,350000,Yes,3,245,1,0,None,,None,None,None,,None,Good
+246,,House,Town-house,325000,No,3,224,1,0,None,,None,None,None,3,None,
+247,,House,Town-house,395000,No,4,170,1,0,None,,None,None,None,2,None,Good
+248,,House,Town-house,299900,No,2,160,1,0,None,,None,None,None,2,None,Good
+249,,House,Town-house,395000,No,4,320,1,0,None,,None,None,None,4,None,Good
+250,,House,Town-house,319000,Yes,4,199,0,0,None,,None,None,None,3,None,Good
+251,,House,Town-house,438000,,4,185,1,0,None,,None,None,None,3,None,As new
+252,,House,Town-house,349000,No,3,130,1,0,None,,None,None,None,2,None,Good
+253,,House,Town-house,330000,No,3,218,0,0,None,,None,None,None,2,None,Good
+254,,House,Town-house,279000,,3,195,1,0,None,,None,None,None,3,None,Good
+255,,House,Town-house,475000,No,3,360,0,0,None,1,None,None,None,2,None,Good
+256,,House,Town-house,510000,No,3,216,1,0,None,,None,None,None,2,None,Good
+257,,House,Town-house,350000,No,2,90,0,,None,1,None,None,None,2,None,To renovate
+258,,House,Town-house,269900,No,2,100,1,0,None,,None,None,None,2,None,To be done up
+259,,House,Town-house,305000,No,4,145,1,0,None,,None,None,None,2,None,Good
+260,,House,Town-house,335000,No,3,210,0,0,None,1,None,None,None,2,None,Good
+261,,House,Town-house,369000,No,4,222,1,0,None,1,None,None,None,2,None,To be done up
+262,,House,Town-house,369900,No,3,148,1,0,None,,None,None,None,2,None,Good
+263,,House,Town-house,375000,No,3,204,1,0,None,,None,None,None,2,None,Good
+264,,House,Town-house,380000,No,3,155,1,0,None,,None,None,None,3,None,Good
+265,,House,Town-house,440000,No,5,200,1,0,None,,None,None,None,2,None,Good
+266,,House,Town-house,235000,No,2,150,1,0,None,,None,None,None,2,None,Just renovated
+267,,House,Town-house,299000,No,4,189,0,0,None,1,None,None,None,2,None,As new
+268,,House,Town-house,346000,No,3,160,1,0,None,,None,None,None,3,None,As new
+269,,House,Town-house,465000,No,3,220,0,0,None,1,None,None,None,2,None,Good
+270,,House,Town-house,480000,No,4,140,0,0,None,,None,None,None,2,None,To renovate
+271,,House,Town-house,498000,No,5,232,0,0,None,,None,None,None,2,None,Good
+272,,House,Town-house,269000,No,3,140,0,0,None,1,None,None,None,3,None,To be done up
+273,,House,Town-house,219000,,3,150,1,0,None,,None,None,None,2,None,Good
+274,,House,Town-house,175000,,2,,0,,None,1,None,None,None,2,None,To be done up
+275,,House,Town-house,330000,No,3,178,1,0,None,1,None,None,None,2,None,Good
+276,,House,Town-house,374900,No,4,170,1,0,None,,None,None,None,2,None,Just renovated
+277,,House,Town-house,450000,No,3,,0,0,None,,None,None,None,,None,To renovate
+278,,House,Town-house,370000,No,4,160,0,0,None,,None,None,None,2,None,Good
+279,,House,Town-house,175000,No,3,,0,0,None,,None,None,None,3,None,Good
+280,,House,Town-house,219000,No,3,127,0,0,None,,None,None,None,2,None,To be done up
+281,Omgeving Aalst,House,Town-house,229000,No,2,184,0,0,None,,None,None,None,2,None,Good
+282,Angleur,House,Town-house,319000,No,3,180,1,,None,1,None,None,None,2,None,To restore
+283,,House,Town-house,545000,No,6,222,1,0,None,,None,None,None,2,None,
+284,,House,Town-house,395000,No,3,136,0,,None,,None,None,None,,None,As new
+285,,House,Town-house,425000,No,3,193,0,0,None,,None,None,None,2,None,Good
+286,,House,Town-house,179000,No,2,99,0,,None,,None,None,None,2,None,To renovate
+287,,House,Town-house,235000,No,3,102,0,0,None,,None,None,None,2,None,Good
+288,,House,Town-house,347000,No,3,,1,0,None,1,None,None,None,2,None,Good
+289,,House,Town-house,199000,No,3,267,1,0,None,,None,None,None,3,None,Good
+290,,House,Town-house,210000,No,3,94,1,,None,,None,None,None,2,None,Good
+291,,House,Town-house,219999,No,3,186,0,0,None,,None,None,None,4,None,
+292,,House,Town-house,265000,No,2,116,1,0,None,,None,None,None,3,None,As new
+293,,House,Town-house,275000,No,3,160,0,0,None,1,None,None,None,2,None,To renovate
+294,,House,Town-house,275000,No,3,160,0,0,None,1,None,None,None,2,None,To renovate
+295,,House,Town-house,275000,No,3,160,0,0,None,1,None,None,None,2,None,To renovate
+296,,House,Town-house,165000,No,3,,0,0,None,,None,None,None,3,None,To be done up
+297,,House,Town-house,225000,No,3,,0,,None,,None,None,None,2,None,To be done up
+298,,House,Town-house,268000,No,2,120,0,0,None,,None,None,None,,None,As new
+299,,House,Town-house,284000,No,3,137,0,0,None,,None,None,None,2,None,Good
+300,,House,Town-house,379500,No,2,180,1,0,None,,None,None,None,2,None,To be done up
+301,Prince de liège,House,Town-house,395000,No,2,150,0,0,None,,None,None,None,,None,Good
+302,,House,Town-house,165000,,3,120,0,,None,,None,None,None,2,None,To be done up
+303,Seraing -Haut,House,Town-house,160000,No,2,110,0,,None,,None,None,None,3,None,To be done up
+304,,House,Town-house,335000,,3,160,0,,None,,None,None,None,2,None,Good
+305,,House,Town-house,435000,No,2,118,1,0,None,,None,None,None,3,None,Good
+306,,House,Town-house,715000,Yes,4,240,0,0,None,,None,None,None,2,None,As new
+307,,House,Town-house,280000,No,3,141,1,0,None,1,None,None,None,,None,Just renovated
+308,,House,Town-house,269000,No,4,,0,0,None,1,None,None,None,,None,Good
+309,,House,Town-house,270000,No,3,115,1,0,None,,None,None,None,2,None,As new
+310,,House,Town-house,319000,No,3,170,1,,None,,None,None,None,2,None,
+311,,House,Town-house,350000,,3,175,0,1,None,1,None,None,None,2,None,
+312,,House,Town-house,290000,No,3,,0,0,None,,None,None,None,3,None,To be done up
+313,,House,Town-house,349000,No,3,217,0,0,None,1,None,None,None,2,None,Good
+314,,House,Town-house,399000,No,3,167,0,0,None,,None,None,None,,None,
+315,,House,Town-house,248000,No,3,151,1,0,None,,None,None,None,2,None,Good
+316,,House,Town-house,239900,No,5,236,1,0,None,,None,None,None,3,None,Good
+317,,House,Town-house,125000,,2,,1,,None,,None,None,None,3,None,Good
+318,,House,Town-house,245000,No,3,,0,,None,1,None,None,None,3,None,Good
+319,,House,Town-house,249000,No,3,289,1,0,None,,None,None,None,4,None,Good
+320,,House,Town-house,340000,No,4,,0,,None,1,None,None,None,2,None,To renovate
+321,,House,Town-house,349000,No,3,315,0,,None,,None,None,None,3,None,Good
+322,,House,Town-house,399000,No,3,134,1,0,None,,None,None,None,2,None,Good
+323,,House,Town-house,440000,No,3,160,0,0,None,,None,None,None,3,None,Just renovated
+324,,House,Town-house,500000,No,3,115,1,0,None,,None,None,None,3,None,Good
+325,,House,Town-house,345000,No,3,215,0,0,None,1,None,None,None,2,None,Good
+326,,House,Town-house,349000,No,4,217,1,0,None,,None,None,None,3,None,Good
+327,,House,Town-house,399000,No,6,200,0,0,None,1,None,None,None,2,None,
+328,,House,Town-house,449000,No,5,231,0,0,None,,None,None,None,2,None,As new
+329,ULB Cimetière d'Ixelles,House,Town-house,880000,,4,295,1,0,None,,None,None,None,2,None,Good
+330,,House,Town-house,329000,No,2,130,0,0,None,,None,None,None,,None,Good
+331,,House,Town-house,200000,No,2,151,0,0,None,,None,None,None,2,None,As new
+332,,House,Town-house,228000,No,2,,1,0,None,,None,None,None,2,None,
+333,,House,Town-house,265000,No,2,,0,0,None,,None,None,None,2,None,To be done up
+334,,House,Town-house,385000,No,2,210,1,0,None,,None,None,None,2,None,As new
+335,,House,Town-house,285000,No,2,250,0,0,None,1,None,None,None,3,None,
+336,,House,Town-house,198000,No,2,140,1,,None,,None,None,None,2,None,Good
+337,,House,Town-house,260000,No,4,180,1,,None,,None,None,None,3,None,As new
+338,,House,Town-house,355000,No,3,181,1,0,None,,None,None,None,2,None,
+339,,House,Town-house,365000,,2,198,1,0,None,,None,None,None,2,None,Good
+340,,House,Town-house,695000,No,4,,1,0,None,,None,None,None,2,None,Good
+341,"Dichtbij openbaar vervoer, school,Ziekenhuis. Win.",House,Town-house,340000,Yes,3,300,0,,None,,None,None,None,2,None,
+342,,House,Town-house,250000,,3,200,0,0,None,1,None,None,None,2,None,As new
+343,,House,Town-house,169000,No,3,105,1,,None,,None,None,None,,None,As new
+344,Liège,House,Town-house,180000,No,4,168,1,,None,1,None,None,None,3,None,To be done up
+345,,House,Town-house,249000,No,3,182,0,1,None,,None,None,None,2,None,Good
+346,,House,Town-house,249000,No,2,180,0,0,None,,None,None,None,2,None,As new
+347,,House,Town-house,325000,,3,,0,,None,,None,None,None,3,None,Good
+348,,House,Town-house,337000,No,2,176,1,0,None,,None,None,None,3,None,
+349,,House,Town-house,295000,No,2,126,0,0,None,,None,None,None,,None,Good
+350,,House,Town-house,139000,No,1,,0,0,None,,None,None,None,2,None,Good
+351,,House,Town-house,415000,No,3,,0,0,None,,None,None,None,1,None,Good
+352,,House,Town-house,159000,No,2,100,1,0,None,,None,None,None,4,None,
+353,,House,Town-house,190000,No,2,,0,0,None,,None,None,None,3,None,To renovate
+354,,House,Town-house,299000,No,2,230,1,0,None,,None,None,None,4,None,Good
+355,,House,Town-house,385000,No,3,,0,0,None,,None,None,None,3,None,As new
+356,,House,Town-house,449000,No,3,,1,,None,1,None,None,None,3,None,As new
+357,,House,Town-house,170000,,3,90,1,,None,1,None,None,None,2,None,Good
+358,,House,Town-house,195000,,3,160,1,,None,,None,None,None,2,None,
+359,,House,Town-house,229000,No,3,,1,0,None,,None,None,None,2,None,Good
+360,,House,Town-house,319000,,6,,1,0,None,,None,None,None,3,None,
+361,,House,Town-house,274500,,3,160,0,0,None,,None,None,None,3,None,
+362,,House,Town-house,770000,,4,200,0,,None,,None,None,None,2,None,Good
+363,,House,Town-house,320000,No,1,139,1,0,None,,None,None,None,2,None,
+364,,House,Town-house,240000,No,2,,0,0,None,,None,None,None,4,None,Good
+365,,House,Town-house,389000,No,3,155,0,0,None,,None,None,None,2,None,Good
+366,,House,Town-house,389000,No,2,155,0,0,None,,None,None,None,2,None,Good
+367,,House,Town-house,765000,,5,,0,0,None,,None,None,None,2,None,
+368,,House,Town-house,235000,No,3,160,0,,None,1,None,None,None,3,None,As new
+369,QUIEVRAIN -HENSIES-DOUR,House,Town-house,119800,No,2,150,0,0,None,,None,None,None,2,None,
+370,,House,Town-house,123000,No,3,110,0,,None,,None,None,None,3,None,Good
+371,,House,Town-house,170000,No,2,122,0,0,None,,None,None,None,3,None,
+372,,House,Town-house,399000,No,4,248,1,0,None,,None,None,None,2,None,
+373,,House,Town-house,340000,,2,190,1,,None,,None,None,None,2,None,
+374,,House,Town-house,250000,No,3,191,1,0,None,,None,None,None,,None,
+375,,House,Town-house,300000,No,2,,0,0,None,,None,None,None,2,None,

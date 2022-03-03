@@ -1,0 +1,104 @@
+,Locality,Type of property,Subtype of property,Price,Type of sale,Number of rooms,Area,Fully equipped kitchen,Furnished,Open fire,Terrace,Garden,Surface of the land,Surface area of the plot of land,Number of facades,Swimming pool,State of the building
+0,,House,Chalet,110000,No,2,,0,0,None,,None,None,None,4,None,To be done up
+1,,House,Chalet,189000,No,2,60,0,0,None,,None,None,None,4,None,Good
+2,Buiten Knokke,House,Chalet,2750000,No,28,,1,1,None,1,None,None,None,4,None,Good
+3,,House,Chalet,14500,No,1,45,0,0,None,1,None,None,None,4,None,To renovate
+4,,House,Chalet,245000,No,2,120,0,0,None,,None,None,None,4,None,To renovate
+5,,House,Chalet,130000,No,2,55,0,0,None,,None,None,None,4,None,Good
+6,,House,Chalet,199000,No,4,65,0,0,None,,None,None,None,4,None,Good
+7,Liège,House,Chalet,67500,No,2,75,0,0,None,,None,None,None,4,None,To renovate
+8,,House,Chalet,119000,No,2,55,1,0,None,,None,None,None,4,None,As new
+9,,House,Chalet,Starting price : 70000,No,2,,1,,None,,None,None,None,4,None,Good
+10,,House,Chalet,Starting price : 95000,No,1,,1,,None,,None,None,None,4,None,
+11,,House,Chalet,69000,No,1,37,0,0,None,,None,None,None,4,None,
+12,,House,Chalet,332000,No,3,94,0,0,None,,None,None,None,,None,As new
+13,,House,Chalet,Starting price : 35000,No,2,,0,,None,,None,None,None,4,None,To restore
+14,,House,Chalet,110000,No,1,43,0,,None,,None,None,None,,None,
+15,,House,Chalet,250000,No,5,134,1,1,None,,None,None,None,4,None,Good
+16,,House,Chalet,100000,No,1,50,1,0,None,1,None,None,None,4,None,
+17,,House,Chalet,189000,No,3,80,0,0,None,,None,None,None,4,None,
+18,West -Vlaanderen,House,Chalet,145000,No,2,44,0,1,None,1,None,None,None,4,None,
+19,,House,Chalet,120000,No,2,44,1,0,None,,None,None,None,4,None,As new
+20,,House,Chalet,Starting price : 25000,No,1,,0,1,None,,None,None,None,4,None,
+21,,House,Chalet,75000,No,1,27,0,0,None,,None,None,None,4,None,
+22,,House,Chalet,90000,No,2,70,1,0,None,,None,None,None,4,None,
+23,,House,Chalet,165000,No,2,40,0,,None,,None,None,None,4,None,
+24,,House,Chalet,95000,No,2,80,0,,None,,None,None,None,4,None,
+25,,House,Chalet,99000,No,2,80,0,0,None,,None,None,None,4,None,Good
+26,,House,Chalet,59000,No,1,45,0,0,None,,None,None,None,4,None,To be done up
+27,,House,Chalet,249000,No,3,80,1,1,None,,None,None,None,4,None,To be done up
+28,,House,Chalet,175000,No,3,77,0,0,None,1,None,None,None,4,None,Good
+29,,House,Chalet,495000,No,4,227,1,,None,,None,None,None,4,None,Good
+30,,House,Chalet,160000,No,1,50,1,0,None,,None,None,None,4,None,Just renovated
+31,,House,Chalet,189000,No,3,104,1,0,None,,None,None,None,4,None,Good
+32,,House,Chalet,30000,No,1,40,1,1,None,,None,None,None,4,None,Good
+33,,House,Chalet,245000,No,2,101,1,,None,,None,None,None,,None,
+34,,House,Chalet,128000,No,2,109,0,,None,1,None,None,None,4,None,Good
+35,,House,Chalet,360000,No,4,245,0,,None,1,None,None,None,4,None,As new
+36,,House,Chalet,55000,No,2,60,1,0,None,,None,None,None,4,None,Good
+37,,House,Chalet,90000,No,2,46,0,1,None,,None,None,None,4,None,To be done up
+38,,House,Chalet,79000,No,1,60,0,,None,1,None,None,None,4,None,
+39,"Durbuy, Barvaux, Grandhan, Septon, Wéris",House,Chalet,197342,No,2,60,0,0,None,1,None,None,None,4,None,As new
+40,"Durbuy, Barvaux, Grandhan, Septon, Wéris",House,Chalet,193688,No,2,60,0,0,None,1,None,None,None,4,None,As new
+41,,,,None,,,,0,,None,,None,None,None,,None,
+42,,House,Chalet,230000,No,3,80,0,0,None,,None,None,None,1,None,As new
+43,"Durbuy, Barvaux, Grandhan, Septon, Wéris",House,Chalet,197748,No,3,60,0,0,None,1,None,None,None,4,None,As new
+44,,House,Chalet,25000,No,2,49,0,0,None,,None,None,None,4,None,To renovate
+45,,House,Chalet,25000,No,,,0,,None,,None,None,None,4,None,
+46,,House,Chalet,199000,No,2,65,0,1,None,,None,None,None,4,None,Good
+47,,House,Chalet,259000,No,3,65,0,1,None,,None,None,None,4,None,As new
+48,,House,Chalet,172000,No,2,65,0,1,None,,None,None,None,4,None,Good
+49,,House,Chalet,210000,No,3,142,1,,None,,None,None,None,4,None,Good
+50,,House,Chalet,90000,No,2,51,0,1,None,,None,None,None,4,None,Good
+51,,House,Chalet,210000,No,2,49,0,1,None,1,None,None,None,4,None,
+52,,House,Chalet,395000,No,4,200,0,1,None,,None,None,None,4,None,Good
+53,,House,Chalet,197000,No,2,76,0,0,None,1,None,None,None,4,None,Good
+54,,House,Chalet,190000,No,2,67,0,0,None,,None,None,None,4,None,Good
+55,,House,Chalet,90000,No,2,65,1,0,None,,None,None,None,4,None,Good
+56,,House,Chalet,215000,No,3,100,1,0,None,,None,None,None,4,None,Good
+57,Regio Hasselt,House,Chalet,274000,No,2,146,0,,None,1,None,None,None,4,None,Good
+58,,House,Chalet,130000,No,1,80,0,0,None,1,None,None,None,4,None,Good
+59,,House,Chalet,176000,No,2,63,1,1,None,1,None,None,None,4,None,
+60,,House,Chalet,130000,No,2,,1,,None,1,None,None,None,4,None,Good
+61,,House,Chalet,415000,No,3,110,0,0,None,,None,None,None,4,None,As new
+62,,House,Chalet,120000,No,1,62,0,0,None,1,None,None,None,4,None,Just renovated
+63,,House,Chalet,135000,No,3,,0,1,None,,None,None,None,4,None,Good
+64,Ardenne,House,Chalet,89500,No,2,46,0,,None,,None,None,None,4,None,Good
+65,,House,Chalet,110000,No,1,,1,,None,1,None,None,None,4,None,Good
+66,,House,Chalet,249000,No,2,106,0,,None,,None,None,None,4,None,As new
+67,Ardenne,House,Chalet,295000,No,3,136,0,1,None,1,None,None,None,4,None,As new
+68,,House,Chalet,179000,No,1,44,0,0,None,,None,None,None,,None,
+69,,House,Chalet,62500,No,2,48,0,,None,1,None,None,None,4,None,
+70,Ardenne,House,Chalet,98000,No,2,56,0,1,None,1,None,None,None,4,None,As new
+71,,House,Chalet,44900,No,1,25,1,0,None,,None,None,None,4,None,Just renovated
+72,,House,Chalet,59000,No,2,45,0,1,None,,None,None,None,4,None,Good
+73,,House,Chalet,205000,No,3,70,1,0,None,,None,None,None,4,None,
+74,,House,Chalet,75000,No,2,50,0,,None,1,None,None,None,3,None,
+75,,House,Chalet,209000,No,2,141,0,,None,,None,None,None,4,None,Good
+76,,House,Chalet,103000,No,2,56,0,,None,1,None,None,None,4,None,
+77,,House,Chalet,25000 + 350 per month,No,1,50,0,0,None,,None,None,None,4,None,Good
+78,,House,Chalet,85000,No,2,,0,0,None,1,None,None,None,4,None,To renovate
+79,,House,Chalet,260000,No,2,100,0,1,None,1,None,None,None,4,None,Good
+80,,House,Chalet,250000,No,2,,1,,None,1,None,None,None,4,None,
+81,,House,Chalet,55000,No,2,,0,0,None,1,None,None,None,4,None,To renovate
+82,,House,Chalet,56000,No,2,40,0,,None,1,None,None,None,4,None,Good
+83,,House,Chalet,95000,No,2,47,0,0,None,1,None,None,None,,None,
+84,,House,Chalet,99000,No,2,54,0,,None,1,None,None,None,4,None,As new
+85,,House,Chalet,245000,No,2,82,1,1,None,1,None,None,None,2,None,Good
+86,,House,Chalet,62000,No,1,,0,,None,,None,None,None,4,None,
+87,,House,Chalet,259500,No,2,,1,0,None,,None,None,None,2,None,Good
+88,,House,Chalet,105000,No,3,55,0,,None,1,None,None,None,2,None,
+89,,House,Chalet,140000,No,2,60,0,,None,,None,None,None,4,None,As new
+90,,House,Chalet,57000,No,2,47,0,0,None,,None,None,None,,None,
+91,,House,Chalet,139000,No,1,48,0,,None,1,None,None,None,4,None,As new
+92,,House,Chalet,100000,No,3,100,0,0,None,,None,None,None,,None,
+93,,House,Chalet,110000,No,1,,0,,None,,None,None,None,4,None,
+94,,House,Chalet,299000,No,2,79,0,0,None,,None,None,None,3,None,
+95,,House,Chalet,99000,No,3,,1,0,None,1,None,None,None,,None,
+96,,House,Chalet,250000,No,2,62,0,0,None,1,None,None,None,4,None,
+97,,House,Chalet,299000,No,2,92,0,,None,1,None,None,None,4,None,
+98,Mont-Meuse,House,Chalet,79000,No,1,,0,,None,1,None,None,None,,None,
+99,,House,Chalet,279000,No,3,79,0,0,None,,None,None,None,3,None,
+100,,House,Chalet,289000,No,3,79,0,0,None,,None,None,None,3,None,
+101,,House,Chalet,289000,No,2,79,0,0,None,,None,None,None,2,None,
+102,,House,Chalet,165000,No,2,,0,,None,,None,None,None,4,None,

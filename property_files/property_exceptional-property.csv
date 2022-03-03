@@ -1,0 +1,559 @@
+,Locality,Type of property,Subtype of property,Price,Type of sale,Number of rooms,Area,Fully equipped kitchen,Furnished,Open fire,Terrace,Garden,Surface of the land,Surface area of the plot of land,Number of facades,Swimming pool,State of the building
+0,,House,Exceptional,449000,No,5,277,0,0,None,,None,None,None,4,None,As new
+1,Zone Sud Province du Luxembourg,House,Exceptional,720000,No,4,205,0,0,None,1,None,None,None,4,None,To be done up
+2,,House,Exceptional,845000,No,6,310,0,0,None,,None,None,None,2,None,As new
+3,Liège,House,Exceptional,995000,No,10,650,0,0,None,,None,None,None,4,None,To renovate
+4,,House,Exceptional,695000,No,4,385,0,,None,1,None,None,None,2,None,To be done up
+5,,House,Exceptional,559000,No,3,129,0,0,None,1,None,None,None,4,None,As new
+6,,House,Exceptional,1850000,No,6,600,0,0,None,,None,None,None,4,None,As new
+7,Zone Sud Province du Luxembourg,House,Exceptional,675000,No,4,290,0,0,None,1,None,None,None,3,None,Good
+8,,House,Exceptional,2399000,No,5,400,0,0,None,,None,None,None,4,None,As new
+9,,House,Exceptional,2699000,No,4,530,0,1,None,,None,None,None,4,None,Good
+10,,House,Exceptional,600000,No,4,180,1,0,None,,None,None,None,4,None,As new
+11,Zone Province de Namur,House,Exceptional,None,No,7,777,0,1,None,1,None,None,None,4,None,As new
+12,,House,Exceptional,880000,No,4,437,0,0,None,,None,None,None,4,None,As new
+13,,House,Exceptional,1500000,No,6,598,0,1,None,1,None,None,None,4,None,Good
+14,,House,Exceptional,975000,No,5,550,1,0,None,,None,None,None,,None,Good
+15,,House,Exceptional,598000,No,3,260,0,,None,,None,None,None,4,None,As new
+16,,House,Exceptional,720000,No,4,384,0,0,None,,None,None,None,3,None,As new
+17,Fort-Jaco,House,Exceptional,1400000,,3,350,0,0,None,,None,None,None,4,None,Good
+18,,House,Exceptional,3750000,No,5,362,0,0,None,,None,None,None,4,None,As new
+19,Liège,House,Exceptional,799000,No,2,350,0,0,None,,None,None,None,2,None,As new
+20,,House,Exceptional,645000,No,5,250,0,0,None,,None,None,None,4,None,As new
+21,,House,Exceptional,850000,No,5,283,0,0,None,,None,None,None,2,None,As new
+22,,House,Exceptional,850000,No,5,283,0,0,None,,None,None,None,2,None,As new
+23,,House,Exceptional,850000,No,3,430,0,0,None,,None,None,None,3,None,As new
+24,,House,Exceptional,1295000,No,10,377,0,,None,1,None,None,None,4,None,To renovate
+25,,House,Exceptional,1495000,No,5,450,0,0,None,,None,None,None,7,None,
+26,,House,Exceptional,1875000,No,6,375,1,0,None,,None,None,None,4,None,Good
+27,,House,Exceptional,1950000,Yes,6,1165,0,0,None,,None,None,None,4,None,As new
+28,,House,Exceptional,1950000,Yes,6,1165,0,0,None,,None,None,None,4,None,As new
+29,,House,Exceptional,881000,No,5,,0,,None,1,None,None,None,4,None,To renovate
+30,,House,Exceptional,480000,No,4,212,0,0,None,,None,None,None,2,None,To renovate
+31,Oud Antwerpen,House,Exceptional,2950000,No,7,696,1,0,None,,None,None,None,2,None,As new
+32,,House,Exceptional,3380000,No,7,600,0,0,None,,None,None,None,4,None,As new
+33,,House,Exceptional,4290000,No,5,260,0,0,None,1,None,None,None,3,None,Good
+34,,House,Exceptional,1200000,No,10,460,0,0,None,,None,None,None,4,None,Good
+35,,House,Exceptional,1587000,No,4,926,1,0,None,,None,None,None,4,None,Just renovated
+36,,House,Exceptional,495000,No,4,197,0,0,None,1,None,None,None,4,None,To renovate
+37,Zone Province de Namur,House,Exceptional,689000,No,13,750,0,0,None,1,None,None,None,3,None,Good
+38,,House,Exceptional,1250000,No,5,500,0,0,None,1,None,None,None,4,None,As new
+39,,House,Exceptional,1250000,No,5,735,0,0,None,,None,None,None,4,None,As new
+40,,House,Exceptional,1650000,No,7,370,1,0,None,1,None,None,None,4,None,Good
+41,,House,Exceptional,1820000,No,4,635,0,0,None,,None,None,None,2,None,Good
+42,,House,Exceptional,1850000,No,6,600,0,0,None,,None,None,None,4,None,As new
+43,,,,None,,,,0,,None,,None,None,None,,None,
+44,,House,Exceptional,4950000,No,6,1500,0,0,None,,None,None,None,4,None,As new
+45,,House,Exceptional,290000,No,3,176,0,0,None,,None,None,None,4,None,
+46,,House,Exceptional,640000,No,3,176,0,0,None,1,None,None,None,4,None,
+47,,House,Exceptional,1249000,No,5,478,0,0,None,,None,None,None,2,None,As new
+48,,House,Exceptional,849000,No,5,559,0,0,None,,None,None,None,4,None,To renovate
+49,,House,Exceptional,1195000,No,5,450,0,0,None,,None,None,None,2,None,To renovate
+50,,House,Exceptional,1195000,No,5,450,0,0,None,,None,None,None,2,None,To renovate
+51,,House,Exceptional,4950000,No,6,800,0,,None,,None,None,None,4,None,As new
+52,,House,Exceptional,239000,No,3,152,0,0,None,,None,None,None,3,None,Good
+53,,House,Exceptional,640000,No,5,300,0,0,None,,None,None,None,4,None,As new
+54,,House,Exceptional,895000,No,9,809,1,0,None,,None,None,None,2,None,As new
+55,,House,Exceptional,325000,No,4,380,0,0,None,,None,None,None,3,None,Good
+56,,House,Exceptional,550000,No,6,743,1,0,None,,None,None,None,2,None,Good
+57,,House,Exceptional,575000,No,5,365,1,0,None,,None,None,None,4,None,Just renovated
+58,,House,Exceptional,595000,No,4,165,0,0,None,,None,None,None,4,None,To renovate
+59,Zone Centre Province du Luxembourg,House,Exceptional,649000,No,7,440,0,0,None,,None,None,None,4,None,Good
+60,GROTE MARKT,House,Exceptional,739000,No,9,360,1,0,None,,None,None,None,3,None,Good
+61,,House,Exceptional,1000000,No,6,376,0,0,None,,None,None,None,3,None,To renovate
+62,Huy,House,Exceptional,1480000,No,12,917,1,0,None,,None,None,None,4,None,Good
+63,,House,Exceptional,1680000,No,6,460,0,0,None,,None,None,None,4,None,As new
+64,,House,Exceptional,2985000,No,6,480,0,,None,1,None,None,None,4,None,As new
+65,,House,Exceptional,680000,No,5,380,1,0,None,,None,None,None,4,None,Just renovated
+66,,House,Exceptional,529000,No,3,201,1,0,None,,None,None,None,4,None,Good
+67,,House,Exceptional,4950000,No,6,1100,0,,None,,None,None,None,4,None,As new
+68,,House,Exceptional,299999,No,4,260,1,0,None,,None,None,None,4,None,Good
+69,,House,Exceptional,310000,No,3,,0,0,None,1,None,None,None,2,None,To renovate
+70,,House,Exceptional,490000,No,4,318,0,0,None,1,None,None,None,4,None,As new
+71,,House,Exceptional,600000,No,5,500,0,0,None,,None,None,None,3,None,
+72,Quartier Latin,House,Exceptional,1695000,Yes,5,330,1,1,None,,None,None,None,1,None,As new
+73,,House,Exceptional,1775000,No,8,270,0,0,None,1,None,None,None,3,None,As new
+74,,House,Exceptional,745000,No,6,291,0,0,None,,None,None,None,,None,As new
+75,Knokke-Heist,House,Exceptional,5850000,No,6,305,0,0,None,1,None,None,None,4,None,Good
+76,,House,Exceptional,698000,No,4,400,0,0,None,,None,None,None,4,None,Just renovated
+77,,House,Exceptional,820000,No,3,397,0,,None,1,None,None,None,4,None,As new
+78,,House,Exceptional,4950000,No,6,728,0,0,None,,None,None,None,4,None,Good
+79,,House,Exceptional,555000,No,4,250,0,0,None,1,None,None,None,2,None,To be done up
+80,Aalst,House,Exceptional,325000,No,3,208,0,0,None,,None,None,None,2,None,
+81,,House,Exceptional,695000,No,8,503,0,,None,,None,None,None,4,None,Good
+82,,House,Exceptional,1185000,No,4,502,0,0,None,,None,None,None,4,None,As new
+83,,House,Exceptional,1185000,No,4,502,0,0,None,,None,None,None,4,None,As new
+84,,House,Exceptional,2300000,No,3,400,0,,None,,None,None,None,2,None,As new
+85,,House,Exceptional,2350000,No,5,485,0,0,None,,None,None,None,2,None,As new
+86,,House,Exceptional,2450000,No,8,730,0,,None,1,None,None,None,4,None,As new
+87,,House,Exceptional,2750000,No,6,668,0,0,None,,None,None,None,2,None,As new
+88,,House,Exceptional,1300000,Yes,6,570,1,0,None,,None,None,None,2,None,As new
+89,,House,Exceptional,1650000,No,8,2274,0,0,None,,None,None,None,4,None,To be done up
+90,regio Aalst + deelgemeenten,House,Exceptional,749000,No,3,221,0,,None,1,None,None,None,2,None,As new
+91,,House,Exceptional,590000,No,6,400,1,0,None,,None,None,None,,None,To renovate
+92,,House,Exceptional,275000,No,4,311,1,,None,,None,None,None,3,None,Good
+93,,House,Exceptional,495000,No,6,252,0,0,None,,None,None,None,4,None,Good
+94,,House,Exceptional,495000,,4,235,0,,None,,None,None,None,4,None,As new
+95,,House,Exceptional,690000,No,3,230,0,0,None,,None,None,None,4,None,Good
+96,,House,Exceptional,895000,Yes,5,200,1,1,None,,None,None,None,2,None,As new
+97,,House,Exceptional,1050000,No,6,470,1,0,None,,None,None,None,4,None,Just renovated
+98,,House,Exceptional,550000 + 5800 per month,Yes,6,570,1,0,None,,None,None,None,2,None,As new
+99,,House,Exceptional,675000,No,4,300,0,,None,,None,None,None,,None,
+100,,House,Exceptional,Starting price : 950000,No,5,392,1,,None,1,None,None,None,4,None,Good
+101,,House,Exceptional,399000,No,4,291,1,0,None,1,None,None,None,,None,As new
+102,,House,Exceptional,529000,No,3,247,1,,None,,None,None,None,2,None,Good
+103,,House,Exceptional,630000,No,7,600,0,0,None,1,None,None,None,4,None,To renovate
+104,,House,Exceptional,645000,No,4,240,1,0,None,1,None,None,None,4,None,Good
+105,,House,Exceptional,649000,No,4,426,0,0,None,1,None,None,None,3,None,Good
+106,,House,Exceptional,649000,No,4,426,0,0,None,1,None,None,None,3,None,Good
+107,,House,Exceptional,Starting price : 990000,No,3,355,1,,None,1,None,None,None,4,None,As new
+108,,House,Exceptional,1150000,Yes,16,700,0,,None,,None,None,None,,None,As new
+109,,House,Exceptional,325000,No,4,244,0,0,None,,None,None,None,3,None,To be done up
+110,Centre,House,Exceptional,2999000,,11,700,0,,None,,None,None,None,4,None,Good
+111,,House,Exceptional,539000,No,4,480,0,,None,,None,None,None,4,None,To renovate
+112,,House,Exceptional,1350000,No,12,553,0,,None,,None,None,None,2,None,Good
+113,,House,Exceptional,425000,No,2,267,0,,None,,None,None,None,,None,As new
+114,,House,Exceptional,849000,No,4,305,0,0,None,1,None,None,None,4,None,As new
+115,,House,Exceptional,1850000,No,6,607,0,,None,,None,None,None,4,None,As new
+116,,House,Exceptional,3450000,No,5,600,1,0,None,,None,None,None,3,None,Good
+117,Zuiden van Antwerpen,House,Exceptional,945000,No,4,353,0,,None,1,None,None,None,3,None,As new
+118,,House,Exceptional,950000,No,4,261,1,0,None,,None,None,None,,None,
+119,,House,Exceptional,1250000,No,10,1771,0,0,None,,None,None,None,4,None,As new
+120,,House,Exceptional,1950000,Yes,13,495,1,0,None,,None,None,None,,None,As new
+121,Knokke-Heist,House,Luxe,From 3875000 To 4120000,No,,,0,,None,,None,None,None,,None,
+122,,House,Exceptional,980000,No,7,236,0,0,None,1,None,None,None,4,None,To be done up
+123,,House,Exceptional,1050000,No,2,211,0,,None,1,None,None,None,2,None,As new
+124,,House,Exceptional,2800000,No,6,910,0,0,None,1,None,None,None,2,None,
+125,,House,Exceptional,3250000,No,5,545,0,,None,,None,None,None,4,None,As new
+126,,House,Exceptional,395000,No,3,185,1,0,None,,None,None,None,4,None,Good
+127,Antwerpen centrum,House,Exceptional,1495000,No,4,367,0,,None,,None,None,None,2,None,As new
+128,Antwerpen centrum,House,Exceptional,1495000,No,4,367,0,,None,,None,None,None,2,None,As new
+129,1 ZOUTE,House,Exceptional,1595000,No,4,,0,1,None,1,None,None,None,3,None,As new
+130,Luxembourg,House,Exceptional,1650000,No,9,424,0,0,None,,None,None,None,4,None,As new
+131,,House,Exceptional,480000,No,2,180,1,0,None,,None,None,None,4,None,Good
+132,,House,Exceptional,485000,No,3,235,0,0,None,,None,None,None,4,None,To renovate
+133,,House,Exceptional,519900,No,5,300,1,0,None,,None,None,None,3,None,Good
+134,,House,Exceptional,1980000,No,6,,0,0,None,,None,None,None,4,None,To be done up
+135,,House,Exceptional,3950000,No,5,640,0,0,None,1,None,None,None,2,None,As new
+136,,House,Project,From 358939 To 447854,No,,bedrooms,0,,None,,None,None,None,,None,
+137,,House,Exceptional,1999000,No,6,952,0,0,None,1,None,None,None,4,None,
+138,,House,Exceptional,529000,No,4,180,1,0,None,,None,None,None,2,None,Good
+139,,House,Exceptional,1095000,,5,480,0,,None,,None,None,None,4,None,As new
+140,,House,Exceptional,1095000,,5,480,0,,None,,None,None,None,4,None,As new
+141,,House,Exceptional,560000,No,4,145,0,0,None,,None,None,None,2,None,Good
+142,,House,Exceptional,590000,No,6,200,0,,None,,None,None,None,4,None,As new
+143,"""Le Village""",House,Exceptional,Starting price : 150000,No,3,,0,,None,,None,None,None,,None,
+144,,House,Exceptional,339000,No,3,139,1,0,None,,None,None,None,2,None,As new
+145,,House,Exceptional,649000,No,3,189,0,,None,1,None,None,None,2,None,As new
+146,,House,Exceptional,649000,No,5,,0,,None,,None,None,None,4,None,To renovate
+147,,House,Exceptional,850000,No,4,334,0,0,None,,None,None,None,2,None,
+148,,House,Exceptional,995000,No,4,542,0,0,None,,None,None,None,4,None,Good
+149,,House,Exceptional,1750000,No,4,548,0,,None,,None,None,None,3,None,As new
+150,,House,Exceptional,1900000,No,8,1500,1,,None,1,None,None,None,4,None,To be done up
+151,,House,Exceptional,2750000,No,7,680,0,0,None,,None,None,None,4,None,As new
+152,Oost- Vlaanderen,House,Exceptional,415000,No,4,205,0,,None,,None,None,None,2,None,As new
+153,Oost- Vlaanderen,House,Exceptional,449000,No,4,225,0,,None,,None,None,None,3,None,As new
+154,Oost- Vlaanderen,House,Exceptional,449000,No,4,225,0,,None,,None,None,None,3,None,As new
+155,,House,Exceptional,935000,Yes,5,510,0,,None,,None,None,None,,None,
+156,,House,Exceptional,1950000,Yes,8,540,1,1,None,,None,None,None,,None,
+157,,House,Exceptional,1550000,No,6,600,0,0,None,,None,None,None,4,None,As new
+158,Grand Liège,House,Exceptional,490000,No,8,501,0,0,None,1,None,None,None,3,None,
+159,,House,Exceptional,688000,No,3,270,0,0,None,,None,None,None,4,None,As new
+160,,House,Exceptional,1150000,,3,300,1,0,None,1,None,None,None,4,None,Good
+161,Zone Centre Province du Luxembourg,House,Exceptional,1785000,No,20,,0,,None,1,None,None,None,4,None,As new
+162,,House,Exceptional,340000,No,5,180,0,0,None,,None,None,None,4,None,To be done up
+163,,House,Exceptional,690000,No,4,324,0,,None,,None,None,None,4,None,As new
+164,,,,None,,,,0,,None,,None,None,None,,None,
+165,,House,Exceptional,875000,No,4,357,1,,None,,None,None,None,4,None,Good
+166,,House,Exceptional,1195000,No,4,650,1,0,None,,None,None,None,2,None,Good
+167,,House,Exceptional,1125000,No,6,540,0,0,None,,None,None,None,4,None,As new
+168,,House,Exceptional,1125000,No,6,540,0,0,None,1,None,None,None,4,None,As new
+169,,House,Exceptional,1975000,No,5,604,0,0,None,,None,None,None,2,None,As new
+170,,House,Exceptional,2800000,No,14,1150,1,0,None,,None,None,None,,None,
+171,,House,Exceptional,439900,No,2,145,1,0,None,,None,None,None,2,None,Just renovated
+172,,House,Exceptional,349000,No,5,255,1,,None,1,None,None,None,,None,
+173,,House,Exceptional,386157,No,3,235,0,,None,1,None,None,None,,None,
+174,,House,Exceptional,599000,No,5,215,0,1,None,,None,None,None,2,None,Just renovated
+175,,House,Exceptional,695000,No,5,300,0,,None,1,None,None,None,4,None,As new
+176,,House,Exceptional,750000,No,5,442,0,0,None,1,None,None,None,3,None,As new
+177,,House,Exceptional,1150000,Yes,1,628,1,,None,,None,None,None,2,None,As new
+178,,House,Exceptional,1950000,No,5,675,0,0,None,,None,None,None,4,None,To renovate
+179,,House,Exceptional,4950000,No,7,1500,0,,None,1,None,None,None,,None,
+180,,House,Exceptional,475000,No,5,,1,0,None,,None,None,None,,None,As new
+181,,House,Exceptional,189000,No,1,64,0,,None,,None,None,None,2,None,
+182,Omg Waasmunster,House,Exceptional,595000,No,4,406,0,,None,1,None,None,None,2,None,Just renovated
+183,,House,Exceptional,2600000,No,6,900,0,0,None,1,None,None,None,4,None,As new
+184,,House,Exceptional,2950000,No,7,,0,,None,1,None,None,None,4,None,As new
+185,,House,Exceptional,4850000,,10,2000,0,,None,,None,None,None,4,None,As new
+186,,House,Exceptional,1980000,No,5,400,0,,None,1,None,None,None,4,None,To renovate
+187,,House,Exceptional,4950000,No,6,750,0,0,None,,None,None,None,4,None,Good
+188,,House,Exceptional,3850000,No,6,657,0,1,None,1,None,None,None,4,None,As new
+189,,House,Exceptional,1095343,No,4,342,0,0,None,1,None,None,None,4,None,As new
+190,,House,Exceptional,1140000,No,3,,0,,None,,None,None,None,,None,
+191,,House,Exceptional,662196,No,3,193,0,0,None,,None,None,None,3,None,As new
+192,,House,Exceptional,969992,No,4,261,0,0,None,,None,None,None,4,None,As new
+193,,House,Exceptional,2650000,No,4,440,0,,None,,None,None,None,4,None,As new
+194,,House,Exceptional,550000,No,4,282,0,,None,,None,None,None,4,None,As new
+195,,House,Exceptional,425000,No,4,256,0,0,None,,None,None,None,4,None,As new
+196,,House,Exceptional,983000,No,4,391,0,0,None,1,None,None,None,4,None,As new
+197,,House,Exceptional,983000,No,4,391,0,0,None,1,None,None,None,4,None,As new
+198,,House,Exceptional,1154873,No,4,268,0,0,None,1,None,None,None,4,None,As new
+199,,House,Exceptional,1058038,No,3,315,0,0,None,1,None,None,None,4,None,As new
+200,,House,Exceptional,1990000,,18,1500,1,1,None,,None,None,None,4,None,As new
+201,,House,Exceptional,2480000,No,10,880,0,,None,,None,None,None,,None,
+202,,House,Exceptional,3600000,No,3,430,0,0,None,1,None,None,None,4,None,Good
+203,,House,Exceptional,800000,No,8,460,1,0,None,1,None,None,None,2,None,
+204,,House,Exceptional,690000,,13,600,0,0,None,1,None,None,None,4,None,
+205,,House,Exceptional,960604,No,3,258,0,0,None,1,None,None,None,4,None,As new
+206,,House,Exceptional,1017887,No,3,205,0,0,None,1,None,None,None,4,None,As new
+207,,House,Exceptional,1250000,No,3,320,0,0,None,,None,None,None,4,None,Good
+208,,House,Exceptional,2995000,No,4,564,0,0,None,1,None,None,None,4,None,
+209,,House,Exceptional,1500000,No,14,,0,,None,,None,None,None,4,None,As new
+210,,House,Exceptional,349000,No,4,,0,,None,,None,None,None,3,None,As new
+211,,House,Exceptional,800000,No,4,,0,,None,,None,None,None,4,None,As new
+212,,House,Exceptional,5900000,No,12,995,0,,None,,None,None,None,2,None,
+213,,House,Exceptional,1250000,No,3,320,0,0,None,,None,None,None,4,None,Good
+214,,House,Exceptional,750000,No,2,,0,1,None,1,None,None,None,2,None,Good
+215,,House,Exceptional,999000,No,4,,0,0,None,,None,None,None,4,None,
+216,Ancienne Filature de la Hantes,House,Exceptional,850000,,5,,0,,None,,None,None,None,4,None,To renovate
+217,,House,Exceptional,1225000,,6,,0,0,None,,None,None,None,4,None,
+218,,House,Exceptional,650000,Yes,,,0,,None,,None,None,None,3,None,To renovate
+219,,House,Exceptional,3250000,No,15,305,1,0,None,,None,None,None,2,None,As new
+220,,House,Exceptional,1250000,No,4,550,1,0,None,,None,None,None,4,None,As new
+221,,House,Exceptional,645000,No,3,338,1,0,None,,None,None,None,4,None,Good
+222,,House,Exceptional,1250000,No,4,391,0,0,None,,None,None,None,4,None,Good
+223,,House,Exceptional,475000,No,4,191,1,0,None,,None,None,None,4,None,Good
+224,,House,Exceptional,2495000,No,4,550,0,0,None,,None,None,None,2,None,As new
+225,,House,Exceptional,399900,No,3,175,0,0,None,,None,None,None,2,None,To be done up
+226,,House,Exceptional,505000,No,5,295,1,0,None,1,None,None,None,4,None,Good
+227,,House,Exceptional,1350000,No,6,660,0,0,None,1,None,None,None,4,None,Good
+228,,House,Exceptional,369000,No,3,287,0,0,None,,None,None,None,4,None,Good
+229,,House,Exceptional,395000,No,3,175,0,0,None,,None,None,None,2,None,Good
+230,,House,Exceptional,949000,No,4,225,1,0,None,,None,None,None,3,None,Good
+231,,,,None,,,,0,,None,,None,None,None,,None,
+232,,House,Exceptional,399000,No,3,170,1,0,None,,None,None,None,2,None,Good
+233,,House,Exceptional,775000,No,4,288,0,0,None,,None,None,None,3,None,Good
+234,,House,Exceptional,950000,No,3,275,0,0,None,,None,None,None,4,None,As new
+235,,House,Exceptional,435000,,4,230,0,0,None,,None,None,None,3,None,Good
+236,,,,None,,,,0,,None,,None,None,None,,None,
+237,,House,Exceptional,832000,No,4,276,0,0,None,1,None,None,None,2,None,Good
+238,,House,Exceptional,439000,No,6,320,0,0,None,,None,None,None,3,None,As new
+239,,House,Exceptional,749000,No,6,396,1,0,None,,None,None,None,3,None,Good
+240,,House,Exceptional,899000,No,6,509,1,0,None,,None,None,None,2,None,Good
+241,,House,Exceptional,524000,No,3,212,0,0,None,1,None,None,None,3,None,
+242,Waimes,House,Exceptional,745000,No,9,578,0,1,None,,None,None,None,4,None,Just renovated
+243,,House,Exceptional,1250000,No,4,306,1,0,None,,None,None,None,4,None,To be done up
+244,,House,Exceptional,395000,No,3,160,1,0,None,,None,None,None,2,None,Good
+245,,House,Exceptional,1195000,No,4,305,0,0,None,,None,None,None,4,None,As new
+246,,House,Exceptional,1700000,No,13,1020,1,0,None,,None,None,None,4,None,Just renovated
+247,,House,Exceptional,670000,No,2,147,0,0,None,,None,None,None,2,None,As new
+248,,House,Exceptional,995000,No,5,326,0,0,None,,None,None,None,2,None,As new
+249,,House,Exceptional,995000,No,5,326,0,0,None,,None,None,None,2,None,As new
+250,,House,Exceptional,219000,No,,meters,0,0,None,,None,None,None,3,None,To renovate
+251,,House,Exceptional,299000,No,2,156,1,,None,,None,None,None,4,None,Good
+252,,House,Exceptional,295000,No,3,110,0,0,None,,None,None,None,4,None,Good
+253,,House,Exceptional,395000,No,5,300,0,0,None,1,None,None,None,4,None,To be done up
+254,,House,Exceptional,520000,Yes,12,340,0,1,None,,None,None,None,2,None,Good
+255,GRAND VERVIERS,House,Exceptional,675000,No,10,778,0,0,None,,None,None,None,4,None,To renovate
+256,,House,Exceptional,1295000,No,5,366,0,0,None,,None,None,None,3,None,As new
+257,,House,Exceptional,1500000,,7,520,0,0,None,,None,None,None,4,None,Good
+258,,House,Exceptional,2700000,No,16,975,0,0,None,,None,None,None,4,None,Good
+259,,House,Exceptional,5363000,No,4,490,1,0,None,,None,None,None,4,None,To renovate
+260,,House,Exceptional,539000,No,4,330,0,,None,1,None,None,None,4,None,As new
+261,,House,Exceptional,845000,No,6,300,1,0,None,,None,None,None,1,None,Good
+262,,House,Exceptional,885000,Yes,8,,1,0,None,,None,None,None,4,None,As new
+263,,House,Exceptional,430000,No,4,166,1,0,None,,None,None,None,4,None,As new
+264,,House,Exceptional,875000,No,4,345,0,0,None,,None,None,None,4,None,Good
+265,,House,Exceptional,575000,No,7,250,1,0,None,1,None,None,None,4,None,As new
+266,,House,Exceptional,495000,No,3,176,1,0,None,1,None,None,None,4,None,As new
+267,,House,Exceptional,495000,No,4,275,0,0,None,,None,None,None,4,None,As new
+268,,House,Exceptional,750000,No,5,615,0,,None,,None,None,None,4,None,Just renovated
+269,,House,Exceptional,815000,No,3,260,1,1,None,,None,None,None,4,None,As new
+270,,House,Exceptional,420000,No,3,145,0,,None,1,None,None,None,4,None,To renovate
+271,,House,Exceptional,635000,No,4,180,0,0,None,1,None,None,None,4,None,Good
+272,,House,Exceptional,795000,No,16,1284,0,0,None,,None,None,None,4,None,To renovate
+273,Mons,House,Exceptional,1350000,No,5,374,0,0,None,,None,None,None,4,None,Good
+274,,House,Exceptional,1475000,No,3,474,0,0,None,,None,None,None,4,None,Just renovated
+275,,House,Exceptional,420000,No,4,400,0,0,None,1,None,None,None,4,None,Good
+276,Vilvoorde,House,Exceptional,499500,Yes,4,394,0,,None,1,None,None,None,2,None,Good
+277,,House,Exceptional,545000,No,4,220,0,0,None,,None,None,None,4,None,Just renovated
+278,,House,Exceptional,560000,No,3,245,1,0,None,,None,None,None,3,None,
+279,,House,Exceptional,575000,No,3,224,0,0,None,,None,None,None,4,None,As new
+280,,House,Exceptional,575000,No,9,,0,0,None,,None,None,None,4,None,To renovate
+281,,House,Exceptional,599000,No,5,240,0,,None,,None,None,None,4,None,
+282,,House,Exceptional,2249000,No,4,432,0,0,None,1,None,None,None,4,None,As new
+283,,House,Exceptional,695000,No,3,390,0,0,None,1,None,None,None,3,None,To renovate
+284,,House,Exceptional,699000,No,4,180,0,0,None,,None,None,None,3,None,Good
+285,,House,Exceptional,610000,No,4,172,0,0,None,,None,None,None,,None,Good
+286,,House,Exceptional,798000,No,6,570,0,,None,,None,None,None,4,None,As new
+287,Charleroi et environs,House,Exceptional,190000,Yes,5,220,0,0,None,1,None,None,None,3,None,To renovate
+288,,,,None,,,,0,,None,,None,None,None,,None,
+289,,House,Exceptional,495000,No,3,186,0,0,None,1,None,None,None,2,None,As new
+290,,House,Exceptional,755000,No,10,594,1,,None,1,None,None,None,4,None,Good
+291,,House,Exceptional,2100000,No,4,450,0,,None,1,None,None,None,4,None,Just renovated
+292,,House,Exceptional,2250000,No,4,535,0,0,None,1,None,None,None,4,None,As new
+293,,House,Exceptional,670000,No,2,147,0,0,None,,None,None,None,2,None,As new
+294,,House,Exceptional,695000,No,4,340,1,0,None,1,None,None,None,4,None,Good
+295,,House,Exceptional,1440000,,7,,1,0,None,1,None,None,None,4,None,As new
+296,,House,Exceptional,1760000,No,18,600,0,0,None,,None,None,None,4,None,
+297,,House,Exceptional,497000,No,4,260,0,0,None,,None,None,None,4,None,To be done up
+298,,House,Exceptional,1700000,No,4,,0,0,None,,None,None,None,2,None,Good
+299,,House,Exceptional,425000,No,3,190,1,0,None,,None,None,None,4,None,Good
+300,,House,Exceptional,450000,No,4,,0,0,None,,None,None,None,2,None,As new
+301,,House,Exceptional,469000,No,4,250,0,,None,1,None,None,None,4,None,Good
+302,,House,Exceptional,485000,No,3,205,0,0,None,1,None,None,None,4,None,As new
+303,,House,Exceptional,585000,No,3,,0,0,None,,None,None,None,4,None,Just renovated
+304,,House,Exceptional,725000,,6,,1,,None,1,None,None,None,3,None,Good
+305,,House,Exceptional,695000,No,4,220,0,0,None,,None,None,None,4,None,As new
+306,,House,Exceptional,495000,No,3,172,1,0,None,,None,None,None,2,None,As new
+307,,House,Exceptional,849000,No,10,559,0,0,None,,None,None,None,4,None,
+308,,House,Exceptional,1375000,No,6,680,0,,None,1,None,None,None,2,None,As new
+309,,House,Exceptional,450000,No,5,325,1,0,None,,None,None,None,4,None,As new
+310,,House,Exceptional,450000,No,3,255,0,1,None,,None,None,None,3,None,As new
+311,,House,Exceptional,595000,No,5,,1,0,None,,None,None,None,4,None,Good
+312,Charleroi et environs,House,Exceptional,429000,No,3,215,1,,None,1,None,None,None,4,None,Good
+313,,House,Exceptional,650000,No,3,320,1,,None,,None,None,None,4,None,As new
+314,Olne,House,Exceptional,895000,No,6,470,0,,None,1,None,None,None,4,None,Good
+315,,House,Exceptional,1290000,No,7,527,1,0,None,1,None,None,None,4,None,As new
+316,,House,Exceptional,527000,No,4,276,0,,None,,None,None,None,4,None,As new
+317,,House,Exceptional,527000,No,4,276,0,,None,,None,None,None,4,None,As new
+318,,House,Exceptional,685000,No,6,390,1,,None,1,None,None,None,4,None,Good
+319,Rijkevorsel,House,Exceptional,239000,Yes,1,95,0,0,None,1,None,None,None,3,None,To renovate
+320,,House,Exceptional,435000,No,5,,0,0,None,,None,None,None,4,None,As new
+321,,House,Exceptional,2300000,No,5,482,0,0,None,,None,None,None,4,None,Good
+322,,House,Exceptional,590000,No,3,140,0,0,None,,None,None,None,3,None,As new
+323,,House,Exceptional,495000,No,5,320,0,,None,1,None,None,None,4,None,To renovate
+324,,House,Exceptional,770000,No,7,420,1,,None,1,None,None,None,4,None,Good
+325,,House,Exceptional,795000,No,7,650,0,,None,1,None,None,None,4,None,As new
+326,,House,Exceptional,1750000,No,14,990,0,,None,1,None,None,None,,None,
+327,,House,Exceptional,350000,No,4,181,1,0,None,,None,None,None,,None,
+328,,House,Exceptional,319000,No,4,350,0,,None,1,None,None,None,3,None,Good
+329,,House,Exceptional,319000,No,4,350,0,,None,1,None,None,None,3,None,Good
+330,,House,Exceptional,949000,No,4,285,0,0,None,1,None,None,None,4,None,Good
+331,,House,Exceptional,425000,,22,1419,0,,None,,None,None,None,4,None,To renovate
+332,,House,Exceptional,599000,No,4,280,0,0,None,1,None,None,None,2,None,As new
+333,,House,Exceptional,430000,No,5,,0,0,None,,None,None,None,4,None,To renovate
+334,,House,Exceptional,845000,No,3,,0,1,None,,None,None,None,2,None,As new
+335,,House,Exceptional,3900000,No,7,600,0,0,None,,None,None,None,4,None,Good
+336,,House,Exceptional,235000,No,3,160,1,0,None,,None,None,None,,None,
+337,,House,Exceptional,390000,No,1,778,0,,None,,None,None,None,3,None,To renovate
+338,,House,Exceptional,195000,No,4,236,0,0,None,,None,None,None,,None,
+339,,House,Exceptional,590000,No,3,140,0,0,None,,None,None,None,3,None,As new
+340,,House,Exceptional,253700,No,3,124,1,0,None,,None,None,None,,None,
+341,,House,Exceptional,263100,No,3,124,1,0,None,,None,None,None,,None,
+342,,House,Exceptional,630000,No,7,390,1,0,None,1,None,None,None,4,None,As new
+343,,House,Exceptional,875000,No,6,360,1,,None,1,None,None,None,4,None,
+344,,House,Exceptional,214800,No,3,122,0,0,None,,None,None,None,,None,
+345,,House,Exceptional,215500,No,3,122,0,0,None,,None,None,None,,None,
+346,,House,Exceptional,2450000,No,5,962,1,0,None,,None,None,None,4,None,Just renovated
+347,,House,Exceptional,214200,No,3,124,1,0,None,,None,None,None,,None,
+348,,House,Exceptional,275200,No,3,124,1,0,None,,None,None,None,,None,
+349,,House,Exceptional,795000,No,5,326,0,,None,1,None,None,None,4,None,As new
+350,,House,Exceptional,259600,No,3,124,0,0,None,,None,None,None,,None,
+351,,House,Exceptional,810000,No,5,285,0,1,None,1,None,None,None,3,None,To be done up
+352,,House,Exceptional,419000,No,3,146,0,0,None,1,None,None,None,3,None,
+353,,House,Exceptional,444000,No,3,162,0,0,None,1,None,None,None,3,None,
+354,,House,Exceptional,252800,No,3,124,1,0,None,,None,None,None,,None,
+355,,House,Exceptional,253000,No,3,124,1,0,None,,None,None,None,,None,
+356,,House,Exceptional,257000,No,3,124,1,0,None,,None,None,None,,None,
+357,,House,Exceptional,257000,No,3,124,1,0,None,,None,None,None,,None,
+358,,House,Exceptional,260300,No,3,124,1,0,None,,None,None,None,,None,
+359,,House,Exceptional,261300,No,3,124,1,0,None,,None,None,None,,None,
+360,,House,Exceptional,262800,No,3,124,1,0,None,,None,None,None,,None,
+361,,House,Exceptional,263600,No,3,124,1,0,None,,None,None,None,,None,
+362,,House,Exceptional,264300,No,3,124,1,0,None,,None,None,None,,None,
+363,,House,Exceptional,135000,No,3,,0,0,None,1,None,None,None,2,None,To renovate
+364,,House,Exceptional,145000,No,2,111,0,0,None,,None,None,None,4,None,As new
+365,,House,Exceptional,675000,No,6,570,0,,None,1,None,None,None,4,None,
+366,,House,Exceptional,264800,No,3,124,1,0,None,,None,None,None,,None,
+367,,House,Exceptional,274400,No,3,132,1,0,None,,None,None,None,,None,
+368,,House,Exceptional,277300,No,3,141,0,0,None,,None,None,None,,None,
+369,,House,Exceptional,282600,No,3,141,0,0,None,,None,None,None,,None,
+370,,House,Exceptional,254700,No,3,114,1,0,None,,None,None,None,,None,
+371,,House,Exceptional,259100,No,3,114,1,0,None,,None,None,None,,None,
+372,,House,Exceptional,280700,No,3,141,1,0,None,,None,None,None,,None,
+373,,House,Exceptional,298600,No,3,141,1,0,None,,None,None,None,,None,
+374,Eilandje,House,Exceptional,319900,Yes,2,,0,,None,,None,None,None,1,None,
+375,,House,Exceptional,282500,No,3,141,1,0,None,,None,None,None,,None,
+376,,House,Exceptional,374500,No,4,,0,,None,,None,None,None,2,None,
+377,,House,Exceptional,379000,No,3,155,1,0,None,,None,None,None,3,None,Good
+378,,House,Exceptional,428900,No,4,307,1,,None,,None,None,None,4,None,To be done up
+379,,House,Exceptional,1599000,Yes,7,580,0,,None,,None,None,None,2,None,Good
+380,,House,Exceptional,445000,No,6,300,0,0,None,,None,None,None,2,None,Good
+381,,House,Exceptional,1195000,No,5,366,0,,None,,None,None,None,4,None,As new
+382,,House,Exceptional,594750,No,4,301,1,0,None,,None,None,None,4,None,To be done up
+383,,House,Exceptional,950000,No,6,315,0,0,None,,None,None,None,2,None,To renovate
+384,,House,Exceptional,300000,No,3,190,0,0,None,,None,None,None,3,None,To renovate
+385,,House,Exceptional,349000,No,4,145,0,0,None,,None,None,None,2,None,As new
+386,,House,Exceptional,480000,No,2,183,0,0,None,,None,None,None,2,None,As new
+387,,House,Exceptional,1800000,No,4,657,1,0,None,1,None,None,None,4,None,To be done up
+388,,House,Exceptional,350000,No,2,120,1,0,None,,None,None,None,2,None,Just renovated
+389,,House,Exceptional,319000,No,2,136,1,0,None,,None,None,None,3,None,Good
+390,,House,Exceptional,619000,No,5,318,1,0,None,1,None,None,None,4,None,Good
+391,,House,Exceptional,715000,No,4,450,0,0,None,1,None,None,None,3,None,Good
+392,,House,Exceptional,285000,No,5,121,0,0,None,,None,None,None,2,None,To be done up
+393,,House,Exceptional,795000,No,6,490,0,1,None,1,None,None,None,3,None,As new
+394,,House,Exceptional,795000,No,6,490,0,1,None,1,None,None,None,3,None,As new
+395,,House,Exceptional,799000,No,5,307,0,0,None,1,None,None,None,4,None,As new
+396,,House,Exceptional,375000,No,4,175,1,0,None,,None,None,None,2,None,Good
+397,,House,Exceptional,780000,No,2,339,0,0,None,1,None,None,None,4,None,As new
+398,Kluisbergen,House,Exceptional,595000,No,3,430,0,,None,1,None,None,None,4,None,As new
+399,,House,Exceptional,970000,No,7,402,0,0,None,1,None,None,None,4,None,Good
+400,,House,Exceptional,590000,No,7,458,0,0,None,,None,None,None,4,None,Good
+401,Bruxelles (19 communes),House,Exceptional,1950000,No,5,440,0,0,None,,None,None,None,2,None,As new
+402,,House,Exceptional,495000,No,3,172,1,0,None,,None,None,None,,None,To be done up
+403,Antwerpen-Centrum,House,Exceptional,890000,No,4,208,0,0,None,,None,None,None,2,None,As new
+404,Résidentiel,House,Exceptional,350000,No,4,180,0,0,None,,None,None,None,,None,Good
+405,,House,Exceptional,795000,No,6,490,0,1,None,1,None,None,None,3,None,As new
+406,,House,Exceptional,520000,No,4,327,1,,None,1,None,None,None,4,None,As new
+407,Park Mariadal,House,Exceptional,599000,No,4,220,0,1,None,,None,None,None,3,None,Just renovated
+408,,House,Exceptional,1225000,,3,700,0,,None,1,None,None,None,4,None,As new
+409,,House,Exceptional,745000,No,6,291,0,0,None,,None,None,None,,None,As new
+410,,House,Exceptional,1100000,No,4,456,1,1,None,,None,None,None,4,None,Good
+411,,House,Exceptional,1475000,No,2,340,1,0,None,,None,None,None,4,None,Good
+412,Prinsenhof,House,Exceptional,1100000,,7,330,0,,None,1,None,None,None,2,None,To renovate
+413,,House,Exceptional,485000,No,4,314,1,1,None,,None,None,None,4,None,As new
+414,,House,Exceptional,820000,No,3,261,0,0,None,1,None,None,None,4,None,As new
+415,,House,Exceptional,425000,No,3,131,1,0,None,,None,None,None,3,None,To renovate
+416,,House,Exceptional,260000,No,3,,0,0,None,,None,None,None,4,None,To be done up
+417,,House,Exceptional,295000,No,2,,1,0,None,,None,None,None,,None,Good
+418,,House,Exceptional,315000,No,4,217,0,0,None,,None,None,None,4,None,Just renovated
+419,,House,Exceptional,339000,No,3,210,1,0,None,,None,None,None,2,None,As new
+420,,House,Exceptional,550000,No,5,396,0,0,None,,None,None,None,4,None,As new
+421,,House,Exceptional,1650000,No,7,587,0,,None,1,None,None,None,4,None,As new
+422,,House,Exceptional,329000,No,3,140,0,0,None,,None,None,None,2,None,As new
+423,,House,Exceptional,224500,No,2,,0,0,None,,None,None,None,,None,Good
+424,,,,None,,,,0,,None,,None,None,None,,None,
+425,,House,Exceptional,325000,No,3,,1,0,None,,None,None,None,3,None,Good
+426,,House,Exceptional,749999,No,4,270,0,0,None,1,None,None,None,4,None,As new
+427,,House,Exceptional,750000,Yes,6,,1,0,None,,None,None,None,4,None,As new
+428,,House,Exceptional,975000,No,8,625,0,0,None,,None,None,None,4,None,To be done up
+429,,House,Exceptional,1150000,,8,680,1,,None,1,None,None,None,4,None,As new
+430,Zaventem - Sint-Stevens Woluwe - Nossegem,House,Exceptional,1198000,No,7,525,0,0,None,1,None,None,None,4,None,
+431,,House,Exceptional,1200000,No,6,700,0,0,None,1,None,None,None,2,None,To renovate
+432,,House,Exceptional,1350000,No,3,450,0,0,None,,None,None,None,4,None,As new
+433,,House,Exceptional,875000,No,4,474,1,0,None,,None,None,None,,None,Just renovated
+434,,House,Exceptional,389000,No,3,390,1,0,None,,None,None,None,4,None,Just renovated
+435,,House,Exceptional,475000,No,4,165,1,0,None,,None,None,None,4,None,Good
+436,Bois du Fiérain,House,Exceptional,485000,,3,243,1,0,None,,None,None,None,4,None,To be done up
+437,,House,Exceptional,585000,No,3,240,0,,None,,None,None,None,4,None,As new
+438,,House,Exceptional,648000,No,5,509,1,,None,1,None,None,None,2,None,As new
+439,,House,Exceptional,375000,No,2,193,0,0,None,,None,None,None,3,None,Good
+440,,House,Exceptional,185000,No,1,320,0,0,None,,None,None,None,4,None,To restore
+441,,House,Exceptional,449000,No,5,,0,0,None,,None,None,None,4,None,As new
+442,,House,Exceptional,499000,No,4,277,0,,None,1,None,None,None,4,None,As new
+443,,House,Exceptional,520000,No,5,330,1,0,None,,None,None,None,4,None,Good
+444,,House,Exceptional,890000,No,3,960,0,0,None,1,None,None,None,4,None,Good
+445,,House,Exceptional,990000,No,3,,1,0,None,1,None,None,None,4,None,Good
+446,Waregem,House,Exceptional,1295000,No,4,720,0,0,None,1,None,None,None,4,None,To renovate
+447,,House,Exceptional,2950000,No,6,550,0,,None,,None,None,None,4,None,As new
+448,,House,Exceptional,485000,No,3,238,0,0,None,1,None,None,None,4,None,As new
+449,,House,Exceptional,649000,No,4,310,0,,None,1,None,None,None,3,None,As new
+450,Waimes,House,Exceptional,650000,No,2,195,0,0,None,,None,None,None,4,None,Good
+451,,House,Exceptional,425000,No,3,131,1,0,None,,None,None,None,3,None,To renovate
+452,,House,Exceptional,635000,No,6,425,1,0,None,,None,None,None,4,None,As new
+453,,House,Exceptional,1100000,No,6,360,1,,None,,None,None,None,4,None,As new
+454,,House,Exceptional,2500000,No,5,465,0,0,None,1,None,None,None,4,None,As new
+455,Boechout,House,Exceptional,985000,No,5,283,0,,None,,None,None,None,4,None,
+456,,House,Exceptional,369000,No,3,142,1,0,None,,None,None,None,,None,As new
+457,,House,Exceptional,155000,No,4,300,0,0,None,1,None,None,None,3,None,To renovate
+458,,House,Exceptional,559000,No,7,730,0,0,None,,None,None,None,3,None,To renovate
+459,,House,Exceptional,595000,Yes,11,430,0,,None,,None,None,None,4,None,Good
+460,Militaire Kazerne,House,Exceptional,720000,,23,1380,0,,None,1,None,None,None,4,None,To renovate
+461,,House,Exceptional,1850000,No,7,600,0,,None,1,None,None,None,4,None,As new
+462,"29, d'hersigny",House,Exceptional,525000,Yes,9,500,0,,None,,None,None,None,4,None,Just renovated
+463,,House,Exceptional,799000,No,4,360,0,0,None,,None,None,None,2,None,
+464,,House,Exceptional,439000,No,4,184,1,,None,1,None,None,None,3,None,Good
+465,Rupelstreek,House,Exceptional,269000,Yes,2,,1,0,None,,None,None,None,2,None,As new
+466,,House,Exceptional,485000,No,3,235,0,0,None,,None,None,None,4,None,To renovate
+467,,House,Exceptional,750000,Yes,8,185,0,1,None,,None,None,None,2,None,Just renovated
+468,,House,Exceptional,799000,No,4,,1,0,None,,None,None,None,4,None,As new
+469,,House,Exceptional,1950000,,6,927,0,,None,1,None,None,None,4,None,Just renovated
+470,,House,Exceptional,1950000,,6,927,0,,None,1,None,None,None,4,None,Just renovated
+471,,House,Exceptional,1950000,,6,927,0,,None,1,None,None,None,4,None,Just renovated
+472,Oud-Turnhout,House,Exceptional,1975000,No,3,510,0,0,None,1,None,None,None,4,None,
+473,,House,Exceptional,995000,,3,225,0,,None,,None,None,None,4,None,As new
+474,,House,Exceptional,399000,,7,400,1,,None,,None,None,None,4,None,
+475,,House,Exceptional,495000,Yes,5,190,1,,None,,None,None,None,,None,To be done up
+476,,House,Exceptional,657200,,3,180,0,,None,,None,None,None,4,None,Just renovated
+477,,House,Exceptional,799000,No,2,407,1,,None,1,None,None,None,,None,
+478,,House,Exceptional,1050000,No,5,564,0,,None,1,None,None,None,2,None,As new
+479,"Centrum Dilbeek, Neerhof",House,Exceptional,1200000,No,3,,0,,None,1,None,None,None,4,None,Good
+480,Mechelen Centrum,House,Exceptional,319500,No,3,116,1,,None,,None,None,None,3,None,To be done up
+481,,House,Exceptional,1350000,Yes,3,522,0,0,None,,None,None,None,2,None,Good
+482,,House,Exceptional,1200000,No,5,,0,0,None,1,None,None,None,4,None,As new
+483,,House,Exceptional,699000,Yes,8,800,1,1,None,,None,None,None,,None,
+484,,House,Exceptional,1800000,Yes,,meters,0,0,None,,None,None,None,4,None,As new
+485,,House,Exceptional,777225,,9,514,0,0,None,1,None,None,None,4,None,Good
+486,,House,Exceptional,235000,No,3,123,0,0,None,,None,None,None,4,None,To renovate
+487,,House,Exceptional,430000,Yes,5,158,0,0,None,,None,None,None,2,None,As new
+488,BXL Region,House,Exceptional,500000,No,9,285,0,,None,,None,None,None,2,None,To be done up
+489,,House,Exceptional,515000,,6,,0,,None,,None,None,None,4,None,As new
+490,,House,Exceptional,539000,No,3,270,0,,None,1,None,None,None,2,None,Good
+491,,House,Exceptional,875000,Yes,9,,0,,None,,None,None,None,4,None,As new
+492,Seneffe,House,Exceptional,1250000,No,5,761,0,0,None,,None,None,None,4,None,As new
+493,Seneffe,House,Exceptional,1250000,No,5,761,0,0,None,,None,None,None,4,None,As new
+494,Seneffe,House,Exceptional,1250000,No,5,761,0,0,None,,None,None,None,4,None,As new
+495,,House,Exceptional,1900000,No,4,400,0,,None,1,None,None,None,4,None,As new
+496,Ardenne,House,Exceptional,720000,No,4,338,0,0,None,,None,None,None,4,None,
+497,Verviers,House,Exceptional,599000,No,3,400,0,0,None,,None,None,None,3,None,As new
+498,pays de Herve,House,Exceptional,895000,No,6,510,1,0,None,1,None,None,None,4,None,As new
+499,,House,Exceptional,220000,,12,,0,,None,,None,None,None,2,None,Good
+500,,House,Exceptional,599000,No,7,482,0,0,None,1,None,None,None,2,None,Good
+501,,House,Exceptional,485000,,10,,0,0,None,,None,None,None,3,None,To renovate
+502,,House,Exceptional,595000,No,,meters,0,0,None,,None,None,None,4,None,To restore
+503,,House,Exceptional,725000,No,4,210,0,,None,1,None,None,None,4,None,As new
+504,,House,Exceptional,890000,,5,410,0,,None,,None,None,None,4,None,As new
+505,,House,Exceptional,430000,No,2,120,1,0,None,,None,None,None,4,None,To renovate
+506,BXL Region,House,Exceptional,500000,No,9,285,0,,None,,None,None,None,2,None,To be done up
+507,,House,Exceptional,720000,,1,,0,,None,1,None,None,None,2,None,To renovate
+508,,House,Exceptional,990000,,7,438,1,0,None,1,None,None,None,4,None,To be done up
+509,,House,Exceptional,595000,No,4,655,1,0,None,1,None,None,None,4,None,Good
+510,,House,Exceptional,300000,No,4,,0,0,None,1,None,None,None,4,None,Good
+511,Oud-Turnhout,House,Exceptional,2200000,No,4,680,0,0,None,1,None,None,None,4,None,As new
+512,,House,Exceptional,450000,No,4,300,1,,None,1,None,None,None,4,None,As new
+513,,House,Exceptional,875000,No,5,205,1,0,None,,None,None,None,2,None,As new
+514,,House,Exceptional,155000,No,7,,1,1,None,,None,None,None,4,None,Good
+515,,House,Exceptional,1195000,,5,342,0,0,None,1,None,None,None,4,None,Just renovated
+516,,House,Exceptional,1235000,No,4,,1,0,None,,None,None,None,4,None,
+517,,House,Exceptional,378900,No,3,200,0,0,None,,None,None,None,2,None,
+518,,House,Exceptional,574900,No,3,244,1,0,None,,None,None,None,,None,To be done up
+519,,House,Exceptional,850000,No,10,450,0,,None,1,None,None,None,4,None,
+520,,House,Exceptional,320000,No,4,,1,0,None,,None,None,None,2,None,To be done up
+521,,House,Exceptional,1368741,No,4,294,0,,None,,None,None,None,,None,
+522,,House,Exceptional,1395000,No,5,424,1,,None,1,None,None,None,4,None,Good
+523,,House,Exceptional,1775000,No,5,512,0,0,None,1,None,None,None,4,None,Just renovated
+524,,House,Exceptional,899000,Yes,10,,0,,None,,None,None,None,3,None,
+525,,House,Exceptional,899000,Yes,10,,0,,None,,None,None,None,3,None,
+526,,House,Exceptional,1100000,Yes,8,1313,0,,None,,None,None,None,4,None,
+527,,House,Exceptional,280000,No,5,633,0,0,None,,None,None,None,,None,
+528,,House,Exceptional,780000,,1,244,1,,None,1,None,None,None,4,None,
+529,,House,Exceptional,975000,,5,600,1,0,None,,None,None,None,4,None,As new
+530,,House,Exceptional,1180000,,7,,0,,None,1,None,None,None,3,None,As new
+531,,House,Exceptional,2675000,No,8,800,0,,None,1,None,None,None,4,None,As new
+532,,House,Exceptional,750000,No,6,840,0,,None,,None,None,None,,None,
+533,Grand'Place,House,Exceptional,480000,,10,,0,,None,1,None,None,None,3,None,Good
+534,,House,Exceptional,995000,No,6,400,0,0,None,,None,None,None,4,None,Good
+535,,House,Exceptional,690000,No,5,,1,,None,,None,None,None,4,None,As new
+536,,House,Exceptional,695000,No,22,595,1,0,None,,None,None,None,4,None,
+537,,House,Exceptional,590000,No,4,,1,0,None,,None,None,None,,None,
+538,,House,Exceptional,675000,,13,601,0,1,None,,None,None,None,4,None,Good
+539,,House,Exceptional,849000,Yes,6,300,0,,None,1,None,None,None,2,None,As new
+540,,House,Exceptional,268000,No,3,266,0,0,None,1,None,None,None,3,None,As new
+541,,House,Exceptional,695000,No,4,,1,0,None,,None,None,None,,None,
+542,,House,Exceptional,1950000,No,4,,1,0,None,1,None,None,None,4,None,
+543,,House,Exceptional,1499000,No,8,,0,0,None,,None,None,None,,None,
+544,,House,Exceptional,3900000,No,5,650,0,,None,,None,None,None,4,None,To be done up
+545,,House,Exceptional,220000,No,3,333,0,,None,,None,None,None,2,None,As new
+546,,House,Exceptional,350000,Yes,18,,0,,None,1,None,None,None,3,None,To renovate
+547,,House,Exceptional,1095000,No,6,,0,0,None,1,None,None,None,4,None,As new
+548,BXL Region,House,Exceptional,490000,No,4,166,0,,None,,None,None,None,2,None,To be done up
+549,Leuven - Herent,House,Exceptional,735000,No,4,260,0,,None,,None,None,None,4,None,
+550,,House,Exceptional,999000,,3,222,0,,None,,None,None,None,4,None,Good
+551,,House,Exceptional,1950000,No,6,658,1,0,None,,None,None,None,4,None,
+552,Leuven - Herent,House,Exceptional,690000,No,4,264,0,,None,,None,None,None,4,None,
+553,,House,Exceptional,1500000,No,12,,0,0,None,1,None,None,None,4,None,
+554,,House,Exceptional,590000,No,4,,1,0,None,,None,None,None,,None,
+555,,House,Exceptional,1950000,No,8,,1,0,None,,None,None,None,,None,
+556,,House,Exceptional,1065000,,1,,0,,None,,None,None,None,4,None,
+557,,House,Exceptional,550000,No,5,350,1,0,None,1,None,None,None,4,None,
